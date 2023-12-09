@@ -6,7 +6,7 @@ Description = Hilft, wilde Pokémon fernzuhalten.
 #-------------------------------
 [DRIZZLE]
 Name = Niesel
-Description = The Pokémon makes it rain if it appears in battle.
+Description = Ruft im Kampf Regen herbei.
 #-------------------------------
 [SPEEDBOOST]
 Name = Temposchub
