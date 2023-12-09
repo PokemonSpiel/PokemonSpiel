@@ -5,7 +5,7 @@ Name = Duftnote
 Description = Hilft, wilde Pokémon fernzuhalten.
 #-------------------------------
 [DRIZZLE]
-Name = Drizzle
+Name = Niesel
 Description = The Pokémon makes it rain if it appears in battle.
 #-------------------------------
 [SPEEDBOOST]
