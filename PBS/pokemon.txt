@@ -22,13 +22,13 @@ Weight = 6.9
 Color = Green
 Shape = Quadruped
 Habitat = Grassland
-Category = Seed
-Pokedex = Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.
+Category = Samen-Pokémon
+Pokedex =  Bisasam macht gern einmal ein Nickerchen im Sonnenschein. Auf seinem Rücken trägt es einen Samen. Indem es Sonnenstrahlen aufsaugt, wird der Samen zunehmend größer.
 Generation = 1
 Evolutions = IVYSAUR,Level,16
 #-------------------------------
 [IVYSAUR]
-Name = Ivysaur
+Name = Bisaknosp
 Types = GRASS,POISON
 BaseStats = 60,62,63,60,80,80
 GenderRatio = FemaleOneEighth
@@ -48,13 +48,13 @@ Weight = 13.0
 Color = Green
 Shape = Quadruped
 Habitat = Grassland
-Category = Seed
-Pokedex = To support its bulb, Ivysaur's legs grow sturdy. If it spends more time lying in the sunlight, the bud will soon bloom into a large flower.
+Category = Samen
+Pokedex = Bisaknosp hat eine Knospe auf seinem Rücken. Beine und Rumpf sind kräftig genug, um sein Gewicht zu tragen. Wenn es lange in der Sonne liegt, ist das ein Anzeichen dafür, dass die Knospe bald blüht.
 Generation = 1
 Evolutions = VENUSAUR,Level,32
 #-------------------------------
 [VENUSAUR]
-Name = Venusaur
+Name = Bisaflor
 Types = GRASS,POISON
 BaseStats = 80,82,83,80,100,100
 GenderRatio = FemaleOneEighth
@@ -74,12 +74,12 @@ Weight = 100.0
 Color = Green
 Shape = Quadruped
 Habitat = Grassland
-Category = Seed
-Pokedex = Venusaur's flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.
+Category = Samen
+Pokedex = Bisaflor hat eine Blume auf seinem Rücken. Wenn sie viel Nahrung und Sonne aufnimmt, verfärbt sie sich bunt. Der Duft der Blume mildert die Emotionen der Menschen.
 Generation = 1
 #-------------------------------
 [CHARMANDER]
-Name = Charmander
+Name = Glumanda
 Types = FIRE
 BaseStats = 39,52,43,65,60,50
 GenderRatio = FemaleOneEighth
@@ -100,13 +100,13 @@ Weight = 8.5
 Color = Red
 Shape = BipedalTail
 Habitat = Mountain
-Category = Lizard
-Pokedex = The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is happy, and blazes when it is enraged.
+Category = Echsen
+Pokedex = Die Flamme auf seiner Schweifspitze zeigt seine Gefühlslage an. Sie flackert, wenn Glumanda zufrieden ist. Wenn dieses Pokémon wütend wird, lodert die Flamme gewaltig.
 Generation = 1
 Evolutions = CHARMELEON,Level,16
 #-------------------------------
 [CHARMELEON]
-Name = Charmeleon
+Name = Glutexo
 Types = FIRE
 BaseStats = 58,64,58,80,80,65
 GenderRatio = FemaleOneEighth
@@ -126,13 +126,13 @@ Weight = 19.0
 Color = Red
 Shape = BipedalTail
 Habitat = Mountain
-Category = Flame
-Pokedex = Without pity, its sharp claws destroy foes. If it encounters a strong enemy, it becomes agitated, and the flame on its tail flares with a bluish white color.
+Category = Flammen
+Pokedex = Gnadenlos besiegt Glutexo seine Gegner mit seinen scharfen Klauen. Wenn es auf starke Gegner trifft, wird es wütend und die Flamme auf seiner Schweifspitze flackert in einem bläulichen Ton.
 Generation = 1
 Evolutions = CHARIZARD,Level,36
 #-------------------------------
 [CHARIZARD]
-Name = Charizard
+Name = Glurak
 Types = FIRE,FLYING
 BaseStats = 78,84,78,100,109,85
 GenderRatio = FemaleOneEighth
@@ -152,12 +152,12 @@ Weight = 90.5
 Color = Red
 Shape = BipedalTail
 Habitat = Mountain
-Category = Flame
-Pokedex = A Charizard flies about in search of strong opponents. It breathes intense flames that can melt any material. However, it will never torch a weaker foe.
+Category = Flammen
+Pokedex = Glurak fliegt durch die Lüfte, um starke Gegner aufzuspüren. Sein heißer Feueratem bringt alles zum Schmelzen. Aber es richtet seinen Feueratem nie gegen schwächere Gegner.
 Generation = 1
 #-------------------------------
 [SQUIRTLE]
-Name = Squirtle
+Name = Schiggy
 Types = WATER
 BaseStats = 44,48,65,43,50,64
 GenderRatio = FemaleOneEighth
@@ -178,13 +178,13 @@ Weight = 9.0
 Color = Blue
 Shape = BipedalTail
 Habitat = WatersEdge
-Category = Tiny Turtle
-Pokedex = Its shell is not just for protection. Its rounded shape and the grooves on its surface minimize resistance in water, enabling Squirtle to swim at high speeds.
+Category = Minikröten
+Pokedex = Schiggys Panzer dient nicht nur zum Schutz. Die runde Form und die Furchen auf der Oberfläche verringern den Widerstand im Wasser, sodass dieses Pokémon sehr schnell schwimmen kann.
 Generation = 1
 Evolutions = WARTORTLE,Level,16
 #-------------------------------
 [WARTORTLE]
-Name = Wartortle
+Name = Schillok
 Types = WATER
 BaseStats = 59,63,80,58,65,80
 GenderRatio = FemaleOneEighth
@@ -204,13 +204,13 @@ Weight = 22.5
 Color = Blue
 Shape = BipedalTail
 Habitat = WatersEdge
-Category = Turtle
-Pokedex = Its large tail is covered with rich, thick fur that deepens in color with age. The scratches on its shell are evidence of this Pokémon's toughness in battle.
+Category = Kröten
+Pokedex = Schillok hat einen langen, buschigen Schweif, dessen Farbe intensiver wird, wenn es altert. Die Kratzer auf seinem Panzer zeugen von seiner Kampfkraft.
 Generation = 1
 Evolutions = BLASTOISE,Level,36
 #-------------------------------
 [BLASTOISE]
-Name = Blastoise
+Name = Turtok
 Types = WATER
 BaseStats = 79,83,100,78,85,105
 GenderRatio = FemaleOneEighth
@@ -230,12 +230,12 @@ Weight = 85.5
 Color = Blue
 Shape = BipedalTail
 Habitat = WatersEdge
-Category = Shellfish
-Pokedex = The waterspouts that protrude from its shell are highly accurate. Their bullets of water can precisely nail tin cans from a distance of over 160 feet.
+Category = Panzertier
+Pokedex = Turtok besitzt Wasserdüsen, die aus seinem Panzer herausragen. Diese sind sehr präzise. Es kann Wassergeschosse so genau verschießen, dass es damit aus fast 50 m leere Dosen trifft.
 Generation = 1
 #-------------------------------
 [CATERPIE]
-Name = Caterpie
+Name = Raupy
 Types = BUG
 BaseStats = 45,30,35,45,20,20
 GenderRatio = Female50Percent
@@ -255,8 +255,8 @@ Weight = 2.9
 Color = Green
 Shape = Insectoid
 Habitat = Forest
-Category = Worm
-Pokedex = Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.
+Category = Wurm
+Pokedex = Raupy ist sehr gefräßig, es kann Blätter verschlingen, die größer sind als es selbst. Seine Antennen sondern einen übel riechenden Gestank ab.
 Generation = 1
 Evolutions = METAPOD,Level,7
 #-------------------------------
