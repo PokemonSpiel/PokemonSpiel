@@ -1,185 +1,184 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [REPEL]
-Name = Repel
-NamePlural = Repels
+Name = Schutz
+NamePlural = Schutz
 Pocket = 1
 Price = 400
 FieldUse = Direct
 Flags = Repel,Fling_30
-Description = An item that prevents weak wild Pokémon from appearing for 100 steps after its use.
+Description = Hält 100 Schritte lang schwache, wilde Pokémon ab.
 #-------------------------------
 [SUPERREPEL]
-Name = Super Repel
-NamePlural = Super Repels
+Name = Superschutz
+NamePlural = Superschutz
 Pocket = 1
 Price = 700
 FieldUse = Direct
 Flags = Repel,Fling_30
-Description = An item that prevents weak wild Pokémon from appearing for 200 steps after its use.
+Description = Hält 200 Schritte lang schwache, wilde Pokémon ab.
 #-------------------------------
 [MAXREPEL]
-Name = Max Repel
-NamePlural = Max Repels
+Name = Top-Schutz
+NamePlural = Top-Schutz
 Pocket = 1
 Price = 900
 FieldUse = Direct
 Flags = Repel,Fling_30
-Description = An item that prevents weak wild Pokémon from appearing for 250 steps after its use.
+Description = Hält 250 Schritte lang schwache, wilde Pokémon ab.
 #-------------------------------
 [BLACKFLUTE]
-Name = Black Flute
-NamePlural = Black Flutes
+Name = Schwarze Flöte
+NamePlural = Schwarze Flöten
 Pocket = 1
 Price = 20
 FieldUse = Direct
 Consumable = false
 Flags = Fling_30,Flute
-Description = A black flute made from blown glass. Its melody makes wild Pokémon less likely to appear.
+Description = Eine schwarze, gläserne Flöte, die wilde Pokémon vom Angriff abhalten kann.
 #-------------------------------
 [WHITEFLUTE]
-Name = White Flute
-NamePlural = White Flutes
+Name = Weiße Flöte
+NamePlural = Weiße Flöten
 Pocket = 1
 Price = 20
 FieldUse = Direct
 Consumable = false
 Flags = Fling_30,Flute
-Description = A white flute made from blown glass. Its melody makes wild Pokémon more likely to appear.
+Description = Eine durchsichtige, gläserne Flöte, die wilde Pokémon anziehen kann.
 #-------------------------------
 [HONEY]
-Name = Honey
-NamePlural = Honey
+Name = Honig
+NamePlural = Honig
 Pocket = 1
 Price = 900
 FieldUse = Direct
 Flags = Fling_30
-Description = A sweet honey with a lush aroma that attracts wild Pokémon when used in tall grass, in caves, or elsewhere.
+Description = Der Duft dieses Honigs lockt wilde Pokémon an. Verwende ihn in hohem Gras, Höhlen oder an besonderen Bäumen
 #-------------------------------
 [REDSHARD]
-Name = Red Shard
-NamePlural = Red Shards
+Name = Purpurstück
+NamePlural = Purpurstücke
 Pocket = 1
 Price = 1000
 Flags = Fling_30,Shard
-Description = A small red shard. It appears to be from some sort of implement made long ago.
-#-------------------------------
+Description = Eine rote Scherbe eines antiken Werkzeugs, das vor langer Zeit angefertigt wurde.
 [YELLOWSHARD]
-Name = Yellow Shard
-NamePlural = Yellow Shards
+Name = Gelbstück	
+NamePlural = Gelbstücke
 Pocket = 1
 Price = 1000
 Flags = Fling_30,Shard
-Description = A small yellow shard. It appears to be from some sort of implement made long ago.
+Description = Eine gelbe Scherbe eines antiken Werkzeugs, das vor langer Zeit angefertigt wurde.
 #-------------------------------
 [BLUESHARD]
-Name = Blue Shard
-NamePlural = Blue Shards
+Name = Indigostück
+NamePlural = Indigostück
 Pocket = 1
 Price = 1000
 Flags = Fling_30,Shard
-Description = A small blue shard. It appears to be from some sort of implement made long ago.
+Description = Eine blaue Scherbe eines antiken Werkzeugs, das vor langer Zeit angefertigt wurde.
 #-------------------------------
 [GREENSHARD]
-Name = Green Shard
-NamePlural = Green Shards
+Name = Grünstück
+NamePlural = Grünstück
 Pocket = 1
 Price = 1000
 Flags = Fling_30,Shard
-Description = A small green shard. It appears to be from some sort of implement made long ago.
+Description = Eine grüne Scherbe eines antiken Werkzeugs, das vor langer Zeit angefertigt wurde.
 #-------------------------------
 [FIRESTONE]
-Name = Fire Stone
-NamePlural = Fire Stones
+Name = Feuerstein
+NamePlural = Feuersteine
 Pocket = 1
 Price = 3000
 FieldUse = OnPokemon
 Flags = EvolutionStone,Fling_30
-Description = A peculiar stone that makes certain species of Pokémon evolve. It is colored orange.
+Description = Dieser spezielle Stein löst bei bestimmten Pokémon die Entwicklung aus. Er schimmert in den Farben Orange und Gelb.
 #-------------------------------
 [THUNDERSTONE]
-Name = Thunder Stone
-NamePlural = Thunder Stones
+Name = Donnerstein
+NamePlural = Donnersteine
 Pocket = 1
 Price = 3000
 FieldUse = OnPokemon
 Flags = EvolutionStone,Fling_30
-Description = A peculiar stone that makes certain species of Pokémon evolve. It has a thunderbolt pattern.
+Description = Dieser spezielle Stein löst bei bestimmten Pokémon die Entwicklung aus. Er hat ein Blitzmuster.
 #-------------------------------
 [WATERSTONE]
-Name = Water Stone
-NamePlural = Water Stones
+Name = Wasserstein
+NamePlural = Wassersteine
 Pocket = 1
 Price = 3000
 FieldUse = OnPokemon
 Flags = EvolutionStone,Fling_30
-Description = A peculiar stone that makes certain species of Pokémon evolve. It is a clear, light blue.
+Description = Dieser spezielle Stein löst bei bestimmten Pokémon die Entwicklung aus. Er ist hellblau.
 #-------------------------------
 [LEAFSTONE]
-Name = Leaf Stone
-NamePlural = Leaf Stones
+Name = Blattstein
+NamePlural = Blattsteine
 Pocket = 1
 Price = 3000
 FieldUse = OnPokemon
 Flags = EvolutionStone,Fling_30
-Description = A peculiar stone that makes certain species of Pokémon evolve. It has a leaf pattern.
+Description = Dieser spezielle Stein löst bei bestimmten Pokémon die Entwicklung aus. Er hat ein Blattmuster.
 #-------------------------------
 [MOONSTONE]
-Name = Moon Stone
-NamePlural = Moon Stones
+Name = Mondstein
+NamePlural = Mondsteine
 Pocket = 1
 Price = 3000
 FieldUse = OnPokemon
 Flags = EvolutionStone,Fling_30
-Description = A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.
+Description = Dieser spezielle Stein löst bei bestimmten Pokémon die Entwicklung aus. Er ist schwarz wie die Nacht.
 #-------------------------------
 [SUNSTONE]
-Name = Sun Stone
-NamePlural = Sun Stones
+Name = Sonnenstein
+NamePlural = Sonnensteine
 Pocket = 1
 Price = 3000
 FieldUse = OnPokemon
 Flags = EvolutionStone,Fling_30
-Description = A peculiar stone that makes certain species of Pokémon evolve. It is as red as the sun.
+Description = Dieser spezielle Stein löst bei bestimmten Pokémon die Entwicklung aus. Er ist rot wie die Abendsonne.
 #-------------------------------
 [DUSKSTONE]
-Name = Dusk Stone
-NamePlural = Dusk Stones
+Name = Finsterstein
+NamePlural = Finstersteine
 Pocket = 1
 Price = 3000
 FieldUse = OnPokemon
 Flags = EvolutionStone,Fling_80
-Description = A peculiar stone that makes certain species of Pokémon evolve. It is as dark as dark can be.
+Description = Dieser besondere, düstere Stein hilft manchen Pokémon bei ihrer Entwicklung.
 #-------------------------------
 [DAWNSTONE]
-Name = Dawn Stone
-NamePlural = Dawn Stones
+Name = Funkelstein
+NamePlural = Funkelsteine
 Pocket = 1
 Price = 3000
 FieldUse = OnPokemon
 Flags = EvolutionStone,Fling_80
-Description = A peculiar stone that makes certain species of Pokémon evolve. It sparkles like eyes.
+Description = Dieser besondere, glitzernde Stein hilft manchen Pokémon bei ihrer Entwicklung.
 #-------------------------------
 [SHINYSTONE]
-Name = Shiny Stone
-NamePlural = Shiny Stones
+Name = Leuchtstein
+NamePlural = Leuchtsteine
 Pocket = 1
 Price = 3000
 FieldUse = OnPokemon
 Flags = EvolutionStone,Fling_80
-Description = A peculiar stone that makes certain species of Pokémon evolve. It shines with a dazzling light.
+Description = Dieser besondere, hell leuchtende Stein hilft manchen Pokémon bei ihrer Entwicklung.
 #-------------------------------
 [ICESTONE]
-Name = Ice Stone
-NamePlural = Ice Stones
+Name = Eisstein
+NamePlural = Eissteine
 Pocket = 1
 Price = 3000
 FieldUse = OnPokemon
 Flags = EvolutionStone,Fling_30
-Description = A peculiar stone that makes certain species of Pokémon evolve. It has a snowflake pattern.
+Description = Dieser spezielle Stein löst bei bestimmten Pokémon die Entwicklung aus. Er hat ein Schneeflockenmuster.
 #-------------------------------
 [SWEETAPPLE]
-Name = Sweet Apple
+Name = Sweet Apple (brauchen wir nicht)
 NamePlural = Sweet Apples
 Pocket = 1
 Price = 2200
@@ -188,7 +187,7 @@ Flags = EvolutionStone,Fling_30
 Description = A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally sweet.
 #-------------------------------
 [TARTAPPLE]
-Name = Tart Apple
+Name = Tart Apple (brauchen wir nicht)
 NamePlural = Tart Apples
 Pocket = 1
 Price = 2200
@@ -197,7 +196,7 @@ Flags = EvolutionStone,Fling_30
 Description = A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally tart.
 #-------------------------------
 [CRACKEDPOT]
-Name = Cracked Pot
+Name = Cracked Pot (brauchen wir nicht)
 NamePlural = Cracked Pots
 Pocket = 1
 Price = 3000
@@ -207,7 +206,7 @@ Flags = EvolutionStone,Fling_80
 Description = A peculiar cracked teapot that can make a certain species of Pokémon evolve. It makes delicious tea.
 #-------------------------------
 [CHIPPEDPOT]
-Name = Chipped Pot
+Name = Chipped Pot (brauchen wir nicht)
 NamePlural = Chipped Pots
 Pocket = 1
 Price = 3000
@@ -217,7 +216,7 @@ Flags = EvolutionStone,Fling_80
 Description = A peculiar chipped teapot that can make a certain species of Pokémon evolve. It makes delicious tea.
 #-------------------------------
 [GALARICACUFF]
-Name = Galarica Cuff
+Name = Galarica Cuff (brauchen wir nicht)
 NamePlural = Galarica Cuffs
 Pocket = 1
 Price = 6000
@@ -226,7 +225,7 @@ Flags = EvolutionStone,Fling_30
 Description = A cuff made from woven-together Galarica Twigs. Giving it to a Galarian Slowpoke would make it very happy.
 #-------------------------------
 [GALARICAWREATH]
-Name = Galarica Wreath
+Name = Galarica Wreath (brauchen wir nicht)
 NamePlural = Galarica Wreaths
 Pocket = 1
 Price = 6000
@@ -235,7 +234,7 @@ Flags = EvolutionStone,Fling_30
 Description = A wreath made from woven-together Galarica Twigs. A Galarian Slowpoke wearing this would be very happy.
 #-------------------------------
 [REDAPRICORN]
-Name = Red Apricorn
+Name = Red Apricorn (brauchen wir nicht)
 NamePlural = Red Apricorns
 Pocket = 1
 Price = 200
@@ -243,7 +242,7 @@ Flags = Apricorn
 Description = A red Apricorn. It assails your nostrils.
 #-------------------------------
 [YELLOWAPRICORN]
-Name = Yellow Apricorn
+Name = Yellow Apricorn (brauchen wir nicht)
 NamePlural = Yellow Apricorns
 Pocket = 1
 Price = 200
@@ -251,7 +250,7 @@ Flags = Apricorn
 Description = A yellow Apricorn. It has an invigorating scent.
 #-------------------------------
 [BLUEAPRICORN]
-Name = Blue Apricorn
+Name = Blue Apricorn (brauchen wir nicht)
 NamePlural = Blue Apricorns
 Pocket = 1
 Price = 200
@@ -259,7 +258,7 @@ Flags = Apricorn
 Description = A blue Apricorn. It smells a bit like grass.
 #-------------------------------
 [GREENAPRICORN]
-Name = Green Apricorn
+Name = Green Apricorn (brauchen wir nicht)
 NamePlural = Green Apricorns
 Pocket = 1
 Price = 200
@@ -267,7 +266,7 @@ Flags = Apricorn
 Description = A green Apricorn. It has a mysterious, aromatic scent.
 #-------------------------------
 [PINKAPRICORN]
-Name = Pink Apricorn
+Name = Pink Apricorn (brauchen wir nicht)
 NamePlural = Pink Apricorns
 Pocket = 1
 Price = 200
@@ -275,7 +274,7 @@ Flags = Apricorn
 Description = A pink Apricorn. It has a nice, sweet scent.
 #-------------------------------
 [WHITEAPRICORN]
-Name = White Apricorn
+Name = White Apricorn (brauchen wir nicht)
 NamePlural = White Apricorns
 Pocket = 1
 Price = 200
@@ -283,7 +282,7 @@ Flags = Apricorn
 Description = A white Apricorn. It doesn't smell like anything.
 #-------------------------------
 [BLACKAPRICORN]
-Name = Black Apricorn
+Name = Black Apricorn (brauchen wir nicht)
 NamePlural = Black Apricorns
 Pocket = 1
 Price = 200
@@ -291,95 +290,95 @@ Flags = Apricorn
 Description = A black Apricorn. It has an indescribable scent.
 #-------------------------------
 [HELIXFOSSIL]
-Name = Helix Fossil
-NamePlural = Helix Fossils
+Name = Helixfossil
+NamePlural = Helixfossile
 Pocket = 1
 Price = 7000
 Flags = Fossil,Fling_100
-Description = A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a seashell.
+Description = Das Fossil eines uralten Pokémon, das in der Tiefsee lebte. Es ähnelt einer Muschelschale.
 #-------------------------------
 [DOMEFOSSIL]
-Name = Dome Fossil
-NamePlural = Dome Fossils
+Name = Domfossil
+NamePlural = Domfossile
 Pocket = 1
 Price = 7000
 Flags = Fossil,Fling_100
-Description = A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a shell.
+Description = Das Fossil eines uralten Pokémon, das in der Tiefsee lebte. Es sieht wie eine Muschelschale oder ein Rückenschild aus
 #-------------------------------
 [OLDAMBER]
-Name = Old Amber
-NamePlural = Old Ambers
+Name = Altbernstein
+NamePlural = Altbernsteine
 Pocket = 1
 Price = 1000
 Flags = Fossil,Fling_100
-Description = A piece of amber that contains the genes of an ancient Pokémon. It is clear with a reddish tint.
+Description = Ein Stück Bernstein, in dem die Gene eines uralten Pokémon enthalten sind. Es ist durchsichtig.
 #-------------------------------
 [ROOTFOSSIL]
-Name = Root Fossil
-NamePlural = Root Fossils
+Name = Wurzelfossil
+NamePlural = Wurzelfossile
 Pocket = 1
 Price = 7000
 Flags = Fossil,Fling_100
-Description = A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a plant root.
+Description = Das Fossil eines uralten Pokémon, das in der Tiefsee lebte. Es sieht wie eine Pflanzenwurzel aus.
 #-------------------------------
 [CLAWFOSSIL]
-Name = Claw Fossil
-NamePlural = Claw Fossils
+Name = Klauenfossil
+NamePlural = Klauenfossile
 Pocket = 1
 Price = 7000
 Flags = Fossil,Fling_100
-Description = A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a claw.
+Description = Das Fossil eines uralten Pokémon, das in der Tiefsee lebte. Es sieht wie eine Klaue aus.
 #-------------------------------
 [SKULLFOSSIL]
-Name = Skull Fossil
-NamePlural = Skull Fossils
+Name = Kopffossil
+NamePlural = Kopffossile
 Pocket = 1
 Price = 7000
 Flags = Fossil,Fling_100
-Description = A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a head.
+Description = Das Fossil eines uralten Pokémon, das an Land lebte. Es sieht wie ein Schädel aus.
 #-------------------------------
 [ARMORFOSSIL]
-Name = Armor Fossil
-NamePlural = Armor Fossils
+Name = Panzerfossil
+NamePlural = Panzerfossile
 Pocket = 1
 Price = 7000
 Flags = Fossil,Fling_100
-Description = A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a collar.
+Description = Das Fossil eines uralten Pokémon, das an Land lebte. Es sieht wie ein Schlüsselbein aus.
 #-------------------------------
 [COVERFOSSIL]
-Name = Cover Fossil
-NamePlural = Cover Fossils
+Name = Schildfossil
+NamePlural = Schildfossile
 Pocket = 1
 Price = 7000
 Flags = Fossil,Fling_100
-Description = A fossil of an ancient Pokémon that lived in the sea in ancient times. It appears to be part of its back.
+Description = Das Fossil eines uralten Pokémon, das in der Tiefsee lebte. Offenbar handelt es sich um einen Teil des Rückens.
 #-------------------------------
 [PLUMEFOSSIL]
-Name = Plume Fossil
-NamePlural = Plume Fossils
+Name = Federfossil
+NamePlural = Federfossile
 Pocket = 1
 Price = 7000
 Flags = Fossil,Fling_100
-Description = A fossil of an ancient Pokémon that flew in the sky in ancient times. It appears to be part of its wing.
+Description = Das Fossil eines uralten Pokémon, von dem man annimmt, dass es der Urahn der Vogel-Pokémon sei. Es handelt sich um einen Teil des Flügels.
 #-------------------------------
 [JAWFOSSIL]
-Name = Jaw Fossil
-NamePlural = Jaw Fossils
+Name = Kieferfossil
+NamePlural = Kieferfossile
 Pocket = 1
 Price = 7000
 Flags = Fossil,Fling_100
-Description = A fossil from a prehistoric Pokémon that once lived on the land. It appears to be part of a large jaw.
+Description = Das Fossil eines uralten Pokémon, das an Land lebte. Es sieht wie ein Kieferknochen aus.
 #-------------------------------
 [SAILFOSSIL]
-Name = Sail Fossil
-NamePlural = Sail Fossils
+Name = Flossenfossil
+NamePlural = FLossenfossil
 Pocket = 1
 Price = 7000
 Flags = Fossil,Fling_100
-Description = A fossil from a prehistoric Pokémon that once lived on the land. It looks like the impression from a skin sail.
+Description = Das Fossil eines uralten Pokémon, das an Land lebte. Es sieht wie eine Flosse aus.
 #-------------------------------
 [FOSSILIZEDBIRD]
-Name = Fossilized Bird
+Name = Fossilized Bird (Brauchen wir nicht)
 NamePlural = Fossilized Birds
 Pocket = 1
 Price = 5000
@@ -387,7 +386,7 @@ Flags = Fling_100,FossilHalf
 Description = The fossil of an ancient Pokémon that once soared through the sky. What it looked like is a mystery.
 #-------------------------------
 [FOSSILIZEDFISH]
-Name = Fossilized Fish
+Name = Fossilized Fish (Brauchen wir nicht)
 NamePlural = Fossilized Fishes
 Pocket = 1
 Price = 5000
@@ -395,7 +394,7 @@ Flags = Fling_100,FossilHalf
 Description = The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery.
 #-------------------------------
 [FOSSILIZEDDRAKE]
-Name = Fossilized Drake
+Name = Fossilized Drake (Brauchen wir nicht)
 NamePlural = Fossilized Drakes
 Pocket = 1
 Price = 5000
@@ -403,7 +402,7 @@ Flags = Fling_100,FossilHalf
 Description = The fossil of an ancient Pokémon that once roamed the land. What it looked like is a mystery.
 #-------------------------------
 [FOSSILIZEDDINO]
-Name = Fossilized Dino
+Name = Fossilized Dino (Brauchen wir nicht)
 NamePlural = Fossilized Dinos
 Pocket = 1
 Price = 5000
@@ -411,7 +410,7 @@ Flags = Fling_100,FossilHalf
 Description = The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery.
 #-------------------------------
 [PRETTYFEATHER]
-Name = Pretty Feather
+Name = Pretty Feather (Brauchen wir nicht)
 NamePlural = Pretty Feathers
 Pocket = 1
 Price = 1000
@@ -419,76 +418,76 @@ Flags = Fling_20
 Description = Though this feather is beautiful, it's just a regular feather and has no effect on Pokémon.
 #-------------------------------
 [TINYMUSHROOM]
-Name = Tiny Mushroom
-NamePlural = Tiny Mushrooms
+Name = Minipilz
+NamePlural = Minipilze
 Pocket = 1
 Price = 500
 Flags = Fling_30
-Description = A small and rare mushroom. It is sought after by collectors.
+Description = Ein kleiner und seltener Pilz. Sammler sind ganz aus dem Häuschen, wenn sie einen finden.
 #-------------------------------
 [BIGMUSHROOM]
-Name = Big Mushroom
-NamePlural = Big Mushrooms
+Name = Riesenpilz
+NamePlural = Riesenpilze
 Pocket = 1
 Price = 5000
 Flags = Fling_30
-Description = A large and rare mushroom. It is sought after by collectors.
+Description = Ein großer und seltener Pilz. Liebhaber dieses Pilzes freuen sich ein Loch in den Bauch, wenn sie einen finden.
 #-------------------------------
 [BALMMUSHROOM]
-Name = Balm Mushroom
-NamePlural = Balm Mushrooms
+Name = Duftpilz
+NamePlural = Duftpilze
 Pocket = 1
 Price = 15000
 Flags = Fling_30
-Description = A rare mushroom which gives off a nice fragrance. A maniac will buy it for a high price.
+Description = Ein seltener Pilz, der ein angenehmes Aroma verbreitet.
 #-------------------------------
 [PEARL]
-Name = Pearl
-NamePlural = Pearls
+Name = Perle
+NamePlural = Perlen
 Pocket = 1
 Price = 2000
 Flags = Fling_30
-Description = A somewhat-small pearl that sparkles in a pretty silver color. It can be sold cheaply to shops.
+Description = Eine relativ kleine Perle, die in schönem Silber funkelt. Sie ist von geringem Wert.
 #-------------------------------
 [BIGPEARL]
-Name = Big Pearl
-NamePlural = Big Pearls
+Name = Riesenperle
+NamePlural = Riesenperlen
 Pocket = 1
 Price = 8000
 Flags = Fling_30
-Description = A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price to shops.
+Description = Eine relativ große Perle, die in schönem Silber funkelt. Sie ist von hohem Wert.
 #-------------------------------
 [PEARLSTRING]
-Name = Pearl String
-NamePlural = Pearl Strings
+Name = Triperle
+NamePlural = Triperlen
 Pocket = 1
 Price = 20000
 Flags = Fling_30
-Description = Very large pearls that sparkle in a pretty silver color. A maniac will buy them for a high price.
+Description = Große Perlen, die in schönem Silber funkeln. Sie sind von großem Wert.
 #-------------------------------
 [STARDUST]
-Name = Stardust
-NamePlural = Stardusts
+Name = Sternenstaub
+NamePlural = Sternenstaub
 Pocket = 1
 Price = 3000
 Flags = Fling_30
-Description = Lovely, red-colored sand with a loose, silky feel. It can be sold at a high price to shops.
+Description = Schöner, roter Sand, der sich seidenweich anfühlt. Er ist von hohem Wert.
 #-------------------------------
 [STARPIECE]
-Name = Star Piece
-NamePlural = Star Pieces
+Name = Sternenstück
+NamePlural = Sternenstücke
 Pocket = 1
 Price = 12000
 Flags = Fling_30
-Description = A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops.
+Description = Teil eines hübschen Edelsteins, der in rötlicher Farbe schimmert. Erzielt einen hohen Preis, wenn man ihn verkauft.
 #-------------------------------
 [COMETSHARD]
-Name = Comet Shard
-NamePlural = Comet Shards
+Name = Kometstück
+NamePlural = Kometstücke
 Pocket = 1
 Price = 25000
 Flags = Fling_30
-Description = A shard which fell to the ground when a comet approached. A maniac will buy it for a high price.
+Description = Ein Kometensplitter, der aus dem All herabgefallen ist. Er ist von großem Wert.
 #-------------------------------
 [NUGGET]
 Name = Nugget
@@ -496,70 +495,70 @@ NamePlural = Nuggets
 Pocket = 1
 Price = 10000
 Flags = Fling_30
-Description = A nugget of pure gold that gives off a lustrous gleam. It can be sold at a high price to shops.
+Description = Ein Nugget aus purem Gold, das einen schimmernden Glanz besitzt. Es ist von großem Wert.
 #-------------------------------
 [BIGNUGGET]
-Name = Big Nugget
-NamePlural = Big Nuggets
+Name = Riesennugget
+NamePlural = Riesennuggets
 Pocket = 1
 Price = 40000
 Flags = Fling_30
-Description = A big nugget of pure gold that gives off a lustrous gleam. A maniac will buy it for a high price.
+Description = Ein großes Nugget aus purem Gold, das einen schimmernden Glanz besitzt. Es ist von großem Wert.
 #-------------------------------
 [HEARTSCALE]
-Name = Heart Scale
-NamePlural = Heart Scales
+Name = Herzschuppe
+NamePlural = Herzschuppen
 Pocket = 1
 Price = 100
 Flags = Fling_30
-Description = A pretty, heart-shaped scale that is extremely rare. It glows faintly in the colors of the rainbow.
+Description = Eine hübsche, herzförmige und sehr seltene Schuppe. Sie erstrahlt in den Farben des Regenbogens.
 #-------------------------------
 [SLOWPOKETAIL]
-Name = Slowpoke Tail
-NamePlural = Slowpoke Tails
+Name = Flegmon-Rute
+NamePlural = Flegmon-Ruten
 Pocket = 1
 Price = 10000
-Description = A very tasty tail of something. It can be sold at a high price to shops.
+Description = Die Rute eines unbestimmten Wesens. Extrem schmackhaft. Lässt sich teuer verkaufen.
 #-------------------------------
 [RAREBONE]
-Name = Rare Bone
-NamePlural = Rare Bones
+Name = Steinknochen
+NamePlural = Steinknochen
 Pocket = 1
 Price = 5000
 Flags = Fling_100
-Description = A bone that is extremely valuable for Pokémon archaeology. It can be sold for a high price to shops.
+Description = Dieser Knochen erfreut jeden Pokémon-Archäologen. Er ist von hohem Wert.
 #-------------------------------
 [RELICCOPPER]
-Name = Relic Copper
-NamePlural = Relic Coppers
+Name = Alter Heller
+NamePlural = Alte Helle
 Pocket = 1
 Price = 0
 Flags = Fling_30
-Description = A copper coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price.
+Description = Eine alte Kupfermünze. Die Währung einer gut 3 000 Jahre alten Kultur.
 #-------------------------------
 [RELICSILVER]
-Name = Relic Silver
-NamePlural = Relic Silvers
+Name = Alter Taler
+NamePlural = Alte Taler
 Pocket = 1
 Price = 0
 Flags = Fling_30
-Description = A silver coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price.
+Description = Eine alte Silbermünze. Die Währung einer gut 3 000 Jahre alten Kultur.
 #-------------------------------
 [RELICGOLD]
-Name = Relic Gold
-NamePlural = Relic Golds
+Name = Alter Dukat
+NamePlural = Alte Dukaten
 Pocket = 1
 Price = 60000
 Flags = Fling_30
 Description = A gold coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price.
 #-------------------------------
 [RELICVASE]
-Name = Relic Vase
-NamePlural = Relic Vases
+Name = Alte Vase
+NamePlural = Alte Vasen
 Pocket = 1
 Price = 0
 Flags = Fling_30
-Description = A vase made in a civilization about 3,000 years ago. A maniac will buy it for a high price.
+Description = Eine Vase, angefertigt von einer gut 3 000 Jahre alten Kultur.
 #-------------------------------
 [RELICBAND]
 Name = Relic Band
