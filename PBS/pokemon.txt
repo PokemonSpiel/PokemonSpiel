@@ -261,7 +261,7 @@ Generation = 1
 Evolutions = METAPOD,Level,7
 #-------------------------------
 [METAPOD]
-Name = Metapod
+Name = Safcon
 Types = BUG
 BaseStats = 50,20,55,30,25,25
 GenderRatio = Female50Percent
@@ -280,13 +280,13 @@ Weight = 9.9
 Color = Green
 Shape = Serpentine
 Habitat = Forest
-Category = Cocoon
-Pokedex = Its shell is as hard as an iron slab. A Metapod does not move very much because it is preparing its soft innards for evolution inside the shell.
+Category = Kokon
+Pokedex = Der Panzer dieses Pokémon ist hart wie Stahl. Safcon bewegt sich kaum, da es das weiche Innere unter seiner harten Schale auf seine Entwicklung vorbereitet.
 Generation = 1
 Evolutions = BUTTERFREE,Level,10
 #-------------------------------
 [BUTTERFREE]
-Name = Butterfree
+Name = Smettbo
 Types = BUG,FLYING
 BaseStats = 60,45,50,70,90,80
 GenderRatio = Female50Percent
@@ -306,13 +306,13 @@ Weight = 32.0
 Color = White
 Shape = MultiWinged
 Habitat = Forest
-Category = Butterfly
-Pokedex = It has a superior ability to search for delicious honey from flowers. It can seek, extract, and carry honey from flowers blooming over six miles away.
+Category = Falter
+Pokedex = Smettbos größte Fähigkeit ist das Aufspüren köstlichen Blütenhonigs. Es findet sogar Honig in Blumen, die fast 10 km von seinem Nest entfernt blühen.
 Generation = 1
 WildItemUncommon = SILVERPOWDER
 #-------------------------------
 [WEEDLE]
-Name = Weedle
+Name = Hornliu
 Types = BUG,POISON
 BaseStats = 40,35,30,50,20,20
 GenderRatio = Female50Percent
@@ -332,13 +332,13 @@ Weight = 3.2
 Color = Brown
 Shape = Insectoid
 Habitat = Forest
-Category = Hairy Bug
-Pokedex = A Weedle has an extremely acute sense of smell. It distinguishes its favorite kinds of leaves from those it dislikes by sniffing with its big red proboscis (nose).
+Category = Raupen
+Pokedex = Hornliu verfügt über einen ausgezeichneten Geruchssinn. So kann es seine Lieblingsblätter von denen unterscheiden, die es nicht mag, indem es mit seiner großen roten Nase daran schnuppert.
 Generation = 1
 Evolutions = KAKUNA,Level,7
 #-------------------------------
 [KAKUNA]
-Name = Kakuna
+Name = Kokuna
 Types = BUG,POISON
 BaseStats = 45,25,50,35,25,25
 GenderRatio = Female50Percent
@@ -357,13 +357,13 @@ Weight = 10.0
 Color = Yellow
 Shape = Serpentine
 Habitat = Forest
-Category = Cocoon
-Pokedex = It remains virtually immobile while it clings to a tree. However, on the inside, it busily prepares for evolution. This is evident from how hot its shell becomes.
+Category = Kokon
+Pokedex = Kokuna bewegt sich kaum, wenn es an einem Baum haftet. In seinem Inneren jedoch regt sich einiges, da es sich auf seine bevorstehende Entwicklung vorbereitet. Dabei wird seine Schale sehr heiß.
 Generation = 1
 Evolutions = BEEDRILL,Level,10
 #-------------------------------
 [BEEDRILL]
-Name = Beedrill
+Name = Bibor
 Types = BUG,POISON
 BaseStats = 65,90,40,75,45,80
 GenderRatio = Female50Percent
@@ -383,13 +383,13 @@ Weight = 29.5
 Color = Yellow
 Shape = MultiWinged
 Habitat = Forest
-Category = Poison Bee
-Pokedex = A Beedrill is extremely territorial. For safety reasons, no one should ever approach its nest. If angered, they will attack in a swarm.
+Category = Giftbienen
+Pokedex = Bibor sind sehr wehrhaft. Es sollte sich besser niemand ihrem Nest nähern. Wenn man sie ärgert, greifen sie in Schwärmen an.
 Generation = 1
 WildItemUncommon = POISONBARB
 #-------------------------------
 [PIDGEY]
-Name = Pidgey
+Name = Taubsi
 Types = NORMAL,FLYING
 BaseStats = 40,45,40,56,35,35
 GenderRatio = Female50Percent
@@ -410,13 +410,13 @@ Weight = 1.8
 Color = Brown
 Shape = Winged
 Habitat = Forest
-Category = Tiny Bird
-Pokedex = It has an extremely sharp sense of direction. It can unerringly return home to its nest, however far it may be removed from its familiar surroundings.
+Category = Kleinvogel
+Pokedex = Taubsi verfügt über einen sehr geschulten Orientierungssinn. Es kehrt zielsicher zu seinem Nest zurück, egal, wie weit es sich von seiner gewohnten Umgebung entfernt hat.
 Generation = 1
 Evolutions = PIDGEOTTO,Level,18
 #-------------------------------
 [PIDGEOTTO]
-Name = Pidgeotto
+Name = Tauboga
 Types = NORMAL,FLYING
 BaseStats = 63,60,55,71,50,50
 GenderRatio = Female50Percent
@@ -436,13 +436,13 @@ Weight = 30.0
 Color = Brown
 Shape = Winged
 Habitat = Forest
-Category = Bird
-Pokedex = This Pokémon flies around, patrolling its large territory. If its living space is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.
+Category = Vogel
+Pokedex = Tauboga nennt ein großes Gebiet sein Eigen. Es fliegt umher und kontrolliert seinen Lebensraum. Wenn jemand sein Gebiet betritt, zeigt es keine Gnade und greift seine Gegner mit seinen scharfen Krallen an.
 Generation = 1
 Evolutions = PIDGEOT,Level,36
 #-------------------------------
 [PIDGEOT]
-Name = Pidgeot
+Name = Tauboss
 Types = NORMAL,FLYING
 BaseStats = 83,80,75,101,70,70
 GenderRatio = Female50Percent
@@ -462,12 +462,12 @@ Weight = 39.5
 Color = Brown
 Shape = Winged
 Habitat = Forest
-Category = Bird
-Pokedex = Pidgeot has gorgeous, glossy feathers. Many trainers are so captivated by the beautiful feathers on its head that they choose Pidgeot as their Pokémon.
+Category = Vogel
+Pokedex = Dieses Pokémon hat ein wunderschönes, glänzendes Gefieder. Viele Trainer sind von der auffälligen Schönheit seines Federkleids begeistert, sodass sie Tauboss als ihr Pokémon wählen.
 Generation = 1
 #-------------------------------
-[RATTATA]
-Name = Rattata
+[Rattfratz]
+Name = Rattfratz
 Types = NORMAL
 BaseStats = 30,56,35,72,25,35
 GenderRatio = Female50Percent
@@ -488,14 +488,14 @@ Weight = 3.5
 Color = Purple
 Shape = Quadruped
 Habitat = Grassland
-Category = Mouse
-Pokedex = A Rattata is cautious in the extreme. Even while it is asleep, it constantly moves its ears and listens for danger. It will make its nest anywhere.
+Category = Maus
+Pokedex = Rattfratz ist extrem vorsichtig. Sogar im Schlaf nimmt es alles wahr, indem es seine Ohren bewegt. Es stellt keine großen Ansprüche an seinen Lebensraum und richtet sein Nest überall ein.
 Generation = 1
 WildItemUncommon = CHILANBERRY
 Evolutions = RATICATE,Level,20
 #-------------------------------
 [RATICATE]
-Name = Raticate
+Name = Rattikarl
 Types = NORMAL
 BaseStats = 55,81,60,97,50,70
 GenderRatio = Female50Percent
@@ -515,8 +515,8 @@ Weight = 18.5
 Color = Brown
 Shape = Quadruped
 Habitat = Grassland
-Category = Mouse
-Pokedex = A Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.
+Category = Maus
+Pokedex = Rattikarls kräftige Zähne wachsen ständig. Deshalb nagt es unablässig Steine und Baumstämme an, um sie abzuwetzen. Manchmal knabbert es sogar Hauswände an.
 Generation = 1
 WildItemUncommon = CHILANBERRY
 #-------------------------------
