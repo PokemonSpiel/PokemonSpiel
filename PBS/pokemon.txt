@@ -998,7 +998,7 @@ Generation = 1
 WildItemUncommon = CHARCOAL
 #-------------------------------
 [JIGGLYPUFF]
-Name = Jigglypuff
+Name = Pummeluff
 Types = NORMAL,FAIRY
 BaseStats = 115,45,20,20,45,25
 GenderRatio = Female75Percent
@@ -1018,14 +1018,14 @@ Weight = 5.5
 Color = Pink
 Shape = Bipedal
 Habitat = Grassland
-Category = Balloon
-Pokedex = Nothing can avoid falling asleep hearing a Jigglypuff's song. The sound waves of its singing voice match the brain waves of someone in a deep sleep.
+Category = Ballon-Pokémon
+Pokedex = Pummeluffs Stimmbänder können die Tonlage seiner Stimme beliebig variieren. Dieses Pokémon benutzt diese Fähigkeit, um seine Gegner mit monotonem Gesang in Tiefschlaf zu versetzen.
 Generation = 1
 WildItemUncommon = MOONSTONE
 Evolutions = WIGGLYTUFF,Item,MOONSTONE
 #-------------------------------
 [WIGGLYTUFF]
-Name = Wigglytuff
+Name = Knuddeluff
 Types = NORMAL,FAIRY
 BaseStats = 140,70,45,45,85,50
 GenderRatio = Female75Percent
@@ -1045,8 +1045,8 @@ Weight = 12.0
 Color = Pink
 Shape = Bipedal
 Habitat = Grassland
-Category = Balloon
-Pokedex = Its fur is the ultimate in luxuriousness. Sleeping alongside a Wigglytuff is simply divine. Its body expands seemingly without end when it inhales.
+Category = Ballon-Pokémon
+Pokedex = Knuddeluff hat handtellergroße Augen, die immer mit Tränenflüssigkeit bedeckt sind. Gerät Staub in die Augen dieses Pokémon, so wird dieser sofort ausgespült.
 Generation = 1
 WildItemUncommon = MOONSTONE
 #-------------------------------
@@ -1072,8 +1072,8 @@ Weight = 7.5
 Color = Purple
 Shape = Winged
 Habitat = Cave
-Category = Bat
-Pokedex = While living in pitch-black caverns, their eyes gradually grew shut and deprived them of vision. They use ultrasonic waves to detect obstacles.
+Category = Fledermaus-Pokémon
+Pokedex = Tagsüber bleibt Zubat an einem dunklen Ort und bewegt sich kaum. Wenn es dem Sonnenlicht längere Zeit ausgesetzt wird, zieht es sich Verbrennungen an seinem Körper zu.
 Generation = 1
 Evolutions = GOLBAT,Level,22
 #-------------------------------
@@ -1098,13 +1098,13 @@ Weight = 55.0
 Color = Purple
 Shape = Winged
 Habitat = Cave
-Category = Bat
-Pokedex = Its fangs easily puncture even thick animal hide. It loves to feast on the blood of people and Pokémon. It flits about in darkness and strikes from behind.
+Category = Fledermaus-Pokémon
+Pokedex = Golbat hat es auf das Blut von Lebewesen abgesehen. Im Schutze der Nacht wird es besonders aktiv. Dieses Pokémon fliegt durch die Nacht, um nach frischem Blut zu suchen.
 Generation = 1
 Evolutions = CROBAT,Happiness,
 #-------------------------------
 [ODDISH]
-Name = Oddish
+Name = Myrapla
 Types = GRASS,POISON
 BaseStats = 45,50,55,30,75,65
 GenderRatio = Female50Percent
@@ -1125,14 +1125,14 @@ Weight = 5.4
 Color = Blue
 Shape = HeadLegs
 Habitat = Grassland
-Category = Weed
-Pokedex = It grows by absorbing moonlight. During the daytime, it buries itself in the ground, leaving only its leaves exposed to avoid detection by its enemies.
+Category = Unkraut-Pokémon
+Pokedex = Am Tage vergräbt sich Myrapla im Boden, um mit seinem ganzen Körper Nahrung aufzunehmen. Je fruchtbarer der Boden ist, desto glänzender werden seine Blätter.
 Generation = 1
 WildItemUncommon = ABSORBBULB
 Evolutions = GLOOM,Level,21
 #-------------------------------
 [GLOOM]
-Name = Gloom
+Name = Duflor
 Types = GRASS,POISON
 BaseStats = 60,65,70,40,85,75
 GenderRatio = Female50Percent
@@ -1152,14 +1152,14 @@ Weight = 8.6
 Color = Blue
 Shape = Bipedal
 Habitat = Grassland
-Category = Weed
-Pokedex = A horribly noxious honey drools from its mouth. One whiff of the honey can result in memory loss. Some fans are said to enjoy this overwhelming stink, however.
+Category = Unkraut-Pokémon
+Pokedex = Duflor produziert einen ekelerregenden Gestank aus dem Stempel seiner Blume. Wenn es in Gefahr gerät, wird der Gestank noch unerträglicher. Wenn sich dieses Pokémon in Sicherheit befindet, stößt es keinen Gestank aus.
 Generation = 1
 WildItemUncommon = ABSORBBULB
 Evolutions = VILEPLUME,Item,LEAFSTONE,BELLOSSOM,Item,SUNSTONE
 #-------------------------------
 [VILEPLUME]
-Name = Vileplume
+Name = Giflor
 Types = GRASS,POISON
 BaseStats = 75,80,85,50,110,90
 GenderRatio = Female50Percent
@@ -1179,8 +1179,8 @@ Weight = 18.6
 Color = Red
 Shape = Bipedal
 Habitat = Grassland
-Category = Flower
-Pokedex = In seasons when it produces more pollen, the air around a Vileplume turns yellow with the powder as it walks. The pollen is highly toxic and causes paralysis.
+Category = 	Blumen-Pokémon
+Pokedex = Giflors giftige Pollen rufen böse allergische Anfälle hervor. Deshalb ist es ratsam, sich keiner schönen Blume im Dschungel zu nähern, so anziehend sie auch sein mag.
 Generation = 1
 WildItemUncommon = ABSORBBULB
 #-------------------------------
@@ -1206,15 +1206,15 @@ Weight = 5.4
 Color = Red
 Shape = Insectoid
 Habitat = Forest
-Category = Mushroom
-Pokedex = A Paras has parasitic tochukaso mushrooms growing on its back. They grow by drawing nutrients from the host. They are valued as a medicine for long life.
+Category = Pilz-Pokémon
+Pokedex = Auf Paras’ Rücken wachsen parasitäre Pilze, die Tochukaso genannt werden. Sie wachsen, indem sie dem Käfer-Pokémon Nährstoffe entziehen. Sie sind sehr wertvoll als lebensverlängernde Medizin.
 Generation = 1
 WildItemCommon = TINYMUSHROOM
 WildItemUncommon = BIGMUSHROOM
 Evolutions = PARASECT,Level,24
 #-------------------------------
 [PARASECT]
-Name = Parasect
+Name = Parasek
 Types = BUG,GRASS
 BaseStats = 60,95,80,30,60,80
 GenderRatio = Female50Percent
@@ -1234,14 +1234,14 @@ Weight = 29.5
 Color = Red
 Shape = Insectoid
 Habitat = Forest
-Category = Mushroom
-Pokedex = Parasect are known to infest the roots of large trees en masse and drain nutrients. When an infested tree dies, they move onto another tree all at once.
+Category = Pilz-Pokémon
+Pokedex = Parasek sucht große Bäume heim und entzieht Nährstoffe aus Stamm und Wurzeln. Wenn ein befallener Baum stirbt, sucht es sich zusammen mit seinen Artgenossen einen neuen Wirt.
 Generation = 1
 WildItemCommon = TINYMUSHROOM
 WildItemUncommon = BIGMUSHROOM
 #-------------------------------
 [VENONAT]
-Name = Venonat
+Name = Bluzuk
 Types = BUG,POISON
 BaseStats = 60,55,50,45,40,55
 GenderRatio = Female50Percent
@@ -1262,13 +1262,13 @@ Weight = 30.0
 Color = Purple
 Shape = Bipedal
 Habitat = Forest
-Category = Insect
-Pokedex = Its coat of thin, stiff hair that covers its entire body is said to have evolved for protection. Its large eyes never fail to spot even miniscule prey.
+Category = Insekten-Pokémon
+Pokedex = Bluzuk hat einen Pelz aus dünnen Borsten entwickelt, der dem Schutz seines Körpers dient. Es hat große Augen, denen auch winzig kleine Beute nicht entgeht.
 Generation = 1
 Evolutions = VENOMOTH,Level,31
 #-------------------------------
 [VENOMOTH]
-Name = Venomoth
+Name = Omot
 Types = BUG,POISON
 BaseStats = 70,65,60,90,90,75
 GenderRatio = Female50Percent
@@ -1288,13 +1288,13 @@ Weight = 12.5
 Color = Purple
 Shape = MultiWinged
 Habitat = Forest
-Category = Poison Moth
-Pokedex = Venomoth are nocturnal--they only are active at night. Their favorite prey are insects that gather around streetlights, attracted by the light in the darkness.
+Category = Giftmotten-Pokémon
+Pokedex = Omot ist ein nachtaktives Pokémon. Kleine Insekten, die vom Licht in der Dunkelheit angezogen Straßenlaternen umschwärmen, sind seine bevorzugte Beute.
 Generation = 1
 WildItemUncommon = SHEDSHELL
 #-------------------------------
 [DIGLETT]
-Name = Diglett
+Name = Digda
 Types = GROUND
 BaseStats = 10,55,25,95,35,45
 GenderRatio = Female50Percent
@@ -1315,14 +1315,14 @@ Weight = 0.8
 Color = Brown
 Shape = HeadBase
 Habitat = Cave
-Category = Mole
-Pokedex = Diglett are raised in most farms. The reason is simple--wherever they burrow, the soil is left perfectly tilled for growing delicious crops.
+Category = Maulwurf-Pokémon
+Pokedex = Digda wird zumeist auf Farmen gezüchtet. Denn wo auch immer dieses Pokémon zu graben beginnt, hinterlässt es Erde, die für das Anpflanzen von Feldfrüchten perfekt geeignet und für den Anbau köstlichen Gemüses ideal ist.
 Generation = 1
 WildItemUncommon = SOFTSAND
 Evolutions = DUGTRIO,Level,26
 #-------------------------------
 [DUGTRIO]
-Name = Dugtrio
+Name = Digdri
 Types = GROUND
 BaseStats = 35,100,50,120,50,70
 GenderRatio = Female50Percent
@@ -1342,13 +1342,13 @@ Weight = 33.3
 Color = Brown
 Shape = MultiBody
 Habitat = Cave
-Category = Mole
-Pokedex = Because the triplets originally split from one body, they think exactly alike. They work cooperatively to burrow endlessly through the ground.
+Category = Maulwurf-Pokémon
+Pokedex = Digdri sind Drillinge, die aus einem Körper entstanden sind. Daher denken alle Köpfe gleich. Sie arbeiten so gut zusammen, dass sie endlos graben können.
 Generation = 1
 WildItemUncommon = SOFTSAND
 #-------------------------------
 [MEOWTH]
-Name = Meowth
+Name = Mauzi
 Types = NORMAL
 BaseStats = 40,45,35,90,40,40
 GenderRatio = Female50Percent
@@ -1369,14 +1369,14 @@ Weight = 4.2
 Color = Yellow
 Shape = Quadruped
 Habitat = Urban
-Category = Scratch Cat
-Pokedex = Meowth withdraw their sharp claws into their paws to silently sneak about. For some reason, this Pokémon loves shiny coins that glitter with light.
+Category = Katzen-Pokémon
+Pokedex = Mauzi zieht seine scharfen Krallen ein, um umherschleichen zu können, ohne verräterische Spuren zu hinterlassen. Dieses Pokémon hat eine Vorliebe für Münzen, die im Licht glitzern.
 Generation = 1
 WildItemUncommon = QUICKCLAW
 Evolutions = PERSIAN,Level,28,PERRSERKER,None,
 #-------------------------------
 [PERSIAN]
-Name = Persian
+Name = Snobilikat
 Types = NORMAL
 BaseStats = 65,70,60,115,65,65
 GenderRatio = Female50Percent
@@ -1396,13 +1396,13 @@ Weight = 32.0
 Color = Yellow
 Shape = Quadruped
 Habitat = Urban
-Category = Classy Cat
-Pokedex = A Persian's six bold whiskers sense air movements to determine what is in its vicinity. It becomes docile if grabbed by the whiskers.
+Category = Rassekatzen-Pokémon
+Pokedex = Snobilikat hat sechs dicke Schnurrhaare, wodurch es Furcht einflößend wirkt. Durch diese nimmt es wahr, wenn sich etwas in seiner Nähe bewegt. Es wird sehr zutraulich, wenn man es an den Schnurrhaaren berührt.
 Generation = 1
 WildItemUncommon = QUICKCLAW
 #-------------------------------
 [PSYDUCK]
-Name = Psyduck
+Name = Enton
 Types = WATER
 BaseStats = 50,52,48,55,65,50
 GenderRatio = Female50Percent
@@ -1423,13 +1423,13 @@ Weight = 19.6
 Color = Yellow
 Shape = BipedalTail
 Habitat = WatersEdge
-Category = Duck
-Pokedex = When its headache intensifies, it starts using strange powers. However, it has no recollection of its powers, so it always looks befuddled and bewildered.
+Category = Enten-Pokémon
+Pokedex = Enton verwendet eine geheimnisvolle Kraft. Dabei erzeugt es Gehirnströme, die man sonst nur von Schlafenden kennt. Diese Entdeckung führte zu einer kontroversen Diskussion unter Wissenschaftlern.
 Generation = 1
 Evolutions = GOLDUCK,Level,33
 #-------------------------------
 [GOLDUCK]
-Name = Golduck
+Name = Entoron
 Types = WATER
 BaseStats = 80,82,78,85,95,80
 GenderRatio = Female50Percent
@@ -1449,12 +1449,12 @@ Weight = 76.6
 Color = Blue
 Shape = BipedalTail
 Habitat = WatersEdge
-Category = Duck
-Pokedex = A Golduck is an adept swimmer. It sometimes joins competitive swimmers in training. It uses psychic powers when its forehead shimmers with light.
+Category = Enten-Pokémon
+Pokedex = Die mit Schwimmhäuten überzogenen Flossen an seinen Vorder- und Hinterbeinen und der stromlinienförmige Körper machen Entoron unheimlich schnell. Dieses Pokémon ist auf jeden Fall schneller als die meisten Hochleistungsschwimmer.
 Generation = 1
 #-------------------------------
 [MANKEY]
-Name = Mankey
+Name = Menki
 Types = FIGHTING
 BaseStats = 40,80,35,70,35,45
 GenderRatio = Female50Percent
@@ -1475,13 +1475,13 @@ Weight = 28.0
 Color = Brown
 Shape = BipedalTail
 Habitat = Mountain
-Category = Pig Monkey
-Pokedex = When it starts shaking and its nasal breathing turns rough, it's a sure sign of anger. However, since this happens instantly, there is no time to flee.
+Category = Schweinsaffen-Pokémon
+Pokedex = Wenn Menki sich schüttelt und schwer durch die Nase atmet, dann ist es wütend. Da es blitzartig in Raserei gerät, ist es unmöglich, seinem Zorn zu entkommen.
 Generation = 1
 Evolutions = PRIMEAPE,Level,28
 #-------------------------------
 [PRIMEAPE]
-Name = Primeape
+Name = Rasaff
 Types = FIGHTING
 BaseStats = 65,105,60,95,60,70
 GenderRatio = Female50Percent
@@ -1501,12 +1501,12 @@ Weight = 32.0
 Color = Brown
 Shape = BipedalTail
 Habitat = Mountain
-Category = Pig Monkey
-Pokedex = When it becomes furious, its blood circulation becomes more robust, and its muscles are made stronger. But it also becomes much less intelligent.
+Category = Schweinsaffen-Pokémon
+Pokedex = Wenn Rasaff wütend ist, wird seine Blutzirkulation gesteigert und seine Muskeln werden noch stärker. Allerdings mindert das auch die Fähigkeit zum logischen Denken.
 Generation = 1
 #-------------------------------
 [GROWLITHE]
-Name = Growlithe
+Name = Fukano
 Types = FIRE
 BaseStats = 55,70,45,60,70,50
 GenderRatio = Female25Percent
@@ -1527,13 +1527,13 @@ Weight = 19.0
 Color = Brown
 Shape = Quadruped
 Habitat = Grassland
-Category = Puppy
-Pokedex = Its superb sense of smell ensures that this Pokémon won't forget any scent, no matter what. It uses its sense of smell to detect the emotions of others.
+Category = Welpen-Pokémon
+Pokedex = Fukano hat einen ausgezeichneten Geruchssinn. Wenn dieses Pokémon einmal einen Geruch wahrgenommen hat, vergisst es ihn nicht mehr. Es benutzt diese Fähigkeit dazu, die Gefühlslage von Lebewesen auszuloten.
 Generation = 1
 Evolutions = ARCANINE,Item,FIRESTONE
 #-------------------------------
 [ARCANINE]
-Name = Arcanine
+Name = Arkani
 Types = FIRE
 BaseStats = 90,110,80,95,100,80
 GenderRatio = Female25Percent
@@ -1553,12 +1553,12 @@ Weight = 155.0
 Color = Brown
 Shape = Quadruped
 Habitat = Grassland
-Category = Legendary
-Pokedex = This fleet-footed Pokémon is said to run over 6,200 miles in a single day and night. The fire that blazes wildly within its body is its source of power.
+Category = Legendär-Pokémon
+Pokedex = Arkani ist sehr schnell. Es kann an einem Tag fast 10 000 km zurücklegen. Das Feuer, das im Innern dieses Pokémon lodert, dient ihm als Energiequelle.
 Generation = 1
 #-------------------------------
 [POLIWAG]
-Name = Poliwag
+Name = Quapsel
 Types = WATER
 BaseStats = 40,50,40,90,40,40
 GenderRatio = Female50Percent
@@ -1579,13 +1579,13 @@ Weight = 12.4
 Color = Blue
 Shape = HeadLegs
 Habitat = WatersEdge
-Category = Tadpole
-Pokedex = It is possible to see this Pokémon's spiral innards right through its thin skin. However, the skin is also very flexible. Even sharp fangs bounce right off it.
+Category = Kaulquappen-Pokémon
+Pokedex = Quapsel hat eine sehr dünne Haut. Durch sie hindurch kann man sogar sein spiralförmiges Inneres sehen. Obwohl seine Haut so dünn ist, ist sie sehr elastisch. Selbst scharfe Reißzähne können sie nicht durchdringen.
 Generation = 1
 Evolutions = POLIWHIRL,Level,25
 #-------------------------------
 [POLIWHIRL]
-Name = Poliwhirl
+Name = Quaputzi
 Types = WATER
 BaseStats = 65,65,65,90,50,50
 GenderRatio = Female50Percent
@@ -1605,14 +1605,14 @@ Weight = 20.0
 Color = Blue
 Shape = Bipedal
 Habitat = WatersEdge
-Category = Tadpole
-Pokedex = Its body surface is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.
+Category = Kaulquappen-Pokémon
+Pokedex = Quaputzis Körper ist immer feucht und glitschig. Dadurch kann es während eines Kampfes leicht der Umklammerung eines Gegners entkommen.
 Generation = 1
 WildItemUncommon = KINGSROCK
 Evolutions = POLIWRATH,Item,WATERSTONE,POLITOED,TradeItem,KINGSROCK
 #-------------------------------
 [POLIWRATH]
-Name = Poliwrath
+Name = Quappo
 Types = WATER,FIGHTING
 BaseStats = 90,95,95,70,70,90
 GenderRatio = Female50Percent
@@ -1632,8 +1632,9 @@ Weight = 54.0
 Color = Blue
 Shape = Bipedal
 Habitat = WatersEdge
-Category = Tadpole
-Pokedex = Its highly developed muscles never grow fatigued, however much it exercises. This Pokémon can swim back and forth across the Pacific Ocean without effort.
+Category = Kaulquappen-Pokémon
+Pokedex = 
+Quappo besitzt hochentwickelte, starke Muskeln, die niemals ermüden, egal, wie sehr es sie auch beansprucht. Es ist so kräftig, dass es mühelos große Ozeane durchschwimmen kann.
 Generation = 1
 WildItemUncommon = KINGSROCK
 #-------------------------------
@@ -1659,8 +1660,8 @@ Weight = 19.5
 Color = Brown
 Shape = BipedalTail
 Habitat = Urban
-Category = Psi
-Pokedex = A Pokémon that sleeps 18 hours a day. Observation revealed that it uses Teleport to change its location once every hour.
+Category = Psi-Pokémon
+Pokedex = Abra schläft 18 Stunden am Tag. Es nimmt die Gegenwart von Feinden aber auch im Schlaf wahr. In einer solchen Situation bringt es sich umgehend mit Teleport in Sicherheit.
 Generation = 1
 WildItemUncommon = TWISTEDSPOON
 Evolutions = KADABRA,Level,16
@@ -1686,8 +1687,8 @@ Weight = 56.5
 Color = Brown
 Shape = BipedalTail
 Habitat = Urban
-Category = Psi
-Pokedex = It is rumored that a boy with psychic abilities suddenly transformed into Kadabra while he was assisting research into extrasensory powers.
+Category = Psi-Pokémon
+Pokedex = Kadabra sendet Alphawellen aus, wenn es Kopfschmerzen hat. Nur wer eine besonders starke Psyche hat, kann dieses Pokémon unter seine Fittiche nehmen.
 Generation = 1
 WildItemUncommon = TWISTEDSPOON
 Evolutions = ALAKAZAM,Trade,
