@@ -521,7 +521,7 @@ Generation = 1
 WildItemUncommon = CHILANBERRY
 #-------------------------------
 [SPEAROW]
-Name = Spearow
+Name = Habitak
 Types = NORMAL,FLYING
 BaseStats = 40,60,30,70,31,31
 GenderRatio = Female50Percent
@@ -542,14 +542,14 @@ Weight = 2.0
 Color = Brown
 Shape = Winged
 Habitat = RoughTerrain
-Category = Tiny Bird
-Pokedex = Its loud cry can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.
+Category = Kleinvogel
+Pokedex = Habitak kann einen sehr lauten Schrei ausstoßen, den man über die Entfernung von 1 km vernehmen kann. Durch das Echo seiner hohen, wehklagenden Schreie warnt dieses Pokémon seine Artgenossen vor drohender Gefahr.
 Generation = 1
 WildItemUncommon = SHARPBEAK
 Evolutions = FEAROW,Level,20
 #-------------------------------
 [FEAROW]
-Name = Fearow
+Name = Ibitak
 Types = NORMAL,FLYING
 BaseStats = 65,90,65,100,61,61
 GenderRatio = Female50Percent
@@ -569,13 +569,13 @@ Weight = 38.0
 Color = Brown
 Shape = Winged
 Habitat = RoughTerrain
-Category = Beak
-Pokedex = Its long neck and elongated beak are ideal for catching prey in soil or water. It deftly moves this extended and skinny beak to pluck prey.
+Category = Pickvogel
+Pokedex = Ibitak erkennt man an seinem langen Hals und Schnabel. Er ist hervorragend dafür geeignet, im Erdreich oder im Wasser Beute zu jagen. Es setzt seinen langen, dünnen Schnabel dabei sehr geschickt ein.
 Generation = 1
 WildItemUncommon = SHARPBEAK
 #-------------------------------
 [EKANS]
-Name = Ekans
+Name = Rettan
 Types = POISON
 BaseStats = 35,60,44,55,40,54
 GenderRatio = Female50Percent
@@ -596,8 +596,8 @@ Weight = 6.9
 Color = Purple
 Shape = Serpentine
 Habitat = Grassland
-Category = Snake
-Pokedex = An Ekans curls itself up in a spiral while it rests. This position allows it to quickly respond to an enemy from any direction with a threat from its upraised head.
+Category = Schlangen
+Pokedex = Rettan rollt sich zu einer Spirale zusammen, wenn es sich ausruht. Aus dieser Haltung kann es blitzschnell auf Bedrohungen aus allen Richtungen reagieren, indem es seinen Kopf hebt.
 Generation = 1
 Evolutions = ARBOK,Level,22
 #-------------------------------
@@ -622,8 +622,8 @@ Weight = 65.0
 Color = Purple
 Shape = Serpentine
 Habitat = Grassland
-Category = Cobra
-Pokedex = This Pokémon has a terrifically strong constricting power. It can even flatten steel oil drums. Once it wraps its body around its foe, escaping is impossible.
+Category = Kobra
+Pokedex = Dieses Pokémon ist unheimlich stark. Es kann seine Beute mit seinem Körper umwickeln und sogar Ölfässer zerdrücken. Wenn Arbok einen Gegner umwickelt, ist es unmöglich, seinem Würgegriff zu entkommen.
 Generation = 1
 #-------------------------------
 [PIKACHU]
@@ -647,8 +647,8 @@ Weight = 6.0
 Color = Yellow
 Shape = Quadruped
 Habitat = Forest
-Category = Mouse
-Pokedex = It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.
+Category = Maus
+Pokedex = Immer wenn Pikachu auf etwas Neues stößt, jagt es einen Elektroschock hindurch. Wenn du eine verkohlte Beere findest, hat dieses Pokémon seine elektrische Ladung falsch eingeschätzt.
 Generation = 1
 WildItemUncommon = LIGHTBALL
 Evolutions = RAICHU,Item,THUNDERSTONE
@@ -674,12 +674,12 @@ Weight = 30.0
 Color = Yellow
 Shape = BipedalTail
 Habitat = Forest
-Category = Mouse
-Pokedex = If it stores too much electricity, its behavior turns aggressive. To avoid this, it occasionally discharges excess energy and calms itself down.
+Category = Maus
+Pokedex = Wenn seine elektrische Ladung zu groß wird, entlädt Raichu seine Energie ins Erdreich. Neben dem Nest dieses Pokémon findet man häufig versengtes Erdreich.
 Generation = 1
 #-------------------------------
 [SANDSHREW]
-Name = Sandshrew
+Name = Sandan
 Types = GROUND
 BaseStats = 50,75,85,40,20,30
 GenderRatio = Female50Percent
@@ -700,14 +700,14 @@ Weight = 12.0
 Color = Yellow
 Shape = BipedalTail
 Habitat = RoughTerrain
-Category = Mouse
-Pokedex = When it curls up in a ball, it can make any attack bounce off harmlessly. Its hide has turned tough and solid as a result of living in the desert.
+Category = Maus
+Pokedex = Sandans Körper kann sehr viel Wasser aufnehmen, sodass es auch in der Wüste überleben kann. Dieses Pokémon rollt sich zusammen, um sich vor Feinden zu schützen.
 Generation = 1
 WildItemUncommon = GRIPCLAW
 Evolutions = SANDSLASH,Level,22
 #-------------------------------
 [SANDSLASH]
-Name = Sandslash
+Name = Sandamer
 Types = GROUND
 BaseStats = 75,100,110,65,45,55
 GenderRatio = Female50Percent
@@ -727,8 +727,8 @@ Weight = 29.5
 Color = Yellow
 Shape = BipedalTail
 Habitat = RoughTerrain
-Category = Mouse
-Pokedex = It curls up in a ball to protect itself from enemy attacks. It also curls up to prevent heatstroke during the daytime when temperatures rise sharply.
+Category = Maus
+Pokedex = Sandamers Körper ist übersät mit spitzen Stacheln, die eigentlich Hauthärtungen darstellen. Einmal im Jahr fallen die alten Stacheln aus und werden durch neue ersetzt.
 Generation = 1
 WildItemUncommon = GRIPCLAW
 #-------------------------------
@@ -755,8 +755,8 @@ Weight = 7.0
 Color = Blue
 Shape = Quadruped
 Habitat = Grassland
-Category = Poison Pin
-Pokedex = Its highly toxic barbs are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.
+Category = Giftdorn
+Pokedex = Nidoran♀ besitzt Widerhaken, die ein starkes Gift ausstoßen. Sie sind vermutlich zum Schutz dieses schmächtigen Pokémon entstanden. Wenn es wütend wird, stößt es ein gefährliches Gift aus seinem Horn aus.
 Generation = 1
 Evolutions = NIDORINA,Level,16
 #-------------------------------
@@ -781,8 +781,8 @@ Weight = 20.0
 Color = Blue
 Shape = Quadruped
 Habitat = Grassland
-Category = Poison Pin
-Pokedex = When it is with its friends or family, its barbs are tucked away to prevent injury. It appears to become nervous if separated from the others.
+Category = Giftdorn
+Pokedex = Wenn Nidorina mit seinen Freunden oder seiner Familie zusammen ist, zieht es seine Widerhaken ein, damit es niemanden verletzt. Dieses Pokémon wird nervös, wenn man es von seinen Artgenossen trennt.
 Generation = 1
 Evolutions = NIDOQUEEN,Item,MOONSTONE
 #-------------------------------
@@ -807,8 +807,8 @@ Weight = 60.0
 Color = Blue
 Shape = BipedalTail
 Habitat = Grassland
-Category = Drill
-Pokedex = It is adept at sending foes flying with harsh tackles using its tough, scaly body. This Pokémon is at its strongest when it is defending its young.
+Category = Bohrer
+Pokedex = Nidoqueens Körper ist mit sehr harten Schuppen bedeckt. Es ist sehr geschickt darin, Gegner mit starken Attacken wegzuschleudern. Dieses Pokémon entwickelt am meisten Kraft, wenn es seine Jungen verteidigt.
 Generation = 1
 #-------------------------------
 [NIDORANmA]
@@ -834,8 +834,8 @@ Weight = 9.0
 Color = Purple
 Shape = Quadruped
 Habitat = Grassland
-Category = Poison Pin
-Pokedex = The male Nidoran has developed muscles that freely move its ears in any direction. Even the slightest sound does not escape this Pokémon's notice.
+Category = Giftdorn
+Pokedex = Nidoran♂ hat Muskeln entwickelt, um seine Ohren bewegen zu können. Dadurch kann es sie in jede beliebige Richtung drehen. Diesem Pokémon entgeht nicht einmal das leiseste Geräusch.
 Generation = 1
 Evolutions = NIDORINO,Level,16
 #-------------------------------
@@ -860,8 +860,8 @@ Weight = 19.5
 Color = Purple
 Shape = Quadruped
 Habitat = Grassland
-Category = Poison Pin
-Pokedex = Its horn is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.
+Category = Giftdorn
+Pokedex = Nidorino besitzt ein Horn, das sogar härter ist als ein Diamant. Wenn es einen Feind wahrnimmt, stellen sich all die Widerhaken auf seinem Rücken auf und es schlägt den Gegner mit aller Kraft in die Flucht.
 Generation = 1
 Evolutions = NIDOKING,Item,MOONSTONE
 #-------------------------------
@@ -886,12 +886,12 @@ Weight = 62.0
 Color = Purple
 Shape = BipedalTail
 Habitat = Grassland
-Category = Drill
-Pokedex = A Nidoking's thick tail packs enormously destructive power capable of toppling a metal transmission tower. Once it goes on a rampage, there is no stopping it.
+Category = Bohrer
+Pokedex = Nidokings Schweif ist enorm stark. Mit einer Bewegung kann es einen metallenen Sendemast zum Einsturz bringen. Wenn es in Rage gerät, ist es nur schwer aufzuhalten.
 Generation = 1
 #-------------------------------
 [CLEFAIRY]
-Name = Clefairy
+Name = Piepi
 Types = FAIRY
 BaseStats = 70,45,48,35,60,65
 GenderRatio = Female75Percent
@@ -911,14 +911,14 @@ Weight = 7.5
 Color = Pink
 Shape = BipedalTail
 Habitat = Mountain
-Category = Fairy
-Pokedex = On every night of a full moon, they come out to play. When dawn arrives, the tired Clefairy go to sleep nestled up against each other in deep and quiet mountains.
+Category = Feen
+Pokedex = In Vollmondnächten sammeln sich einige dieser Pokémon, um zu spielen. Wird es Tag, kehrt Piepi zu seinem Zufluchtsort in den Bergen zurück und schläft eingekuschelt neben seinen Artgenossen ein.
 Generation = 1
 WildItemUncommon = MOONSTONE
 Evolutions = CLEFABLE,Item,MOONSTONE
 #-------------------------------
 [CLEFABLE]
-Name = Clefable
+Name = Pixi
 Types = FAIRY
 BaseStats = 95,70,73,60,95,90
 GenderRatio = Female75Percent
@@ -938,8 +938,8 @@ Weight = 40.0
 Color = Pink
 Shape = BipedalTail
 Habitat = Mountain
-Category = Fairy
-Pokedex = A Clefable uses its wings to skip lightly as if it were flying. Its bouncy step lets it even walk on water. On quiet, moonlit nights, it strolls on lakes.
+Category = Feen
+Pokedex = Pixi bewegt sich fort, indem es leicht mit den Flügeln schlägt. Durch seinen federnden Gang kann es sogar über Wasser gehen. Bei Mondschein unternimmt es Spaziergänge auf Seen.
 Generation = 1
 WildItemUncommon = MOONSTONE
 #-------------------------------
@@ -965,14 +965,14 @@ Weight = 9.9
 Color = Brown
 Shape = Quadruped
 Habitat = Grassland
-Category = Fox
-Pokedex = It can freely control fire, making fiery orbs fly like will-o'-the-wisps. Just before evolution, its six tails grow hot as if on fire.
+Category = Fuchs
+Pokedex = Vulpix kommt mit einem weißen Schweif zur Welt. Dieser teilt sich sechsfach, wenn das Pokémon von seinem Trainer viel Zuneigung bekommt. Seine sechs Schweife kräuseln sich schließlich.
 Generation = 1
 WildItemUncommon = CHARCOAL
 Evolutions = NINETALES,Item,FIRESTONE
 #-------------------------------
 [NINETALES]
-Name = Ninetales
+Name = Vulnona
 Types = FIRE
 BaseStats = 73,76,75,100,81,100
 GenderRatio = Female75Percent
@@ -992,8 +992,8 @@ Weight = 19.9
 Color = Yellow
 Shape = Quadruped
 Habitat = Grassland
-Category = Fox
-Pokedex = It has long been said that each of the nine tails embody an enchanted power. A long-lived Ninetales will have fur that shines like gold.
+Category = Fuchs
+Pokedex = Vulnona sendet einen unheimlichen Lichtstrahl aus seinen hellroten Augen aus, um totale Kontrolle über die Gedanken seines Gegners zu erlangen. Man sagt, dieses Pokémon könne 1 000 Jahre leben.
 Generation = 1
 WildItemUncommon = CHARCOAL
 #-------------------------------
