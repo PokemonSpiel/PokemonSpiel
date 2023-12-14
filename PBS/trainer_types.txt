@@ -1,42 +1,42 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [POKEMONTRAINER_Red]
-Name = Pokémon Trainer
+Name = Rot
 Gender = Male
 BaseMoney = 60
 #-------------------------------
 [POKEMONTRAINER_Leaf]
-Name = Pokémon Trainer
+Name = Grün
 Gender = Female
 BaseMoney = 60
 #-------------------------------
 [POKEMONTRAINER_Brendan]
-Name = Pokémon Trainer
+Name = Brendan
 Gender = Male
 BaseMoney = 60
 #-------------------------------
 [POKEMONTRAINER_May]
-Name = Pokémon Trainer
+Name = May
 Gender = Female
 BaseMoney = 60
 #-------------------------------
 [RIVAL1]
-Name = Rival
+Name = Rivale
 Gender = Male
 BaseMoney = 16
 #-------------------------------
 [RIVAL2]
-Name = Rival
+Name = Rivale
 Gender = Male
 BaseMoney = 36
 #-------------------------------
 [AROMALADY]
-Name = Aroma Lady
+Name = Aromalady
 Gender = Female
 BaseMoney = 32
 #-------------------------------
 [BEAUTY]
-Name = Beauty
+Name = Schönheit
 Gender = Female
 BaseMoney = 56
 #-------------------------------
@@ -46,43 +46,43 @@ Gender = Male
 BaseMoney = 32
 #-------------------------------
 [BIRDKEEPER]
-Name = Bird Keeper
+Name = Vogel Profi
 Gender = Male
 BaseMoney = 32
 #-------------------------------
 [BUGCATCHER]
-Name = Bug Catcher
+Name = Käfersammler
 Gender = Male
 BaseMoney = 16
 #-------------------------------
 [BURGLAR]
-Name = Burglar
+Name = Dieb
 Gender = Male
 BaseMoney = 88
 SkillLevel = 32
 #-------------------------------
 [CHANELLER]
-Name = Channeler
+Name = Exorzistin
 Gender = Female
 BaseMoney = 32
 #-------------------------------
 [CUEBALL]
-Name = Cue Ball
+Name = Raufbold
 Gender = Male
 BaseMoney = 24
 #-------------------------------
 [ENGINEER]
-Name = Engineer
+Name = Elektriker
 Gender = Male
 BaseMoney = 48
 #-------------------------------
 [FISHERMAN]
-Name = Fisherman
+Name = Angler
 Gender = Male
 BaseMoney = 32
 #-------------------------------
 [GAMBLER]
-Name = Gambler
+Name = Rollenspieler
 Gender = Male
 BaseMoney = 72
 SkillLevel = 32
@@ -93,12 +93,12 @@ Gender = Male
 BaseMoney = 72
 #-------------------------------
 [HIKER]
-Name = Hiker
+Name = Wanderer
 Gender = Male
 BaseMoney = 32
 #-------------------------------
 [JUGGLER]
-Name = Juggler
+Name = Jongleur
 Gender = Male
 BaseMoney = 32
 #-------------------------------
@@ -109,17 +109,17 @@ BaseMoney = 160
 SkillLevel = 72
 #-------------------------------
 [PAINTER]
-Name = Painter
+Name = Artist
 Gender = Female
 BaseMoney = 16
 #-------------------------------
 [POKEMANIAC]
-Name = Poké Maniac
+Name = Pokémaniac
 Gender = Male
 BaseMoney = 64
 #-------------------------------
 [POKEMONBREEDER]
-Name = Pokémon Breeder
+Name = Pokémon-Züchter
 Gender = Female
 BaseMoney = 48
 #-------------------------------
@@ -134,37 +134,37 @@ Gender = Male
 BaseMoney = 24
 #-------------------------------
 [RUINMANIAC]
-Name = Ruin Maniac
+Name = Ruinenmaniac
 Gender = Male
 BaseMoney = 48
 #-------------------------------
 [SAILOR]
-Name = Sailor
+Name = Matrose
 Gender = Male
 BaseMoney = 32
 #-------------------------------
 [SCIENTIST]
-Name = Scientist
+Name = Forscher
 Gender = Male
 BaseMoney = 48
 #-------------------------------
 [SUPERNERD]
-Name = Super Nerd
+Name = Tüftler
 Gender = Male
 BaseMoney = 48
 #-------------------------------
 [TAMER]
-Name = Tamer
+Name = Dompteur
 Gender = Male
 BaseMoney = 40
 #-------------------------------
 [BLACKBELT]
-Name = Black Belt
+Name = Schwarzgurt
 Gender = Male
 BaseMoney = 32
 #-------------------------------
 [CRUSHGIRL]
-Name = Crush Girl
+Name = Mühlensippe
 Gender = Female
 BaseMoney = 24
 #-------------------------------
@@ -174,7 +174,7 @@ Gender = Male
 BaseMoney = 16
 #-------------------------------
 [PICNICKER]
-Name = Picnicker
+Name = Picknickerin
 Gender = Female
 BaseMoney = 16
 #-------------------------------
@@ -184,60 +184,60 @@ Gender = Male
 BaseMoney = 60
 #-------------------------------
 [COOLTRAINER_F]
-Name = Cool Trainer
+Name = Ass Trainerin
 Gender = Female
 BaseMoney = 60
 #-------------------------------
 [YOUNGSTER]
-Name = Youngster
+Name = Knirps
 Gender = Male
 BaseMoney = 16
 #-------------------------------
 [LASS]
-Name = Lass
+Name = Göre
 Gender = Female
 BaseMoney = 16
 #-------------------------------
 [POKEMONRANGER_M]
-Name = Pokémon Ranger
+Name = Pokémon-Ranger
 Gender = Male
 BaseMoney = 60
 #-------------------------------
 [POKEMONRANGER_F]
-Name = Pokémon Ranger
+Name = Pokémon-Rangerin
 Gender = Female
 BaseMoney = 60
 #-------------------------------
 [PSYCHIC_M]
-Name = Psychic
+Name = Psycho
 Gender = Male
 BaseMoney = 32
 #-------------------------------
 [PSYCHIC_F]
-Name = Psychic
+Name = Psycho
 Gender = Female
 BaseMoney = 32
 #-------------------------------
 [SWIMMER_M]
-Name = Swimmer
+Name = Schwimmer
 Gender = Male
 BaseMoney = 16
 SkillLevel = 32
 #-------------------------------
 [SWIMMER_F]
-Name = Swimmer
+Name = Schwimmerin
 Gender = Female
 BaseMoney = 16
 SkillLevel = 32
 #-------------------------------
 [SWIMMER2_M]
-Name = Swimmer
+Name = Schwimmer
 Gender = Male
 BaseMoney = 16
 SkillLevel = 32
 #-------------------------------
 [SWIMMER2_F]
-Name = Swimmer
+Name = Schwimmerin
 Gender = Female
 BaseMoney = 16
 SkillLevel = 32
@@ -255,41 +255,41 @@ BaseMoney = 4
 SkillLevel = 16
 #-------------------------------
 [TUBER2_M]
-Name = Tuber
+Name = Planscher
 Gender = Male
 BaseMoney = 4
 SkillLevel = 16
 #-------------------------------
 [TUBER2_F]
-Name = Tuber
+Name = Planscherin
 Gender = Female
 BaseMoney = 4
 SkillLevel = 16
 #-------------------------------
 [COOLCOUPLE]
-Name = Cool Couple
+Name = Primapaar
 Gender = Unknown
 BaseMoney = 72
 SkillLevel = 48
 #-------------------------------
 [CRUSHKIN]
-Name = Crush Kin
+Name = Mühlensippe
 Gender = Unknown
 BaseMoney = 48
 #-------------------------------
 [SISANDBRO]
-Name = Sis and Bro
+Name = Geschwister
 Gender = Unknown
 BaseMoney = 16
 SkillLevel = 48
 #-------------------------------
 [TWINS]
-Name = Twins
+Name = Zwillinge
 Gender = Unknown
 BaseMoney = 24
 #-------------------------------
 [YOUNGCOUPLE]
-Name = Young Couple
+Name = Junges Glück
 Gender = Unknown
 BaseMoney = 60
 SkillLevel = 32
@@ -310,91 +310,91 @@ Gender = Male
 BaseMoney = 100
 #-------------------------------
 [LEADER_Brock]
-Name = Gym Leader
+Name = Arena Leiter
 Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Gym Leader
 VictoryBGM = Battle victory leader
 #-------------------------------
 [LEADER_Misty]
-Name = Gym Leader
+Name = Arena Leiterin
 Gender = Female
 BaseMoney = 100
 BattleBGM = Battle Gym Leader
 VictoryBGM = Battle victory leader
 #-------------------------------
 [LEADER_Surge]
-Name = Gym Leader
+Name = Arena Leiter
 Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Gym Leader
 VictoryBGM = Battle victory leader
 #-------------------------------
 [LEADER_Erika]
-Name = Gym Leader
+Name = Arena Leiterin
 Gender = Female
 BaseMoney = 100
 BattleBGM = Battle Gym Leader
 VictoryBGM = Battle victory leader
 #-------------------------------
 [LEADER_Koga]
-Name = Gym Leader
+Name = Arena Leiter
 Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Gym Leader
 VictoryBGM = Battle victory leader
 #-------------------------------
 [LEADER_Sabrina]
-Name = Gym Leader
+Name = Arena Leiterin
 Gender = Female
 BaseMoney = 100
 BattleBGM = Battle Gym Leader
 VictoryBGM = Battle victory leader
 #-------------------------------
 [LEADER_Blaine]
-Name = Gym Leader
+Name = Arena Leiter
 Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Gym Leader
 VictoryBGM = Battle victory leader
 #-------------------------------
 [LEADER_Giovanni]
-Name = Gym Leader
+Name = Arena Leiter
 Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Gym Leader
 VictoryBGM = Battle victory leader
 #-------------------------------
 [ELITEFOUR_Lorelei]
-Name = Elite Four
+Name = Top 4
 Gender = Female
 BaseMoney = 100
 BattleBGM = Battle Elite
 VictoryBGM = Battle victory leader
 #-------------------------------
 [ELITEFOUR_Bruno]
-Name = Elite Four
+Name = Top 4
 Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Elite
 VictoryBGM = Battle victory leader
 #-------------------------------
 [ELITEFOUR_Agatha]
-Name = Elite Four
+Name = Top 4
 Gender = Female
 BaseMoney = 100
 BattleBGM = Battle Elite
 VictoryBGM = Battle victory leader
 #-------------------------------
 [ELITEFOUR_Lance]
-Name = Elite Four
+Name = Top 4
 Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Elite
 VictoryBGM = Battle victory leader
 #-------------------------------
 [CHAMPION]
-Name = Champion
+Name = Champ
 Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Champion
