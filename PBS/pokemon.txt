@@ -1927,7 +1927,7 @@ Color = Blue
 Shape = Multiped
 Habitat = Sea
 Category = Quallen
-Pokedex = Tentoxa hat große, rote Kugeln auf seinem Kopf. Sie glühen auf, bevor sie seine Gegner mit Ultraschall erschüttern. Ein Ausbruch dieses Pokémon erzeugt starke Wellen in seiner Umgebung.
+Pokedex = Tentoxa hat große, rote Kugeln auf seinem Kopf. Sie glühen auf, bevor sie seine Gegner mit Ultraschall erschüttern. 
 Generation = 1
 WildItemUncommon = POISONBARB
 #-------------------------------
@@ -1954,7 +1954,7 @@ Color = Brown
 Shape = HeadArms
 Habitat = Mountain
 Category = Gesteins
-Pokedex = Je länger ein Kleinstein lebt, desto mehr wird seine raue Oberfläche abgeschliffen, sodass es runder wird. Das Herz dieses Pokémon bleibt aber für immer versteinert, hart und rau.
+Pokedex = Je länger ein Kleinstein lebt, desto mehr wird seine raue Oberfläche abgeschliffen, sodass es runder wird.
 Generation = 1
 WildItemUncommon = EVERSTONE
 Evolutions = GRAVELER,Level,25
