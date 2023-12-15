@@ -466,7 +466,7 @@ Category = Vogel
 Pokedex = Dieses POKéMON schnellt bei der Jagd blitzschnell unter Wasser, um seine ahnungslose Beute zu fangen.
 Generation = 1
 #-------------------------------
-[Rattfratz]
+[RATTATA]
 Name = Rattfratz
 Types = NORMAL
 BaseStats = 30,56,35,72,25,35
@@ -1822,8 +1822,7 @@ Color = Green
 Shape = Bipedal
 Habitat = Forest
 Category = Blumen
-Pokedex = 
-Knofensas schlanker und elastischer Körper ermöglicht es ihm, jedem Angriff auszuweichen, so heftig dieser auch sein mag. 
+Pokedex = Knofensas schlanker und elastischer Körper ermöglicht es ihm, jedem Angriff auszuweichen, so heftig dieser auch sein mag. 
 Generation = 1
 Evolutions = WEEPINBELL,Level,21
 #-------------------------------
