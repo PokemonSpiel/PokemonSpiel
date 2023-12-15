@@ -2644,12 +2644,12 @@ Color = Red
 Shape = Head
 Habitat = Urban
 Category = Ball
-Pokedex = Als man dieses POKéMON erforschte, fand man heraus, dass seine Teile nicht natürlich sind.
+Pokedex = Als man dieses Pokémon erforschte, fand man heraus, dass seine Teile nicht natürlich sind.
 Generation = 1
 Evolutions = ELECTRODE,Level,30
 #-------------------------------
 [ELECTRODE]
-Name = Electrode
+Name = Lektrobal
 Types = ELECTRIC
 BaseStats = 60,50,70,150,80,80
 GenderRatio = Genderless
@@ -2670,11 +2670,11 @@ Color = Red
 Shape = Head
 Habitat = Urban
 Category = Ball
-Pokedex = They appear in great numbers at electric power plants. Because they feed on electricity, they cause massive and chaotic blackouts in nearby cities.
+Pokedex = Je länger es sich auflädt, desto schneller ist es. Dadurch steigt das Risiko, frühzeitig zu explodieren.
 Generation = 1
 #-------------------------------
 [EXEGGCUTE]
-Name = Exeggcute
+Name = Owei
 Types = GRASS,PSYCHIC
 BaseStats = 60,40,80,40,60,45
 GenderRatio = Female50Percent
@@ -2695,14 +2695,14 @@ Weight = 2.5
 Color = Pink
 Shape = MultiBody
 Habitat = Forest
-Category = Egg
-Pokedex = It consists of six eggs that care for each other. The eggs attract each other and spin around. When cracks increasingly appear, it is close to evolution.
+Category = Ei
+Pokedex = Selbst wenn sie getrennt werden, kommen sie auf Grund ihres Energiebundes sofort wieder zusammen.
 Generation = 1
 WildItemUncommon = PSYCHICSEED
 Evolutions = EXEGGUTOR,Item,LEAFSTONE
 #-------------------------------
 [EXEGGUTOR]
-Name = Exeggutor
+Name = Kokowei
 Types = GRASS,PSYCHIC
 BaseStats = 95,95,85,55,125,75
 GenderRatio = Female50Percent
@@ -2722,12 +2722,12 @@ Weight = 120.0
 Color = Yellow
 Shape = HeadLegs
 Habitat = Forest
-Category = Coconut
-Pokedex = Originally from the tropics, Exeggutor's heads grow larger with exposure to bright sunlight. It is said that when the heads fall, they group to form an Exeggcute.
+Category = Palmfrucht
+Pokedex = Fühlt es sich wohl, wachsen ihm Köpfe. Fällt ein Kopf zu Boden, wird daraus ein Owei.
 Generation = 1
 #-------------------------------
 [CUBONE]
-Name = Cubone
+Name = Tragosso
 Types = GROUND
 BaseStats = 50,50,95,35,40,50
 GenderRatio = Female50Percent
@@ -2748,14 +2748,14 @@ Weight = 6.5
 Color = Brown
 Shape = BipedalTail
 Habitat = Mountain
-Category = Lonely
-Pokedex = It pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull it wears are from its tears.
+Category = Einsam
+Pokedex = Es hat seine Mutter bei der Geburt verloren. Seitdem trägt es ihren Schädel und zeigt nie sein Gesicht.
 Generation = 1
 WildItemUncommon = THICKCLUB
 Evolutions = MAROWAK,Level,28
 #-------------------------------
 [MAROWAK]
-Name = Marowak
+Name = Knogga
 Types = GROUND
 BaseStats = 60,80,110,45,50,80
 GenderRatio = Female50Percent
@@ -2775,13 +2775,13 @@ Weight = 45.0
 Color = Brown
 Shape = BipedalTail
 Habitat = Mountain
-Category = Bone Keeper
-Pokedex = A Marowak is the evolved form of a Cubone that has grown tough by overcoming the grief of losing its mother. Its tempered and hardened spirit is not easily broken.
+Category = Knochenfan
+Pokedex = Irgendwo gibt es einen Friedhof nur für Knogga. Von dort holt es sich immer seine Knochen.
 Generation = 1
 WildItemUncommon = THICKCLUB
 #-------------------------------
 [HITMONLEE]
-Name = Hitmonlee
+Name = Kicklee
 Types = FIGHTING
 BaseStats = 50,120,53,87,35,110
 GenderRatio = AlwaysMale
@@ -2801,12 +2801,12 @@ Weight = 49.8
 Color = Brown
 Shape = Bipedal
 Habitat = Urban
-Category = Kicking
-Pokedex = Its legs freely stretch and contract. Using these springlike limbs, it bowls over foes with devastating kicks. After battle, it rubs down its tired legs.
+Category = Kicker
+Pokedex = Man nennt es auch den Kick Master. Mit seinen beweglichen Beinen beherrscht es jeden denkbaren Tritt.
 Generation = 1
 #-------------------------------
 [HITMONCHAN]
-Name = Hitmonchan
+Name = Nockchan
 Types = FIGHTING
 BaseStats = 50,105,79,76,35,110
 GenderRatio = AlwaysMale
@@ -2826,12 +2826,12 @@ Weight = 50.2
 Color = Brown
 Shape = Bipedal
 Habitat = Urban
-Category = Punching
-Pokedex = A Hitmonchan is said to possess the spirit of a boxer who aimed to become the world champion. Having an indomitable spirit means that it will never give up.
+Category = Puncher
+Pokedex = Um seine Schlagkraft noch zu erhöhen, wirbelt es kurz, bevor es zuschlägt, mit seinen Armen.
 Generation = 1
 #-------------------------------
 [LICKITUNG]
-Name = Lickitung
+Name = Schlurp
 Types = NORMAL
 BaseStats = 90,55,75,30,60,75
 GenderRatio = Female50Percent
@@ -2852,14 +2852,14 @@ Weight = 65.5
 Color = Pink
 Shape = BipedalTail
 Habitat = Grassland
-Category = Licking
-Pokedex = Whenever it sees something unfamiliar, it always licks the object because it memorizes things by texture and taste. It is somewhat put off by sour things.
+Category = Schlecker
+Pokedex = Seine Zunge ist über 2 m lang. Es setzt sie ein, um seinen gesamten Körper sauber zu lecken.
 Generation = 1
 WildItemUncommon = LAGGINGTAIL
 Evolutions = LICKILICKY,HasMove,ROLLOUT
 #-------------------------------
 [KOFFING]
-Name = Koffing
+Name = Smogon
 Types = POISON
 BaseStats = 40,65,95,35,60,45
 GenderRatio = Female50Percent
@@ -2880,14 +2880,14 @@ Weight = 1.0
 Color = Purple
 Shape = Head
 Habitat = Urban
-Category = Poison Gas
-Pokedex = Getting up close to a Koffing will give you a chance to observe, through its thin skin, the toxic gases swirling inside. It blows up at the slightest stimulation.
+Category = Giftwolken
+Pokedex = Ist man nahe bei ihm, wenn es Giftgas ablässt, kann man die Luftverwirbelungen im Inneren erkennen.
 Generation = 1
 WildItemUncommon = SMOKEBALL
 Evolutions = WEEZING,Level,35
 #-------------------------------
 [WEEZING]
-Name = Weezing
+Name = Smogmog
 Types = POISON
 BaseStats = 65,90,120,60,85,70
 GenderRatio = Female50Percent
@@ -2907,13 +2907,13 @@ Weight = 9.5
 Color = Purple
 Shape = MultiBody
 Habitat = Urban
-Category = Poison Gas
-Pokedex = By diluting its toxic gases with a special process, the highest grade of perfume can be made. To Weezing, gases emanating from garbage are the ultimate feast.
+Category = Giftwolken
+Pokedex = Atmet es Giftgase von Abfällen ein, bläht es sich auf und seine Innereien riechen noch schlimmer.
 Generation = 1
 WildItemUncommon = SMOKEBALL
 #-------------------------------
 [RHYHORN]
-Name = Rhyhorn
+Name = Rihorn
 Types = GROUND,ROCK
 BaseStats = 80,85,95,25,30,30
 GenderRatio = Female50Percent
@@ -2934,13 +2934,13 @@ Weight = 115.0
 Color = Gray
 Shape = Quadruped
 Habitat = RoughTerrain
-Category = Spikes
-Pokedex = Once it starts running, it doesn't stop. Its tiny brain makes it so stupid that it can't remember why it started running in the first place.
+Category = Stachler
+Pokedex = Es kann sich immer nur eine Sache merken. Hat es erst angefangen zu laufen, hat es vergessen warum.
 Generation = 1
 Evolutions = RHYDON,Level,42
 #-------------------------------
 [RHYDON]
-Name = Rhydon
+Name = Rizeros
 Types = GROUND,ROCK
 BaseStats = 105,130,120,40,45,45
 GenderRatio = Female50Percent
@@ -2960,13 +2960,13 @@ Weight = 120.0
 Color = Gray
 Shape = BipedalTail
 Habitat = RoughTerrain
-Category = Drill
-Pokedex = Its horn, which rotates like a drill, destroys tall buildings with one strike. It stands on its hind legs, and its brain is well developed.
+Category = Bohrer
+Pokedex = Wenn es sein bohrerähnliches Horn dreht, kann es sogar einen Rohdiamanten leicht zerschmettern.
 Generation = 1
 Evolutions = RHYPERIOR,TradeItem,PROTECTOR
 #-------------------------------
 [CHANSEY]
-Name = Chansey
+Name = Chaneira
 Types = NORMAL
 BaseStats = 250,5,5,50,35,105
 GenderRatio = AlwaysFemale
@@ -2987,8 +2987,8 @@ Weight = 34.6
 Color = Pink
 Shape = BipedalTail
 Habitat = Urban
-Category = Egg
-Pokedex = Chansey lay nutritionally excellent eggs every day. The eggs are so delicious, they are eagerly devoured by even those who have lost their appetite.
+Category = Ei
+Pokedex = Die Menschen versuchen es wegen seiner nahrhaften Eier zu fangen. Aber es ist selten zu finden.
 Generation = 1
 WildItemCommon = LUCKYPUNCH
 Evolutions = BLISSEY,Happiness,
@@ -3015,13 +3015,13 @@ Weight = 35.0
 Color = Blue
 Shape = HeadLegs
 Habitat = Grassland
-Category = Vine
-Pokedex = Its vines snap off easily and painlessly if they are grabbed, allowing it to make a quick getaway. The lost vines are replaced by new growth the very next day.
+Category = Ranken
+Pokedex = Im Kampf bewegt es stets die Ranken, die seinen Körper bedecken, um seinen Gegner aufzuregen.
 Generation = 1
 Evolutions = TANGROWTH,HasMove,ANCIENTPOWER
 #-------------------------------
 [KANGASKHAN]
-Name = Kangaskhan
+Name = Kangama
 Types = NORMAL
 BaseStats = 105,95,80,90,40,80
 GenderRatio = AlwaysFemale
@@ -3042,12 +3042,12 @@ Weight = 80.0
 Color = Brown
 Shape = BipedalTail
 Habitat = Grassland
-Category = Parent
-Pokedex = If you come across a young Kangaskhan playing by itself, never try to catch it. The baby's parent is sure to be in the area, and it will become violently enraged.
+Category = Muttertier
+Pokedex = Da es sein Baby, das in seinem Beutel sitzt, nicht verletzen will, schläft es im Stehen.
 Generation = 1
 #-------------------------------
 [HORSEA]
-Name = Horsea
+Name = Seeper
 Types = WATER
 BaseStats = 30,40,70,60,70,25
 GenderRatio = Female50Percent
@@ -3068,14 +3068,14 @@ Weight = 8.0
 Color = Blue
 Shape = HeadBase
 Habitat = Sea
-Category = Dragon
-Pokedex = By cleverly flicking the fins on its back side to side, it moves in any direction while facing forward. It spits ink to escape if it senses danger.
+Category = Drachen
+Pokedex = Sind sie an einem sicheren Ort, kann man beobachten, dass sie ihre Schwanzflossen verheddern.
 Generation = 1
 WildItemUncommon = DRAGONSCALE
 Evolutions = SEADRA,Level,32
 #-------------------------------
 [SEADRA]
-Name = Seadra
+Name = Seemon
 Types = WATER
 BaseStats = 55,65,95,85,95,45
 GenderRatio = Female50Percent
@@ -3095,14 +3095,14 @@ Weight = 25.0
 Color = Blue
 Shape = HeadBase
 Habitat = Sea
-Category = Dragon
-Pokedex = The poisonous barbs all over its body are highly valued as ingredients for making traditional herbal medicine. It shows no mercy to anything approaching its nest.
+Category = Drachen
+Pokedex = Der Vater zieht das Junge auf. Bemerkt es einen Fremden, setzt es Giftstacheln ein, um ihn abzuwehren.
 Generation = 1
 WildItemUncommon = DRAGONSCALE
 Evolutions = KINGDRA,TradeItem,DRAGONSCALE
 #-------------------------------
 [GOLDEEN]
-Name = Goldeen
+Name = Goldini
 Types = WATER
 BaseStats = 45,67,60,63,35,50
 GenderRatio = Female50Percent
@@ -3123,14 +3123,14 @@ Weight = 15.0
 Color = Red
 Shape = Finned
 Habitat = WatersEdge
-Category = Goldfish
-Pokedex = In the springtime, schools of Goldeen can be seen swimming up falls and rivers. It metes out staggering damage with its single horn.
+Category = Goldfisch
+Pokedex = Während der Laichzeit schwimmen sie grazil im Wasser und sind auf der Suche nach dem perfekten Partner.
 Generation = 1
 WildItemUncommon = MYSTICWATER
 Evolutions = SEAKING,Level,33
 #-------------------------------
 [SEAKING]
-Name = Seaking
+Name = Golking
 Types = WATER
 BaseStats = 80,92,65,68,65,80
 GenderRatio = Female50Percent
@@ -3150,13 +3150,13 @@ Weight = 39.0
 Color = Red
 Shape = Finned
 Habitat = WatersEdge
-Category = Goldfish
-Pokedex = It punches holes in boulders on stream- beds. This is a clever innovation that prevents its eggs from being attacked or washed away by the current.
+Category = Goldfisch
+Pokedex = Im Herbst bewachen die Männchen das Gebiet um ihren Laich, um den Nachwuchs zu beschützen.
 Generation = 1
 WildItemUncommon = MYSTICWATER
 #-------------------------------
 [STARYU]
-Name = Staryu
+Name = Sterndu
 Types = WATER
 BaseStats = 30,45,55,85,70,55
 GenderRatio = Genderless
@@ -3176,8 +3176,8 @@ Weight = 34.5
 Color = Brown
 Shape = HeadBase
 Habitat = Sea
-Category = Star Shape
-Pokedex = It gathers with others in the night and makes its red core glow on and off with the twinkling stars. It can regenerate limbs if they are severed from its body.
+Category = Sternform
+Pokedex = Leuchten die Sterne in der Nacht, verlässt es den Meeresgrund und der Kern in seinem Inneren blinkt.
 Generation = 1
 WildItemCommon = STARDUST
 WildItemUncommon = STARPIECE
@@ -3204,14 +3204,14 @@ Weight = 80.0
 Color = Purple
 Shape = HeadBase
 Habitat = Sea
-Category = Mysterious
-Pokedex = People in ancient times imagined that Starmie were transformed from the reflections of stars that twinkled on gentle waves at night.
+Category = Mysteriös
+Pokedex = Man sagt, es setzt den 7farbigen Kern seines Körpers ein, um Elektrizitätswellen ins All zu senden.
 Generation = 1
 WildItemCommon = STARDUST
 WildItemUncommon = STARPIECE
 #-------------------------------
 [MRMIME]
-Name = Mr. Mime
+Name = Pantimos
 Types = PSYCHIC,FAIRY
 BaseStats = 40,45,65,90,100,120
 GenderRatio = Female50Percent
@@ -3232,13 +3232,13 @@ Weight = 54.5
 Color = Pink
 Shape = Bipedal
 Habitat = Urban
-Category = Barrier
-Pokedex = A Mr. Mime is a master of pantomime. It can convince others that something unseeable actually exists. Once believed, the imaginary object does become real.
+Category = Sperren
+Pokedex = Es setzt die mystische Kraft seiner Finger ein, um durch Kompression eine unsichtbare Wand zu errichten.
 Generation = 1
 Evolutions = MRRIME,None,
 #-------------------------------
 [SCYTHER]
-Name = Scyther
+Name = Sichlor
 Types = BUG,FLYING
 BaseStats = 70,110,80,105,55,80
 GenderRatio = Female50Percent
@@ -3260,12 +3260,12 @@ Color = Green
 Shape = MultiWinged
 Habitat = Grassland
 Category = Mantis
-Pokedex = Its blindingly fast speed adds to the sharpness of its twin forearm scythes. The scythes can slice through thick logs in one wicked stroke.
+Pokedex = Es ist sehr stolz auf seine Schnelligkeit. Es ist so schnell, dass der Feind nicht sieht, wer ihn trifft.
 Generation = 1
 Evolutions = SCIZOR,TradeItem,METALCOAT
 #-------------------------------
 [JYNX]
-Name = Jynx
+Name = Rossana
 Types = ICE,PSYCHIC
 BaseStats = 65,50,35,95,115,95
 GenderRatio = AlwaysFemale
@@ -3285,12 +3285,12 @@ Weight = 40.6
 Color = Red
 Shape = Bipedal
 Habitat = Urban
-Category = Human Shape
-Pokedex = A Jynx sashays rhythmically as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without noticing.
+Category = Humanotyp
+Pokedex = Es stößt unterschiedliche Rufe aus. Es scheint, dass jeder Ruf eine andere Bedeutung hat.
 Generation = 1
 #-------------------------------
 [ELECTABUZZ]
-Name = Electabuzz
+Name = Elektek
 Types = ELECTRIC
 BaseStats = 65,83,57,105,95,85
 GenderRatio = Female25Percent
@@ -3310,8 +3310,8 @@ Weight = 30.0
 Color = Yellow
 Shape = BipedalTail
 Habitat = Grassland
-Category = Electric
-Pokedex = When a storm approaches, it competes with others to scale heights that are likely to be stricken by lightning. Some towns use Electabuzz as lightning rods.
+Category = Elektro
+Pokedex = Berühren sich zwei Elektek, tauschen sie über den Fluss der Elektrizität ihre Gefühlsregungen aus.
 Generation = 1
 WildItemUncommon = ELECTIRIZER
 Evolutions = ELECTIVIRE,TradeItem,ELECTIRIZER
@@ -3337,8 +3337,8 @@ Weight = 44.5
 Color = Red
 Shape = BipedalTail
 Habitat = Mountain
-Category = Spitfire
-Pokedex = In battle, it blows out intense flames from all over its body to intimidate its foe. These fiery bursts create heat waves that ignite grass and trees.
+Category = Brenner
+Pokedex = Man trifft es häufiger in warmen Gebieten. Es heilt seine Wunden, indem es sie in Lava taucht.
 Generation = 1
 WildItemUncommon = MAGMARIZER
 Evolutions = MAGMORTAR,TradeItem,MAGMARIZER
@@ -3365,8 +3365,8 @@ Weight = 55.0
 Color = Brown
 Shape = Bipedal
 Habitat = Forest
-Category = Stag Beetle
-Pokedex = Their pincers are strong enough to shatter thick logs. Because they dislike cold, Pinsir burrow and sleep under the ground on chilly nights.
+Category = Kneifkäfer
+Pokedex = Sinkt nachts die Temperatur, sucht es sich ein Versteck in Baumkronen oder unter Wurzeln.
 Generation = 1
 #-------------------------------
 [TAUROS]
@@ -3390,12 +3390,12 @@ Weight = 88.4
 Color = Brown
 Shape = Quadruped
 Habitat = Grassland
-Category = Wild Bull
-Pokedex = It is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself.
+Category = Wildbullen
+Pokedex = Diese aggressiven Pokémon kämpfen mit anderen aus ihrer Herde, um ihre Stärke zu beweisen.
 Generation = 1
 #-------------------------------
 [MAGIKARP]
-Name = Magikarp
+Name = Karpador
 Types = WATER
 BaseStats = 20,10,55,80,15,20
 GenderRatio = Female50Percent
@@ -3415,13 +3415,13 @@ Weight = 10.0
 Color = Red
 Shape = Finned
 Habitat = WatersEdge
-Category = Fish
-Pokedex = Its swimming muscles are weak, so it is easily washed away by currents. In places where water pools, you can see many Magikarp deposited there by the flow.
+Category = Fisch
+Pokedex = Dieses schwache und lethargische Pokémon wird leicht von Flussströmungen mitgerissen.
 Generation = 1
 Evolutions = GYARADOS,Level,20
 #-------------------------------
 [GYARADOS]
-Name = Gyarados
+Name = Garados
 Types = WATER,FLYING
 BaseStats = 95,125,79,81,60,100
 GenderRatio = Female50Percent
@@ -3441,8 +3441,8 @@ Weight = 235.0
 Color = Blue
 Shape = Serpentine
 Habitat = WatersEdge
-Category = Atrocious
-Pokedex = It is an extremely vicious and violent Pokémon. When humans begin to fight, it will appear and burn everything to the ground with intensely hot flames.
+Category = Grausam
+Pokedex = Es taucht auf, wenn es eine weltweite Krise gibt und brennt jeden Ort nieder, den es passiert.
 Generation = 1
 #-------------------------------
 [LAPRAS]
@@ -3468,7 +3468,7 @@ Color = Blue
 Shape = Finned
 Habitat = Sea
 Category = Transport
-Pokedex = People have driven Lapras almost to the point of extinction. In the evenings, it is said to sing plaintively as it seeks what few others of its kind still remain.
+Pokedex = Dieses gutmütige Pokémon nimmt gerne Menschen mit und ist somit ein komfortables Fortbewegungsmittel.
 Generation = 1
 WildItemCommon = MYSTICWATER
 WildItemUncommon = MYSTICWATER
@@ -3495,13 +3495,13 @@ Color = Purple
 Shape = Head
 Habitat = Urban
 Category = Transform
-Pokedex = A Ditto rearranges its cell structure to transform itself. However, if it tries to change based on its memory, it will get details wrong.
+Pokedex = Trifft es auf ein anderes Ditto, bewegt es sich schneller als gewöhnlich, um es exakt nachzuahmen.
 Generation = 1
 WildItemCommon = QUICKPOWDER
 WildItemUncommon = METALPOWDER
 #-------------------------------
 [EEVEE]
-Name = Eevee
+Name = Evoli
 Types = NORMAL
 BaseStats = 55,55,50,55,45,65
 GenderRatio = FemaleOneEighth
@@ -3522,13 +3522,13 @@ Weight = 6.5
 Color = Brown
 Shape = Quadruped
 Habitat = Urban
-Category = Evolution
-Pokedex = An Eevee has an unstable genetic makeup that suddenly mutates due to its environment. Radiation from various stones causes this Pokémon to evolve.
+Category = Evolutions
+Pokedex = Da es so viele verschiedene Entwicklungsformen hat, kann es sich jeder Umgebung perfekt anpassen.
 Generation = 1
 Evolutions = VAPOREON,Item,WATERSTONE,JOLTEON,Item,THUNDERSTONE,FLAREON,Item,FIRESTONE,LEAFEON,LocationFlag,MossRock,LEAFEON,Item,LEAFSTONE,GLACEON,LocationFlag,IceRock,GLACEON,Item,ICESTONE,SYLVEON,HappinessMoveType,FAIRY,ESPEON,HappinessDay,,UMBREON,HappinessNight,
 #-------------------------------
 [VAPOREON]
-Name = Vaporeon
+Name = Aquana
 Types = WATER
 BaseStats = 130,65,60,65,110,95
 GenderRatio = FemaleOneEighth
@@ -3548,12 +3548,12 @@ Weight = 29.0
 Color = Blue
 Shape = Quadruped
 Habitat = Urban
-Category = Bubble Jet
-Pokedex = Vaporeon underwent a spontaneous mutation and grew fins and gills that allow them to live underwater. They have the ability to freely control water.
+Category = Blubbblasen
+Pokedex = Da es die Flossen an seinem Schwanzende zum Schwimmen einsetzt, verschmilzt es mit dem Wasser.
 Generation = 1
 #-------------------------------
 [JOLTEON]
-Name = Jolteon
+Name = Blitza
 Types = ELECTRIC
 BaseStats = 65,65,60,130,110,95
 GenderRatio = FemaleOneEighth
@@ -3573,12 +3573,12 @@ Weight = 24.5
 Color = Yellow
 Shape = Quadruped
 Habitat = Urban
-Category = Lightning
-Pokedex = Its cells generate weak power that is amplified by its fur's static electricity to drop thunderbolts. The bristling fur is made of electrically charged needles.
+Category = Blitz
+Pokedex = Die negative Ladung der Ionen in seinem Fell ist die Ursache für das ständige Funkensprunggeräusch.
 Generation = 1
 #-------------------------------
 [FLAREON]
-Name = Flareon
+Name = Flamara
 Types = FIRE
 BaseStats = 65,130,60,65,95,110
 GenderRatio = FemaleOneEighth
@@ -3598,8 +3598,8 @@ Weight = 25.0
 Color = Red
 Shape = Quadruped
 Habitat = Urban
-Category = Flame
-Pokedex = Flareon's fluffy fur releases heat into the air so that its body does not get excessively hot. Its body temperature can rise to a maximum of 1,650 degrees F.
+Category = Feuer
+Pokedex = Hat dieses Pokémon genügend Wärme im Körper gesammelt, kann seine Körpertemperatur 900 Grad C erreichen.
 Generation = 1
 #-------------------------------
 [PORYGON]
@@ -3623,13 +3623,13 @@ Weight = 36.5
 Color = Pink
 Shape = HeadLegs
 Habitat = Urban
-Category = Virtual
-Pokedex = It is capable of reverting itself entirely back to program data in order to enter cyberspace. A Porygon is copy-protected so it cannot be duplicated.
+Category = Virtuell
+Pokedex = Dieses Pokémon ist das Ergebnis vieler Forschungen. Es beherrscht nur, worauf es programmiert wurde.
 Generation = 1
 Evolutions = PORYGON2,TradeItem,UPGRADE
 #-------------------------------
 [OMANYTE]
-Name = Omanyte
+Name = Amonitas
 Types = ROCK,WATER
 BaseStats = 35,40,100,35,90,55
 GenderRatio = FemaleOneEighth
@@ -3650,13 +3650,13 @@ Weight = 7.5
 Color = Blue
 Shape = Multiped
 Habitat = Sea
-Category = Spiral
-Pokedex = One of the ancient and long-since-extinct Pokémon that have been regenerated from fossils by humans. If attacked, it withdraws into its hard shell.
+Category = Spiralen
+Pokedex = In der Vorzeit schwamm es am Meeresgrund und fraß Plankton. Selten gibt es Fossilienfunde.
 Generation = 1
 Evolutions = OMASTAR,Level,40
 #-------------------------------
 [OMASTAR]
-Name = Omastar
+Name = Amoroso
 Types = ROCK,WATER
 BaseStats = 70,60,125,55,115,70
 GenderRatio = FemaleOneEighth
@@ -3676,8 +3676,8 @@ Weight = 35.0
 Color = Blue
 Shape = Multiped
 Habitat = Sea
-Category = Spiral
-Pokedex = An Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large, making its movements slow and ponderous.
+Category = Spiralen
+Pokedex = Seine Schale war so schwer, dass es nur nahe Beute erlegen konnte. Deswegen könnte es ausgestorben sein.
 Generation = 1
 #-------------------------------
 [KABUTO]
@@ -3702,8 +3702,8 @@ Weight = 11.5
 Color = Brown
 Shape = Insectoid
 Habitat = Sea
-Category = Shellfish
-Pokedex = This Pokémon has been regenerated from a fossil. However, in rare cases, living examples have been discovered. Kabuto have not changed for 300 million years.
+Category = Schaltier
+Pokedex = Vor 300 Mio. Jahren versteckte es sich auf dem Meeresgrund. Seine Augen auf dem Rücken leuchten.
 Generation = 1
 Evolutions = KABUTOPS,Level,40
 #-------------------------------
@@ -3728,8 +3728,8 @@ Weight = 40.5
 Color = Brown
 Shape = BipedalTail
 Habitat = Sea
-Category = Shellfish
-Pokedex = Kabutops once swam underwater to hunt for prey. It was apparently evolving from being a water dweller to living on land as evident from changes in its gills and legs.
+Category = Schaltier
+Pokedex = Es konnte sehr schnell schwimmen, da es seine rasiermesserscharfen Sicheln einklappte.
 Generation = 1
 #-------------------------------
 [AERODACTYL]
@@ -3755,11 +3755,11 @@ Color = Purple
 Shape = Winged
 Habitat = Mountain
 Category = Fossil
-Pokedex = Aerodactyl is a Pokémon from the age of dinosaurs. It was regenerated from DNA extracted from amber. It is imagined to have been the king of the skies.
+Pokedex = In der Urzeit flog dieses Pokémon frei und furchtlos durch die Luft.
 Generation = 1
 #-------------------------------
 [SNORLAX]
-Name = Snorlax
+Name = Relaxo
 Types = NORMAL
 BaseStats = 160,110,65,30,65,110
 GenderRatio = FemaleOneEighth
@@ -3780,15 +3780,15 @@ Weight = 460.0
 Color = Black
 Shape = Bipedal
 Habitat = Mountain
-Category = Sleeping
-Pokedex = Snorlax's typical day consists of nothing more than eating and sleeping. It is such a docile Pokémon that there are children who use its big belly as a place to play.
+Category = Tagträumer
+Pokedex = Der Magen dieses Pokémon ist so resistent, dass es sogar Verschimmeltes oder Verdorbenes essen kann.
 Generation = 1
 WildItemCommon = LEFTOVERS
 WildItemUncommon = LEFTOVERS
 WildItemRare = LEFTOVERS
 #-------------------------------
 [ARTICUNO]
-Name = Articuno
+Name = Arktos
 Types = ICE,FLYING
 BaseStats = 90,85,100,85,95,125
 GenderRatio = Genderless
@@ -3808,8 +3808,8 @@ Weight = 55.4
 Color = Blue
 Shape = Winged
 Habitat = Rare
-Category = Freeze
-Pokedex = Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.
+Category = Eis
+Pokedex = Ein legendäres Vogel-Pokémon. Es kühlt die Luft beim Fliegen so stark ab, dass es schneit.
 Generation = 1
 #-------------------------------
 [ZAPDOS]
@@ -3833,12 +3833,12 @@ Weight = 52.6
 Color = Yellow
 Shape = Winged
 Habitat = Rare
-Category = Electric
-Pokedex = Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. It gains power if it is stricken by lightning bolts.
+Category = Elektro
+Pokedex = Ein legendäres Vogel-Pokémon, dessen Flügelschlag Gewitter entfacht, die in Stürmen enden.
 Generation = 1
 #-------------------------------
 [MOLTRES]
-Name = Moltres
+Name = Lavados
 Types = FIRE,FLYING
 BaseStats = 90,100,90,90,125,85
 GenderRatio = Genderless
@@ -3858,8 +3858,8 @@ Weight = 60.0
 Color = Yellow
 Shape = Winged
 Habitat = Rare
-Category = Flame
-Pokedex = Moltres is a legendary bird Pokémon that can control fire. If injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.
+Category = Flammen
+Pokedex = Ein legendäres Vogel-Pokémon. Man sagt, dass es vom Süden kommt und mit dem Frühling fliegt.
 Generation = 1
 #-------------------------------
 [DRATINI]
@@ -3884,14 +3884,14 @@ Weight = 3.3
 Color = Blue
 Shape = Serpentine
 Habitat = WatersEdge
-Category = Dragon
-Pokedex = A Dratini continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels.
+Category = Drachen
+Pokedex = Es häutet sich, um zu wachsen. Währenddessen wird es von einem schnellen Wasserfall beschützt.
 Generation = 1
 WildItemUncommon = DRAGONSCALE
 Evolutions = DRAGONAIR,Level,30
 #-------------------------------
 [DRAGONAIR]
-Name = Dragonair
+Name = Dragonir
 Types = DRAGON
 BaseStats = 61,84,65,70,70,70
 GenderRatio = Female50Percent
@@ -3911,14 +3911,14 @@ Weight = 16.5
 Color = Blue
 Shape = Serpentine
 Habitat = WatersEdge
-Category = Dragon
-Pokedex = A Dragonair stores an enormous amount of energy inside its body. It is said to alter the weather around it by loosing energy from the crystals on its neck and tail.
+Category = Drachen
+Pokedex = Man nennt es das göttliche Pokémon. Wenn sein gesamter Körper ein wenig leuchtet, ändert sich das Wetter.
 Generation = 1
 WildItemUncommon = DRAGONSCALE
 Evolutions = DRAGONITE,Level,55
 #-------------------------------
 [DRAGONITE]
-Name = Dragonite
+Name = Dragoran
 Types = DRAGON,FLYING
 BaseStats = 91,134,95,80,100,100
 GenderRatio = Female50Percent
@@ -3938,13 +3938,13 @@ Weight = 210.0
 Color = Brown
 Shape = BipedalTail
 Habitat = WatersEdge
-Category = Dragon
-Pokedex = It can circle the globe in just 16 hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land.
+Category = Drachen
+Pokedex = Man sagt, dass es irgendwo im Meer eine Insel gibt, auf der sie sich versammeln. Nur sie leben dort.
 Generation = 1
 WildItemUncommon = DRAGONSCALE
 #-------------------------------
 [MEWTWO]
-Name = Mewtwo
+Name = Mewtu
 Types = PSYCHIC
 BaseStats = 106,110,90,130,154,90
 GenderRatio = Genderless
@@ -3964,8 +3964,8 @@ Weight = 122.0
 Color = Purple
 Shape = BipedalTail
 Habitat = Rare
-Category = Genetic
-Pokedex = A Pokémon that was created by genetic manipulation. However, even though the scientific power of humans made its body, they failed to give it a warm heart.
+Category = Genmutanten
+Pokedex = Man sagt, es lebe allein in einer unentdeckten Höhle und dass es nur für den Kampf geschaffen wurde.
 Generation = 1
 #-------------------------------
 [MEW]
@@ -3989,7 +3989,7 @@ Color = Pink
 Shape = BipedalTail
 Habitat = Rare
 Category = Neue Art
-Pokedex = A Mew is said to possess the genes of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.
+Pokedex = Da es jede Attacke erlernen kann, glauben manche Menschen, dass es der Urvater aller Pokémon ist.
 Generation = 1
 WildItemCommon = LUMBERRY
 WildItemUncommon = LUMBERRY
