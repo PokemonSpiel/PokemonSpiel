@@ -18039,7 +18039,7 @@ Pokedex = Using its diamond-shaped crystals, it can instantly create a wall of i
 Generation = 6
 #-------------------------------
 [SYLVEON]
-Name = Sylveon
+Name = Feelinara
 Types = FAIRY
 BaseStats = 95,65,65,60,110,130
 GenderRatio = FemaleOneEighth
@@ -18058,8 +18058,8 @@ Height = 1.0
 Weight = 23.5
 Color = Pink
 Shape = Quadruped
-Category = Intertwining
-Pokedex = Its ribbonlike feelers give off an aura that weakens hostility in its prey, causing them to let down their guard. Then it attacks.
+Category = Bindungs
+Pokedex = Seinen bandförmigen Fühlern lässt es beruhigende Wellen entströmen, die das Ende von Kämpfen herbeiführen.
 Generation = 6
 #-------------------------------
 [HAWLUCHA]
