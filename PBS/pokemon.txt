@@ -1981,13 +1981,13 @@ Color = Brown
 Shape = Bipedal
 Habitat = Mountain
 Category = Gesteins
-Pokedex = They descend from mountains by tumbling down steep slopes. They are so brutal, they smash aside obstructing trees and huge boulders with thunderous tackles.
+Pokedex = Es rollt Bergpfade entlang. Rollt es zu schnell, bremst es ab, indem es gegen gewaltige Felsen rollt.
 Generation = 1
 WildItemUncommon = EVERSTONE
 Evolutions = GOLEM,Trade,
 #-------------------------------
 [GOLEM]
-Name = Golem
+Name = Geowaz
 Types = ROCK,GROUND
 BaseStats = 80,120,130,45,55,65
 GenderRatio = Female50Percent
@@ -2007,13 +2007,13 @@ Weight = 300.0
 Color = Brown
 Shape = Bipedal
 Habitat = Mountain
-Category = Megaton
-Pokedex = It is said to live in volcanic craters on mountain peaks. Once a year, it sheds its hide and grows larger. The shed hide crumbles and returns to the soil.
+Category = Urgesteins
+Pokedex = Sein felsartiger Körper ist so hart, dass selbst Dynamit keine Kratzer in seiner Haut hinterlässt.
 Generation = 1
 WildItemUncommon = EVERSTONE
 #-------------------------------
 [PONYTA]
-Name = Ponyta
+Name = Ponita
 Types = FIRE
 BaseStats = 50,85,55,90,65,65
 GenderRatio = Female50Percent
@@ -2034,13 +2034,13 @@ Weight = 30.0
 Color = Yellow
 Shape = Quadruped
 Habitat = Grassland
-Category = Fire Horse
-Pokedex = A Ponyta is very weak at birth. It can barely stand up. Its legs become stronger as it stumbles and falls while trying to keep up with its parent.
+Category = Feuerpferd
+Pokedex = Das Springen über Gras, das täglich wächst, hat es zu einem Springer von Weltklasse gemacht.
 Generation = 1
 Evolutions = RAPIDASH,Level,40
 #-------------------------------
 [RAPIDASH]
-Name = Rapidash
+Name = Gallopa
 Types = FIRE
 BaseStats = 65,100,70,105,80,80
 GenderRatio = Female50Percent
@@ -2060,12 +2060,12 @@ Weight = 95.0
 Color = Yellow
 Shape = Quadruped
 Habitat = Grassland
-Category = Fire Horse
-Pokedex = It usually canters casually in the fields and plains. But once a Rapidash turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.
+Category = Feuerpferd
+Pokedex = Es liebt zu galoppieren. Je schneller es ist, desto länger sind die Flammen in seiner Mähne.
 Generation = 1
 #-------------------------------
 [SLOWPOKE]
-Name = Slowpoke
+Name = Flegmon
 Types = WATER,PSYCHIC
 BaseStats = 90,65,65,15,40,40
 GenderRatio = Female50Percent
@@ -2086,14 +2086,14 @@ Weight = 36.0
 Color = Pink
 Shape = Quadruped
 Habitat = WatersEdge
-Category = Dopey
-Pokedex = It catches prey by dipping its tail in water at the side of a river. But it often forgets what it is doing and spends whole days just loafing at the water's edge.
+Category = Schnarcher
+Pokedex = Es ist stets geistig abwesend. Daher reagiert es nicht, wenn es in seine leckere Rute gebissen wird.
 Generation = 1
 WildItemUncommon = LAGGINGTAIL
 Evolutions = SLOWBRO,Level,37,SLOWKING,TradeItem,KINGSROCK
 #-------------------------------
 [SLOWBRO]
-Name = Slowbro
+Name = Lahmus
 Types = WATER,PSYCHIC
 BaseStats = 95,75,110,30,100,80
 GenderRatio = Female50Percent
@@ -2113,13 +2113,13 @@ Weight = 78.5
 Color = Pink
 Shape = BipedalTail
 Habitat = WatersEdge
-Category = Hermit Crab
-Pokedex = Its tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This forces it to reluctantly swim and catch prey.
+Category = Symbiose
+Pokedex = Das MUSCHAS an seiner Rute lässt nicht locker, da ein leckerer Geschmack aus seiner Rute strömt.
 Generation = 1
 WildItemUncommon = KINGSROCK
 #-------------------------------
 [MAGNEMITE]
-Name = Magnemite
+Name = Magnetilo
 Types = ELECTRIC,STEEL
 BaseStats = 25,35,70,45,95,55
 GenderRatio = Genderless
@@ -2140,7 +2140,7 @@ Color = Gray
 Shape = HeadArms
 Habitat = RoughTerrain
 Category = Magnet
-Pokedex = The units at its sides are extremely powerful magnets. They generate enough magnetism to draw in iron objects from over 300 feet away.
+Pokedex = Beide Elemente an seinem Körper strahlen so viel Elektrizität ab, dass es ein starker Magnet wird.
 Generation = 1
 WildItemUncommon = METALCOAT
 Evolutions = MAGNETON,Level,30
@@ -2167,13 +2167,13 @@ Color = Gray
 Shape = MultiBody
 Habitat = RoughTerrain
 Category = Magnet
-Pokedex = It is actually three Magnemite linked by magnetism. It generates powerful radio waves that raise temperatures by 3.6 degrees F within a 3,300-foot radius.
+Pokedex = Versammeln sich viele MAGNETON, entsteht ein starkes Magnetfeld, das Radiowellen zerstört.
 Generation = 1
 WildItemUncommon = METALCOAT
 Evolutions = MAGNEZONE,LocationFlag,Magnetic,MAGNEZONE,Item,THUNDERSTONE
 #-------------------------------
 [FARFETCHD]
-Name = Farfetch'd
+Name = Porenta
 Types = NORMAL,FLYING
 BaseStats = 52,90,55,60,58,62
 GenderRatio = Female50Percent
@@ -2194,14 +2194,14 @@ Weight = 15.0
 Color = Brown
 Shape = Winged
 Habitat = Grassland
-Category = Wild Duck
-Pokedex = It is always seen with a stick from a plant. Apparently, there are good sticks and bad sticks. This Pokémon occasionally fights with others over choice sticks.
+Category = Wildenten
+Pokedex = Um sie vor dem Aussterben zu bewahren, haben mehr und mehr Menschen begonnen, sie zu züchten.
 Generation = 1
 WildItemUncommon = LEEK
 Evolutions = SIRFETCHD,None,
 #-------------------------------
 [DODUO]
-Name = Doduo
+Name = Dodu
 Types = NORMAL,FLYING
 BaseStats = 35,85,45,75,35,35
 GenderRatio = Female50Percent
@@ -2222,14 +2222,14 @@ Weight = 39.2
 Color = Brown
 Shape = HeadLegs
 Habitat = Grassland
-Category = Twin Bird
-Pokedex = Even while eating or sleeping, one of the heads remains always vigilant for any sign of danger. When threatened, it flees at over 60 miles per hour.
+Category = Duovogel
+Pokedex = Sein Habitat sind grasige, offene Ebenen. Entdeckt es einen Feind, rennt es mit 100 km/h davon.
 Generation = 1
 WildItemUncommon = SHARPBEAK
 Evolutions = DODRIO,Level,31
 #-------------------------------
 [DODRIO]
-Name = Dodrio
+Name = Dodri
 Types = NORMAL,FLYING
 BaseStats = 60,110,70,110,60,60
 GenderRatio = Female50Percent
@@ -2249,13 +2249,13 @@ Weight = 85.2
 Color = Brown
 Shape = HeadLegs
 Habitat = Grassland
-Category = Triple Bird
-Pokedex = A peculiar Pokémon species with three heads. It vigorously races across grassy plains even in arid seasons with little rainfall.
+Category = Trivogel
+Pokedex = Lässt ein Feind auch nur einen der drei Köpfe für nur eine Sekunde aus den Augen, wird er sofort gepickt.
 Generation = 1
 WildItemUncommon = SHARPBEAK
 #-------------------------------
 [SEEL]
-Name = Seel
+Name = Jurob
 Types = WATER
 BaseStats = 65,45,55,45,45,70
 GenderRatio = Female50Percent
@@ -2276,13 +2276,13 @@ Weight = 90.0
 Color = White
 Shape = Finned
 Habitat = Sea
-Category = Sea Lion
-Pokedex = Seel hunt for prey in frigid, ice-covered seas. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.
+Category = Seehund
+Pokedex = Sein hellblaues Fell schützt es vor Kälte. Es liebt das Schwimmen in Eismeeren.
 Generation = 1
 Evolutions = DEWGONG,Level,34
 #-------------------------------
 [DEWGONG]
-Name = Dewgong
+Name = Jugong
 Types = WATER,ICE
 BaseStats = 90,70,80,70,70,95
 GenderRatio = Female50Percent
@@ -2302,12 +2302,12 @@ Weight = 120.0
 Color = White
 Shape = Finned
 Habitat = Sea
-Category = Sea Lion
-Pokedex = It loves to snooze on bitterly cold ice. The sight of this Pokémon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.
+Category = Seehund
+Pokedex = Tagsüber schläft es in niedrigen Meerestiefen. Nachts, wenn es kalt ist, sucht es nach Nahrung.
 Generation = 1
 #-------------------------------
 [GRIMER]
-Name = Grimer
+Name = Sleima
 Types = POISON
 BaseStats = 80,80,50,25,40,50
 GenderRatio = Female50Percent
@@ -2328,14 +2328,14 @@ Weight = 30.0
 Color = Purple
 Shape = HeadArms
 Habitat = Urban
-Category = Sludge
-Pokedex = Born from polluted sludge in the sea, Grimer's favorite food is anything filthy. They feed on wastewater pumped out from factories.
+Category = Schlamm
+Pokedex = Kombiniert man zwei dieser POKéMON, so entstehen völlig neue Arten von Gift.
 Generation = 1
 WildItemUncommon = BLACKSLUDGE
 Evolutions = MUK,Level,38
 #-------------------------------
 [MUK]
-Name = Muk
+Name = Sleimok
 Types = POISON
 BaseStats = 105,105,75,50,65,100
 GenderRatio = Female50Percent
@@ -2355,13 +2355,13 @@ Weight = 30.0
 Color = Purple
 Shape = HeadArms
 Habitat = Urban
-Category = Sludge
-Pokedex = It prefers warm and humid habitats. In the summertime, the toxic substances in its body intensify, making Muk reek like putrid kitchen garbage.
+Category = Schlamm
+Pokedex = Bei jeder Bewegung tropft Gift aus ihm heraus auf den Boden, der dadurch für drei Jahre verseucht ist.
 Generation = 1
 WildItemCommon = BLACKSLUDGE
 #-------------------------------
 [SHELLDER]
-Name = Shellder
+Name = Muschas
 Types = WATER
 BaseStats = 30,65,100,40,45,25
 GenderRatio = Female50Percent
@@ -2382,15 +2382,15 @@ Weight = 4.0
 Color = Purple
 Shape = Head
 Habitat = Sea
-Category = Bivalve
-Pokedex = At night, it burrows a hole in the seafloor with its broad tongue to make a place to sleep. While asleep, it closes its shell, but leaves its tongue hanging out.
+Category = Muschel
+Pokedex = Da es seine verwundbarste Stelle beim Klammern preisgibt, tut es dies nur in wirklichen Notfällen.
 Generation = 1
 WildItemCommon = PEARL
 WildItemUncommon = BIGPEARL
 Evolutions = CLOYSTER,Item,WATERSTONE
 #-------------------------------
 [CLOYSTER]
-Name = Cloyster
+Name = Austos
 Types = WATER,ICE
 BaseStats = 50,95,180,70,85,45
 GenderRatio = Female50Percent
@@ -2410,14 +2410,14 @@ Weight = 132.5
 Color = Purple
 Shape = Head
 Habitat = Sea
-Category = Bivalve
-Pokedex = It swims in the sea by swallowing water, then jetting it out toward the rear. The Cloyster shoots spikes from its shell using the same system.
+Category = Muschel
+Pokedex = Nicht einmal eine Rakete kann seine Angriffsstacheln zerbrechen. Sie sind härter als seine Schale.
 Generation = 1
 WildItemCommon = PEARL
 WildItemUncommon = BIGPEARL
 #-------------------------------
 [GASTLY]
-Name = Gastly
+Name = Nebulak
 Types = GHOST,POISON
 BaseStats = 30,35,30,80,100,35
 GenderRatio = Female50Percent
@@ -2438,12 +2438,12 @@ Color = Purple
 Shape = Head
 Habitat = Cave
 Category = Gas
-Pokedex = When exposed to a strong wind, a Gastly's gaseous body quickly dwindles away. They cluster under the eaves of houses to escape the ravages of wind.
+Pokedex = Es umwickelt seine Feinde mit seinem Gaskörper und schwächt sie, indem es langsam Gift injiziert.
 Generation = 1
 Evolutions = HAUNTER,Level,25
 #-------------------------------
 [HAUNTER]
-Name = Haunter
+Name = Alpollo
 Types = GHOST,POISON
 BaseStats = 45,50,45,95,115,55
 GenderRatio = Female50Percent
@@ -2463,7 +2463,7 @@ Color = Purple
 Shape = HeadArms
 Habitat = Cave
 Category = Gas
-Pokedex = If a Haunter beckons you while it is floating in darkness, don't approach it. This Pokémon will try to lick you with its tongue and steal your life away.
+Pokedex = Es versteckt sich im Dunkeln und wartet nur darauf, dem nächsten Lebewesen sein Leben auszuhauchen.
 Generation = 1
 Evolutions = GENGAR,Trade,
 #-------------------------------
@@ -2487,8 +2487,8 @@ Weight = 40.5
 Color = Purple
 Shape = BipedalTail
 Habitat = Cave
-Category = Shadow
-Pokedex = Deep in the night, your shadow cast by a streetlight may suddenly overtake you. It is actually a Gengar running past you, pretending to be your shadow.
+Category = Schatten
+Pokedex = Es versteckt sich im Schatten der Menschen und absorbiert deren Wärme, so dass die Menschen frieren.
 Generation = 1
 #-------------------------------
 [ONIX]
@@ -2513,13 +2513,13 @@ Weight = 210.0
 Color = Gray
 Shape = Serpentine
 Habitat = Cave
-Category = Rock Snake
-Pokedex = There is a magnet in its brain that prevents an Onix from losing direction while tunneling. As it grows older, its body becomes steadily rounder and smoother.
+Category = Felsnatter
+Pokedex = Wenn es sich durch die Erde gräbt, nimmt es viele harte Gegenstände auf, die seinen Körper erhärten.
 Generation = 1
 Evolutions = STEELIX,TradeItem,METALCOAT
 #-------------------------------
 [DROWZEE]
-Name = Drowzee
+Name = Traumato
 Types = PSYCHIC
 BaseStats = 60,48,45,42,43,90
 GenderRatio = Female50Percent
@@ -2540,8 +2540,8 @@ Weight = 32.4
 Color = Yellow
 Shape = Bipedal
 Habitat = Grassland
-Category = Hypnosis
-Pokedex = If your nose becomes itchy while you are sleeping, it's a sure sign that a Drowzee is standing above your pillow and trying to eat your dream through your nostrils.
+Category = Hypnose
+Pokedex = Wenn es mit der Nase zuckt, kann es feststellen, wo jemand schläft und was er gerade träumt.
 Generation = 1
 Evolutions = HYPNO,Level,26
 #-------------------------------
@@ -2566,8 +2566,8 @@ Weight = 75.6
 Color = Yellow
 Shape = Bipedal
 Habitat = Grassland
-Category = Hypnosis
-Pokedex = The arcing movement and glitter of the pendulum in a Hypno's hand lull the foe into deep hypnosis. While searching for prey, it polishes the pendulum.
+Category = Hypnose
+Pokedex = Je länger es sein Pendel schwingt, desto länger sind auch die Auswirkungen seiner Hypnose zu spüren.
 Generation = 1
 #-------------------------------
 [KRABBY]
@@ -2592,8 +2592,8 @@ Weight = 6.5
 Color = Red
 Shape = Insectoid
 Habitat = WatersEdge
-Category = River Crab
-Pokedex = Krabby live in holes dug into beaches. On sandy shores with little in the way of food, they can be seen squabbling with each other over territory.
+Category = Krabben
+Pokedex = Findet es keine Nahrung, verschluckt es ein Maul voll Sand und filtert die Nährstoffe heraus.
 Generation = 1
 Evolutions = KINGLER,Level,28
 #-------------------------------
@@ -2618,12 +2618,12 @@ Weight = 60.0
 Color = Red
 Shape = Insectoid
 Habitat = WatersEdge
-Category = Pincer
-Pokedex = It waves its huge, oversized claw in the air to communicate with others. But since the claw is so heavy, this Pokémon quickly tires.
+Category = Kneifer
+Pokedex = Seine Riesenschere ist sehr stark, wenn es aber nicht kämpft, kommt sie ihm häufig in die Quere.
 Generation = 1
 #-------------------------------
 [VOLTORB]
-Name = Voltorb
+Name = Voltobal
 Types = ELECTRIC
 BaseStats = 40,30,50,100,55,55
 GenderRatio = Genderless
@@ -2644,7 +2644,7 @@ Color = Red
 Shape = Head
 Habitat = Urban
 Category = Ball
-Pokedex = It bears an uncanny and unexplained resemblance to a Poké Ball. Because it explodes at the slightest shock, even veteran trainers treat it with caution.
+Pokedex = Als man dieses POKéMON erforschte, fand man heraus, dass seine Teile nicht natürlich sind.
 Generation = 1
 Evolutions = ELECTRODE,Level,30
 #-------------------------------
