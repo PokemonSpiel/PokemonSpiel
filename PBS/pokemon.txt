@@ -22996,5 +22996,5 @@ Weight = 7.7
 Color = Green
 Shape = Bipedal
 Category = King
-Pokedex = Calyrex is a merciful Pokémon, capable of providing healing and blessings. It reigned over the Galar region in times of yore.
+Pokedex = Calyrex a merciful Pokémon, capable of providing healing and blessings. It reigned over the Galar region in times of yore.
 Generation = 8
