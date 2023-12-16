@@ -5278,7 +5278,7 @@ Generation = 2
 Evolutions = MISMAGIUS,Item,DUSKSTONE
 #-------------------------------
 [UNOWN]
-Name = Unown
+Name = Icognito
 Types = PSYCHIC
 BaseStats = 48,72,48,48,72,48
 GenderRatio = Genderless
@@ -5298,12 +5298,12 @@ Color = Black
 Shape = Head
 Habitat = Rare
 Category = Symbol
-Pokedex = This Pokémon is shaped like ancient text characters. Although research is ongoing, it is a mystery as to which came first, the ancient writings or the various Unown.
+Pokedex = Da es so viele unterschiedliche ICOGNITO gibt, glaubt man, sie besäßen verschiedene Fähigkeiten.
 FormName = A
 Generation = 2
 #-------------------------------
 [WOBBUFFET]
-Name = Wobbuffet
+Name = Woingenau
 Types = PSYCHIC
 BaseStats = 190,33,58,33,33,58
 GenderRatio = Female50Percent
@@ -5323,8 +5323,8 @@ Weight = 28.5
 Color = Blue
 Shape = HeadBase
 Habitat = Cave
-Category = Patient
-Pokedex = Usually docile, a Wobbuffet strikes back ferociously if its black tail is attacked. It makes its lair in caves where it waits for nightfall.
+Category = Gedulds
+Pokedex Um seinen schwarzen Schwanz zu verstecken, lebt es in einer Höhle, die es nur nachts verläßt.
 Generation = 2
 #-------------------------------
 [GIRAFARIG]
@@ -5349,12 +5349,12 @@ Weight = 41.5
 Color = Yellow
 Shape = Quadruped
 Habitat = Grassland
-Category = Long Neck
-Pokedex = A Girafarig is an herbivore--it eats grass and tree shoots. While it is eating, its tail makes chewing and swallowing motions as if it were also eating.
+Category = Langhals
+Pokedex = Ist es in Gefahr, setzt sein Schwanz eine Art mystische Kraft ein, um sich den Angreifer vom Leib zu halten.
 Generation = 2
 #-------------------------------
 [PINECO]
-Name = Pineco
+Name = Tannza
 Types = BUG
 BaseStats = 50,65,90,15,35,35
 GenderRatio = Female50Percent
@@ -5375,13 +5375,13 @@ Weight = 7.2
 Color = Gray
 Shape = Head
 Habitat = Forest
-Category = Bagworm
-Pokedex = A Pineco hangs from a tree branch and waits for prey. While eating, if it is disturbed by someone shaking its tree, it falls on the ground and explodes.
+Category = Beutelwurm
+Pokedex = Es setzt eine klebrige, lufttrocknende Flüssigkeit ein, um seinem Körper Rinde hinzuzufügen.
 Generation = 2
 Evolutions = FORRETRESS,Level,31
 #-------------------------------
 [FORRETRESS]
-Name = Forretress
+Name = Forstellka
 Types = BUG,STEEL
 BaseStats = 75,90,140,40,60,60
 GenderRatio = Female50Percent
@@ -5401,8 +5401,8 @@ Weight = 125.8
 Color = Purple
 Shape = Head
 Habitat = Forest
-Category = Bagworm
-Pokedex = It keeps itself inside its steel shell. The shell is opened when it is catching prey, but it is so quick that the shell's inside cannot be seen.
+Category = Beutelwurm
+Pokedex = Man findet es auf Baumstämmen. Registriert es Bewegung, verschleudert es Teile seiner Schale.
 Generation = 2
 #-------------------------------
 [DUNSPARCE]
