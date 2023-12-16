@@ -5312,7 +5312,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Ein Hieb mit den Vorderbeinen oder dem Schweif.
 #-------------------------------
 [QUICKATTACK]
-Name = Ruckuckhieb
+Name = Ruckzuckhieb
 Type = NORMAL
 Category = Physical
 Power = 40
