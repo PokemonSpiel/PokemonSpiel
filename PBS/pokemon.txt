@@ -5324,7 +5324,7 @@ Color = Blue
 Shape = HeadBase
 Habitat = Cave
 Category = Gedulds
-Pokedex Um seinen schwarzen Schwanz zu verstecken, lebt es in einer Höhle, die es nur nachts verläßt.
+Pokedex = Um seinen schwarzen Schwanz zu verstecken, lebt es in einer Höhle, die es nur nachts verläßt.
 Generation = 2
 #-------------------------------
 [GIRAFARIG]
@@ -9182,6 +9182,7 @@ Shape = BipedalTail
 Habitat = WatersEdge
 Category = Schild
 Pokedex = Nach seiner Entwicklung ging es an Land. Sein Körper ist von einer robusten Rüstung umgeben.
+Generation = 3
 #-------------------------------
 [FEEBAS]
 Name = Barschwa
@@ -15689,7 +15690,6 @@ Color = Blue
 Shape = BipedalTail
 Category = Grips
 Pokedex = Bevor es vor 50 Jahren urplötzlich aus den Tiefen der Wüste erschien, hatte es kein Mensch je zuvor gesehen.
-Generation = 5
 Generation = 5
 Evolutions = BEHEEYEM,Level,42
 #-------------------------------
