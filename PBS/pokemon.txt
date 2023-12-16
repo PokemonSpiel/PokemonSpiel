@@ -3996,7 +3996,7 @@ WildItemUncommon = LUMBERRY
 WildItemRare = LUMBERRY
 #-------------------------------
 [CHIKORITA]
-Name = Chikorita
+Name = Endivie
 Types = GRASS
 BaseStats = 45,49,65,45,49,65
 GenderRatio = FemaleOneEighth
@@ -4017,13 +4017,13 @@ Weight = 6.4
 Color = Green
 Shape = Quadruped
 Habitat = Grassland
-Category = Leaf
-Pokedex = It waves its leaf around to keep foes at bay. However, a sweet fragrance also wafts from the leaf, creating a friendly atmosphere that becalms the battlers.
+Category = Laub
+Pokedex = Es liegt gerne in der Sonne. Mit Hilfe des Blattes auf seinem Kopf findet es warme Orte.
 Generation = 2
 Evolutions = BAYLEEF,Level,16
 #-------------------------------
 [BAYLEEF]
-Name = Bayleef
+Name = Lorblatt
 Types = GRASS
 BaseStats = 60,62,80,60,63,80
 GenderRatio = FemaleOneEighth
@@ -4043,13 +4043,13 @@ Weight = 15.8
 Color = Green
 Shape = Quadruped
 Habitat = Grassland
-Category = Leaf
-Pokedex = A Bayleef's neck is ringed by curled-up leaves. Inside each leaf is a small tree shoot. The fragrance of this shoot makes people peppy.
+Category = Laub
+Pokedex = Der Duft, aus den Knospen um seinen Hals, setzt bei jedem, der ihn riecht, neue Energien frei.
 Generation = 2
 Evolutions = MEGANIUM,Level,32
 #-------------------------------
 [MEGANIUM]
-Name = Meganium
+Name = Meganie
 Types = GRASS
 BaseStats = 80,82,100,80,83,100
 GenderRatio = FemaleOneEighth
@@ -4069,12 +4069,12 @@ Weight = 100.5
 Color = Green
 Shape = Quadruped
 Habitat = Grassland
-Category = Herb
-Pokedex = The fragrance of a Meganium's flower soothes and calms emotions. In battle, it gives off more of its becalming scent to blunt the foe's fighting spirit.
+Category = Kräuter
+Pokedex = Jeder, der neben ihm steht, fühlt sich erfrischt, als ob er sich in sonnigen Wäldern entspannt hätte.
 Generation = 2
 #-------------------------------
 [CYNDAQUIL]
-Name = Cyndaquil
+Name = Feurigel
 Types = FIRE
 BaseStats = 39,52,43,65,60,50
 GenderRatio = FemaleOneEighth
@@ -4095,13 +4095,13 @@ Weight = 7.9
 Color = Yellow
 Shape = Bipedal
 Habitat = Grassland
-Category = Fire Mouse
-Pokedex = It flares flames from its back to protect itself. The fire burns vigorously if the Pokémon is angry. When it is tired, it sputters with incomplete combustion.
+Category = Feuermaus
+Pokedex = Sein Feuer hat die höchste Temperatur, wenn es zornig ist. Dadurch schüchtert es seine Feinde ein.
 Generation = 2
 Evolutions = QUILAVA,Level,14
 #-------------------------------
 [QUILAVA]
-Name = Quilava
+Name = Igelavar
 Types = FIRE
 BaseStats = 58,64,58,80,80,65
 GenderRatio = FemaleOneEighth
@@ -4121,13 +4121,13 @@ Weight = 19.0
 Color = Yellow
 Shape = Quadruped
 Habitat = Grassland
-Category = Volcano
-Pokedex = It intimidates foes with intense gusts of flames and superheated air. Its quick nimbleness lets it dodge attacks even while scorching an enemy.
+Category = Vulkan
+Pokedex = Vor dem Kampf dreht es dem Feind den Rücken zu, um ihm zu zeigen, wie Furcht erregend sein Feuer lodert.
 Generation = 2
 Evolutions = TYPHLOSION,Level,36
 #-------------------------------
 [TYPHLOSION]
-Name = Typhlosion
+Name = Tornupto
 Types = FIRE
 BaseStats = 78,84,78,100,109,85
 GenderRatio = FemaleOneEighth
@@ -4147,12 +4147,12 @@ Weight = 79.5
 Color = Yellow
 Shape = Quadruped
 Habitat = Grassland
-Category = Volcano
-Pokedex = It can hide behind a shimmering heat haze that it creates using its intense flames. Typhlosion create blazing explosive blasts that burn everything to cinders.
+Category = Vulkan
+Pokedex = Wenn es kampfbereit ist, strahlt sein Körper eine derartige Hitze aus, dass die Luft um ihn flimmert.
 Generation = 2
 #-------------------------------
 [TOTODILE]
-Name = Totodile
+Name = Karnimani
 Types = WATER
 BaseStats = 50,65,64,43,44,48
 GenderRatio = FemaleOneEighth
@@ -4173,13 +4173,13 @@ Weight = 9.5
 Color = Blue
 Shape = BipedalTail
 Habitat = WatersEdge
-Category = Big Jaw
-Pokedex = Despite its small body, Totodile's jaws are very powerful. While it may think it is just playfully nipping, its bite has enough strength to cause serious injury.
+Category = Großmaul
+Pokedex = Dieser kleine Schnapper beißt alles, was sich bewegt. Drehe ihm niemals den Rücken zu.
 Generation = 2
 Evolutions = CROCONAW,Level,18
 #-------------------------------
 [CROCONAW]
-Name = Croconaw
+Name = Tyracroc
 Types = WATER
 BaseStats = 65,80,80,58,59,63
 GenderRatio = FemaleOneEighth
@@ -4199,13 +4199,13 @@ Weight = 25.0
 Color = Blue
 Shape = BipedalTail
 Habitat = WatersEdge
-Category = Big Jaw
-Pokedex = Once its jaws clamp down on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like fishhooks, they become irremovably embedded.
+Category = Großmaul
+Pokedex = Seine Zähne sind nach hinten gerichtet. Hat es erst zugebissen, gibt es kein Entrinnen.
 Generation = 2
 Evolutions = FERALIGATR,Level,30
 #-------------------------------
 [FERALIGATR]
-Name = Feraligatr
+Name = Impergator
 Types = WATER
 BaseStats = 85,105,100,78,79,83
 GenderRatio = FemaleOneEighth
@@ -4225,12 +4225,12 @@ Weight = 88.8
 Color = Blue
 Shape = BipedalTail
 Habitat = WatersEdge
-Category = Big Jaw
-Pokedex = It opens its huge mouth to intimidate enemies. In battle, it runs using its thick and powerful hind legs to charge the foe with incredible speed.
+Category = Großmaul
+Pokedex = Obwohl es stattlich ist, kann es mit seinen kräftigen Beinen auch an Land sehr schnell laufen.
 Generation = 2
 #-------------------------------
 [SENTRET]
-Name = Sentret
+Name = Wiesor
 Types = NORMAL
 BaseStats = 35,46,34,20,35,45
 GenderRatio = Female50Percent
@@ -4251,13 +4251,13 @@ Weight = 6.0
 Color = Brown
 Shape = Quadruped
 Habitat = Grassland
-Category = Scout
-Pokedex = They take turns standing guard when it is time to sleep. The sentry awakens the others if it senses danger. If one gets separated, it turns sleepless with fear.
+Category = Späher
+Pokedex = Wenn es Wache hat, warnt es seine Artgenossen, indem es schreit und mit dem Schwanz auf den Boden schlägt.
 Generation = 2
 Evolutions = FURRET,Level,15
 #-------------------------------
 [FURRET]
-Name = Furret
+Name = Wiesenior
 Types = NORMAL
 BaseStats = 85,76,64,90,45,55
 GenderRatio = Female50Percent
@@ -4277,8 +4277,8 @@ Weight = 32.5
 Color = Brown
 Shape = Quadruped
 Habitat = Grassland
-Category = Long Body
-Pokedex = A Furret has a very slim build. When under attack, it can squirm through narrow spaces and get away. In spite of its short limbs, it is very nimble and fleet.
+Category = Langleib
+Pokedex = Sein Bau ist seinem schlanken Körper angepasst. Je tiefer sein Bau ist, desto verzweigter ist er.
 Generation = 2
 #-------------------------------
 [HOOTHOOT]
@@ -4303,13 +4303,13 @@ Weight = 21.2
 Color = Brown
 Shape = Winged
 Habitat = Forest
-Category = Owl
-Pokedex = It has an internal organ that senses the earth's rotation. Using this special organ, a Hoothoot begins hooting at precisely the same time every day.
+Category = Eulen
+Pokedex = Es ruft immer zur gleichen Tageszeit. Einige Trainer verzichten daher auf ihre Armbanduhren.
 Generation = 2
 Evolutions = NOCTOWL,Level,20
 #-------------------------------
 [NOCTOWL]
-Name = Noctowl
+Name = Noctuh
 Types = NORMAL,FLYING
 BaseStats = 100,50,50,70,86,96
 GenderRatio = Female50Percent
@@ -4329,8 +4329,8 @@ Weight = 40.8
 Color = Brown
 Shape = Winged
 Habitat = Forest
-Category = Owl
-Pokedex = It unfailingly catches prey in darkness. Noctowl owe their success to superior vision that allows them to see in minimal light, and to their supple and silent wings.
+Category = Eulen
+Pokedex = Aufgrund seiner weichen Federn fliegt es so leise, dass es sich unbemerkt seiner Beute nähern kann.
 Generation = 2
 #-------------------------------
 [LEDYBA]
@@ -4355,8 +4355,8 @@ Weight = 10.8
 Color = Red
 Shape = Winged
 Habitat = Forest
-Category = Five Star
-Pokedex = Ledyba communicate using a fluid that they secrete from where the legs join the body. They are said to convey feelings to others by altering the fluid's scent.
+Category = Fünf-Punkt
+Pokedex = Es ist scheu und stets mit Artgenossen zusammen. Das Sekret an seinen Füßen führt zu seinem Standort.
 Generation = 2
 Evolutions = LEDIAN,Level,18
 #-------------------------------
@@ -4381,12 +4381,12 @@ Weight = 35.6
 Color = Red
 Shape = Winged
 Habitat = Forest
-Category = Five Star
-Pokedex = It is said that in lands with clean air, where the stars fill the sky, there live many Ledian. For good reason, they use the light of the stars as energy.
+Category = Fünf-Punkt
+Pokedex = Wenn es tagsüber warm wird, rollt es sich in einem großen Blatt ein und fällt in einen tiefen Schlaf.
 Generation = 2
 #-------------------------------
 [SPINARAK]
-Name = Spinarak
+Name = Webarak
 Types = BUG,POISON
 BaseStats = 40,60,40,30,40,40
 GenderRatio = Female50Percent
@@ -4407,8 +4407,8 @@ Weight = 8.5
 Color = Green
 Shape = Insectoid
 Habitat = Forest
-Category = String Spit
-Pokedex = The web it spins can be considered its second nervous system. It is said that a Spinarak determines its prey by the tiny vibrations it feels through the web.
+Category = Fadenwurf
+Pokedex = Falls sich Beute in seinem Netz verfängt, verharrt es bewegungslos bis zum Einbruch der Nacht.
 Generation = 2
 Evolutions = ARIADOS,Level,22
 #-------------------------------
@@ -4433,12 +4433,12 @@ Weight = 33.5
 Color = Red
 Shape = Insectoid
 Habitat = Forest
-Category = Long Leg
-Pokedex = Its feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. It constricts its foe with thin and strong silk webbing.
+Category = Langbein
+Pokedex = Es spinnt kein Netz, um Beute zu fangen, sondern geht mit Einbruch der Nacht auf Beutejagd.
 Generation = 2
 #-------------------------------
 [CROBAT]
-Name = Crobat
+Name = Iksbat
 Types = POISON,FLYING
 BaseStats = 85,90,80,130,70,80
 GenderRatio = Female50Percent
@@ -4458,12 +4458,12 @@ Weight = 75.0
 Color = Purple
 Shape = MultiWinged
 Habitat = Cave
-Category = Bat
-Pokedex = Over the course of evolution, its hind legs turned into wings. By alternately resting its front and rear wings, it can fly all day without having to stop.
+Category = Fledermaus
+Pokedex = Aufgrund seines Strebens noch schneller und leiser zu fliegen, wuchsen ihm zwei neue Flügel.
 Generation = 2
 #-------------------------------
 [CHINCHOU]
-Name = Chinchou
+Name = Lampi
 Types = WATER,ELECTRIC
 BaseStats = 75,38,38,67,56,56
 GenderRatio = Female50Percent
@@ -4485,7 +4485,7 @@ Color = Blue
 Shape = Finned
 Habitat = Sea
 Category = Angler
-Pokedex = When it senses danger, it discharges positive and negative electricity from its two antennae. It lives in depths beyond sunlight's reach.
+Pokedex = Seine Antennen, die aus Flossen entstanden sind, sind sowohl positiv als auch negativ geladen.
 Generation = 2
 WildItemUncommon = DEEPSEASCALE
 Evolutions = LANTURN,Level,27
@@ -4511,8 +4511,8 @@ Weight = 22.5
 Color = Blue
 Shape = Finned
 Habitat = Sea
-Category = Light
-Pokedex = The light-emitting orbs on its back are very bright. They are formed from a part of its dorsal fin. This Pokémon illuminates the inky darkness of deep seas.
+Category = Leuchten
+Pokedex = Dieses Pokémon nutzt das helle Licht, das aus einer Rückenflosse entstanden ist, um Beute anzulocken.
 Generation = 2
 WildItemUncommon = DEEPSEASCALE
 #-------------------------------
@@ -4538,13 +4538,13 @@ Weight = 2.0
 Color = Yellow
 Shape = Quadruped
 Habitat = Forest
-Category = Tiny Mouse
-Pokedex = It is still inept at retaining electricity. When it is startled, it discharges power accidentally. It gets better at holding power as it grows older.
+Category = Babymaus
+Pokedex = Es ist noch nicht erfahren im Umgang mit Elektrizität. Bei jedem Stoß entlädt es spontan Energie.
 Generation = 2
 Evolutions = PIKACHU,Happiness,
 #-------------------------------
 [CLEFFA]
-Name = Cleffa
+Name = Pii
 Types = FAIRY
 BaseStats = 50,25,28,15,45,55
 GenderRatio = Female75Percent
@@ -4565,14 +4565,14 @@ Weight = 3.0
 Color = Pink
 Shape = BipedalTail
 Habitat = Mountain
-Category = Star Shape
-Pokedex = On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance until daybreak, when they quench their thirst with the morning dew.
+Category = Sternform
+Pokedex = Wenn man den Einschlagkrater eines Meteors findet, ist dieses Pokémon bestimmt in der Nähe.
 Generation = 2
 WildItemUncommon = MOONSTONE
 Evolutions = CLEFAIRY,Happiness,
 #-------------------------------
 [IGGLYBUFF]
-Name = Igglybuff
+Name = Fluffeluff
 Types = NORMAL,FAIRY
 BaseStats = 90,30,15,15,40,20
 GenderRatio = Female75Percent
@@ -4593,8 +4593,8 @@ Weight = 1.0
 Color = Pink
 Shape = Bipedal
 Habitat = Grassland
-Category = Balloon
-Pokedex = Its soft and pliable body is very bouncy. When it sings continuously with all its might, its body steadily turns a deepening pink color.
+Category = Ballon
+Pokedex = Anstatt mit seinen kurzen Beinen zu laufen, hüpft es mit seinem weichen und kuscheligen Körper.
 Generation = 2
 Evolutions = JIGGLYPUFF,Happiness,
 #-------------------------------
@@ -4620,8 +4620,8 @@ Weight = 1.5
 Color = White
 Shape = Bipedal
 Habitat = Forest
-Category = Spike Ball
-Pokedex = As its energy, it uses the feelings of compassion and pleasure exuded by people and Pokémon. It stores up happy feelings in its shell, then shares them out.
+Category = Zackenball
+Pokedex = Es gilt als Glücksbringer. Man sagt, seine Schale ist voll von purer Freude.
 Generation = 2
 Evolutions = TOGETIC,Happiness,
 #-------------------------------
@@ -4646,8 +4646,8 @@ Weight = 3.2
 Color = White
 Shape = Bipedal
 Habitat = Forest
-Category = Happiness
-Pokedex = It is said to be a Pokémon that brings good fortune. When it spots someone who is pure of heart, a Togetic appears and shares its happiness with that person.
+Category = Freuden
+Pokedex = Obwohl es nicht viel mit den Flügeln schlägt, hält es sich in der Luft, wenn es seinem Trainer folgt.
 Generation = 2
 Evolutions = TOGEKISS,Item,SHINYSTONE
 #-------------------------------
@@ -4673,8 +4673,8 @@ Weight = 2.0
 Color = Green
 Shape = Winged
 Habitat = Forest
-Category = Tiny Bird
-Pokedex = It runs up short trees that grow on the savanna to peck at new shoots. A Natu's eyes look as if they are always observing something.
+Category = Kleinvogel
+Pokedex = Es kann hervorragend klettern. Es klettert gerne auf Bäume und frisst die jungen Triebe.
 Generation = 2
 Evolutions = XATU,Level,25
 #-------------------------------
@@ -4699,12 +4699,12 @@ Weight = 15.0
 Color = Green
 Shape = Winged
 Habitat = Forest
-Category = Mystic
-Pokedex = It has the enigmatic power of foreseeing the future. Some people in different lands have long believed that Xatu are emissaries from another world.
+Category = Mystik
+Pokedex = Wenn es bei Sonnenaufgang anfängt zu meditieren, vergeht der ganze Tag, ehe es sich wieder bewegt.
 Generation = 2
 #-------------------------------
 [MAREEP]
-Name = Mareep
+Name = Voltilamm
 Types = ELECTRIC
 BaseStats = 55,40,40,35,65,45
 GenderRatio = Female50Percent
@@ -4725,13 +4725,13 @@ Weight = 7.8
 Color = White
 Shape = Quadruped
 Habitat = Grassland
-Category = Wool
-Pokedex = Its fluffy wool rubs together and builds a static charge. The more energy is charged, the more brightly the lightbulb at the tip of its tail glows.
+Category = Wolle
+Pokedex = Es speichert viel Luft in seinem weichen Pelz. Dadurch ist es im Sommer kalt und im Winter warm.
 Generation = 2
 Evolutions = FLAAFFY,Level,15
 #-------------------------------
 [FLAAFFY]
-Name = Flaaffy
+Name = Waaty
 Types = ELECTRIC
 BaseStats = 70,55,55,45,80,60
 GenderRatio = Female50Percent
@@ -4751,8 +4751,8 @@ Weight = 13.3
 Color = Pink
 Shape = BipedalTail
 Habitat = Grassland
-Category = Wool
-Pokedex = Its fleece quality changes to generate strong static electricity with a small amount of wool. The bare, slick parts of its hide are shielded against electricity.
+Category = Wolle
+Pokedex = Aufgrund seiner elektrizitätsabweisenden Gummihaut kann es viel Elektrizität im Fell speichern.
 Generation = 2
 Evolutions = AMPHAROS,Level,30
 #-------------------------------
@@ -4777,12 +4777,12 @@ Weight = 61.5
 Color = Yellow
 Shape = BipedalTail
 Habitat = Grassland
-Category = Light
-Pokedex = It gives off so much light that it can be seen even from space. People in the old days used its light to send signals back and forth with others far away.
+Category = Leuchten
+Pokedex = Bei Dunkelheit sieht man das helle Licht an seinem Schwanz von weitem über das Meer scheinen.
 Generation = 2
 #-------------------------------
 [BELLOSSOM]
-Name = Bellossom
+Name = Blubella
 Types = GRASS
 BaseStats = 75,80,95,50,90,100
 GenderRatio = Female50Percent
@@ -4802,8 +4802,8 @@ Weight = 5.8
 Color = Green
 Shape = Bipedal
 Habitat = Grassland
-Category = Flower
-Pokedex = Its flower petals deepen in color through exposure to sunlight. When cloudy weather persists, it does a dance that is thought to be a sun-summoning ritual.
+Category = Blumen
+Pokedex = Tanzen sie zusammen, reiben ihre Blätter aneinander und erzeugen ein sehr entspannendes Geräusch.
 Generation = 2
 WildItemUncommon = ABSORBBULB
 #-------------------------------
@@ -4829,8 +4829,8 @@ Weight = 8.5
 Color = Blue
 Shape = BipedalTail
 Habitat = WatersEdge
-Category = Aqua Mouse
-Pokedex = Its body is covered with water-repellent fur. Because of the fur, it can swim through water at high speed without being slowed by the water's resistance.
+Category = Aquamaus
+Pokedex = Sein Fell ist von Natur aus wasserabweisend. Es bleibt trocken, auch wenn es im Wasser spielt.
 Generation = 2
 Evolutions = AZUMARILL,Level,18
 #-------------------------------
@@ -4855,12 +4855,12 @@ Weight = 28.5
 Color = Blue
 Shape = BipedalTail
 Habitat = WatersEdge
-Category = Aqua Rabbit
-Pokedex = It lives in water virtually all day long. Its body color and pattern act as camouflage that makes it tough for enemies to spot in water.
+Category = Aquahasen
+Pokedex = Das blasenähnliche Muster auf seinem Bauch hilft ihm, sich perfekt zu tarnen, wenn es im Wasser ist.
 Generation = 2
 #-------------------------------
 [SUDOWOODO]
-Name = Sudowoodo
+Name = Mogelbaum
 Types = ROCK
 BaseStats = 70,100,115,30,30,65
 GenderRatio = Female50Percent
@@ -4881,12 +4881,12 @@ Weight = 38.0
 Color = Brown
 Shape = Bipedal
 Habitat = Forest
-Category = Imitation
-Pokedex = It mimics a tree to avoid being attacked by enemies. But since its forelegs remain green throughout the year, it is easily identified as a fake in the winter.
+Category = Imitations
+Pokedex = Bewegt ein Baum bei Windstille einen Ast, ist es ein MOGELBAUM, das sich vor dem Regen schützt.
 Generation = 2
 #-------------------------------
 [POLITOED]
-Name = Politoed
+Name = Quaxo
 Types = WATER
 BaseStats = 90,75,75,70,90,100
 GenderRatio = Female50Percent
@@ -4906,13 +4906,13 @@ Weight = 33.9
 Color = Green
 Shape = Bipedal
 Habitat = WatersEdge
-Category = Frog
-Pokedex = The curled hair on its head proves its status as a king. It is said that the longer and curlier the hair, the more respect it earns from its peers.
+Category = Frosch
+Pokedex = Bläht es seinen Hals auf, um zu quaken, versammeln sich Quapsel und Quaputzi von Nah und Fern.
 Generation = 2
 WildItemUncommon = KINGSROCK
 #-------------------------------
 [HOPPIP]
-Name = Hoppip
+Name = Hoppspross
 Types = GRASS,FLYING
 BaseStats = 35,35,40,50,35,55
 GenderRatio = Female50Percent
@@ -4933,13 +4933,13 @@ Weight = 0.5
 Color = Pink
 Shape = BipedalTail
 Habitat = Grassland
-Category = Cottonweed
-Pokedex = This Pokémon drifts and floats with the wind. If it senses the approach of strong winds, a Hoppip links leaves with others to prepare against being blown away.
+Category = Löwenzahn
+Pokedex = Eine kleine Brise reicht aus, um es wegzuwehen. Es kann sogar bis in den nächsten Ort getragen werden.
 Generation = 2
 Evolutions = SKIPLOOM,Level,18
 #-------------------------------
 [SKIPLOOM]
-Name = Skiploom
+Name = Hubelupf
 Types = GRASS,FLYING
 BaseStats = 55,45,50,80,45,65
 GenderRatio = Female50Percent
@@ -4959,13 +4959,13 @@ Weight = 1.0
 Color = Green
 Shape = BipedalTail
 Habitat = Grassland
-Category = Cottonweed
-Pokedex = It blossoms when the temperature rises above 64 degrees F. Because its flower's blooming changes with the temperature, it is sometimes used as a thermometer.
+Category = Löwenzahn
+Pokedex = Es schließt bei Regen die Blüte auf seinem Kopf und versteckt sich, um nicht nass zu werden.
 Generation = 2
 Evolutions = JUMPLUFF,Level,27
 #-------------------------------
 [JUMPLUFF]
-Name = Jumpluff
+Name = Papungha
 Types = GRASS,FLYING
 BaseStats = 75,55,70,110,55,95
 GenderRatio = Female50Percent
@@ -4985,12 +4985,12 @@ Weight = 3.0
 Color = Blue
 Shape = BipedalTail
 Habitat = Grassland
-Category = Cottonweed
-Pokedex = Jumpluff ride warm southern winds to cross the sea and fly to foreign lands. This Pokémon lands when it encounters cold air while it is floating.
+Category = Löwenzahn
+Pokedex = Auch im stärksten Wind kann es kontrollieren, wo seine Saat auf dem Erdball niedergehen soll.
 Generation = 2
 #-------------------------------
 [AIPOM]
-Name = Aipom
+Name = Griffel
 Types = NORMAL
 BaseStats = 55,70,55,85,40,55
 GenderRatio = Female50Percent
@@ -5011,13 +5011,13 @@ Weight = 11.5
 Color = Purple
 Shape = BipedalTail
 Habitat = Forest
-Category = Long Tail
-Pokedex = Its tail ends with a dexterous, handlike appendage. However, because it uses the tail so much, Aipom's real hands have become rather clumsy.
+Category = Langschweif
+Pokedex = Es setzt seinen Schwanz ein, um sich an Äste zu hängen. Dann schwingt es sich von Ast zu Ast.
 Generation = 2
 Evolutions = AMBIPOM,HasMove,DOUBLEHIT
 #-------------------------------
 [SUNKERN]
-Name = Sunkern
+Name = Sonnkern
 Types = GRASS
 BaseStats = 30,30,30,30,30,30
 GenderRatio = Female50Percent
@@ -5038,13 +5038,13 @@ Weight = 1.8
 Color = Yellow
 Shape = Head
 Habitat = Grassland
-Category = Seed
-Pokedex = Sunkern try to minimize movement to conserve the nutrients they have stored in their bodies for evolution. They will not eat, subsisting only on morning dew.
+Category = Samen
+Pokedex = Es ist sehr schwach. Es kann sich nur verteidigen, indem es seine Blätter heftig schüttelt.
 Generation = 2
 Evolutions = SUNFLORA,Item,SUNSTONE
 #-------------------------------
 [SUNFLORA]
-Name = Sunflora
+Name = Sonnflora
 Types = GRASS
 BaseStats = 75,75,55,30,105,85
 GenderRatio = Female50Percent
@@ -5064,8 +5064,8 @@ Weight = 8.5
 Color = Yellow
 Shape = Bipedal
 Habitat = Grassland
-Category = Sun
-Pokedex = Sunflora convert solar energy into nutrition. They are highly active in the warm daytime but suddenly stop moving as soon as the sun sets.
+Category = Sonnen
+Pokedex = Steht der Sommer bevor, werden die Blätter um das Gesicht dieses Pokémon aktiv und lebhaft.
 Generation = 2
 #-------------------------------
 [YANMA]
@@ -5090,14 +5090,14 @@ Weight = 38.0
 Color = Red
 Shape = MultiWinged
 Habitat = Forest
-Category = Clear Wing
-Pokedex = It can see 360 degrees without moving its eyes. It is a great flier capable of making sudden stops and turning midair to quickly chase down targeted prey.
+Category = Libellen
+Pokedex = Es kann in alle Richtungen sehen, ohne seine großen Augen zu bewegen. So nimmt es Feinde und Beute wahr.
 Generation = 2
 WildItemUncommon = WIDELENS
 Evolutions = YANMEGA,HasMove,ANCIENTPOWER
 #-------------------------------
 [WOOPER]
-Name = Wooper
+Name = Felino
 Types = WATER,GROUND
 BaseStats = 55,45,45,15,25,25
 GenderRatio = Female50Percent
@@ -5118,13 +5118,13 @@ Weight = 8.5
 Color = Blue
 Shape = HeadLegs
 Habitat = WatersEdge
-Category = Water Fish
-Pokedex = Wooper usually live in water but come out onto land seeking food occasionally. On land, they coat their bodies with a gooey, toxic film.
+Category = Fisch
+Pokedex = Sein Körper ist mit Schleim überzogen. Berührt man es, widerfährt einem ein stechender Schmerz.
 Generation = 2
 Evolutions = QUAGSIRE,Level,20
 #-------------------------------
 [QUAGSIRE]
-Name = Quagsire
+Name = Morlord
 Types = WATER,GROUND
 BaseStats = 95,85,85,35,65,65
 GenderRatio = Female50Percent
@@ -5144,12 +5144,12 @@ Weight = 75.0
 Color = Blue
 Shape = BipedalTail
 Habitat = WatersEdge
-Category = Water Fish
-Pokedex = A Quagsire hunts by leaving its mouth wide open in water and waiting for its prey to blunder in. Because it doesn't move, it does not get very hungry.
+Category = Fisch
+Pokedex = Sein Körper ist stets schleimig. Es stößt sich den Kopf am Flussgrund, aber das ist ihm egal.
 Generation = 2
 #-------------------------------
 [ESPEON]
-Name = Espeon
+Name = Psiana
 Types = PSYCHIC
 BaseStats = 65,65,60,110,130,95
 GenderRatio = FemaleOneEighth
@@ -5169,12 +5169,12 @@ Weight = 26.5
 Color = Purple
 Shape = Quadruped
 Habitat = Urban
-Category = Sun
-Pokedex = An Espeon is extremely loyal to any trainer it considers to be worthy. It is said to have developed precognitive powers to protect its trainer from harm.
+Category = Sonnen
+Pokedex = Die Spitze seines geteilten Schweifs bebt, wenn es die nächste Attacke seines Feindes voraussagt.
 Generation = 2
 #-------------------------------
 [UMBREON]
-Name = Umbreon
+Name = Nachtara
 Types = DARK
 BaseStats = 95,65,110,65,60,130
 GenderRatio = FemaleOneEighth
@@ -5194,12 +5194,12 @@ Weight = 27.0
 Color = Black
 Shape = Quadruped
 Habitat = Urban
-Category = Moonlight
-Pokedex = Umbreon evolved from exposure to the moon's energy pulses. It lurks in darkness and waits for its foes to move. The rings on its body glow when it leaps to attack.
+Category = Mondschein
+Pokedex = Bei Vollmond oder bei Aufregung leuchten die ringförmigen Muster auf seinem Körper gelb auf.
 Generation = 2
 #-------------------------------
 [MURKROW]
-Name = Murkrow
+Name = Kramurx
 Types = DARK,FLYING
 BaseStats = 60,85,42,91,85,42
 GenderRatio = Female50Percent
@@ -5220,13 +5220,13 @@ Weight = 2.1
 Color = Black
 Shape = Winged
 Habitat = Forest
-Category = Darkness
-Pokedex = Murkrow were feared as the alleged bearers of ill fortune. It shows strong interest in anything that sparkles. It will even try to steal rings from women.
+Category = Finsternis
+Pokedex = Es versteckt jeden schimmernden Gegenstand. Kramurx und Mauzi rauben sich gegenseitig die Beute.
 Generation = 2
 Evolutions = HONCHKROW,Item,DUSKSTONE
 #-------------------------------
 [SLOWKING]
-Name = Slowking
+Name = Laschoking
 Types = WATER,PSYCHIC
 BaseStats = 95,75,80,30,100,110
 GenderRatio = Female50Percent
@@ -5246,13 +5246,13 @@ Weight = 79.5
 Color = Pink
 Shape = BipedalTail
 Habitat = WatersEdge
-Category = Royal
-Pokedex = It undertakes research every day to solve the mysteries of the world. However, it apparently forgets everything if the Shellder on its head comes off.
+Category = Monarchen
+Pokedex = Immer wenn es gähnt, injiziert Muschas mehr Gift. Durch das Gift wird es immer intelligenter.
 Generation = 2
 WildItemUncommon = KINGSROCK
 #-------------------------------
 [MISDREAVUS]
-Name = Misdreavus
+Name = Traunfugil
 Types = GHOST
 BaseStats = 60,60,60,85,85,85
 GenderRatio = Female50Percent
@@ -5272,8 +5272,8 @@ Weight = 1.0
 Color = Gray
 Shape = Head
 Habitat = Cave
-Category = Screech
-Pokedex = A Misdreavus frightens people with a creepy, sobbing cry. It apparently uses its red spheres to absorb the fear of foes as its nutrition.
+Category = Kreischer
+Pokedex = Es liebt die Menschen zu beobachten, die es durch Schreie oder jähes Auftreten erschreckt hat.
 Generation = 2
 Evolutions = MISMAGIUS,Item,DUSKSTONE
 #-------------------------------
