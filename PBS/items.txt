@@ -561,1309 +561,1309 @@ Flags = Fling_30
 Description = Eine Vase, angefertigt von einer gut 3 000 Jahre alten Kultur.
 #-------------------------------
 [RELICBAND]
-Name = Relic Band
-NamePlural = Relic Bands
+Name = Alter Reif
+NamePlural = Alte Reife
 Pocket = 1
 Price = 0
 Flags = Fling_30
-Description = A bracelet made in a civilization about 3,000 years ago. A maniac will buy it for a high price.
+Description = Ein Armreif, angefertigt von einer gut 3 000 Jahre alten Kultur. Sammler geben ihr letztes Hemd dafür.
 #-------------------------------
 [RELICSTATUE]
-Name = Relic Statue
-NamePlural = Relic Statues
+Name = Alte Statue
+NamePlural = Alte Statuen
 Pocket = 1
 Price = 0
 Flags = Fling_30
-Description = A stone figure made in a civilization about 3,000 years ago. A maniac will buy it for a high price.
+Description = Eine Statue, angefertigt von einer gut 3 000 Jahre alten Kultur. Sammler geben ihr letztes Hemd dafür.
 #-------------------------------
 [RELICCROWN]
-Name = Relic Crown
-NamePlural = Relic Crowns
+Name = Alte Krone
+NamePlural = Alte Kronen
 Pocket = 1
 Price = 0
 Flags = Fling_30
-Description = A crown made in a civilization about 3,000 years ago. A maniac will buy it for a high price.
+Description = Die Krone eines Königs, angefertigt von einer gut 3 000 Jahre alten Kultur. Sammler geben ihr letztes Hemd dafür.
 #-------------------------------
 [GROWTHMULCH]
-Name = Growth Mulch
-NamePlural = Growth Mulch
+Name = Wachsmulch
+NamePlural = Wachsmulche
 Pocket = 1
 Price = 200
 Flags = Mulch,Fling_30
-Description = A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price.
+Description = Mulch zur Nutzung auf Beerenfeldern. Durch seine Unverträglichkeit mit den Böden in Hoenn bleibt sein Einsatz dort ohne Wirkung.
 #-------------------------------
 [DAMPMULCH]
-Name = Damp Mulch
-NamePlural = Damp Mulch
+Name = Feuchtmulch
+NamePlural = Feuchtmulche
 Pocket = 1
 Price = 200
 Flags = Mulch,Fling_30
-Description = A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price.
+Description = Mulch zur Nutzung auf Beerenfeldern. Durch seine Unverträglichkeit mit den Böden in Hoenn bleibt sein Einsatz dort ohne Wirkung.
 #-------------------------------
 [STABLEMULCH]
-Name = Stable Mulch
-NamePlural = Stable Mulch
+Name = Stabilmulch
+NamePlural = Stabilmulch
 Pocket = 1
 Price = 200
 Flags = Mulch,Fling_30
-Description = A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price.
+Description = Mulch zur Nutzung auf Beerenfeldern. Durch seine Unverträglichkeit mit den Böden in Hoenn bleibt sein Einsatz dort ohne Wirkung.
 #-------------------------------
 [GOOEYMULCH]
-Name = Gooey Mulch
-NamePlural = Gooey Mulch
+Name = Neumulch
+NamePlural = Neumulch
 Pocket = 1
 Price = 200
 Flags = Mulch,Fling_30
-Description = A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price.
+Description = Mulch zur Nutzung auf Beerenfeldern. Durch seine Unverträglichkeit mit den Böden in Hoenn bleibt sein Einsatz dort ohne Wirkung.
 #-------------------------------
 [SHOALSALT]
-Name = Shoal Salt
-NamePlural = Shoal Salts
+Name = Küstensalz
+NamePlural = Küstensalze
 Pocket = 1
 Price = 20
 Flags = Fling_30
-Description = Pure salt that can be discovered deep inside the Shoal Cave. A maniac will buy it for a high price.
+Description = Reine Salzkristalle, die sich in der sog. Küstenhöhle finden lassen. Sammler geben ihr letztes Hemd dafür her.
 #-------------------------------
 [SHOALSHELL]
-Name = Shoal Shell
-NamePlural = Shoal Shells
+Name = Küstenschale
+NamePlural = Küstenschalen
 Pocket = 1
 Price = 20
 Flags = Fling_30
-Description = A pretty seashell that can be found deep inside the Shoal Cave. A maniac will buy it for a high price.
+Description = Eine hübsche Schale, die sich in der Küstenhöhle finden lässt. Sammler geben ihr letztes Hemd dafür her.
 #-------------------------------
 [ODDKEYSTONE]
-Name = Odd Keystone
-NamePlural = Odd Keystones
+Name = Spiritkern
+NamePlural = Spiritkerne
 Pocket = 1
 Price = 2100
 Flags = Fling_80
-Description = A vital item that is needed to keep a stone tower from collapsing. Voices can be heard from it occasionally.
+Description = Ein wichtiges Item, mit dem ein Steinturm repariert werden kann.
 #-------------------------------
 [REDNECTAR]
-Name = Red Nectar
-NamePlural = Red Nectars
+Name = Roter Nektar
+NamePlural = Rote Nektare
 Pocket = 1
 Price = 300
 FieldUse = OnPokemon
 Flags = Fling_10,Nectar
-Description = A flower nectar obtained at Ula'ula Meadow. It changes the form of certain species of Pokémon.
+Description = Blütennektar vom Ula-Ula-Blumenmeer. Ein bestimmtes Pokémon kann damit seine Form ändern.
 #-------------------------------
 [YELLOWNECTAR]
-Name = Yellow Nectar
-NamePlural = Yellow Nectars
+Name = Gelber Nektar
+NamePlural = Gelbe Nektare
 Pocket = 1
 Price = 300
 FieldUse = OnPokemon
 Flags = Fling_10,Nectar
-Description = A flower nectar obtained at Melemele Meadow. It changes the form of certain species of Pokémon.
+Description = Blütennektar vom Mele-Mele-Blumenmeer. Ein bestimmtes Pokémon kann damit seine Form ändern
 #-------------------------------
 [PINKNECTAR]
-Name = Pink Nectar
-NamePlural = Pink Nectars
+Name = Pinker Nektar
+NamePlural = Pinke Nektare
 Pocket = 1
 Price = 300
 FieldUse = OnPokemon
 Flags = Fling_10,Nectar
-Description = A flower nectar obtained from shrubs on Royal Avenue. It changes the form of certain species of Pokémon.
+Description = 	Blütennektar von der Blumeninsel nahe der Avenue Royale. Ein bestimmtes Pokémon kann damit seine Form ändern.
 #-------------------------------
 [PURPLENECTAR]
-Name = Purple Nectar
-NamePlural = Purple Nectars
+Name = Purpurner Nektar
+NamePlural = Purpurne Nektare
 Pocket = 1
 Price = 300
 FieldUse = OnPokemon
 Flags = Fling_10,Nectar
-Description = A flower nectar obtained at Poni Meadow. It changes the form of certain species of Pokémon.
+Description = Blütennektar vom Poni-Blumenmeer. Ein bestimmtes Pokémon kann damit seine Form ändern.
 #-------------------------------
 [AIRBALLOON]
-Name = Air Balloon
-NamePlural = Air Balloons
+Name = Luftballon
+NamePlural = Luftballons
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
-Description = An item to be held by a Pokémon. The holder will float in the air until hit. Once hit, this item will burst.
+Description = Gibt man ihn einem Pokémon zum Tragen, fängt es an zu schweben. Wird es getroffen, platzt der Luftballon.
 #-------------------------------
 [BRIGHTPOWDER]
-Name = Bright Powder
-NamePlural = Bright Powders
+Name = Blendpuder
+NamePlural = Blendpuder
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
-Description = An item to be held by a Pokémon. It casts a tricky glare that lowers the opponent's accuracy.
+Description = Ein Item, das einem Pokémon zum Tragen gegeben werden kann. Es senkt die Genauigkeit des Gegners.
 #-------------------------------
 [EVIOLITE]
-Name = Eviolite
-NamePlural = Eviolites
+Name = Eviolith
+NamePlural = Eviolithe
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_40
-Description = A mysterious evolutionary lump. When held, it raises the Defense and Sp. Def if the holder can still evolve.
+Description = Ein mysteriöser Klumpen, der die Verteidigung und Spezial-Verteidigung von Pokémon erhöht, die sich noch entwickeln können.
 #-------------------------------
 [FLOATSTONE]
-Name = Float Stone
-NamePlural = Float Stones
+Name = Leichtstein
+NamePlural = Leichtsteine
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_30
-Description = A very light stone. It reduces the weight of a Pokémon when held.
+Description = Ein federleichter Stein, der das Gewicht des Trägers verringert.
 #-------------------------------
 [DESTINYKNOT]
-Name = Destiny Knot
-NamePlural = Destiny Knots
+Name = Fatumknoten
+NamePlural = Fatumknoten
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
-Description = A long, thin, bright-red string to be held by a Pokémon. If the holder becomes infatuated, so does the foe.
+Description = Ein Item zum Tragen. Wird der Träger betört, gilt dies auch für den Angreifer.
 #-------------------------------
 [ROCKYHELMET]
-Name = Rocky Helmet
-NamePlural = Rocky Helmets
+Name = Beulenhelm
+NamePlural = Beulenhelme
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_60
-Description = If the holder of this item takes damage, the attacker will also be damaged upon contact.
+Description = Wird der Träger von einer physischen Attacke getroffen, erleidet der Angreifer ebenfalls Schaden.
 #-------------------------------
 [ASSAULTVEST]
-Name = Assault Vest
-NamePlural = Assault Vests
+Name = Offensivweste
+NamePlural = Offensivwesten
 Pocket = 1
 Price = 1000
 Flags = Fling_80
-Description = An item to be held by a Pokémon. This offensive vest raises Sp. Def but prevents the use of status moves.
+Description = Trägt ein Pokémon diese Weste, erhöht sich seine Spezial-Verteidigung, aber es kann keine Status-Attacken mehr einsetzen.
 #-------------------------------
 [SAFETYGOGGLES]
-Name = Safety Goggles
-NamePlural = Safety Goggles
+Name = Schutzbrille
+NamePlural = Schutzbrillen
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_80
-Description = An item to be held by a Pokémon. They protect the holder from weather-related damage and powder.
+Description = Diese Brille schützt ihren Träger nicht nur vor wetterbedingtem Schaden, sondern auch vor vielen Attacken, bei denen Puder eingesetzt wird.
 #-------------------------------
 [PROTECTIVEPADS]
-Name = Protective Pads
-NamePlural = Protective Pads
+Name = Schutzpolster
+NamePlural = Schutzpolster
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_30
-Description = An item to be held by a Pokémon. They protect the holder from effects caused by making contact.
+Description = Greift der Träger ein Ziel an, ist er vor Effekten, die durch direkten Kontakt mit diesem ausgelöst werden, geschützt.
 #-------------------------------
 [HEAVYDUTYBOOTS]
-Name = Heavy-Duty Boots
-NamePlural = pairs of Heavy-Duty Boots
+Name = Plateauschuhe
+NamePlural = Paar Plateauschuhe
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_80
-Description = These boots prevent the effects of traps set on the battlefield.
+Description = Der Träger wird nicht mehr durch Fallen und andere Objekte beeinträchtigt, die auf dem Boden liegen
 #-------------------------------
 [UTILITYUMBRELLA]
-Name = Utility Umbrella
-NamePlural = Utility Umbrellas
+Name = Allzweckschirm
+NamePlural = Allzweckschirme
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_60
-Description = An item to be held by a Pokémon. This sturdy umbrella protects the holder from the effects of rain and sun.
+Description = 	Der Träger ist gegen diverse Wetterphänomene geschützt.
 #-------------------------------
 [EJECTBUTTON]
-Name = Eject Button
-NamePlural = Eject Buttons
+Name = Fluchtknopf
+NamePlural = Fluchtknöpfe
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_30
-Description = If the holder is hit by an attack, it will switch with another Pokémon in your party.
+Description = Wird der Träger getroffen, flieht er aus dem Kampf und wird mit einem Team-Pokémon ausgetauscht.
 #-------------------------------
 [EJECTPACK]
-Name = Eject Pack
-NamePlural = Eject Packs
+Name = Fluchttasche
+NamePlural = Fluchttaschen
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_50
-Description = An item to be held by a Pokémon. When the holder's stats are lowered, it will be switched out of battle.
+Description = 	Erleidet der Träger eine Senkung seiner Statuswerte, wird er mit einem Team-Mitglied ausgewechselt
 #-------------------------------
 [REDCARD]
-Name = Red Card
-NamePlural = Red Cards
+Name = Rote Karte
+NamePlural = Rote Karten
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
-Description = A card with a mysterious power. When the holder is struck by a foe, the attacker is removed from battle.
+Description = Eine Karte mit mysteriösen Kräften. Wird der Träger getroffen, wird der Angreifer des Platzes verwiesen.
 #-------------------------------
 [SHEDSHELL]
-Name = Shed Shell
-NamePlural = Shed Shells
+Name = Wechselhülle
+NamePlural = Wechselhüllen
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
-Description = An item to be held by a Pokémon. This discarded carapace lets the holder switch out of battle without fail.
+Description = Ein Item zum Tragen. Dieser harte Panzer ermöglicht den Austausch des Trägers gegen ein wartendes Pokémon.
 #-------------------------------
 [SMOKEBALL]
-Name = Smoke Ball
-NamePlural = Smoke Balls
+Name = Rauchball
+NamePlural = Rauchbälle
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_30
-Description = An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon without fail.
+Description = Ein Pokémon kann dieses Item tragen. Es ermöglicht die garantierte Flucht aus dem Kampf mit einem wilden Pokémon.
 #-------------------------------
 [LUCKYEGG]
-Name = Lucky Egg
-NamePlural = Lucky Eggs
+Name = Glücks-Ei
+NamePlural = Glücks-Eier
 Pocket = 1
 Price = 10000
 Flags = Fling_30
-Description = An item to be held by a Pokémon. It is an egg filled with happiness that earns extra Exp. Points in battle.
+Description = Ein Item zum Tragen, das mit Glück gefüllt ist und für zusätzliche Erfahrungspunkte im Kampf sorgt.
 #-------------------------------
 [EXPSHARE]
-Name = Exp. Share
-NamePlural = Exp. Shares
+Name = EP-Teiler
+NamePlural = EP-Teiler
 Pocket = 1
 Price = 3000
 Flags = Fling_30
-Description = An item to be held by a Pokémon. The holder gets a share of a battle's Exp. Points without battling.
+Description = Solange der EP-Teiler angeschaltet ist, erhält jedes Team-Pokémon nach einem Sieg Erfahrungspunkte.
 #-------------------------------
 [AMULETCOIN]
-Name = Amulet Coin
-NamePlural = Amulet Coins
+Name = Münzamulett
+NamePlural = Münzamulette
 Pocket = 1
 Price = 10000
 Flags = Fling_30
-Description = An item to be held by a Pokémon. It doubles a battle's prize money if the holding Pokémon joins in.
+Description = Ein Item, das von einem Pokémon getragen wird und das doppeltes Preisgeld bringt, wenn der Träger am Kampf teilnimmt.
 #-------------------------------
 [SOOTHEBELL]
-Name = Soothe Bell
-NamePlural = Soothe Bells
+Name = Sanftglocke
+NamePlural = Sanftglocken
 Pocket = 1
 Price = 4000
 Flags = Fling_10
-Description = An item to be held by a Pokémon. The comforting chime of this bell calms the holder, making it friendly.
+Description = Ein Item, das einem Pokémon zum Tragen gegeben werden kann. Es besänftigt und fördert Sympathie.
 #-------------------------------
 [CLEANSETAG]
-Name = Cleanse Tag
-NamePlural = Cleanse Tags
+Name = Schutzsticker
+NamePlural = Schutzsticker
 Pocket = 1
 Price = 5000
 Flags = Fling_30
-Description = An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party.
+Description = Ein Item zum Tragen. Reduziert Begegnungen mit wilden Pokémon, wenn der Träger an erster Stelle steht
 #-------------------------------
 [CHOICEBAND]
-Name = Choice Band
-NamePlural = Choice Bands
+Name = Wahlband
+NamePlural = Wahlbänder
 Pocket = 1
 Price = 4000
 Flags = Fling_10
-Description = An item to be held by a Pokémon. This headband ups Attack, but allows the use of only one move.
+Description = Ein Item, das von einem Pokémon getragen werden kann. Es stärkt den Angriffs-Wert, aber nur eine Attacke ist einsetzbar.
 #-------------------------------
 [CHOICESPECS]
-Name = Choice Specs
-NamePlural = Choice Specs
+Name = Wahlbrille
+NamePlural = Wahlbrillen
 Pocket = 1
 Price = 4000
 Flags = Fling_10
-Description = An item to be held by a Pokémon. These curious glasses boost Sp. Atk but allows the use of only one move.
+Description = Ein Item zum Tragen. Die Brille erhöht den Spezial-Angriff, aber nur eine Attacke ist einsetzbar.
 #-------------------------------
 [CHOICESCARF]
-Name = Choice Scarf
-NamePlural = Choice Scarves
+Name = Wahlschal
+NamePlural = Wahlschale
 Pocket = 1
 Price = 4000
 Flags = Fling_10
-Description = An item to be held by a Pokémon. This scarf boosts Speed but allows the use of only one move.
+Description = Ein Item zum Tragen. Der Schal erhöht den Initiative-Wert, aber nur eine Attacke ist einsetzbar.
 #-------------------------------
 [HEATROCK]
-Name = Heat Rock
-NamePlural = Heat Rocks
+Name = Heißbrocken
+NamePlural = Heißbrocken
 Pocket = 1
 Price = 4000
 Flags = Fling_60
-Description = A Pokémon held item that extends the duration of the move Sunny Day used by the holder.
+Description = Ein Item zum Tragen. Verlängert die Dauer von Sonnentag, wenn der Träger es einsetzt.
 #-------------------------------
 [DAMPROCK]
-Name = Damp Rock
-NamePlural = Damp Rocks
+Name = Nassbrocken
+NamePlural = Nassbrocken
 Pocket = 1
 Price = 4000
 Flags = Fling_60
-Description = A Pokémon held item that extends the duration of the move Rain Dance used by the holder.
+Description = Ein Item zum Tragen. Verlängert die Dauer von Regentanz, wenn der Träger es einsetzt.
 #-------------------------------
 [SMOOTHROCK]
-Name = Smooth Rock
-NamePlural = Smooth Rocks
+Name = Glattbrocken
+NamePlural = Glattbrocken
 Pocket = 1
 Price = 4000
 Flags = Fling_10
-Description = A Pokémon held item that extends the duration of the move Sandstorm used by the holder.
+Description = Ein Item zum Tragen. Verlängert die Dauer von Sandsturm, wenn der Träger es einsetzt.
 #-------------------------------
 [ICYROCK]
-Name = Icy Rock
-NamePlural = Icy Rocks
+Name = Eisbrocken
+NamePlural = Eisbrocken
 Pocket = 1
 Price = 4000
 Flags = Fling_40
-Description = A Pokémon held item that extends the duration of the move Hail used by the holder.
+Description = Ein Item zum Tragen. Verlängert die Dauer von Hagelsturm, wenn der Träger es einsetzt.
 #-------------------------------
 [TERRAINEXTENDER]
-Name = Terrain Extender
-NamePlural = Terrain Extenders
+Name = Feldbeschichtung
+NamePlural = Feldbeschichtung
 Pocket = 1
 Price = 4000
 Flags = Fling_60
-Description = An item to be held by a Pokémon. It extends the duration of the terrain caused by the holder.
+Description = Ein Item zum Tragen. Hat der Träger durch eine Attacke oder eine Fähigkeit ein Feld erzeugt, verlängert sich dessen Dauer.
 #-------------------------------
 [LIGHTCLAY]
-Name = Light Clay
-NamePlural = Light Clays
+Name = Lichtlehm
+NamePlural = Lichtlehme
 Pocket = 1
 Price = 4000
 Flags = Fling_30
-Description = An item to be held by a Pokémon. Protective moves like Light Screen and Reflect will be effective longer.
+Description = Ein Item zum Tragen. Verlängert die Dauer von Lichtschild, Reflektor etc.
 #-------------------------------
 [GRIPCLAW]
-Name = Grip Claw
-NamePlural = Grip Claws
+Name = Griffklaue
+NamePlural = Griffklaue
 Pocket = 1
 Price = 4000
 Flags = Fling_90
-Description = A Pokémon held item that extends the duration of multiturn attacks like Bind and Wrap.
+Description = Ein Item zum Tragen. Verlängert die Dauer von Klammergriff, Wickel etc.
 #-------------------------------
 [BINDINGBAND]
-Name = Binding Band
-NamePlural = Binding Bands
+Name = Klammerband
+NamePlural = Klammerbänder
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_30
-Description = A band that increases the power of binding moves when held.
+Description = Ein Band, das die Stärke aller Klammerattacken des Trägers erhöht.
 #-------------------------------
 [BIGROOT]
-Name = Big Root
-NamePlural = Big Roots
+Name = Großwurzel
+NamePlural = Großwurzeln
 Pocket = 1
 Price = 4000
 Flags = Fling_10
-Description = A Pokémon held item that boosts the power of HP-stealing moves to let the holder recover more HP.
+Description = Ein Item zum Tragen. Verstärkt KP-stehlende Attacken.
 #-------------------------------
 [BLACKSLUDGE]
-Name = Black Sludge
-NamePlural = Black Sludges
+Name = Giftschleim
+NamePlural = Giftschleime
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_30
-Description = A held item that gradually restores the HP of Poison-type Pokémon. It inflicts damage on all other types.
+Description = Ein Item zum Tragen, das einem Gift-Pokémon KP zurückgibt, anderen Pokémon aber Schaden zufügt.
 #-------------------------------
 [LEFTOVERS]
-Name = Leftovers
-NamePlural = Leftovers
+Name = Überreste
+NamePlural = Überreste
 Pocket = 1
 Price = 4000
 Flags = Fling_10
-Description = An item to be held by a Pokémon. The holder's HP is gradually restored during battle.
+Description = Ein Item, das einem Pokémon zum Tragen gegeben werden kann. Es füllt im Kampf stetig KP auf.
 #-------------------------------
 [SHELLBELL]
-Name = Shell Bell
-NamePlural = Shell Bells
+Name = Muschelglocke
+NamePlural = Muschelglocken
 Pocket = 1
 Price = 4000
 Flags = Fling_30
-Description = An item to be held by a Pokémon. The holder's HP is restored a little every time it inflicts damage.
+Description = Ein Item zum Tragen. Es stellt einige KP des Trägers immer dann wieder her, wenn dieser dem Ziel Schaden zufügt.
 #-------------------------------
 [MENTALHERB]
-Name = Mental Herb
-NamePlural = Mental Herbs
+Name = Mentalkraut
+NamePlural = Mentalkräuter
 Pocket = 1
 Price = 4000
 Flags = Fling_10
-Description = An item to be held by a Pokémon. It snaps the holder out of infatuation. It can be used only once.
+Description = Ein Item, das einem Pokémon zum Tragen gegeben werden kann. Hilft einmalig bei eingeschränktem Handlungsspielraum
 #-------------------------------
 [WHITEHERB]
-Name = White Herb
-NamePlural = White Herbs
+Name = Schlohkraut
+NamePlural = Schlohkräuter
 Pocket = 1
 Price = 4000
 Flags = Fling_10
-Description = An item to be held by a Pokémon. It restores any lowered stat in battle. It can be used only once.
+Description = Ein Item, das einem Pokémon zum Tragen gegeben werden kann. Es hebt einmalig jede negative Statusveränderung auf.
 #-------------------------------
 [POWERHERB]
-Name = Power Herb
-NamePlural = Power Herbs
+Name = Energiekraut
+NamePlural = Energiekräuter
 Pocket = 1
 Price = 4000
 Flags = Fling_10
 Description = A single-use item to be held by a Pokémon. It allows the immediate use of a move that charges up first.
 #-------------------------------
 [ABSORBBULB]
-Name = Absorb Bulb
-NamePlural = Absorb Bulbs
+Name = Knolle
+NamePlural = Knollen
 Pocket = 1
 Price = 4000
 Flags = Fling_30
-Description = A consumable bulb. If the holder is hit by a Water-type move, its Sp. Atk will rise.
+Description = Eine einmalig einsetzbare Knolle. Erhöht den Spezial-Angriff des Trägers, wenn ihn eine Wasser-Attacke trifft.
 #-------------------------------
 [CELLBATTERY]
-Name = Cell Battery
-NamePlural = Cell Batteries
+Name = Akku
+NamePlural = Akkus
 Pocket = 1
 Price = 4000
 Flags = Fling_30
-Description = A consumable battery. If the holder is hit by an Electric-type move, its Attack will rise.
+Description = Ein einmalig aufladbarer Akku. Erhöht den Angriff des Trägers, wenn ihn eine Elektro-Attacke trifft.
 #-------------------------------
 [LUMINOUSMOSS]
-Name = Luminous Moss
-NamePlural = Luminous Mosses
+Name = Leuchtmoos
+NamePlural = Leuchtmoose
 Pocket = 1
 Price = 4000
 Flags = Fling_30
-Description = An item to be held by a Pokémon. It boosts Sp. Def if hit by a Water-type attack. It can only be used once.
+Description = Wird der Träger von einer Wasser-Attacke getroffen, steigt seine Spezial-Verteidigung und das Item verschwindet.
 #-------------------------------
 [SNOWBALL]
-Name = Snowball
-NamePlural = Snowballs
+Name = Schneeball
+NamePlural = Schneebälle
 Pocket = 1
 Price = 4000
 Flags = Fling_30
-Description = An item to be held by a Pokémon. It boosts Attack if hit by an Ice-type attack. It can only be used once.
+Description = Wird der Träger von einer Eis-Attacke getroffen, steigt sein Angriff und das Item verschwindet.
 #-------------------------------
 [WEAKNESSPOLICY]
-Name = Weakness Policy
-NamePlural = Weakness Policies
+Name = Schwächenschutz
+NamePlural = Schwächenschutze
 Pocket = 1
 Price = 1000
 Flags = Fling_80
-Description = An item to be held by a Pokémon. The holder's Attack and Sp. Atk sharply increase if hit by a move it's weak to.
+Description = Erhöht den Angriff und den Spezial-Angriff des Trägers stark, wenn er von einer sehr effektiven Attacke getroffen wird.
 #-------------------------------
 [BLUNDERPOLICY]
-Name = Blunder Policy
-NamePlural = Blunder Policies
+Name = Fehlschlagschutz
+NamePlural = Fehlschlagschutze
 Pocket = 1
 Price = 4000
 Flags = Fling_80
-Description = Raises Speed sharply when a Pokémon misses with a move because of accuracy.
+Description = Schlägt eine Attacke des Anwenders mangels Genauigkeit fehl, steigt im Gegenzug dessen Initiative stark an.
 #-------------------------------
 [THROATSPRAY]
-Name = Throat Spray
-NamePlural = Throat Sprays
+Name = Halsspray
+NamePlural = Halssprays
 Pocket = 1
 Price = 4000
 Flags = Fling_30
-Description = Raises Sp. Atk when a Pokémon uses a sound-based move.
+Description = Erhöht bei Einsatz einer Lärm-Attacke den Spezial-Angriff.
 #-------------------------------
 [ADRENALINEORB]
-Name = Adrenaline Orb
-NamePlural = Adrenaline Orbs
+Name = Zitter-Orb
+NamePlural = Zitter-Orbs
 Pocket = 1
 Price = 300
 Flags = Fling_30
-Description = An item to be held by a Pokémon. It boosts Speed when intimidated. It can be used only once.
+Description = Als getragenes Item erhöht er bei Pokémon, die unter dem Einfluss von Bedroher stehen, die Initiative.
 #-------------------------------
 [ROOMSERVICE]
-Name = Room Service
-NamePlural = Room Services
+Name = Bizarroservice
+NamePlural = Bizarroservices
 Pocket = 1
 Price = 4000
 Flags = Fling_100
-Description = An item to be held by a Pokémon. Lowers Speed when Trick Room takes effect.
+Description = Senkt die Initiative des Trägers, wenn Bizarroraum wirkt.
 #-------------------------------
 [ELECTRICSEED]
-Name = Electric Seed
-NamePlural = Electric Seeds
+Name = Elektro-Samen
+NamePlural = Elektro-Samen
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
-Description = An item to be held by a Pokémon. It boosts Defense on Electric Terrain. It can only be used once.
+Description = Gibst du den Samen einem Pokémon zum Tragen, setzt es ihn ein, wenn ein Elektrofeld aktiv ist, und erhöht dadurch seine Verteidigung.
 #-------------------------------
 [GRASSYSEED]
-Name = Grassy Seed
-NamePlural = Grassy Seeds
+Name = Gras-Samen
+NamePlural = Gras-Samen
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
-Description = An item to be held by a Pokémon. It boosts Defense on Grassy Terrain. It can only be used once.
+Description = Gibst du den Samen einem Pokémon zum Tragen, setzt es ihn ein, wenn ein Grasfeld aktiv ist, und erhöht dadurch seine Verteidigung.
 #-------------------------------
 [MISTYSEED]
-Name = Misty Seed
-NamePlural = Misty Seeds
+Name = Nebel-Samen
+NamePlural = Nebel-Samen
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
-Description = An item to be held by a Pokémon. It boosts Sp. Def on Misty Terrain. It can only be used once.
+Description = Gibst du den Samen einem Pokémon zum Tragen, setzt es ihn ein, wenn ein Nebelfeld aktiv ist, und erhöht dadurch seine Spezial-Verteidigung.
 #-------------------------------
 [PSYCHICSEED]
-Name = Psychic Seed
-NamePlural = Psychic Seeds
+Name = Psycho-Samen
+NamePlural = Psycho-Samen
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
-Description = An item to be held by a Pokémon. It boosts Sp. Def on Psychic Terrain. It can only be used once.
+Description = 	Gibst du den Samen einem Pokémon zum Tragen, setzt es ihn ein, wenn ein Psychofeld aktiv ist, und erhöht dadurch seine Spezial-Verteidigung.
 #-------------------------------
 [LIFEORB]
-Name = Life Orb
-NamePlural = Life Orbs
+Name = Leben-Orb
+NamePlural = Leben-Orbs
 Pocket = 1
 Price = 4000
 Flags = Fling_30
-Description = An item to be held by a Pokémon. It boosts the power of moves, but at the cost of some HP on each hit.
+Description = Ein Item zum Tragen. Verstärkt Attacken, aber jede Attacke kostet den Träger KP.
 #-------------------------------
 [EXPERTBELT]
-Name = Expert Belt
-NamePlural = Expert Belts
+Name = Expertengurt
+NamePlural = Expertengurte
 Pocket = 1
 Price = 4000
 Flags = Fling_10
-Description = An item to be held by a Pokémon. It is a well-worn belt that slightly boosts the power of supereffective moves.
+Description = Ein Item zum Tragen. Dieser alte Gürtel verstärkt sehr effektive Attacken.
 #-------------------------------
 [METRONOME]
-Name = Metronome
-NamePlural = Metronomes
+Name = Metronom 
+NamePlural = Metronome
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_30
-Description = A Pokémon held item that boosts a move used consecutively. Its effect is reset if another move is used.
+Description = Ein Item zum Tragen. Verstärkt eine Attacke, je öfter sie in Folge ausgeführt wird.
 #-------------------------------
 [MUSCLEBAND]
-Name = Muscle Band
-NamePlural = Muscle Bands
+Name = Muskelband
+NamePlural = Muskelbänder
 Pocket = 1
 Price = 4000
 Flags = Fling_10
-Description = An item to be held by a Pokémon. It is a headband that slightly boosts the power of physical moves.
+Description = Ein Item zum Tragen. Dieses Stirnband verstärkt physische Attacken etwas.
 #-------------------------------
 [WISEGLASSES]
-Name = Wise Glasses
-NamePlural = Wise Glasses
+Name = Schlaubrille
+NamePlural = Schlaubrillen
 Pocket = 1
 Price = 4000
 Flags = Fling_10
-Description = An item to be held by a Pokémon. It is a thick pair of glasses that slightly boosts the power of special moves.
+Description = Ein Item zum Tragen. Diese dicke Brille verstärkt auf Spezial-Angriff basierende Attacken.
 #-------------------------------
 [RAZORCLAW]
-Name = Razor Claw
-NamePlural = Razor Claws
+Name = Scharfklaue
+NamePlural = Scharfklauen
 Pocket = 1
 Price = 3000
 SellPrice = 2500
 Flags = Fling_80
-Description = An item to be held by a Pokémon. It is a sharply hooked claw that ups the holder's critical-hit ratio.
+Description = Ein Item zum Tragen. Die scharfe Klaue erhöht die Volltrefferquote des Trägers.
 #-------------------------------
 [SCOPELENS]
-Name = Scope Lens
-NamePlural = Scope Lenses
+Name = Scope-Linse
+NamePlural = Scope-Linsen
 Pocket = 1
 Price = 4000
 Flags = Fling_30
-Description = An item to be held by a Pokémon. It is a lens that boosts the holder's critical-hit ratio.
+Description = Ein Item, das einem Pokémon zum Tragen gegeben werden kann. Es erhöht die Volltrefferquote.
 #-------------------------------
 [WIDELENS]
-Name = Wide Lens
-NamePlural = Wide Lenses
+Name = Großlinse
+NamePlural = Großlinsen
 Pocket = 1
 Price = 4000
 Flags = Fling_10
-Description = An item to be held by a Pokémon. It is a magnifying lens that slightly boosts the accuracy of moves.
+Description = Ein Item zum Tragen. Dieses Vergrößerungsglas erhöht die Genauigkeit etwas.
 #-------------------------------
 [ZOOMLENS]
-Name = Zoom Lens
-NamePlural = Zoom Lenses
+Name = Zoomlinse
+NamePlural = Zoomlinsen
 Pocket = 1
 Price = 4000
 Flags = Fling_10
-Description = An item to be held by a Pokémon. If the holder moves after its target, its accuracy will be boosted.
+Description = Ein Item zum Tragen. Agiert das Ziel zuerst, erhöht sich die Genauigkeit des Trägers.
 #-------------------------------
 [KINGSROCK]
-Name = King's Rock
-NamePlural = King's Rocks
+Name = King-Stein
+NamePlural = King-Stein
 Pocket = 1
 Price = 5000
 Flags = Fling_30
-Description = An item to be held by a Pokémon. When the holder inflicts damage, the target may flinch.
+Description = Gibst du es einem Pokémon zum Tragen, lässt es mit seinem Angriff das Ziel gelegentlich zurückschrecken.
 #-------------------------------
 [RAZORFANG]
-Name = Razor Fang
-NamePlural = Razor Fangs
+Name = Scharfzahn
+NamePlural = Scharfzähne
 Pocket = 1
 Price = 5000
 Flags = Fling_30
-Description = An item to be held by a Pokémon. It may make foes and allies flinch when the holder inflicts damage.
+Description = Ein Item zum Tragen. Verursacht der Träger Schaden, schreckt das Ziel eventuell zurück.
 #-------------------------------
 [LAGGINGTAIL]
-Name = Lagging Tail
-NamePlural = Lagging Tails
+Name = Schwerschweif
+NamePlural = Schwerschweife
 Pocket = 1
 Price = 4000
 Flags = Fling_10
-Description = An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual.
+Description = Ein Item zum Tragen. Es ist immens schwer und senkt die Geschwindigkeit des Trägers.
 #-------------------------------
 [QUICKCLAW]
-Name = Quick Claw
-NamePlural = Quick Claws
+Name = Flinkklaue
+NamePlural = Flinkklauen
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_80
-Description = An item to be held by a Pokémon. A light, sharp claw that lets the bearer move first occasionally.
+Description = Ein Item, das einem Pokémon zum Tragen gegeben werden kann. Es hebt gelegentlich die Erstschlagquote.
 #-------------------------------
 [FOCUSBAND]
-Name = Focus Band
-NamePlural = Focus Bands
+Name = Fokusband
+NamePlural = Fokusbänder
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
-Description = An item to be held by a Pokémon. The holder may endure a potential KO attack, leaving it with just 1 HP.
+Description = Ein Item, das die Kampfunfähigkeit verhindern kann, da dem Träger 1 KP bleibt.
 #-------------------------------
 [FOCUSSASH]
-Name = Focus Sash
-NamePlural = Focus Sashes
+Name = Fokusgurt
+NamePlural = Fokusgurte
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
-Description = An item to be held by a Pokémon. If it has full HP, the holder will endure one potential KO attack, leaving 1 HP.
+Description = Ein Item zum Tragen. Bei vollen KP bleibt der Träger nach einer K.O.-Attacke einmalig mit 1 KP im Kampf.
 #-------------------------------
 [FLAMEORB]
-Name = Flame Orb
-NamePlural = Flame Orbs
+Name = Heiß-Orb
+NamePlural = Heiß-Orbs
 Pocket = 1
 Price = 4000
 Flags = Fling_30
-Description = An item to be held by a Pokémon. It is a bizarre orb that inflicts a burn on the holder in battle.
+Description = Ein Item zum Tragen. Dieser bizarre Orb fügt seinem Träger Verbrennungen zu.
 #-------------------------------
 [TOXICORB]
-Name = Toxic Orb
-NamePlural = Toxic Orbs
+Name = Toxik-Orb
+NamePlural = Toxik-Orbs
 Pocket = 1
 Price = 4000
 Flags = Fling_30
-Description = An item to be held by a Pokémon. It is a bizarre orb that badly poisons the holder in battle.
+Description = Ein Item zum Tragen. Dieser bizarre Orb vergiftet seinen Träger im Kampf schwer.
 #-------------------------------
 [STICKYBARB]
-Name = Sticky Barb
-NamePlural = Sticky Barbs
+Name = Klettdorn
+NamePlural = Klettdornen
 Pocket = 1
 Price = 4000
 Flags = Fling_80
-Description = A held item that damages the holder on every turn. It may latch on to Pokémon that touch the holder.
+Description = Ein Item zum Tragen. Schadet dem Träger in jeder Runde, kann aber an Angreifern haften bleiben, die ihn berühren.
 #-------------------------------
 [IRONBALL]
-Name = Iron Ball
-NamePlural = Iron Balls
+Name = Eisenkugel
+NamePlural = Eisenkugeln
 Pocket = 1
 Price = 4000
 Flags = Fling_130
-Description = A Pokémon held item that cuts Speed. It makes Flying-type and levitating holders susceptible to Ground moves.
+Description = Ein Item zum Tragen. Macht Pokémon des Typs Flug oder mit der Fähigkeit Schwebe anfällig für Boden-Attacken. Senkt den Initiative-Wert.
 #-------------------------------
 [RINGTARGET]
-Name = Ring Target
-NamePlural = Ring Targets
+Name = Zielscheibe
+NamePlural = Zielscheiben
 Pocket = 1
 Price = 3000
 SellPrice = 2000
 Flags = Fling_10
-Description = Moves that would otherwise have no effect will land on the Pokémon that holds it.
+Description = Attacken, die aufgrund der Wechselwirkungen zwischen den Typen keine Wirkung haben, treffen den Träger.
 #-------------------------------
 [MACHOBRACE]
-Name = Macho Brace
-NamePlural = Macho Braces
+Name = Machoschiene
+NamePlural = Machoschienen
 Pocket = 1
 Price = 3000
 Flags = Fling_60,EVBooster
-Description = An item to be held by a Pokémon. It is a stiff, heavy brace that promotes strong growth but lowers Speed.
+Description = Ein Item, das ein Pokémon tragen kann. Der Initiative-Wert sinkt zwar, aber es wird dafür umso stärker.
 #-------------------------------
 [POWERWEIGHT]
-Name = Power Weight
-NamePlural = Power Weights
+Name = Machtgewicht
+NamePlural = Machtgewichte
 Pocket = 1
 Price = 3000
 Flags = Fling_70,EVBooster
-Description = A Pokémon held item that promotes HP gain on leveling, but reduces the Speed stat.
+Description = Ein Item zum Tragen. Erhöht bei Levelaufstieg die maximalen KP, senkt aber die Initiative.
 #-------------------------------
 [POWERBRACER]
-Name = Power Bracer
-NamePlural = Power Bracers
+Name = Machtreif
+NamePlural = Machtreife
 Pocket = 1
 Price = 3000
 Flags = Fling_70,EVBooster
-Description = A Pokémon held item that promotes Attack gain on leveling, but reduces the Speed stat.
+Description = Ein Item zum Tragen. Erhöht bei Levelaufstieg den Angriffs-Wert, senkt aber die Initiative.
 #-------------------------------
 [POWERBELT]
-Name = Power Belt
-NamePlural = Power Belts
+Name = Machtgurt
+NamePlural = Machtgurte
 Pocket = 1
 Price = 3000
 Flags = Fling_70,EVBooster
-Description = A Pokémon held item that promotes Defense gain on leveling, but reduces the Speed stat.
+Description = Ein Item zum Tragen. Erhöht bei Levelaufstieg den Verteidigungs-Wert, senkt aber die Initiative.
 #-------------------------------
 [POWERLENS]
-Name = Power Lens
-NamePlural = Power Lenses
+Name = Machtlinse
+NamePlural = Machtlinsen
 Pocket = 1
 Price = 3000
 Flags = Fling_70,EVBooster
-Description = A Pokémon held item that promotes Sp. Atk gain on leveling, but reduces the Speed stat.
+Description = Ein Item zum Tragen. Erhöht bei Levelaufstieg den Spezial-Angriffs-Wert, senkt aber die Initiative.
 #-------------------------------
 [POWERBAND]
-Name = Power Band
-NamePlural = Power Bands
+Name = Machtband 
+NamePlural = Machtbänder
 Pocket = 1
 Price = 3000
 Flags = Fling_70,EVBooster
-Description = A Pokémon held item that promotes Sp. Def gain on leveling, but reduces the Speed stat.
+Description = Ein Item zum Tragen. Erhöht bei Levelaufstieg den Spezial-Verteidigungs-Wert, senkt aber die Initiative.
 #-------------------------------
 [POWERANKLET]
-Name = Power Anklet
-NamePlural = Power Anklets
+Name = Machtkette
+NamePlural = Machtketten
 Pocket = 1
 Price = 3000
 Flags = Fling_70,EVBooster
-Description = A Pokémon held item that promotes Speed gain on leveling, but reduces the Speed stat.
+Description = Ein Item zum Tragen. Erhöht bei Levelaufstieg den Initiative-Wert, senkt aber die Initiative allgemein.
 #-------------------------------
 [LAXINCENSE]
-Name = Lax Incense
-NamePlural = Lax Incenses
+Name = Laxrauch
+NamePlural = Laxrauche
 Pocket = 1
 Price = 5000
 Flags = Fling_10,Incense
-Description = An item to be held by a Pokémon. The tricky aroma of this incense may make attacks miss the holder.
+Description = Ein Item zum Tragen. Das verwirrende Aroma senkt die Genauigkeit des Gegners.
 #-------------------------------
 [FULLINCENSE]
-Name = Full Incense
-NamePlural = Full Incenses
+Name = Lahmrauch
+NamePlural = Lahmrauche
 Pocket = 1
 Price = 5000
 Flags = Fling_10,Incense
-Description = An item to be held by a Pokémon. This exotic-smelling incense makes the holder bloated and slow moving.
+Description = Ein Item zum Tragen. Dieses exotische Duftkraut macht den Träger benommen und langsam.
 #-------------------------------
 [LUCKINCENSE]
-Name = Luck Incense
-NamePlural = Luck Incenses
+Name = Glücksrauch
+NamePlural = Glücksrauche
 Pocket = 1
 Price = 11000
 Flags = Fling_10,Incense
-Description = An item to be held by a Pokémon. It doubles a battle's prize money if the holding Pokémon joins in.
+Description = Ein Item, das ein Pokémon trägt und das doppeltes Preisgeld bringt, wenn der Träger am Kampf teilnimmt.
 #-------------------------------
 [PUREINCENSE]
-Name = Pure Incense
-NamePlural = Pure Incenses
+Name = Scheuchrauch
+NamePlural = Scheuchrauche
 Pocket = 1
 Price = 6000
 Flags = Fling_10,Incense
-Description = An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party.
+Description = Ein Item zum Tragen. Reduziert Begegnungen mit wilden Pokémon, wenn der Träger an erster Stelle steht.
 #-------------------------------
 [SEAINCENSE]
-Name = Sea Incense
-NamePlural = Sea Incenses
+Name = Seerauch
+NamePlural = Seerauche
 Pocket = 1
 Price = 2000
 Flags = Fling_10,Incense
-Description = An item to be held by a Pokémon. It has a curious aroma that boosts the power of Water-type moves.
+Description = Ein Item zum Tragen. Sein ausgefallenes Aroma verstärkt Attacken vom Typ Wasser.
 #-------------------------------
 [WAVEINCENSE]
-Name = Wave Incense
-NamePlural = Wave Incenses
+Name = Wellenrauch
+NamePlural = Wellenrauche
 Pocket = 1
 Price = 2000
 Flags = Fling_10,Incense
-Description = An item to be held by a Pokémon. It has a curious aroma that boosts the power of Water-type moves.
+Description = Ein Item zum Tragen. Dieses exotische Duftkraut verstärkt Attacken vom Typ Wasser.
 #-------------------------------
 [ROSEINCENSE]
-Name = Rose Incense
-NamePlural = Rose Incenses
+Name = Rosenrauch
+NamePlural = Rosenrauche
 Pocket = 1
 Price = 2000
 Flags = Fling_10,Incense
-Description = An item to be held by a Pokémon. This exotic-smelling incense boosts the power of Grass-type moves.
+Description = 	Ein Item zum Tragen. Dieses exotische Duftkraut verstärkt Attacken vom Typ Pflanze.
 #-------------------------------
 [ODDINCENSE]
-Name = Odd Incense
-NamePlural = Odd Incenses
+Name = Schrägrauch
+NamePlural = Schrägrauche
 Pocket = 1
 Price = 2000
 Flags = Fling_10,Incense
-Description = An item to be held by a Pokémon. This exotic-smelling incense boosts the power of Psychic-type moves.
+Description = Ein Item zum Tragen. Dieses exotische Duftkraut verstärkt Attacken vom Typ Psycho.
 #-------------------------------
 [ROCKINCENSE]
-Name = Rock Incense
-NamePlural = Rock Incenses
+Name = Steinrauch
+NamePlural = Steinrauche
 Pocket = 1
 Price = 2000
 Flags = Fling_10,Incense
-Description = An item to be held by a Pokémon. This exotic-smelling incense boosts the power of Rock-type moves.
+Description = Ein Item zum Tragen. Dieses exotische Duftkraut verstärkt Attacken vom Typ Gestein.
 #-------------------------------
 [CHARCOAL]
-Name = Charcoal
-NamePlural = Charcoals
+Name = Holzkohle
+NamePlural = Stücke Holzkohle
 Pocket = 1
 Price = 3000
 SellPrice = 500
 Flags = Fling_30
-Description = An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves.
+Description = Ein Item zum Tragen. Ein Brennstoff, der Attacken vom Typ Feuer verstärkt.
 #-------------------------------
 [MYSTICWATER]
-Name = Mystic Water
-NamePlural = Mystic Waters
+Name = Zauberwasser
+NamePlural = Zauberwasser
 Pocket = 1
 Price = 3000
 SellPrice = 500
 Flags = Fling_30
-Description = An item to be held by a Pokémon. It is a teardrop-shaped gem that ups the power of Water-type moves.
+Description = Ein Item zum Tragen. Ein tränenförmiger Edelstein, der Attacken vom Typ Wasser verstärkt.
 #-------------------------------
 [MAGNET]
 Name = Magnet
-NamePlural = Magnets
+NamePlural = Magnete
 Pocket = 1
 Price = 3000
 SellPrice = 500
 Flags = Fling_30
-Description = An item to be held by a Pokémon. It is a powerful magnet that boosts the power of Electric-type moves.
+Description = Ein Item zum Tragen, dessen magnetische Kraft Attacken vom Typ Elektro verstärkt.
 #-------------------------------
 [MIRACLESEED]
-Name = Miracle Seed
-NamePlural = Miracle Seeds
+Name = Wundersaat
+NamePlural = Wundersaaten
 Pocket = 1
 Price = 3000
 SellPrice = 500
 Flags = Fling_30
-Description = An item to be held by a Pokémon. It is a seed imbued with life that ups the power of Grass-type moves.
+Description = Ein Item zum Tragen. Ein Samen voller Lebenskraft, der Attacken vom Typ Pflanze verstärkt.
 #-------------------------------
 [NEVERMELTICE]
-Name = Never-Melt Ice
-NamePlural = Never-Melt Ices
+Name = Ewiges Eis
+NamePlural = Ewige Eise
 Pocket = 1
 Price = 3000
 SellPrice = 500
 Flags = Fling_30
-Description = An item to be held by a Pokémon. It is a piece of ice that repels heat and boosts Ice-type moves.
+Description = Ein Item zum Tragen. Ein Stück Eis, das Hitze fernhält und Attacken vom Typ Eis verstärkt.
 #-------------------------------
 [BLACKBELT]
-Name = Black Belt
-NamePlural = Black Belts
+Name = Schwarzgurt
+NamePlural = Schwarzgurt
 Pocket = 1
 Price = 3000
 SellPrice = 500
 Flags = Fling_30
-Description = An item to be held by a Pokémon. It is a belt that boosts determination and Fighting-type moves.
+Description = Ein Item zum Tragen. Ein Gürtel, der die Entschlossenheit sowie Attacken vom Typ Kampf verstärkt.
 #-------------------------------
 [POISONBARB]
-Name = Poison Barb
-NamePlural = Poison Barbs
+Name = Giftstich
+NamePlural = Giftstiche
 Pocket = 1
 Price = 3000
 SellPrice = 500
 Flags = Fling_70
-Description = An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.
+Description = Ein Item zum Tragen. Ein schmaler und giftiger Widerhaken, der Attacken vom Typ Gift verstärkt.
 #-------------------------------
 [SOFTSAND]
-Name = Soft Sand
-NamePlural = Soft Sand
+Name = Pudersand
+NamePlural = Pudersande
 Pocket = 1
 Price = 3000
 SellPrice = 500
 Flags = Fling_10
-Description = An item to be held by a Pokémon. It is a loose, silky sand that boosts the power of Ground-type moves.
+Description = Ein Item zum Tragen. Samtiger Sand, der Attacken vom Typ Boden verstärkt.
 #-------------------------------
 [SHARPBEAK]
-Name = Sharp Beak
-NamePlural = Sharp Beaks
+Name = Spitzer Schnabel
+NamePlural = Spitze Schnäbel
 Pocket = 1
 Price = 3000
 SellPrice = 500
 Flags = Fling_50
-Description = An item to be held by a Pokémon. It is a long, sharp beak that boosts the power of Flying-type moves.
+Description = Ein Item zum Tragen. Ein langer, scharfer Schnabel verstärkt Attacken vom Typ Flug.
 #-------------------------------
 [TWISTEDSPOON]
-Name = Twisted Spoon
-NamePlural = Twisted Spoons
+Name = Krummlöffel
+NamePlural = Krummlöffel
 Pocket = 1
 Price = 3000
 SellPrice = 500
 Flags = Fling_30
-Description = An item to be held by a Pokémon. It is a spoon imbued with telekinetic power that boosts Psychic-type moves.
+Description = Ein Item zum Tragen. Ein Löffel voller telekinetischer Energie, der Attacken vom Typ Psycho verstärkt.
 #-------------------------------
 [SILVERPOWDER]
-Name = Silver Powder
-NamePlural = Silver Powders
+Name = Silberstaub
+NamePlural = Silberstaube
 Pocket = 1
 Price = 3000
 SellPrice = 500
 Flags = Fling_10
-Description = An item to be held by a Pokémon. It is a shiny, silver powder that ups the power of Bug-type moves.
+Description = Ein Item, das einem Pokémon zum Tragen gegeben werden kann. Es verstärkt Attacken vom Typ Käfer.
 #-------------------------------
 [HARDSTONE]
-Name = Hard Stone
-NamePlural = Hard Stones
+Name = Granitstein
+NamePlural = Granitsteine
 Pocket = 1
 Price = 3000
 SellPrice = 500
 Flags = Fling_100
-Description = An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves.
+Description = Ein Item zum Tragen. Ein unzerbrechlicher Stein, der Attacken vom Typ Gestein verstärkt.
 #-------------------------------
 [SPELLTAG]
-Name = Spell Tag
-NamePlural = Spell Tags
+Name = Bannsticker
+NamePlural = Bannsticker
 Pocket = 1
 Price = 3000
 SellPrice = 500
 Flags = Fling_30
-Description = An item to be held by a Pokémon. It is a sinister, eerie tag that boosts the power of Ghost-type moves.
+Description = Ein Item zum Tragen. Ein fieser, unheimlicher Sticker, der Attacken vom Typ Geist verstärkt.
 #-------------------------------
 [DRAGONFANG]
-Name = Dragon Fang
-NamePlural = Dragon Fangs
+Name = Drachenzahn
+NamePlural = Drachenzähne
 Pocket = 1
 Price = 3000
 SellPrice = 500
 Flags = Fling_70
-Description = An item to be held by a Pokémon. It is a hard and sharp fang that ups the power of Dragon-type moves.
+Description = Ein Item zum Tragen. Ein harter und scharfer Reißzahn, der Attacken vom Typ Drache verstärkt.
 #-------------------------------
 [BLACKGLASSES]
-Name = Black Glasses
-NamePlural = Black Glasses
+Name = Schattenbrille
+NamePlural = Schattenbrillen
 Pocket = 1
 Price = 3000
 SellPrice = 500
 Flags = Fling_30
-Description = An item to be held by a Pokémon. It is a shady-looking pair of glasses that boosts Dark-type moves.
+Description = Ein Item zum Tragen. Eine dunkle Brille, die Attacken vom Typ Unlicht verstärkt..
 #-------------------------------
 [METALCOAT]
-Name = Metal Coat
-NamePlural = Metal Coats
+Name = Metallmantel
+NamePlural = Metallmantel
 Pocket = 1
 Price = 3000
 SellPrice = 1000
 Flags = Fling_30
-Description = An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.
+Description = Ein Item, das einem Pokémon zum Tragen gegeben werden kann. Es verstärkt Attacken vom Typ Stahl.
 #-------------------------------
 [SILKSCARF]
-Name = Silk Scarf
-NamePlural = Silk Scarves
+Name = Seidenschal
+NamePlural = Seidenschale
 Pocket = 1
 Price = 3000
 SellPrice = 500
 Flags = Fling_10
-Description = An item to be held by a Pokémon. It is a sumptuous scarf that boosts the power of Normal-type moves.
+Description = Ein Item zum Tragen. Ein kostbarer Schal, der Attacken vom Typ Normal verstärkt.
 #-------------------------------
 [FLAMEPLATE]
-Name = Flame Plate
-NamePlural = Flame Plates
+Name = Feuertafel
+NamePlural = Feuertafeln
 Pocket = 1
 Price = 10000
 SellPrice = 500
 Flags = Fling_90,Plate
-Description = An item to be held by a Pokémon. It is a stone tablet that boosts the power of Fire-type moves.
+Description = Ein Item zum Tragen. Diese Steintafel verstärkt Attacken vom Typ Feuer.
 #-------------------------------
 [SPLASHPLATE]
-Name = Splash Plate
-NamePlural = Splash Plates
+Name = Wassertafel
+NamePlural = Wassertafeln
 Pocket = 1
 Price = 10000
 SellPrice = 500
 Flags = Fling_90,Plate
-Description = An item to be held by a Pokémon. It is a stone tablet that boosts the power of Water-type moves.
+Description = Ein Item zum Tragen. Diese Steintafel verstärkt Attacken vom Typ Wasser.
 #-------------------------------
 [ZAPPLATE]
-Name = Zap Plate
-NamePlural = Zap Plates
+Name = Blitztafel
+NamePlural = Blitztafeln
 Pocket = 1
 Price = 10000
 SellPrice = 500
 Flags = Fling_90,Plate
-Description = An item to be held by a Pokémon. It is a stone tablet that boosts the power of Electric-type moves.
+Description = Ein Item zum Tragen. Diese Steintafel verstärkt Attacken vom Typ Elektro.
 #-------------------------------
 [MEADOWPLATE]
-Name = Meadow Plate
-NamePlural = Meadow Plates
+Name = Wiesentafel
+NamePlural = Wiesentafeln
 Pocket = 1
 Price = 10000
 SellPrice = 500
 Flags = Fling_90,Plate
-Description = An item to be held by a Pokémon. It is a stone tablet that boosts the power of Grass-type moves.
+Description = Ein Item zum Tragen. Diese Steintafel verstärkt Attacken vom Typ Pflanze.
 #-------------------------------
 [ICICLEPLATE]
-Name = Icicle Plate
-NamePlural = Icicle Plates
+Name = Frosttafel
+NamePlural = Frosttafeln
 Pocket = 1
 Price = 10000
 SellPrice = 500
 Flags = Fling_90,Plate
-Description = An item to be held by a Pokémon. It is a stone tablet that boosts the power of Ice-type moves.
+Description = Ein Item zum Tragen. Diese Steintafel verstärkt Attacken vom Typ Eis.
 #-------------------------------
 [FISTPLATE]
-Name = Fist Plate
-NamePlural = Fist Plates
+Name = Fausttafel
+NamePlural = Fausttafeln
 Pocket = 1
 Price = 10000
 SellPrice = 500
 Flags = Fling_90,Plate
-Description = An item to be held by a Pokémon. It is a stone tablet that boosts the power of Fighting-type moves.
+Description = Ein Item zum Tragen. Diese Steintafel verstärkt Attacken vom Typ Kampf.
 #-------------------------------
 [TOXICPLATE]
-Name = Toxic Plate
-NamePlural = Toxic Plates
+Name = Gifttafel
+NamePlural = Gifttafeln
 Pocket = 1
 Price = 10000
 SellPrice = 500
 Flags = Fling_90,Plate
-Description = An item to be held by a Pokémon. It is a stone tablet that boosts the power of Poison-type moves.
+Description = Ein Item zum Tragen. Diese Steintafel verstärkt Attacken vom Typ Gift.
 #-------------------------------
 [EARTHPLATE]
-Name = Earth Plate
-NamePlural = Earth Plates
+Name = Erdtafel
+NamePlural = Erdtafeln
 Pocket = 1
 Price = 10000
 SellPrice = 500
 Flags = Fling_90,Plate
-Description = An item to be held by a Pokémon. It is a stone tablet that boosts the power of Ground-type moves.
+Description = 	Ein Item zum Tragen. Diese Steintafel verstärkt Attacken vom Typ Boden.
 #-------------------------------
 [SKYPLATE]
-Name = Sky Plate
-NamePlural = Sky Plates
+Name = Wolkentafel
+NamePlural = Wolkentafeln
 Pocket = 1
 Price = 10000
 SellPrice = 500
 Flags = Fling_90,Plate
-Description = An item to be held by a Pokémon. It is a stone tablet that boosts the power of Flying-type moves.
+Description = Ein Item zum Tragen. Diese Steintafel verstärkt Attacken vom Typ Flug.
 #-------------------------------
 [MINDPLATE]
-Name = Mind Plate
-NamePlural = Mind Plates
+Name = Hirntafel
+NamePlural = Hirntafeln
 Pocket = 1
 Price = 10000
 SellPrice = 500
 Flags = Fling_90,Plate
-Description = An item to be held by a Pokémon. It is a stone tablet that boosts the power of Psychic-type moves.
+Description = Ein Item zum Tragen. Diese Steintafel verstärkt Attacken vom Typ Psycho.
 #-------------------------------
 [INSECTPLATE]
-Name = Insect Plate
-NamePlural = Insect Plates
+Name = Käfertafel
+NamePlural = Käfertafeln
 Pocket = 1
 Price = 10000
 SellPrice = 500
 Flags = Fling_90,Plate
-Description = An item to be held by a Pokémon. It is a stone tablet that boosts the power of Bug-type moves.
+Description = Ein Item zum Tragen. Diese Steintafel verstärkt Attacken vom Typ Käfer.
 #-------------------------------
 [STONEPLATE]
-Name = Stone Plate
-NamePlural = Stone Plates
+Name = Steintafel
+NamePlural = Steintafeln
 Pocket = 1
 Price = 10000
 SellPrice = 500
 Flags = Fling_90,Plate
-Description = An item to be held by a Pokémon. It is a stone tablet that boosts the power of Rock-type moves.
+Description = Ein Item zum Tragen. Diese Steintafel verstärkt Attacken vom Typ Gestein.
 #-------------------------------
 [SPOOKYPLATE]
-Name = Spooky Plate
-NamePlural = Spooky Plates
+Name = Spuktafel
+NamePlural = Spuktafeln
 Pocket = 1
 Price = 10000
 SellPrice = 500
 Flags = Fling_90,Plate
-Description = An item to be held by a Pokémon. It is a stone tablet that boosts the power of Ghost-type moves.
+Description = Ein Item zum Tragen. Diese Steintafel verstärkt Attacken vom Typ Geist.
 #-------------------------------
 [DRACOPLATE]
-Name = Draco Plate
-NamePlural = Draco Plates
+Name = Dracotafel
+NamePlural = Dracotafeln
 Pocket = 1
 Price = 10000
 SellPrice = 500
 Flags = Fling_90,Plate
-Description = An item to be held by a Pokémon. It is a stone tablet that boosts the power of Dragon-type moves.
+Description = Ein Item zum Tragen. Diese Steintafel verstärkt Attacken vom Typ Drache.
 #-------------------------------
 [DREADPLATE]
-Name = Dread Plate
-NamePlural = Dread Plates
+Name = Furchttafel
+NamePlural = Furchttafeln
 Pocket = 1
 Price = 10000
 SellPrice = 500
 Flags = Fling_90,Plate
-Description = An item to be held by a Pokémon. It is a stone tablet that boosts the power of Dark-type moves.
+Description = Ein Item zum Tragen. Diese Steintafel verstärkt Attacken vom Typ Unlicht.
 #-------------------------------
 [IRONPLATE]
-Name = Iron Plate
-NamePlural = Iron Plates
+Name = Eisentafel
+NamePlural = Eisentafeln
 Pocket = 1
 Price = 10000
 SellPrice = 500
 Flags = Fling_90,Plate
-Description = An item to be held by a Pokémon. It is a stone tablet that boosts the power of Steel-type moves.
+Description = Ein Item zum Tragen. Diese Steintafel verstärkt Attacken vom Typ Stahl.
 #-------------------------------
 [PIXIEPLATE]
-Name = Pixie Plate
-NamePlural = Pixie Plates
+Name = Feentafel
+NamePlural = Feentafeln
 Pocket = 1
 Price = 10000
 SellPrice = 500
 Flags = Fling_90,Plate
-Description = An item to be held by a Pokémon. It is a stone tablet that boosts the power of Fairy-type moves.
+Description = Ein Item zum Tragen. Diese Steintafel verstärkt Attacken vom Typ Fee.
 #-------------------------------
 [FIREGEM]
-Name = Fire Gem
-NamePlural = Fire Gems
+Name = Feuerjuwel
+NamePlural = Feuerjuwelen
 Pocket = 1
 Price = 4000
 Flags = TypeGem
-Description = A gem with an essence of fire. When held, it strengthens the power of a Fire-type move only once.
+Description = Ein Juwel vom Typ Feuer. Es erhöht einmalig die Stärke einer Attacke vom Typ Feuer.
 #-------------------------------
 [WATERGEM]
-Name = Water Gem
-NamePlural = Water Gems
+Name = Wasserjuwel
+NamePlural = Wasserjuwelen
 Pocket = 1
 Price = 4000
 Flags = TypeGem
-Description = A gem with an essence of water. When held, it strengthens the power of a Water-type move only once.
+Description = 	Ein Juwel vom Typ Wasser. Es erhöht einmalig die Stärke einer Attacke vom Typ Wasser
 #-------------------------------
 [ELECTRICGEM]
-Name = Electric Gem
-NamePlural = Electric Gems
+Name = Elektrojuwel
+NamePlural = Elektrojuwelen
 Pocket = 1
 Price = 4000
 Flags = TypeGem
-Description = A gem with an essence of electricity. When held, it strengthens the power of an Electric-type move only once.
+Description = Ein Juwel vom Typ Elektro. Es erhöht einmalig die Stärke einer Attacke vom Typ Elektro.
 #-------------------------------
 [GRASSGEM]
-Name = Grass Gem
-NamePlural = Grass Gems
+Name = Pflanzenjuwel
+NamePlural = Pflanzenjuwelen
 Pocket = 1
 Price = 4000
 Flags = TypeGem
-Description = A gem with an essence of nature. When held, it strengthens the power of a Grass-type move only once.
+Description = Ein Juwel vom Typ Pflanze. Es erhöht einmalig die Stärke einer Attacke vom Typ Pflanze.
 #-------------------------------
 [ICEGEM]
-Name = Ice Gem
-NamePlural = Ice Gems
+Name = Eisjuwel
+NamePlural = Eisjuwelen
 Pocket = 1
 Price = 4000
 Flags = TypeGem
-Description = A gem with an essence of ice. When held, it strengthens the power of an Ice-type move only once.
+Description = Ein Juwel vom Typ Eis. Es erhöht einmalig die Stärke einer Attacke vom Typ Eis.
 #-------------------------------
 [FIGHTINGGEM]
-Name = Fighting Gem
-NamePlural = Fighting Gems
+Name = Kampfjuwel
+NamePlural = Kampfjuwelen
 Pocket = 1
 Price = 4000
 Flags = TypeGem
-Description = A gem with an essence of combat. When held, it strengthens the power of a Fighting-type move only once.
+Description = Ein Juwel vom Typ Kampf. Es erhöht einmalig die Stärke einer Attacke vom Typ Kampf.
 #-------------------------------
 [POISONGEM]
-Name = Poison Gem
-NamePlural = Poison Gems
+Name = Giftjuwel
+NamePlural = Giftjuwelen
 Pocket = 1
 Price = 4000
 Flags = TypeGem
-Description = A gem with an essence of poison. When held, it strengthens the power of a Poison-type move only once.
+Description = Ein Juwel vom Typ Gift. Es erhöht einmalig die Stärke einer Attacke vom Typ Gift.
 #-------------------------------
 [GROUNDGEM]
-Name = Ground Gem
-NamePlural = Ground Gems
+Name = Bodenjuwel
+NamePlural = Bodenjuwelen
 Pocket = 1
 Price = 4000
 Flags = TypeGem
-Description = A gem with an essence of land. When held, it strengthens the power of a Ground-type move only once.
+Description = Ein Juwel vom Typ Boden. Es erhöht einmalig die Stärke einer Attacke vom Typ Boden.
 #-------------------------------
 [FLYINGGEM]
-Name = Flying Gem
-NamePlural = Flying Gems
+Name = Flugjuwel
+NamePlural = Flugjuwelen
 Pocket = 1
 Price = 4000
 Flags = TypeGem
-Description = A gem with an essence of air. When held, it strengthens the power of a Flying-type move only once.
+Description = Ein Juwel vom Typ Flug. Es erhöht einmalig die Stärke einer Attacke vom Typ Flug.
 #-------------------------------
 [PSYCHICGEM]
-Name = Psychic Gem
-NamePlural = Psychic Gems
+Name = Psychojuwel
+NamePlural = Psychojuwelen
 Pocket = 1
 Price = 4000
 Flags = TypeGem
-Description = A gem with an essence of the mind. When held, it strengthens the power of a Psychic-type move only once.
+Description = Ein Juwel vom Typ Psycho. Es erhöht einmalig die Stärke einer Attacke vom Typ Psycho.
 #-------------------------------
 [BUGGEM]
-Name = Bug Gem
-NamePlural = Bug Gems
+Name = Käferjuwel
+NamePlural = Käferjuwelen
 Pocket = 1
 Price = 4000
 Flags = TypeGem
-Description = A gem with an insect-like essence. When held, it strengthens the power of a Bug-type move only once.
+Description = Ein Juwel vom Typ Käfer. Es erhöht einmalig die Stärke einer Attacke vom Typ Käfer.
 #-------------------------------
 [ROCKGEM]
-Name = Rock Gem
-NamePlural = Rock Gems
+Name = Gesteinsjuwel
+NamePlural = Gesteinsjuwelen
 Pocket = 1
 Price = 4000
 Flags = TypeGem
-Description = A gem with an essence of rock. When held, it strengthens the power of a Rock-type move only once.
+Description = Ein Juwel vom Typ Gestein. Es erhöht einmalig die Stärke einer Attacke vom Typ Gestein.
 #-------------------------------
 [GHOSTGEM]
-Name = Ghost Gem
-NamePlural = Ghost Gems
+Name = Geisterjuwel
+NamePlural = Geisterjuwelen
 Pocket = 1
 Price = 4000
 Flags = TypeGem
-Description = A gem with a spectral essence. When held, it strengthens the power of a Ghost-type move only once.
+Description = Ein Juwel vom Typ Geist. Es erhöht einmalig die Stärke einer Attacke vom Typ Geist.
 #-------------------------------
 [DRAGONGEM]
-Name = Dragon Gem
-NamePlural = Dragon Gems
+Name = Drakojuwel
+NamePlural = Drakojuwelen
 Pocket = 1
 Price = 4000
 Flags = TypeGem
-Description = A gem with a draconic essence. When held, it strengthens the power of a Dragon-type move only once.
+Description = Ein Juwel vom Typ Drache. Es erhöht einmalig die Stärke einer Attacke vom Typ Drache.
 #-------------------------------
 [DARKGEM]
-Name = Dark Gem
-NamePlural = Dark Gems
+Name = Unlichtjuwel
+NamePlural = Unlichtjuwelen
 Pocket = 1
 Price = 4000
 Flags = TypeGem
-Description = A gem with an essence of darkness. When held, it strengthens the power of a Dark-type move only once.
+Description = Ein Juwel vom Typ Unlicht. Es erhöht einmalig die Stärke einer Attacke vom Typ Unlicht.
 #-------------------------------
 [STEELGEM]
-Name = Steel Gem
-NamePlural = Steel Gems
+Name = Stahljuwel
+NamePlural = Stahljuwelen
 Pocket = 1
 Price = 4000
 Flags = TypeGem
-Description = A gem with an essence of steel. When held, it strengthens the power of a Steel-type move only once.
+Description = Ein Juwel vom Typ Stahl. Es erhöht einmalig die Stärke einer Attacke vom Typ Stahl.
 #-------------------------------
 [FAIRYGEM]
-Name = Fairy Gem
-NamePlural = Fairy Gems
+Name = Feenjuwel
+NamePlural = Feenjuwelen
 Pocket = 1
 Price = 4000
 Flags = TypeGem
-Description = A gem with an essence of the fey. When held, it strengthens the power of a Fairy-type move only once.
+Description = Ein Juwel vom Typ Fee. Es erhöht einmalig die Stärke einer Attacke vom Typ Fee.
 #-------------------------------
 [NORMALGEM]
-Name = Normal Gem
-NamePlural = Normal Gems
+Name = Normaljuwel
+NamePlural = Normaljuwelen
 Pocket = 1
 Price = 4000
 Flags = TypeGem
-Description = A gem with an ordinary essence. When held, it strengthens the power of a Normal-type move only once.
+Description = Ein Juwel vom Typ Normal. Es erhöht einmalig die Stärke einer Attacke vom Typ Normal.
 #-------------------------------
 [LIGHTBALL]
-Name = Light Ball
-NamePlural = Light Balls
+Name = Kugelblitz
+NamePlural = Kugelblitze
 Pocket = 1
 Price = 1000
 Flags = Fling_30
-Description = An item to be held by Pikachu. It is a puzzling orb that raises the Attack and Sp. Atk stat.
+Description = Ein Item, das von Pikachu getragen werden kann. Es erhöht den Angriffs-Wert und Spezial-Angriffs-Wert.
 #-------------------------------
 [LUCKYPUNCH]
 Name = Lucky Punch
@@ -1871,289 +1871,289 @@ NamePlural = Lucky Punches
 Pocket = 1
 Price = 1000
 Flags = Fling_40
-Description = An item to be held by Chansey. It is a pair of gloves that boosts Chansey's critical-hit ratio.
+Description = Ein Item, das von Chaneira getragen werden kann. Diese Handschuhe erhöhen die Volltrefferquote des Trägers.
 #-------------------------------
 [METALPOWDER]
-Name = Metal Powder
-NamePlural = Metal Powders
+Name = Metallstaub
+NamePlural = Metallstaube
 Pocket = 1
 Price = 1000
 Flags = Fling_10
-Description = An item to be held by Ditto. Extremely fine yet hard, this odd powder boosts the Defense stat.
+Description = Ein Item, das von Ditto getragen werden kann. Es erhöht seinen Verteidigungs-Wert.
 #-------------------------------
 [QUICKPOWDER]
-Name = Quick Powder
-NamePlural = Quick Powders
+Name = Flottstaub
+NamePlural = Flottstaube
 Pocket = 1
 Price = 1000
 Flags = Fling_10
-Description = An item to be held by Ditto. Extremely fine yet hard, this odd powder boosts the Speed stat.
+Description = Ein Item, das Ditto zum Tragen gegeben werden kann. Fein und doch hart, erhöht es den Initiative-Wert.
 #-------------------------------
 [THICKCLUB]
-Name = Thick Club
-NamePlural = Thick Clubs
+Name = Kampfknochen
+NamePlural = Kampfknochen
 Pocket = 1
 Price = 1000
 Flags = Fling_90
-Description = An item to be held by Cubone or Marowak. It is a hard bone of some sort that boosts the Attack stat.
+Description = Ein harter Knochen, der den Angriffs-Wert von Tragosso oder Knogga erhöht, wenn sie ihn tragen.
 #-------------------------------
 [LEEK]
-Name = Leek
-NamePlural = Leeks
+Name = Lauchstange
+NamePlural = Lauchstangen
 Pocket = 1
 Price = 1000
 Flags = Fling_60
-Description = An item to be held by Farfetch'd. It is a very long and stiff stalk of leek that boosts the critical-hit ratio.
+Description = Ein Item, das von Porenta getragen werden kann. Diese lange Lauchstange erhöht die Volltrefferquote stark.
 #-------------------------------
 [SOULDEW]
-Name = Soul Dew
-NamePlural = Soul Dews
+Name = Seelentau
+NamePlural = Seelentaus
 Pocket = 1
 Price = 0
 Flags = Fling_30
-Description = A wondrous orb to be held by either Latios or Latias. It raises the power of Psychic- and Dragon-type moves.
+Description = Ein Item, das von Latios oder Latias getragen werden kann. Es hebt Spezial-Angriff und Spezial-Verteidigung.
 #-------------------------------
 [DEEPSEATOOTH]
-Name = Deep Sea Tooth
-NamePlural = Deep Sea Teeth
+Name = Abysszahn
+NamePlural = Abysszähne
 Pocket = 1
 Price = 2000
 Flags = Fling_90
-Description = An item to be held by Clamperl. A fang that gleams a sharp silver, it raises the Sp. Atk stat.
+Description = Ein Item, das von Perlu getragen werden kann. Es schimmert silbern und hebt den Spezial-Angriff.
 #-------------------------------
 [DEEPSEASCALE]
-Name = Deep Sea Scale
-NamePlural = Deep Sea Scales
+Name = Abyssschuppe
+NamePlural = Abyssschuppen
 Pocket = 1
 Price = 2000
 Flags = Fling_30
-Description = An item to be held by Clamperl. A scale that shines a faint pink, it raises the Sp. Def stat.
+Description = Ein Item, das von Perlu getragen werden kann. Es schimmert pink und hebt die Spezial-Verteidigung.
 #-------------------------------
 [ADAMANTORB]
-Name = Adamant Orb
-NamePlural = Adamant Orbs
+Name = Adamant-Orb
+NamePlural = Adamant-Orbs
 Pocket = 1
 Price = 10000
 SellPrice = 0
 Flags = Fling_60
-Description = A brightly gleaming orb to be held by Dialga. It boosts the power of Dragon- and Steel-type moves.
+Description = Ein hell leuchtender Orb. Verstärkt Attacken vom Typ Drache und Stahl, wenn Dialga ihn trägt.
 #-------------------------------
 [LUSTROUSORB]
-Name = Lustrous Orb
-NamePlural = Lustrous Orbs
+Name = Weiß-Orb
+NamePlural = Weiß-Orbs
 Pocket = 1
 Price = 10000
 SellPrice = 0
 Flags = Fling_60
-Description = A beautifully glowing orb to be held by Palkia. It boosts the power of Dragon- and Water-type moves.
+Description = Ein hell leuchtender Orb. Verstärkt Attacken vom Typ Drache und Wasser, wenn Palkia ihn trägt.
 #-------------------------------
 [GRISEOUSORB]
-Name = Griseous Orb
-NamePlural = Griseous Orbs
+Name = Platinum-Orb
+NamePlural = Platinum-Orbs
 Pocket = 1
 Price = 10000
 SellPrice = 0
 Flags = Fling_60
-Description = A glowing orb to be held by Giratina. It boosts the power of Dragon- and Ghost-type moves.
+Description = Ein glühender Orb. Verstärkt Attacken vom Typ Drache und Geist, wenn Giratina ihn trägt.
 #-------------------------------
 [RUSTEDSWORD]
-Name = Rusted Sword
-NamePlural = Rusted Swords
+Name = Rostiges Schwert
+NamePlural = Rostige Schwerter
 Pocket = 1
 Price = 0
-Description = It is said that a hero used this sword to halt a disaster in ancient times. But it's grown rusty and worn.
+Description = Mit diesem Schwert soll ein Held einstmals großes Unheil abgewendet haben. Rost sowie der Zahn der Zeit haben jedoch ihre Spuren hinterlassen.
 #-------------------------------
 [RUSTEDSHIELD]
-Name = Rusted Shield
-NamePlural = Rusted Shields
+Name = Rostiger Schild
+NamePlural = Rostige Schilde
 Pocket = 1
 Price = 0
-Description = It is said that a hero used this shield to halt a disaster in ancient times. But it's grown rusty and worn.
+Description = Mit diesem Schild soll ein Held einstmals großes Unheil abgewendet haben. Rost sowie der Zahn der Zeit haben jedoch ihre Spuren hinterlassen
 #-------------------------------
 [DOUSEDRIVE]
-Name = Douse Drive
-NamePlural = Douse Drives
+Name = Aquamodul
+NamePlural = Aquamodule
 Pocket = 1
 Price = 0
 Flags = Fling_70,Drive
-Description = A cassette to be held by Genesect. It changes Techno Blast to a Water-type move.
+Description = Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Wasser um.
 #-------------------------------
 [SHOCKDRIVE]
-Name = Shock Drive
-NamePlural = Shock Drives
+Name = Blitzmodul
+NamePlural = Blitzmodule
 Pocket = 1
 Price = 0
 Flags = Fling_70,Drive
-Description = A cassette to be held by Genesect. It changes Techno Blast to an Electric-type move.
+Description = Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Elektro um.
 #-------------------------------
 [BURNDRIVE]
-Name = Burn Drive
-NamePlural = Burn Drives
+Name = Flammenmodul
+NamePlural = Flammenmodule
 Pocket = 1
 Price = 0
 Flags = Fling_70,Drive
-Description = A cassette to be held by Genesect. It changes Techno Blast to a Fire-type move.
+Description = Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Feuer um.
 #-------------------------------
 [CHILLDRIVE]
-Name = Chill Drive
-NamePlural = Chill Drives
+Name = Gefriermodul
+NamePlural = Gefriermodule
 Pocket = 1
 Price = 0
 Flags = Fling_70,Drive
-Description = A cassette to be held by Genesect. It changes Techno Blast to an Ice-type move.
+Description = Gibt man es Genesect zum Tragen, wandelt es den Typ der Attacke Techblaster in Eis um.
 #-------------------------------
 [FIREMEMORY]
-Name = Fire Memory
-NamePlural = Fire Memories
+Name = Feuer-Disc
+NamePlural = Feuer-Discs
 Pocket = 1
 Price = 1000
 Flags = Fling_50,Memory
-Description = A memory disc containing Fire-type data. It changes the holder's type if held by a certain Pokémon.
+Description = Eine Disc mit Daten zum Typ Feuer. Sie löst bei einem bestimmten Pokémon einen Typenwechsel aus.
 #-------------------------------
 [WATERMEMORY]
-Name = Water Memory
-NamePlural = Water Memories
+Name = Wasser-Disc
+NamePlural = Wasser-Discs
 Pocket = 1
 Price = 1000
 Flags = Fling_50,Memory
-Description = A memory disc containing Water-type data. It changes the holder's type if held by a certain Pokémon.
+Description = Eine Disc mit Daten zum Typ Wasser. Sie löst bei einem bestimmten Pokémon einen Typenwechsel aus.
 #-------------------------------
 [ELECTRICMEMORY]
-Name = Electric Memory
-NamePlural = Electric Memories
+Name = Elektro-Disc
+NamePlural = Elektro-Discs
 Pocket = 1
 Price = 1000
 Flags = Fling_50,Memory
-Description = A memory disc containing Electric-type data. It changes the holder's type if held by a certain Pokémon.
+Description = Eine Disc mit Daten zum Typ Elektro. Sie löst bei einem bestimmten Pokémon einen Typenwechsel aus.
 #-------------------------------
 [GRASSMEMORY]
-Name = Grass Memory
-NamePlural = Grass Memories
+Name = Pflanzen-Disc
+NamePlural = Pflanzen-Discs
 Pocket = 1
 Price = 1000
 Flags = Fling_50,Memory
-Description = A memory disc containing Grass-type data. It changes the holder's type if held by a certain Pokémon.
+Description = Eine Disc mit Daten zum Typ Pflanze. Sie löst bei einem bestimmten Pokémon einen Typenwechsel aus.
 #-------------------------------
 [ICEMEMORY]
-Name = Ice Memory
-NamePlural = Ice Memories
+Name = Eis-Disc
+NamePlural = Eis-Discs
 Pocket = 1
 Price = 1000
 Flags = Fling_50,Memory
-Description = A memory disc containing Ice-type data. It changes the holder's type if held by a certain Pokémon.
+Description = Eine Disc mit Daten zum Typ Eis. Sie löst bei einem bestimmten Pokémon einen Typenwechsel aus.
 #-------------------------------
 [FIGHTINGMEMORY]
-Name = Fighting Memory
-NamePlural = Fighting Memories
+Name = Kampf-Disc
+NamePlural = Kampf-Discs
 Pocket = 1
 Price = 1000
 Flags = Fling_50,Memory
-Description = A memory disc containing Fighting-type data. It changes the holder's type if held by a certain Pokémon.
+Description = Eine Disc mit Daten zum Typ Kampf. Sie löst bei einem bestimmten Pokémon einen Typenwechsel aus.
 #-------------------------------
 [POISONMEMORY]
-Name = Poison Memory
-NamePlural = Poison Memories
+Name = Gift-Disc
+NamePlural = Gift-Discs
 Pocket = 1
 Price = 1000
 Flags = Fling_50,Memory
-Description = A memory disc containing Poison-type data. It changes the holder's type if held by a certain Pokémon.
+Description = Eine Disc mit Daten zum Typ Gift. Sie löst bei einem bestimmten Pokémon einen Typenwechsel aus.
 #-------------------------------
 [GROUNDMEMORY]
-Name = Ground Memory
-NamePlural = Ground Memories
+Name = Boden-Disc
+NamePlural = Boden-Discs
 Pocket = 1
 Price = 1000
 Flags = Fling_50,Memory
-Description = A memory disc containing Ground-type data. It changes the holder's type if held by a certain Pokémon.
+Description = Eine Disc mit Daten zum Typ Boden. Sie löst bei einem bestimmten Pokémon einen Typenwechsel aus.
 #-------------------------------
 [FLYINGMEMORY]
-Name = Flying Memory
-NamePlural = Flying Memories
+Name = Flug-Disc
+NamePlural = Flug-Discs
 Pocket = 1
 Price = 1000
 Flags = Fling_50,Memory
-Description = A memory disc containing Flying-type data. It changes the holder's type if held by a certain Pokémon.
+Description = Eine Disc mit Daten zum Typ Flug. Sie löst bei einem bestimmten Pokémon einen Typenwechsel aus.
 #-------------------------------
 [PSYCHICMEMORY]
-Name = Psychic Memory
-NamePlural = Psychic Memories
+Name = Psycho-Disc
+NamePlural = Psycho-Discs
 Pocket = 1
 Price = 1000
 Flags = Fling_50,Memory
-Description = A memory disc containing Psychic-type data. It changes the holder's type if held by a certain Pokémon.
+Description = Eine Disc mit Daten zum Typ Psycho. Sie löst bei einem bestimmten Pokémon einen Typenwechsel aus.
 #-------------------------------
 [BUGMEMORY]
-Name = Bug Memory
-NamePlural = Bug Memories
+Name = Käfer-Disc
+NamePlural = Käfer-Discs
 Pocket = 1
 Price = 1000
 Flags = Fling_50,Memory
-Description = A memory disc containing Bug-type data. It changes the holder's type if held by a certain Pokémon.
+Description = Eine Disc mit Daten zum Typ Käfer. Sie löst bei einem bestimmten Pokémon einen Typenwechsel aus.
 #-------------------------------
 [ROCKMEMORY]
-Name = Rock Memory
-NamePlural = Rock Memories
+Name = Gesteins-Disc
+NamePlural = Gesteins-Discs
 Pocket = 1
 Price = 1000
 Flags = Fling_50,Memory
-Description = A memory disc containing Rock-type data. It changes the holder's type if held by a certain Pokémon.
+Description = Eine Disc mit Daten zum Typ Gestein. Sie löst bei einem bestimmten Pokémon einen Typenwechsel aus.
 #-------------------------------
 [GHOSTMEMORY]
-Name = Ghost Memory
-NamePlural = Ghost Memories
+Name = Geister-Disc
+NamePlural = Geister-Discs
 Pocket = 1
 Price = 1000
 Flags = Fling_50,Memory
-Description = A memory disc containing Ghost-type data. It changes the holder's type if held by a certain Pokémon.
+Description = Eine Disc mit Daten zum Typ Geist. Sie löst bei einem bestimmten Pokémon einen Typenwechsel aus.
 #-------------------------------
 [DRAGONMEMORY]
-Name = Dragon Memory
-NamePlural = Dragon Memories
+Name = Drachen-Disc
+NamePlural = Drachen-Discs
 Pocket = 1
 Price = 1000
 Flags = Fling_50,Memory
-Description = A memory disc containing Dragon-type data. It changes the holder's type if held by a certain Pokémon.
+Description = Eine Disc mit Daten zum Typ Drache. Sie löst bei einem bestimmten Pokémon einen Typenwechsel aus.
 #-------------------------------
 [DARKMEMORY]
-Name = Dark Memory
-NamePlural = Dark Memories
+Name = Unlicht-Disc
+NamePlural = Unlicht-Discs
 Pocket = 1
 Price = 1000
 Flags = Fling_50,Memory
-Description = A memory disc containing Dark-type data. It changes the holder's type if held by a certain Pokémon.
+Description = Eine Disc mit Daten zum Typ Unlicht. Sie löst bei einem bestimmten Pokémon einen Typenwechsel aus.
 #-------------------------------
 [STEELMEMORY]
-Name = Steel Memory
-NamePlural = Steel Memories
+Name = Stahl-Disc
+NamePlural = Stahl-Discs
 Pocket = 1
 Price = 1000
 Flags = Fling_50,Memory
-Description = A memory disc containing Steel-type data. It changes the holder's type if held by a certain Pokémon.
+Description = Eine Disc mit Daten zum Typ Stahl. Sie löst bei einem bestimmten Pokémon einen Typenwechsel aus.
 #-------------------------------
 [FAIRYMEMORY]
-Name = Fairy Memory
-NamePlural = Fairy Memories
+Name = Feen-Disc
+NamePlural = Feen-Discs
 Pocket = 1
 Price = 1000
 Flags = Fling_50,Memory
-Description = A memory disc containing Fairy-type data. It changes the holder's type if held by a certain Pokémon.
+Description = Eine Disc mit Daten zum Typ Fee. Sie löst bei einem bestimmten Pokémon einen Typenwechsel aus.
 #-------------------------------
 [EVERSTONE]
-Name = Everstone
-NamePlural = Everstones
+Name = Ewigstein
+NamePlural = Ewigsteine
 Pocket = 1
 Price = 3000
 Flags = Fling_30
-Description = An item to be held by a Pokémon. The Pokémon holding this peculiar stone is prevented from evolving.
+Description = Ein Item, das einem Pokémon zum Tragen gegeben werden kann. Es bewirkt einen Entwicklungsstopp.
 #-------------------------------
 [DRAGONSCALE]
-Name = Dragon Scale
-NamePlural = Dragon Scales
+Name = Drachenschuppe
+NamePlural = Drachenschuppen
 Pocket = 1
 Price = 3000
 SellPrice = 1000
 Flags = Fling_30
-Description = A thick and tough scale. Dragon-type Pokémon may be holding this item when caught.
+Description = Eine dicke und starke Haut. Drachen-Pokémon tragen dieses Item gern bei sich.
 #-------------------------------
 [UPGRADE]
 Name = Upgrade
@@ -2162,96 +2162,96 @@ Pocket = 1
 Price = 3000
 SellPrice = 1000
 Flags = Fling_30
-Description = A transparent device filled with all sorts of data. It was produced by Silph Co.
+Description = Ein durchsichtiges Gerät. Es enthält alle möglichen Daten. Hergestellt von Silph Co.
 #-------------------------------
 [DUBIOUSDISC]
-Name = Dubious Disc
-NamePlural = Dubious Discs
+Name = Dubiosdisc
+NamePlural = Dubiosdiscs
 Pocket = 1
 Price = 3000
 SellPrice = 1000
 Flags = Fling_50
-Description = A transparent device overflowing with dubious data.  Its producer is unknown.
+Description = Eine Scheibe mit seltsamen Daten. Ihr Ursprung ist unbekannt.
 #-------------------------------
 [PROTECTOR]
-Name = Protector
-NamePlural = Protectors
+Name = Schützer
+NamePlural = Schützer
 Pocket = 1
 Price = 3000
 SellPrice = 1000
 Flags = Fling_80
-Description = A protective item of some sort. It is extremely stiff and heavy. It is loved by a certain Pokémon.
+Description = Ein schützendes Item. Steif und schwer. Das Lieblingsstück eines bestimmten Pokémon.
 #-------------------------------
 [ELECTIRIZER]
-Name = Electirizer
-NamePlural = Electirizers
+Name = Stromisierer
+NamePlural = Stromisierer
 Pocket = 1
 Price = 3000
 SellPrice = 1000
 Flags = Fling_80
-Description = A box packed with a tremendous amount of electric energy. It is loved by a certain Pokémon.
+Description = Eine Schachtel mit elektrischer Energie. Das Lieblingsstück eines bestimmten Pokémon.
 #-------------------------------
 [MAGMARIZER]
-Name = Magmarizer
-NamePlural = Magmarizers
+Name = Magmaisierer
+NamePlural = Magmaisierer
 Pocket = 1
 Price = 3000
 SellPrice = 1000
 Flags = Fling_80
-Description = A box packed with a tremendous amount of magma energy. It is loved by a certain Pokémon.
+Description = Eine Schachtel mit Magmaenergie. Das Lieblingsstück eines bestimmten Pokémon.
 #-------------------------------
 [REAPERCLOTH]
-Name = Reaper Cloth
-NamePlural = Reaper Cloths
+Name = Düsterumhang
+NamePlural = Düsterumhänge
 Pocket = 1
 Price = 3000
 SellPrice = 1000
 Flags = Fling_10
-Description = A cloth imbued with horrifyingly strong spiritual energy. It is loved by a certain Pokémon.
+Description = Ein Stoffumhang mit geistiger Energie. Das Lieblingsstück eines bestimmten Pokémon.
 #-------------------------------
 [PRISMSCALE]
-Name = Prism Scale
-NamePlural = Prism Scales
+Name = Schönschuppe
+NamePlural = Schönschuppen
 Pocket = 1
 Price = 3000
 SellPrice = 1000
 Flags = Fling_30
-Description = A mysterious scale that evolves certain Pokémon. It shines in rainbow colors.
+Description = Eine seltsame Schuppe, durch die sich bestimmte Pokémon entwickeln. Sie funkelt in den Farben des Regenbogens.
 #-------------------------------
 [OVALSTONE]
-Name = Oval Stone
-NamePlural = Oval Stones
+Name = Ovaler Stein
+NamePlural = Ovale Steine
 Pocket = 1
 Price = 3000
 SellPrice = 1000
 Flags = Fling_80
-Description = A peculiar stone that makes certain species of Pokémon evolve. It is shaped like an egg.
+Description = Dieser besondere, eiförmige Stein hilft manchen Pokémon bei ihrer Entwicklung.
 #-------------------------------
 [WHIPPEDDREAM]
-Name = Whipped Dream
-NamePlural = Whipped Dreams
+Name = Schlagsahne
+NamePlural = Schlagsahne
 Pocket = 1
 Price = 3000
 SellPrice = 1000
 Flags = Fling_80
-Description = A soft and sweet treat made of fluffy, puffy and whirled cream. It's loved by a certain Pokémon.
+Description = Ein sehr süßes Würzmittel, dessen Popularität in Paldea von der Höhe des Zuckergehalts abhängt.
 #-------------------------------
 [SACHET]
-Name = Sachet
-NamePlural = Sachets
+Name = Duftbeutel
+NamePlural = Duftbeutel
 Pocket = 1
 Price = 3000
 SellPrice = 1000
 Flags = Fling_80
-Description = A sachet filled with slightly overwhelming fragrant perfumes. Yet it's loved by a certain Pokémon.
+Description = Ein mit Parfüm gefüllter Beutel, der einen penetranten Duft verströmt und bei einer bestimmten Pokémon-Art sehr beliebt ist.
 #-------------------------------
 [STRAWBERRYSWEET]
-Name = Strawberry Sweet
-NamePlural = Strawberry Sweets
+Name = Zucker-Erdbeere
+NamePlural = Zucker-Erdbeeren
 Pocket = 1
 Price = 500
 Flags = Fling_10,Sweet
-Description = A strawberry-shaped sweet. When a Milcery holds this, it will spin around happily.
+Description = Zuckerwerk in Form einer Erdbeere. Gibt man es Hokumil zum Tragen, dreht es sich vor Freude im Kreis.
 #-------------------------------
 [LOVESWEET]
 Name = Love Sweet
