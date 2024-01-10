@@ -2254,52 +2254,52 @@ Flags = Fling_10,Sweet
 Description = Zuckerwerk in Form einer Erdbeere. Gibt man es Hokumil zum Tragen, dreht es sich vor Freude im Kreis.
 #-------------------------------
 [LOVESWEET]
-Name = Love Sweet
-NamePlural = Love Sweets
+Name = Zucker-Herz
+NamePlural = Zucker-Herzen
 Pocket = 1
 Price = 500
 Flags = Fling_10,Sweet
-Description = A heart-shaped sweet. When a Milcery holds this, it spins around happily.
+Description = Zuckerwerk in Form eines Herzchens. Gibt man es Hokumil zum Tragen, dreht es sich vor Freude im Kreis.
 #-------------------------------
 [BERRYSWEET]
-Name = Berry Sweet
-NamePlural = Berry Sweets
+Name = Zucker-Beere
+NamePlural = Zucker-Beeren
 Pocket = 1
 Price = 500
 Flags = Fling_10,Sweet
-Description = A berry-shaped sweet. When a Milcery holds this, it spins around happily.
+Description = Zuckerwerk in Form einer Beere. Gibt man es Hokumil zum Tragen, dreht es sich vor Freude im Kreis.
 #-------------------------------
 [CLOVERSWEET]
-Name = Clover Sweet
-NamePlural = Clover Sweets
+Name = Zucker-Kleeblatt
+NamePlural = Zucker-Kleeblätter
 Pocket = 1
 Price = 500
 Flags = Fling_10,Sweet
-Description = A clover-shaped sweet. When a Milcery holds this, it spins around happily.
+Description = Zuckerwerk in Form eines Kleeblattes. Gibt man es Hokumil zum Tragen, dreht es sich vor Freude im Kreis.
 #-------------------------------
 [FLOWERSWEET]
-Name = Flower Sweet
-NamePlural = Flower Sweets
+Name = Zucker-Blume
+NamePlural = Zucker-Blumen
 Pocket = 1
 Price = 500
 Flags = Fling_10,Sweet
-Description = A flower-shaped sweet. When a Milcery holds this, it spins around happily.
+Description = Zuckerwerk in Form einer Blume. Gibt man es Hokumil zum Tragen, dreht es sich vor Freude im Kreis.
 #-------------------------------
 [STARSWEET]
-Name = Star Sweet
-NamePlural = Star Sweets
+Name = Zucker-Stern
+NamePlural = Zucker-Sterne
 Pocket = 1
 Price = 500
 Flags = Fling_10,Sweet
-Description = A star-shaped sweet. When a Milcery holds this, it spins around happily.
+Description = Zuckerwerk in Form eines Sterns. Gibt man es Hokumil zum Tragen, dreht es sich vor Freude im Kreis.
 #-------------------------------
 [RIBBONSWEET]
-Name = Ribbon Sweet
-NamePlural = Ribbon Sweets
+Name = Zucker-Schleife
+NamePlural = Zucker-Schleifen
 Pocket = 1
 Price = 500
 Flags = Fling_10,Sweet
-Description = A ribbon-shaped sweet. When a Milcery holds this, it spins around happily.
+Description = Zuckerwerk in Form einer Schleife. Gibt man es Hokumil zum Tragen, dreht es sich vor Freude im Kreis.
 #-------------------------------
 [VENUSAURITE]
 Name = Venusaurite
@@ -2678,189 +2678,189 @@ Flags = MegaStone,Fling_80
 Description = One of a variety of mysterious Mega Stones. Have Diancie hold it, and it will be able to Mega Evolve.
 #-------------------------------
 [REDORB]
-Name = Red Orb
-NamePlural = Red Orbs
+Name = Roter Edelstein
+NamePlural = Rote Edelsteine
 Pocket = 1
 Price = 10000
 SellPrice = 0
-Description = A shiny red orb that is said to have a legend tied to it. It's known to be connected with the Hoenn region.
+Description = Ein rot schimmernder Stein, von dem in den Legenden der Hoenn-Region berichtet wird.
 #-------------------------------
 [BLUEORB]
-Name = Blue Orb
-NamePlural = Blue Orbs
+Name = Blauer Edelstein
+NamePlural = Blaue Edelsteine
 Pocket = 1
 Price = 10000
 SellPrice = 0
-Description = A shiny blue orb that is said to have a legend tied to it. It's known to be connected with the Hoenn region.
+Description = Ein blau schimmernder Stein, von dem in den Legenden der Hoenn-Region berichtet wird.
 #-------------------------------
 [POTION]
-Name = Potion
-NamePlural = Potions
+Name = Trank
+NamePlural = Tränke
 Pocket = 2
 Price = 200
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30,Medicine
-Description = A spray-type medicine for treating wounds. It can be used to restore 20 HP to a single Pokémon.
+Description = Hilft bei Wunden. Füllt die KP eines Pokémon um 20 Punkte auf.
 #-------------------------------
 [SUPERPOTION]
-Name = Super Potion
-NamePlural = Super Potions
+Name = Supertrank
+NamePlural = Supertränke
 Pocket = 2
 Price = 700
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30,Medicine
-Description = A spray-type medicine for treating wounds. It can be used to restore 60 HP to a single Pokémon.
+Description = Hilft bei Wunden. Füllt die KP eines Pokémon um 50 Punkte auf.
 #-------------------------------
 [HYPERPOTION]
-Name = Hyper Potion
-NamePlural = Hyper Potions
+Name = Hypertrank
+NamePlural = Hypertränke
 Pocket = 2
 Price = 1500
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30,Medicine
-Description = A spray-type medicine for treating wounds. It can be used to restore 120 HP to a single Pokémon.
+Description = Hilft bei Wunden. Füllt die KP eines Pokémon um 120 Punkte auf.
 #-------------------------------
 [MAXPOTION]
-Name = Max Potion
-NamePlural = Max Potions
+Name = Top-Trank
+NamePlural = Top-Tränke
 Pocket = 2
 Price = 2500
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30,Medicine
-Description = A spray-type medicine for treating wounds. It can completely restore the max HP of a single Pokémon.
+Description = Hilft bei Wunden. Füllt die KP eines Pokémon wieder vollständig auf.
 #-------------------------------
 [FULLRESTORE]
-Name = Full Restore
-NamePlural = Full Restores
+Name = Top-Genesung
+NamePlural = Top-Genesungen
 Pocket = 2
 Price = 3000
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30,Medicine
-Description = A medicine that fully restores the HP and heals any status problems of a single Pokémon.
+Description = Dieses Item stellt alle KP eines Pokémon wieder her und behebt alle Statusprobleme.
 #-------------------------------
 [SACREDASH]
-Name = Sacred Ash
-NamePlural = Sacred Ashes
+Name = Zauberasche
+NamePlural = Zauberaschen
 Pocket = 2
 Price = 50000
 FieldUse = Direct
 Flags = Fling_30
-Description = It revives all fainted Pokémon. In doing so, it also fully restores their HP.
+Description = Belebt und erfrischt alle besiegten Pokémon und füllt deren KP wieder vollständig auf.
 #-------------------------------
 [AWAKENING]
-Name = Awakening
-NamePlural = Awakenings
+Name = Aufwecker
+NamePlural = Aufwecker
 Pocket = 2
 Price = 200
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30,Medicine
-Description = A spray-type medicine. It awakens a Pokémon from the clutches of sleep.
+Description = Ein Spray, das ein schlafendes Pokémon aufweckt.
 #-------------------------------
 [ANTIDOTE]
-Name = Antidote
-NamePlural = Antidotes
+Name = Gegengift
+NamePlural = Gegengifte
 Pocket = 2
 Price = 200
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30,Medicine
-Description = A spray-type medicine. It lifts the effect of poison from one Pokémon.
+Description = Ein Spray, das Vergiftungen eines Pokémon heilt.
 #-------------------------------
 [BURNHEAL]
-Name = Burn Heal
-NamePlural = Burn Heals
+Name = Feuerheiler
+NamePlural = Feuerheiler
 Pocket = 2
 Price = 200
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30,Medicine
-Description = A spray-type medicine. It heals a single Pokémon that is suffering from a burn.
+Description = Ein Spray, das Verbrennungen eines Pokémon heilt
 #-------------------------------
 [PARALYZEHEAL]
-Name = Paralyze Heal
-NamePlural = Paralyze Heals
+Name = Para-Heiler
+NamePlural = Para-Heiler
 Pocket = 2
 Price = 200
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30,Medicine
-Description = A spray-type medicine. It eliminates paralysis from a single Pokémon.
+Description = Ein Spray, das ein Pokémon von Paralyse heilt.
 #-------------------------------
 [ICEHEAL]
-Name = Ice Heal
-NamePlural = Ice Heals
+Name = Eisheiler
+NamePlural = Eisheiler
 Pocket = 2
 Price = 200
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30,Medicine
-Description = A spray-type medicine. It defrosts a Pokémon that has been frozen solid.
+Description = Ein Spray, das ein eingefrorenes Pokémon auftaut.
 #-------------------------------
 [FULLHEAL]
-Name = Full Heal
-NamePlural = Full Heals
+Name = Hyperheiler
+NamePlural = Hyperheiler
 Pocket = 2
 Price = 400
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30,Medicine
-Description = A spray-type medicine. It heals all the status problems of a single Pokémon.
+Description = Ein Spray, das alle Statusprobleme eines Pokémon behebt.
 #-------------------------------
 [PEWTERCRUNCHIES]
-Name = Pewter Crunchies
-NamePlural = Pewter Crunchies
+Name = Marmoria-Kräcker
+NamePlural = Marmoria-Kräcker
 Pocket = 2
 Price = 250
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
-Description = Pewter City's famous crunchy snack. They can be used to heal all status conditions of a single Pokémon.
+Description = Diese Kräcker sind eine Spezialität aus Marmoria City. Sie beheben alle Statusprobleme eines Pokémon.
 #-------------------------------
 [RAGECANDYBAR]
-Name = Rage Candy Bar
-NamePlural = Rage Candy Bars
+Name = Wutkeks
+NamePlural = Wutkekse
 Pocket = 2
 Price = 350
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
-Description = Mahogany Town's famous candy. It can be used once to heal all the status conditions of a Pokémon.
+Description = Eine Spezialität aus Mahagonia City, die alle Statusprobleme eines Pokémon heilt.
 #-------------------------------
 [LAVACOOKIE]
-Name = Lava Cookie
-NamePlural = Lava Cookies
+Name = Lavakeks
+NamePlural = Lavakekse
 Pocket = 2
 Price = 350
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
-Description = Lavaridge Town's local specialty. It heals all the status problems of one Pokémon.
+Description = Eine Spezialität aus Bad Lavastadt, die alle Statusprobleme eines Pokémon heilt.
 #-------------------------------
 [OLDGATEAU]
-Name = Old Gateau
-NamePlural = Old Gateaux
+Name = Spezialität
+NamePlural = Spezialitäten
 Pocket = 2
 Price = 350
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
-Description = Old Chateau's hidden specialty. It heals all the status problems of a single Pokémon.
+Description = Eine gut versteckte Spezialität aus Ewigenau. Sie behebt alle Statusprobleme eines Pokémon.
 #-------------------------------
 [CASTELIACONE]
-Name = Casteliacone
-NamePlural = Casteliacones
+Name = Stratos-Eis
+NamePlural = Stratos-Eis
 Pocket = 2
 Price = 350
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
-Description = Castelia City's specialty, soft-serve ice cream. It heals all the status problems of a single Pokémon.
+Description = Dieses Eis ist eine Spezialität aus Stratos City. Es behebt alle Statusprobleme eines Pokémon.
 #-------------------------------
 [LUMIOSEGALETTE]
 Name = Lumiose Galette
