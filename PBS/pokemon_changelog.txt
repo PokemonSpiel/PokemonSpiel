@@ -1,0 +1,877 @@
+===================
+016 - Pidgey
+===================
+Base Stats:
+Old     40 HP / 45 Atk / 40 Def / 35 SAtk / 35 SDef / 56 Spd / 251 BST
+New     40 HP / 35 Atk / 40 Def / 45 SAtk / 35 SDef / 56 Spd / 251 BST
+
+Moves:
+Now compatible with TM83, Hyper Voice. (!!)
+Now compatible with TM88, Hurricane.
+
+Level Up:
+1 - Tackle
+1 - Sand Attack
+1 - Gust
+6 - Quick Attack
+9 - Wing Attack
+12 - Swift
+15 - Air Cutter
+18 - Feather Dance
+21 - Uproar
+24 - Air Slash
+27 - Agility
+30 - Roost
+33 - Whirlwind
+36 - Tailwind
+39 - Mirror Move
+42 - Hurricane
+45 - Brave Bird
+
+===================
+017 - Pidgeotto
+===================
+Base Stats:
+Old     63 HP / 60 Atk / 55 Def / 50 SAtk / 50 SDef / 71 Spd / 349 BST
+New     63 HP / 50 Atk / 50 Def / 65 SAtk / 50 SDef / 71 Spd / 349 BST
+
+Moves:
+Now compatible with TM83, Hyper Voice. (!!)
+Now compatible with TM88, Hurricane.
+
+Level Up:
+1 - Tackle
+1 - Sand Attack
+1 - Gust
+6 - Quick Attack
+9 - Wing Attack
+12 - Swift
+15 - Air Cutter
+19 - Feather Dance
+23 - Uproar
+27 - Air Slash
+31 - Agility
+35 - Roost
+39 - Whirlwind
+43 - Tailwind
+47 - Mirror Move
+51 - Hurricane
+55 - Brave Bird
+
+===================
+018 - Pidgeot
+===================
+Ability:
+Old     Keen Eye / Tangled Feet
+New     No Guard / Tangled Feet
+
+Base Stats:
+Old     83 HP / 80 Atk / 75 Def / 70 SAtk / 70 SDef / 101 Spd / 479 BST
+New     83 HP / 60 Atk / 70 Def / 115 SAtk / 70 SDef / 101 Spd / 499 BST
+
+Moves:
+Now compatible with TM83, Hyper Voice. (!!)
+Now compatible with TM88, Hurricane.
+
+Level Up:
+1 - Brave Bird
+1 - Double-Edge
+1 - Heat Wave
+1 - Ominous Wind
+1 - Tackle
+1 - Sand Attack
+1 - Gust
+6 - Quick Attack
+9 - Wing Attack
+12 - Swift
+15 - Air Cutter
+19 - Feather Dance
+23 - Uproar
+27 - Air Slash
+31 - Agility
+35 - Roost
+40 - Whirlwind
+45 - Tailwind
+50 - Mirror Move
+55 - Hurricane
+60 - Brave Bird
+
+===================
+019 - Rattata
+===================
+Ability:
+Old     Run Away / Guts
+New     Hustle / Guts
+
+Level Up:
+1 - Tackle
+1 - Tail Whip
+1 - Quick Attack
+7 - Bite
+10 - Focus Energy
+13 - Pursuit
+16 - Hyper Fang
+19 - Assurance
+22 - Super Fang
+25 - Crunch
+28 - Sucker Punch
+31 - Flame Wheel
+34 - Double-Edge
+37 - Reversal
+40 - Endeavor
+43 - Last Resort
+
+===================
+020 - Raticate
+===================
+Ability:
+Old     Run Away / Guts
+New     Hustle / Guts
+
+Base Stats (Complete):
+Old     55 HP / 81 Atk / 60 Def / 50 SAtk / 70 SDef / 97 Spd / 413 BST
+New     55 HP / 97 Atk / 70 Def / 45 SAtk / 70 SDef / 113 Spd / 450 BST
+
+Level Up:
+1 - Swords Dance
+1 - Counter
+1 - Tackle
+1 - Tail Whip
+1 - Quick Attack
+7 - Bite
+10 - Focus Energy
+13 - Pursuit
+16 - Hyper Fang
+19 - Assurance
+20 - Scary Face
+23 - Super Fang
+27 - Crunch
+31 - Sucker Punch
+35 - Flame Wheel
+39 - Double-Edge
+43 - Reversal
+47 - Endeavor
+51 - Last Resort
+
+===================
+021 - Spearow
+===================
+Ability:
+Old     Keen Eye / None
+New     Keen Eye / Sniper
+
+Moves:
+Now compatible with TM88, Hurricane. (!!)
+
+Level Up:
+1 - Peck
+1 - Growl
+1 - Leer
+7 - Pursuit
+10 - Fury Attack
+13 - Aerial Ace
+16 - Mirror Move
+19 - Facade
+22 - Assurance
+25 - Drill Peck
+28 - Agility
+31 - Drill Run
+34 - Focus Energy
+37 - Roost
+40 - Tailwind
+43 - Double-Edge
+46 - Brave Bird (!!)
+
+===================
+022 - Fearow
+===================
+Ability:
+Old     Keen Eye / None
+New     Keen Eye / Sniper
+
+Base Stats:
+Old     65 HP / 90 Atk / 65 Def / 61 SAtk / 61 SDef / 100 Spd / 442 BST
+New     65 HP / 110 Atk / 65 Def / 61 SAtk / 61 SDef / 100 Spd / 462 BST
+
+Moves:
+Now compatible with TM88, Hurricane. (!!)
+
+Level Up:
+1 - Brave Bird (!!)
+1 - Double-Edge
+1 - Pluck
+1 - Peck
+1 - Growl
+1 - Leer
+7 - Pursuit
+10 - Fury Attack
+13 - Aerial Ace
+16 - Mirror Move
+19 - Facade
+23 - Assurance
+27 - Drill Peck
+31 - Agility
+35 - Drill Run
+39 - Focus Energy
+43 - Roost
+47 - Tailwind
+51 - Double-Edge
+55 - Brave Bird (!!)
+
+===================
+133 - Eevee
+===================
+Evolution:
+Now only evolves into Espeon with the Sun Stone.
+Now only evolves into Umbreon with the Moon Stone.
+Now only evolves into Leafeon with the Leaf Stone.
+Now only evolves into Glaceon with the Ice Stone.
+
+Moves:
+Now compatible with TM86, Grass Knot. (!!)
+
+Level Up:
+1 - Helping Hand
+1 - Growl
+1 - Tackle
+1 - Tail Whip
+1 - Bite
+1 - Covet
+7 - Sand Attack
+10 - Quick Attack
+13 - Baton Pass
+15 - Babydoll-Eyes
+16 - Swift
+19 - Refresh
+22 - Wish
+25 - Take Down
+28 - Fake Tears
+31 - Charm
+34 - Double-Edge
+37 - Heal Bell
+40 - Last Resort
+43 - Trump Card
+
+===================
+134 - Vaporeon
+===================
+Moves:
+Now compatible with TM86, Grass Knot. (!!)
+
+Level Up:
+1 - Helping Hand
+1 - Growl
+1 - Tackle
+1 - Tail Whip
+1 - Bite
+1 - Water Gun
+7 - Sand Attack
+10 - Quick Attack
+13 - Haze
+16 - Water Pulse
+19 - Aurora Beam
+22 - Aqua Ring
+25 - Scald
+28 - Extrasensory (!!)
+31 - Acid Armor
+34 - Muddy Water
+37 - Ice Beam
+40 - Last Resort
+43 - Hydro Pump
+
+===================
+135 - Jolteon
+===================
+Moves:
+Now compatible with TM86, Grass Knot. (!!)
+
+Level Up:
+1 - Helping Hand
+1 - Growl
+1 - Tackle
+1 - Tail Whip
+1 - Bite
+1 - Thunder Shock
+7 - Sand Attack
+10 - Quick Attack
+13 - Thunder Wave
+16 - Shock Wave
+19 - Double Kick
+22 - Thunder Fang
+25 - Discharge
+28 - Extrasensory (!!)
+31 - Agility
+34 - Thunderbolt
+37 - Pin Missile
+40 - Last Resort
+43 - Thunder
+
+===================
+136 - Flareon
+===================
+Base Stats (Complete):
+Old     65 HP / 130 Atk / 60 Def / 95 SAtk / 110 SDef / 65 Spd / 525 BST
+New     110 HP / 130 Atk / 60 Def / 65 SAtk / 65 SDef / 95 Spd / 525 BST
+
+Moves:
+Now compatible with TM57, Wild Charge. (!!)
+Now compatible with TM80, Rock Slide. (!!)
+Now compatible with TM86, Grass Knot. (!!)
+
+Level Up:
+1 - Helping Hand
+1 - Growl
+1 - Tackle
+1 - Tail Whip
+1 - Bite
+1 - Ember
+7 - Sand Attack
+10 - Quick Attack
+13 - Smog
+16 - Fire Fang
+19 - Fire Spin
+22 - Flame Wheel (!!)
+25 - Lava Plume
+28 - Play Rough (!!)
+31 - Scary Face
+34 - Flamethrower
+37 - Close Combat (!!)
+40 - Last Resort
+43 - Flare Blitz
+
+===================
+137 - Porygon
+===================
+Evolution:
+Now able to evolve into Porygon2 by using a Up-Grade.
+
+Level Up:
+1 - Conversion 2
+1 - Conversion
+1 - Magnet Rise
+1 - Tackle
+1 - Thunder Wave
+7 - Confusion
+10 - Agility
+13 - Recover
+16 - Charge Beam
+19 - Signal Beam
+21 - Psybeam
+22 - Recycle
+25 - Tri Attack
+28 - Discharge
+31 - Lock-On
+34 - Magic Coat
+37 - Thunderbolt
+40 - Trick Room
+43 - Psychic
+46 - Zap Cannon
+49 - Hyper Beam
+
+
+===================
+161 - Sentret
+===================
+Base Stats:
+Old     35 HP / 46 Atk / 34 Def / 35 SAtk / 45 SDef / 20 Spd / 215 BST
+New     45 HP / 45 Atk / 35 Def / 35 SAtk / 45 SDef / 40 Spd / 245 BST
+
+Level Up:
+1 - Scratch
+1 - Foresight
+1 - Defense Curl
+1 - Quick Attack
+5 - Fury Swipes
+8 - Helping Hand
+11 - Slam
+14 - Follow Me
+17 - Rest
+20 - Flame Wheel (!!)
+23 - Zen Headbutt (!!)
+26 - Amnesia
+29 - Reversal
+32 - Baton Pass
+35 - Play Rough (!!)
+38 - Me First
+41 - Hyper Voice
+44 - Double-Edge
+
+===================
+162 - Furret
+===================
+Ability:
+Old     Run Away / Keen Eye
+New     Scrappy / Keen Eye
+
+Base Stats:
+Old     85 HP / 76 Atk / 64 Def / 45 SAtk / 55 SDef / 90 Spd / 415 BST
+New     95 HP / 85 Atk / 65 Def / 45 SAtk / 55 SDef / 105 Spd / 450 BST
+
+Level Up:
+1 - Extreme Speed
+1 - Scratch
+1 - Foresight
+1 - Defense Curl
+1 - Quick Attack
+5 - Fury Swipes
+8 - Helping Hand
+11 - Slam
+14 - Follow Me
+15 - Agility
+18 - Rest
+22 - Flame Wheel (!!)
+26 - Zen Headbutt (!!)
+30 - Amnesia
+34 - Reversal
+38 - Baton Pass
+42 - Play Rough (!!)
+46 - Me First
+50 - Hyper Voice
+54 - Double-Edge
+
+===================
+167 - Spinarak
+===================
+Base Stats:
+Old     40 HP / 60 Atk / 40 Def / 40 SAtk / 40 SDef / 30 Spd / 250 BST
+New     40 HP / 70 Atk / 40 Def / 40 SAtk / 40 SDef / 45 Spd / 275 BST
+
+Moves:
+Now compatible with TM62, Bug Buzz. (!!)
+
+Level Up:
+1 - Poison Sting
+1 - String Shot
+1 - Absorb
+9 - Bug Bite
+11 - Scary Face
+13 - Poison Fang (!!)
+15 - Night Shade
+18 - Shadow Sneak
+20 - Leech Life
+23 - Fury Swipes
+25 - Night Slash
+27 - Spider Web
+29 - Poison Jab
+32 - Sucker Punch
+35 - Pin Missile
+38 - Cross Poison
+40 - Agility
+43 - Psychic
+45 - Megahorn
+
+===================
+168 - Ariados
+===================
+Base Stats:
+Old     70 HP / 90 Atk / 70 Def / 60 SAtk / 70 SDef / 40 Spd / 400 BST
+New     70 HP / 110 Atk / 70 Def / 50 SAtk / 70 SDef / 80 Spd / 450 BST
+
+Moves:
+Now compatible with TM62, Bug Buzz. (!!)
+
+Level Up:
+1 - Focus Energy
+1 - Poison Sting
+1 - String Shot
+1 - Absorb
+9 - Bug Bite
+11 - Scary Face
+13 - Poison Fang (!!)
+15 - Night Shade
+18 - Shadow Sneak
+20 - Leech Life
+22 - Swords Dance
+24 - Fury Swipes
+27 - Night Slash
+30 - Spider Web
+33 - Poison Jab
+37 - Sucker Punch
+41 - Pin Missile
+45 - Cross Poison
+48 - Agility
+52 - Psychic
+55 - Megahorn
+
+===================
+185 - Sudowoodo
+===================
+Ability:
+Old     Sturdy / Rock Head
+New     Rock Head / Sturdy
+
+Base Stats (Complete):
+Old     70 HP / 100 Atk / 115 Def / 30 SAtk / 65 SDef / 30 Spd / 410 BST
+New     90 HP / 115 Atk / 125 Def / 30 SAtk / 75 SDef / 30 Spd / 465 BST
+
+Level Up:
+1 - Wood Hammer
+1 - Hammer Arm
+1 - Copycat
+1 - Rock Throw
+1 - Stone Edge
+1 - Fake Tears
+9 - Covet
+12 - Low Kick
+15 - Rock Tomb
+18 - Mimic
+18 - Slam
+21 - Feint Attack
+24 - Rollout
+27 - Rock Slide
+30 - Block
+33 - Counter
+36 - Sucker Punch
+39 - Double-Edge
+42 - Stone Edge
+45 - Hammer Arm
+48 - Head Smash
+
+
+===================
+196 - Espeon
+===================
+Level Up:
+1 - Helping Hand
+1 - Growl
+1 - Tackle
+1 - Tail Whip
+1 - Bite
+1 - Confusion
+7 - Sand Attack
+10 - Quick Attack
+13 - Psych Up
+16 - Psybeam
+19 - Swift
+22 - Future Sight
+25 - Extrasensory (!!)
+28 - Power Gem (!!)
+31 - Morning Sun
+34 - Psychic
+37 - Aura Sphere (!!)
+40 - Last Resort
+43 - Power Swap
+
+===================
+197 - Umbreon
+===================
+Moves:
+Now compatible with TM86, Grass Knot. (!!)
+
+Level Up:
+On Level Up - Snarl
+1 - Helping Hand
+1 - Growl
+1 - Tackle
+1 - Tail Whip
+1 - Bite
+1 - Pursuit
+7 - Sand Attack
+10 - Quick Attack
+13 - Mean Look
+16 - Feint Attack
+19 - Assurance
+22 - Confuse Ray
+25 - Crunch (!!)
+28 - Play Rough (!!)
+31 - Moonlight
+34 - Sucker Punch
+37 - Gunk Shot (!!)
+40 - Last Resort
+43 - Guard Swap
+
+===================
+233 - Porygon2
+===================
+Evolution:
+Now able to evolve into Porygon-Z by using a Dubious Disc.
+
+Level Up:
+1 - Conversion 2
+1 - Conversion
+1 - Magnet Rise
+1 - Tackle
+1 - Defense Curl
+7 - Psybeam
+10 - Agility
+13 - Recover
+16 - Charge Beam
+19 - Signal Beam
+22 - Recycle
+25 - Tri Attack
+28 - Discharge
+31 - Lock-On
+34 - Magic Coat
+37 - Thunderbolt
+40 - Trick Room
+43 - Psychic
+46 - Zap Cannon
+49 - Hyper Beam
+
+
+===================
+263 - Zigzagoon
+===================
+Base Stats:
+Old     38 HP / 30 Atk / 41 Def / 30 SAtk / 41 SDef / 60 Spd / 240 BST
+New     38 HP / 40 Atk / 41 Def / 30 SAtk / 41 SDef / 60 Spd / 250 BST
+
+Moves:
+Now compatible with HM08, Rock Climb.
+
+Level Up:
+1 - Tackle
+1 - Growl
+1 - Tail Whip
+1 - Sand Attack
+7 - Covet
+13 - Headbutt
+15 - Babydoll-Eyes
+16 - Pin Missile
+22 - Flail
+25 - Take Down
+28 - Rest
+31 - Double-Edge
+34 - Belly Drum
+40 - Super Fang
+
+===================
+264 - Linoone
+===================
+Base Stats:
+Old     78 HP / 70 Atk / 61 Def / 50 SAtk / 61 SDef / 100 Spd / 420 BST
+New     85 HP / 85 Atk / 60 Def / 50 SAtk / 60 SDef / 110 Spd / 450 BST
+
+Moves:
+Now compatible with HM08, Rock Climb.
+
+Level Up:
+1 - Extreme Speed
+1 - Play Rough
+1 - Switcheroo
+1 - Tackle
+1 - Growl
+1 - Tail Whip
+1 - Sand Attack
+7 - Covet
+13 - Headbutt
+16 - Fury Swipes
+23 - Slash
+27 - Take Down
+31 - Rest
+35 - Double-Edge
+39 - Belly Drum
+43 - Fling
+47 - Super Fang
+51 - Extreme Speed
+
+===================
+399 - Bidoof
+===================
+Moves:
+Now compatible with TM75, Swords Dance.
+
+Level Up:
+1 - Tackle
+1 - Growl
+5 - Defense Curl
+8 - Headbutt
+11 - Rollout
+14 - Hyper Fang
+17 - Yawn
+20 - Crunch
+23 - Aqua Tail
+26 - Take Down
+29 - Super Fang
+32 - Swords Dance
+32 - Amnesia
+35 - Superpower
+38 - Curse
+41 - Double-Edge
+
+===================
+400 - Bibarel
+===================
+Base Stats:
+Old     79 HP / 85 Atk / 60 Def / 55 SAtk / 60 SDef / 71 Spd / 410 BST
+New     94 HP / 100 Atk / 65 Def / 55 SAtk / 65 SDef / 71 Spd / 450 BST
+
+Moves:
+Now compatible with TM75, Swords Dance.
+
+Level Up:
+1 - Water Gun
+1 - Tackle
+1 - Growl
+5 - Defense Curl
+8 - Headbutt
+11 - Rollout
+14 - Hyper Fang
+15 - Aqua Jet
+18 - Yawn
+22 - Crunch
+26 - Aqua Tail
+30 - Take Down
+34 - Super Fang
+38 - Swords Dance
+38 - Amnesia
+42 - Superpower
+46 - Curse
+50 - Double-Edge
+
+===================
+406 - Budew
+===================
+Ability:
+Old     Natural Cure / Poison Point
+New     Poison Point / Natural Cure
+
+Base Happiness:
+Old     70
+New     180
+
+Evolution:
+Now evolves into Roselia when happy regardless of the time.
+
+Level Up:
+1 - Absorb
+1 - Growth
+1 - Water Sport
+9 - Mega Drain
+12 - Stun Spore
+12 - Sleep Powder
+15 - Worry Seed
+18 - Extrasensory
+
+===================
+407 - Roserade
+===================
+Ability:
+Old     Natural Cure / Poison Point
+New     Technician / Natural Cure
+
+Level Up:
+1 - Weather Ball
+1 - Poison Sting
+1 - Mega Drain
+1 - Magical Leaf
+1 - Sweet Scent
+53 - Leaf Storm
+
+
+===================
+438 - Bonsly
+===================
+Ability:
+Old     Sturdy / Rock Head
+New     Rock Head / Sturdy
+
+Base Stats (Complete):
+Old     50 HP / 80 Atk / 95 Def / 10 SAtk / 45 SDef / 10 Spd / 290 BST
+New     60 HP / 85 Atk / 95 Def / 10 SAtk / 55 SDef / 10 Spd / 315 BST
+
+Level Up:
+1 - Fake Tears
+1 - Copycat
+1 - Defense Curl
+1 - Rock Throw
+6 - Flail
+9 - Covet
+12 - Low Kick
+15 - Rock Tomb
+18 - Mimic
+21 - Feint Attack
+24 - Rollout
+27 - Rock Slide
+30 - Block
+33 - Counter
+36 - Sucker Punch
+39 - Double-Edge
+
+===================
+471 - Glaceon
+===================
+Base Stats (Complete):
+Old     65 HP / 60 Atk / 110 Def / 130 SAtk / 95 SDef / 65 Spd / 525 BST
+New     65 HP / 60 Atk / 110 Def / 130 SAtk / 65 SDef / 95 Spd / 525 BST
+
+Moves:
+Now compatible with TM85, Dazzling Gleam. (!!)
+Now compatible with TM86, Grass Knot. (!!)
+
+Level Up:
+1 - Hail
+1 - Helping Hand
+1 - Growl
+1 - Tackle
+1 - Tail Whip
+1 - Bite
+1 - Powder Snow (!!)
+7 - Sand Attack
+10 - Quick Attack
+13 - Mirror Coat
+16 - Icy Wind
+19 - Ice Shard
+22 - Ice Fang
+25 - Aurora Beam (!!)
+28 - Extrasensory (!!)
+31 - Barrier
+34 - Ice Beam
+37 - Earth Power (!!)
+40 - Last Resort
+43 - Blizzard
+
+
+===================
+474 - Porygon-Z
+===================
+Level Up:
+1 - Conversion 2
+1 - Conversion
+1 - Magnet Rise
+1 - Tackle
+1 - Nasty Plot
+1 - Uproar
+7 - Psybeam
+10 - Agility
+13 - Recover
+16 - Charge Beam
+19 - Signal Beam
+22 - Embargo
+25 - Tri Attack
+28 - Discharge
+31 - Lock-On
+34 - Magic Coat
+37 - Thunderbolt
+40 - Trick Room
+43 - Psychic
+46 - Zap Cannon
+49 - Hyper Beam
+
+===================
+700 - Sylveon
+===================
+
+Now compatible with TM? Psychic
+
+Level Up:
+On Level Up - Disarming Voice
+1 - Disarming Voice
+1 - Bite
+1 - Charm
+1 - Helping Hand
+1 - Tackle
+1 - Growl
+7 - Sand Attack
+10 - Quick Attack
+15 - Babydoll-Eyes
+20 - Lightscreen
+20 - Reflect
+23 - Draining Kiss
+25 - Psybeam
+30 - Mistyterrain
+32 - Dazzling Gleam
+35 - Skillswap
+37 - Calm Mind
+38 - Moonblast
+40 - Last Resort
