@@ -69,7 +69,7 @@ Pokemon = MAGIKARP,18
 #-------------------------------
 [BEAUTY,Bridget]
 LoseText = My Skitty!
-Pokemon = SKITTY,18
+Pokemon = KECLEON,2
 #-------------------------------
 [LASS,Crissy]
 LoseText = You didn't have to win so convincingly!
@@ -90,23 +90,20 @@ LoseText = Washed out!
 Pokemon = STARYU,15
 Pokemon = GOLDEEN,11
 #-------------------------------
-[RIVAL1,Blue]
-LoseText = Not too shabby.
-Pokemon = PIDGEOTTO,17
-Pokemon = RATTATA,15
-Pokemon = BULBASAUR,18
+[RIVAL1,Trymacs]
+LoseText = Schade.
+Pokemon = PSYDUCK,7
+    Moves = SCRATCH,WATERGUN,CONFUSION
 #-------------------------------
-[RIVAL1,Blue,1]
-LoseText = Not too shabby.
-Pokemon = PIDGEOTTO,17
-Pokemon = RATTATA,15
-Pokemon = CHARMANDER,18
+[RIVAL1,Trymacs,1]
+LoseText = Schade.
+Pokemon = CACNEA,7
+    Moves = POISONSTING,ABSORB,GROWTH
 #-------------------------------
-[RIVAL1,Blue,2]
-LoseText = Not too shabby.
-Pokemon = PIDGEOTTO,17
-Pokemon = RATTATA,15
-Pokemon = SQUIRTLE,18
+[RIVAL1,Trymacs,2]
+LoseText = Schade.
+Pokemon = VULPIX,7
+    Moves = EMBER,DISABLE
 #-------------------------------
 [CHAMPION,Blue]
 LoseText = A good battle indeed!
@@ -116,3 +113,114 @@ Pokemon = CHARIZARD,63
     Item = SITRUSBERRY
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
+#-------------------------------
+[YOUNGSTER,Marco]
+LoseText = Ich Rattfratz es nicht! Wie konnte das passieren?
+Pokemon = RATTATA,3
+#-------------------------------
+[HIKER,Wolfgang]
+LoseText = Das wars
+Pokemon = GEODUDE,4
+Pokemon = NOSEPASS,5
+#-------------------------------
+[LASS,Mary]
+LoseText = Grrr
+Pokemon = SKITTY,5
+Pokemon = RALTS,6
+#-------------------------------
+[YOUNGSTER,Tristan]
+LoseText = Lol
+Pokemon = CUBONE,6
+Pokemon = SPEAROW,6
+Pokemon = TYROGUE,7
+#-------------------------------
+[POKEMANIAC,Torben]
+LoseText = schade.
+Pokemon = MAGNEMITE,7
+Pokemon = PORYGON,8
+    Moves = CONFUSION,THUNDERWAVE,TACKLE
+#-------------------------------
+[RUINMANIAC,Dirk]
+LoseText = schade.
+Pokemon = CRANIDOS,7
+Pokemon = LILEEP,8
+#-------------------------------
+[CAMPER,Cedric]
+LoseText = schade.
+Pokemon = SHROOMISH,7
+Pokemon = MAGBY,8
+#-------------------------------
+[HIKER,Markus]
+LoseText = Das wars
+Pokemon = GEODUDE,8
+Pokemon = BONSLY,8
+Pokemon = ONIX,9
+#-------------------------------
+[POKEMANIAC,Henry]
+LoseText = schade.
+Pokemon = SLOWPOKE,9
+Pokemon = VOLTORB,10
+#-------------------------------
+[BLACKBELT,David]
+LoseText = schade.
+Pokemon = ARON,1
+    Moves = ENDEAVOR
+#-------------------------------
+[COOLTRAINER_F,Isabelle]
+LoseText = schade.
+Pokemon = PIKACHU,10
+Pokemon = BUTTERFREE,11
+Pokemon = MANKEY,10
+Pokemon = CARVANHA,11
+#-------------------------------
+[TWINS,Aline & Alina]
+LoseText = Our teamwork failed!
+Pokemon = MACHOP,11
+Pokemon = TYROGUE,11
+#-------------------------------
+[YOUNGSTER,Paul]
+LoseText = Lol
+Pokemon = HAPPINY,11
+Pokemon = TOGEPI,11
+#-------------------------------
+[YOUNGSTER,Mike]
+LoseText = Lol
+Pokemon = AZURILL,11
+Pokemon = MANTYKE,11
+#-------------------------------
+[LASS,Natalie]
+LoseText = Lol
+Pokemon = SMOOCHUM,11
+Pokemon = EEVEE,11
+#-------------------------------
+[YOUNGSTER,Tobi]
+LoseText = Lol
+Pokemon = BONSLY,12
+Pokemon = CHINGLING,12
+#-------------------------------
+[LASS,Marla]
+LoseText = Lol
+Pokemon = PICHU,12
+Pokemon = MIMEJR,12
+#-------------------------------
+[LEADER_Brock,Wichtiger]
+Items = POTION,POTION
+LoseText = Very good.
+Pokemon = RIOLU,12
+    Moves = QUICKATTACK,ENDURE,METALCLAW,FORCEPALM
+    Ability = STEADFAST
+Pokemon = WYNAUT,12
+    Moves = COUNTER,MIRRORCOAT,DESTINYBOND,ENCORE
+    Ability = SHADOWTAG
+Pokemon = ELEKID,13
+    Moves = LOWKICK,SHOCKWAVE,QUICKATTACK,SWIFT
+    Ability = STATIC
+Pokemon = MAGBY,13
+    Moves = FLAMEWHEEL,SMOKESCREEN,LOWKICK,THIEF
+    Ability = FLAMEBODY
+Pokemon = MUNCHLAX,14
+    Moves = RECYCLE,LICK,RETURN,SUBSTITUTE
+    Ability = GLUTTONY
+    Item = SITRUSBERRY
+    Happiness = 150
+    Ball = CHERISHBALL
