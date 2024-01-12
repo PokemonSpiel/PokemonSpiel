@@ -179,12 +179,12 @@ Gender = Female
 BaseMoney = 16
 #-------------------------------
 [COOLTRAINER_M]
-Name = Cool Trainer
+Name = Ass-Trainer
 Gender = Male
 BaseMoney = 60
 #-------------------------------
 [COOLTRAINER_F]
-Name = Ass Trainerin
+Name = Ass-Trainerin
 Gender = Female
 BaseMoney = 60
 #-------------------------------
