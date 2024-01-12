@@ -148,7 +148,11 @@ Pokemon = LILEEP,8
 [CAMPER,Cedric]
 LoseText = schade.
 Pokemon = SHROOMISH,7
+<<<<<<< HEAD
 Pokemon = MAGBY,8	 	
+=======
+Pokemon = MAGBY,8
+>>>>>>> c13419a412daed1d594d4fc9de911255f23707ab
 #-------------------------------
 [HIKER,Markus]
 LoseText = Das wars
@@ -170,7 +174,11 @@ Pokemon = ARON,1
 LoseText = schade.
 Pokemon = PIKACHU,10
 Pokemon = BUTTERFREE,11
+<<<<<<< HEAD
 Pokemon = MANKEY,10 
+=======
+Pokemon = MANKEY,10
+>>>>>>> c13419a412daed1d594d4fc9de911255f23707ab
 Pokemon = CARVANHA,11
 #-------------------------------
 [TWINS,Aline & Alina]

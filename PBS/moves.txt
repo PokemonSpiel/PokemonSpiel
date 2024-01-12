@@ -5119,7 +5119,7 @@ Description = Der Anwender schmeichelt sich beim Ziel ein und stiehlt dann das v
 Name = Kraftreserve
 Type = NORMAL
 Category = Special
-Power = 70
+Power = 60
 Accuracy = 100
 TotalPP = 15
 Target = NearOther
@@ -5312,7 +5312,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Ein Hieb mit den Vorderbeinen oder dem Schweif.
 #-------------------------------
 [QUICKATTACK]
-Name = Ruckzuckhieb
+Name = Ruckuckhieb
 Type = NORMAL
 Category = Physical
 Power = 40

@@ -601,7 +601,7 @@ Pokedex = Despite its diminished size, its mental power has grown phenomenally. 
 Generation = 6
 #-------------------------------
 [PICHU,2]
-FormName = Strubbelohr-Pichu
+FormName = Spiky-Eared
 Generation = 4
 Evolutions = PIKACHU,None,
 #-------------------------------
@@ -936,22 +936,22 @@ Height = 1.5
 Generation = 6
 #-------------------------------
 [CASTFORM,1]
-FormName = Sonnenform
+FormName = Sunny Form
 Types = FIRE
 Color = Red
-Pokedex = Diese Gestalt nimmt Formeo an sonnigen Tagen an. Versuche, diesen Wandel künstlich mit einem Heizstrahler herbeizuführen, schlugen fehl.
+Pokedex = This is the form Castform takes on the brightest of days. Its skin is unexpectedly hot to the touch, so approach with care.
 #-------------------------------
 [CASTFORM,2]
-FormName = Regenform
+FormName = Rainy Form
 Types = WATER
 Color = Blue
-Pokedex = Diese Gestalt nimmt Formeo an, wenn Regen auf es niederprasselt. Sein Körper ist dann weich und hat etwas Wasser aufgesogen.
+Pokedex = This is the form Castform takes when soaked with rain. When its body is compressed, water will seep out as if from a sponge.
 #-------------------------------
 [CASTFORM,3]
-FormName = Schneeform
+FormName = Snowy Form
 Types = ICE
 Color = White
-Pokedex = Diese Gestalt nimmt Formeo an, wenn es hagelt. Versuche, diesen Wandel künstlich mithilfe einer Gefriertruhe herbeizuführen, schlugen fehl.
+Pokedex = This is the form Castform takes when covered in snow. Its body becomes an ice-like material, with a temperature near -5 degrees Celsius.
 #-------------------------------
 [BANETTE,1]
 FormName = Mega Banette
@@ -1064,36 +1064,36 @@ Weight = 392.0
 Generation = 6
 #-------------------------------
 [DEOXYS,1]
-FormName = Angriffsform
+FormName = Attack Forme
 BaseStats = 50,180,20,150,180,20
 EVs = ATTACK,2,SPECIAL_ATTACK,1
 Moves = 1,LEER,1,WRAP,7,NIGHTSHADE,13,TELEPORT,19,TAUNT,25,TOXICSPIKES,31,PSYCHIC,37,SUPERPOWER,43,PSYCHOSHIFT,49,ZENHEADBUTT,55,COSMICPOWER,61,ZAPCANNON,67,PSYCHOBOOST,73,HYPERBEAM
 TutorMoves = AERIALACE,ALLYSWITCH,AVALANCHE,BIND,BRICKBREAK,BRUTALSWING,CALMMIND,CHARGEBEAM,CONFIDE,CUT,DARKPULSE,DOUBLETEAM,DRAINPUNCH,DREAMEATER,ENDURE,ENERGYBALL,FACADE,FLASH,FLASHCANNON,FLING,FOCUSBLAST,FOCUSPUNCH,FRUSTRATION,GIGAIMPACT,GRASSKNOT,GRAVITY,HIDDENPOWER,HYPERBEAM,ICEBEAM,LASERFOCUS,LIGHTSCREEN,LOWKICK,LOWSWEEP,MAGICCOAT,NASTYPLOT,POISONJAB,POWERUPPUNCH,PROTECT,PSYCHIC,PSYCHUP,PSYSHOCK,RAINDANCE,RECYCLE,REFLECT,REST,RETURN,ROCKSLIDE,ROCKSMASH,ROCKTOMB,ROLEPLAY,ROUND,SAFEGUARD,SHADOWBALL,SHOCKWAVE,SIGNALBEAM,SKILLSWAP,SLEEPTALK,SNATCH,SNORE,SOLARBEAM,STEALTHROCK,STOMPINGTANTRUM,STRENGTH,SUBSTITUTE,SUNNYDAY,SUPERPOWER,SWAGGER,TAUNT,TELEKINESIS,THROATCHOP,THUNDER,THUNDERBOLT,THUNDERWAVE,TORMENT,TRICK,TRICKROOM,WATERPULSE,WONDERROOM,ZENHEADBUTT
 #-------------------------------
 [DEOXYS,2]
-FormName = Verteidigungsform
+FormName = Defense Forme
 BaseStats = 50,70,160,90,70,160
 EVs = DEFENSE,2,SPECIAL_DEFENSE,1
 Moves = 1,LEER,1,WRAP,7,NIGHTSHADE,13,TELEPORT,19,KNOCKOFF,25,SPIKES,31,PSYCHIC,37,SWITCHEROO,43,PSYCHOSHIFT,49,ZENHEADBUTT,55,IRONDEFENSE,55,AMNESIA,61,RECOVER,67,PSYCHOBOOST,73,COUNTER,73,MIRRORCOAT
 TutorMoves = AERIALACE,ALLYSWITCH,AVALANCHE,BIND,BRICKBREAK,BRUTALSWING,CALMMIND,CHARGEBEAM,CONFIDE,CUT,DARKPULSE,DOUBLETEAM,DRAINPUNCH,DREAMEATER,ENDURE,ENERGYBALL,FACADE,FLASH,FLASHCANNON,FLING,FOCUSBLAST,FOCUSPUNCH,FRUSTRATION,GIGAIMPACT,GRASSKNOT,GRAVITY,HIDDENPOWER,HYPERBEAM,ICEBEAM,IRONDEFENSE,KNOCKOFF,LASERFOCUS,LIGHTSCREEN,LOWKICK,LOWSWEEP,MAGICCOAT,NASTYPLOT,POISONJAB,POWERUPPUNCH,PROTECT,PSYCHIC,PSYCHUP,PSYSHOCK,RAINDANCE,RECYCLE,REFLECT,REST,RETURN,ROCKSLIDE,ROCKSMASH,ROCKTOMB,ROLEPLAY,ROUND,SAFEGUARD,SHADOWBALL,SHOCKWAVE,SIGNALBEAM,SKILLSWAP,SLEEPTALK,SNATCH,SNORE,SOLARBEAM,STEALTHROCK,STOMPINGTANTRUM,STRENGTH,SUBSTITUTE,SUNNYDAY,SWAGGER,TAUNT,TELEKINESIS,THROATCHOP,THUNDER,THUNDERBOLT,THUNDERWAVE,TORMENT,TRICK,TRICKROOM,WATERPULSE,WONDERROOM,ZENHEADBUTT
 #-------------------------------
 [DEOXYS,3]
-FormName = Initiativeform
+FormName = Speed Forme
 BaseStats = 50,95,90,180,95,90
 EVs = SPEED,3
 Moves = 1,LEER,1,WRAP,7,NIGHTSHADE,13,DOUBLETEAM,19,KNOCKOFF,25,TOXICSPIKES,31,PSYCHIC,37,SWIFT,43,PSYCHOSHIFT,49,ZENHEADBUTT,55,AGILITY,61,RECOVER,67,PSYCHOBOOST,73,EXTREMESPEED
 TutorMoves = AERIALACE,ALLYSWITCH,AVALANCHE,BIND,BRICKBREAK,BRUTALSWING,CALMMIND,CHARGEBEAM,CONFIDE,CUT,DARKPULSE,DOUBLETEAM,DRAINPUNCH,DREAMEATER,ENDURE,ENERGYBALL,FACADE,FIREPUNCH,FLASH,FLASHCANNON,FLING,FOCUSBLAST,FOCUSPUNCH,FRUSTRATION,GIGAIMPACT,GRASSKNOT,GRAVITY,HIDDENPOWER,HYPERBEAM,ICEBEAM,ICEPUNCH,KNOCKOFF,LASERFOCUS,LIGHTSCREEN,LOWKICK,LOWSWEEP,MAGICCOAT,NASTYPLOT,POISONJAB,POWERUPPUNCH,PROTECT,PSYCHIC,PSYCHUP,PSYSHOCK,RAINDANCE,RECYCLE,REFLECT,REST,RETURN,ROCKSLIDE,ROCKSMASH,ROCKTOMB,ROLEPLAY,ROUND,SAFEGUARD,SHADOWBALL,SHOCKWAVE,SIGNALBEAM,SKILLSWAP,SLEEPTALK,SNATCH,SNORE,SOLARBEAM,STEALTHROCK,STOMPINGTANTRUM,STRENGTH,SUBSTITUTE,SUNNYDAY,SWAGGER,TAUNT,TELEKINESIS,THROATCHOP,THUNDER,THUNDERBOLT,THUNDERPUNCH,THUNDERWAVE,TORMENT,TRICK,TRICKROOM,WATERPULSE,WONDERROOM,ZENHEADBUTT
 #-------------------------------
 [BURMY,1]
-FormName = Sandumhang
+FormName = Sandy Cloak
 Color = Brown
 #-------------------------------
 [BURMY,2]
-FormName = Lumpenumhang
+FormName = Trash Cloak
 Color = Red
 #-------------------------------
 [WORMADAM,1]
-FormName = Sandumhang
+FormName = Sandy Cloak
 Types = BUG,GROUND
 BaseStats = 60,79,105,36,59,85
 EVs = DEFENSE,2
@@ -1102,7 +1102,7 @@ TutorMoves = ALLYSWITCH,ATTRACT,BUGBITE,BUGBUZZ,BULLDOZE,CONFIDE,DIG,DOUBLETEAM,
 Color = Brown
 #-------------------------------
 [WORMADAM,2]
-FormName = Lumpenumhang
+FormName = Trash Cloak
 Types = BUG,STEEL
 BaseStats = 60,69,95,36,69,95
 EVs = DEFENSE,1,SPECIAL_DEFENSE,1
@@ -1111,19 +1111,19 @@ TutorMoves = ALLYSWITCH,ATTRACT,BUGBITE,BUGBUZZ,CONFIDE,DIG,DOUBLETEAM,DREAMEATE
 Color = Red
 #-------------------------------
 [CHERRIM,1]
-FormName = Sonnenform
+FormName = Sunshine Form
 Color = Pink
-Pokedex = Diese Form nimmt Kinoso an, wenn es viel Sonne getankt und dadurch seine Energie aufgefüllt hat. Es bleibt bis zum Sonnenuntergang aktiv.
+Pokedex = After absorbing plenty of sunlight, Cherrim takes this form. It's full of energy while it's like this, and its liveliness will go on until sundown.
 #-------------------------------
 [SHELLOS,1]
-FormName = Östliches Meer
+FormName = East Sea
 Color = Blue
-Pokedex = Es ernährt sich von Plankton. Je sauberer das Meer ist, das es bewohnt, desto kräftiger strahlen die Farben seines Körpers.
+Pokedex = Its appearance changes depending on the environment. One theory suggests that living in cold seas causes Shellos to take on this form.
 #-------------------------------
 [GASTRODON,1]
-FormName = Östliches Meer
+FormName = East Sea
 Color = Blue
-Pokedex = Verschiedene Forscherteams suchen die Meere der Welt ab, um bisher unbekannte Farbvarianten von Gastrodon zu entdecken.
+Pokedex = Its body is covered in a sticky slime. It's very susceptible to dehydration, so it can't spend too much time on land.
 #-------------------------------
 [LOPUNNY,1]
 FormName = Mega Lopunny
@@ -1181,42 +1181,42 @@ Weight = 56.4
 Generation = 6
 #-------------------------------
 [ROTOM,1]
-FormName = Hitze-Form
+FormName = Heat Rotom
 Types = ELECTRIC,FIRE
 BaseStats = 50,65,107,86,105,107
 BaseExp = 182
-Pokedex = Es ist in einen Mikrowellenherd eingedrungen, der von einem besonderen Motor betrieben wird. Im Umgang mit Feuer ist es sehr geschickt.
+Pokedex = This Rotom has possessed a convection microwave oven that uses a special motor. It also has a flair for manipulating flames.
 #-------------------------------
 [ROTOM,2]
-FormName = Wasch-Form
+FormName = Wash Rotom
 Types = ELECTRIC,WATER
 BaseStats = 50,65,107,86,105,107
 BaseExp = 182
-Pokedex = Diese Form von Rotom liebt es, mit Wasser für Chaos zu sorgen. Es ist dafür bekannt, ganze Räume zu fluten.
+Pokedex = This form of Rotom enjoys coming up with water-based pranks. Be careful with it if you don't want your room flooded.
 #-------------------------------
 [ROTOM,3]
-FormName = Frost-Form
+FormName = Frost Rotom
 Types = ELECTRIC,ICE
 BaseStats = 50,65,107,86,105,107
 BaseExp = 182
-Pokedex = Es ist in einen Kühlschrank eingedrungen, der von einem besonderen Motor betrieben wird. Im Kampf setzt es sich mit eiskalter Luft zur Wehr.
+Pokedex = Rotom assumes this form when it takes over a refrigerator powered by a special motor. It battles by spewing cold air.
 #-------------------------------
 [ROTOM,4]
-FormName = Wirbel-Form
+FormName = Fan Rotom
 Types = ELECTRIC,FLYING
 BaseStats = 50,65,107,86,105,107
 BaseExp = 182
-Pokedex = Diese Form von Rotom liebt es, mit Wind für Chaos zu sorgen. Mit Windstößen bringt es wichtige Dokumente durcheinander.
+Pokedex = In this form, Rotom applies its new power over wind to its love of pranks. It will happily blow away any important documents it can find.
 #-------------------------------
 [ROTOM,5]
-FormName = Schneid-Form
+FormName = Mow Rotom
 Types = ELECTRIC,GRASS
 BaseStats = 50,65,107,86,105,107
 BaseExp = 182
-Pokedex = Es ist in einen Rasenmäher eingedrungen, der von einem besonderen Motor betrieben wird. Das von ihm gemähte Gras verstreut es wahllos.
+Pokedex = This is Rotom after it's seized control of a lawn mower that has a special motor. As it mows down grass, it scatters the clippings everywhere.
 #-------------------------------
 [GIRATINA,1]
-FormName = Urform
+FormName = Origin Forme
 BaseStats = 150,120,100,90,120,100
 Abilities = LEVITATE
 HiddenAbilities = LEVITATE
@@ -1226,7 +1226,7 @@ Weight = 650.0
 Shape = Serpentine
 #-------------------------------
 [SHAYMIN,1]
-FormName = Zenitform
+FormName = Sky Forme
 Types = GRASS,FLYING
 BaseStats = 100,103,75,127,120,75
 EVs = SPEED,3
@@ -1237,35 +1237,35 @@ Height = 0.4
 Weight = 5.2
 #-------------------------------
 [ARCEUS,1]
-FormName = Kampf
+FormName = Fighting Type
 Types = FIGHTING
 #-------------------------------
 [ARCEUS,2]
-FormName = Flug
+FormName = Flying Type
 Types = FLYING
 #-------------------------------
 [ARCEUS,3]
-FormName = Gift
+FormName = Poison Type
 Types = POISON
 #-------------------------------
 [ARCEUS,4]
-FormName = Boden
+FormName = Ground Type
 Types = GROUND
 #-------------------------------
 [ARCEUS,5]
-FormName = Gestein
+FormName = Rock Type
 Types = ROCK
 #-------------------------------
 [ARCEUS,6]
-FormName = Käfer
+FormName = Bug Type
 Types = BUG
 #-------------------------------
 [ARCEUS,7]
-FormName = Geist
+FormName = Ghost Type
 Types = GHOST
 #-------------------------------
 [ARCEUS,8]
-FormName = Stahl
+FormName = Steel Type
 Types = STEEL
 #-------------------------------
 [ARCEUS,9]
@@ -1273,39 +1273,39 @@ FormName = Unknown Type
 Types = QMARKS
 #-------------------------------
 [ARCEUS,10]
-FormName = Feuer
+FormName = Fire Type
 Types = FIRE
 #-------------------------------
 [ARCEUS,11]
-FormName = Wasser
+FormName = Water Type
 Types = WATER
 #-------------------------------
 [ARCEUS,12]
-FormName = Pflanze
+FormName = Grass Type
 Types = GRASS
 #-------------------------------
 [ARCEUS,13]
-FormName = Elektro
+FormName = Electric Type
 Types = ELECTRIC
 #-------------------------------
 [ARCEUS,14]
-FormName = Psycho
+FormName = Psychic Type
 Types = PSYCHIC
 #-------------------------------
 [ARCEUS,15]
-FormName = Eis
+FormName = Ice Type
 Types = ICE
 #-------------------------------
 [ARCEUS,16]
-FormName = Drache
+FormName = Dragon Type
 Types = DRAGON
 #-------------------------------
 [ARCEUS,17]
-FormName = Unlicht
+FormName = Dark Type
 Types = DARK
 #-------------------------------
 [ARCEUS,18]
-FormName = Fee
+FormName = Fairy Type
 Types = FAIRY
 Generation = 6
 #-------------------------------
@@ -1982,8 +1982,8 @@ Pokedex = If its core stays exposed, it will soon die off. It's possible that it
 Flags = InheritFormFromMother
 #-------------------------------
 [MIMIKYU,1]
-FormName = Entlarvte Form
-Pokedex = Obwohl es sich mit seiner Verkleidung viel Mühe gegeben hat, ist der Hals umgeknickt. Mimigma selbst ist nur im übertragenen Sinne geknickt.
+FormName = Busted Form
+Pokedex = Sad that its true identity may be exposed, Mimikyu will mercilessly seek revenge on any opponent that breaks its neck.
 #-------------------------------
 [NECROZMA,1]
 FormName = Dusk Mane
