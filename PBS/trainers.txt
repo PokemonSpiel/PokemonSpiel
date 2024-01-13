@@ -119,17 +119,17 @@ LoseText = Ich Rattfratz es nicht! Wie konnte das passieren?
 Pokemon = RATTATA,3
 #-------------------------------
 [HIKER,Wolfgang]
-LoseText = Das wars
+LoseText = Jetzt muss ich ja wieder zurück wandern, mist!
 Pokemon = GEODUDE,4
 Pokemon = NOSEPASS,5
 #-------------------------------
 [LASS,Mary]
-LoseText = Grrr
+LoseText = Manno, dann geh ich halt zu Jason.
 Pokemon = SKITTY,5
 Pokemon = RALTS,6
 #-------------------------------
 [YOUNGSTER,Tristan]
-LoseText = Lol
+LoseText = Ich meld’ dich bei Fortnite!
 Pokemon = CUBONE,6
 Pokemon = SPEAROW,6
 Pokemon = TYROGUE,7
