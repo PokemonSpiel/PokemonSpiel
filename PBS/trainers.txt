@@ -135,33 +135,29 @@ Pokemon = SPEAROW,6
 Pokemon = TYROGUE,7
 #-------------------------------
 [POKEMANIAC,Torben]
-LoseText = schade.
+LoseText = A-a-aber meine Berechnungen?
 Pokemon = MAGNEMITE,7
 Pokemon = PORYGON,8
     Moves = CONFUSION,THUNDERWAVE,TACKLE
 #-------------------------------
 [RUINMANIAC,Dirk]
-LoseText = schade.
+LoseText = Du bist härter als gedacht, das muss ich dir lassen.
 Pokemon = CRANIDOS,7
 Pokemon = LILEEP,8
 #-------------------------------
 [CAMPER,Cedric]
-LoseText = schade.
+LoseText = Ich bleib wohl doch beim Campen…
 Pokemon = SHROOMISH,7
-<<<<<<< HEAD
 Pokemon = MAGBY,8	 	
-=======
-Pokemon = MAGBY,8
->>>>>>> c13419a412daed1d594d4fc9de911255f23707ab
 #-------------------------------
 [HIKER,Markus]
-LoseText = Das wars
+LoseText = Ich habe dich unterschätzt!
 Pokemon = GEODUDE,8
 Pokemon = BONSLY,8
 Pokemon = ONIX,9
 #-------------------------------
 [POKEMANIAC,Henry]
-LoseText = schade.
+LoseText = Ich will ‘ne Revanche!
 Pokemon = SLOWPOKE,9
 Pokemon = VOLTORB,10
 #-------------------------------
