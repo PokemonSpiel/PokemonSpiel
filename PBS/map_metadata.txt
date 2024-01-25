@@ -416,3 +416,8 @@ Bicycle = true
 [092]   # Stadt 2
 Name = Stadt 3
 DarkMap = false
+#-------------------------------
+[103]   # Route 9 links neben Stadt 5
+Name = Route 9 links neben Stadt 5
+Outdoor = true
+Weather = HeavyRain,100
