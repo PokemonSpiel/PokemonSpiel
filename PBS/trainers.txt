@@ -170,11 +170,7 @@ Pokemon = ARON,1
 LoseText = schade.
 Pokemon = PIKACHU,10
 Pokemon = BUTTERFREE,11
-<<<<<<< HEAD
 Pokemon = MANKEY,10 
-=======
-Pokemon = MANKEY,10
->>>>>>> c13419a412daed1d594d4fc9de911255f23707ab
 Pokemon = CARVANHA,11
 #-------------------------------
 [TWINS,Aline & Alina]
