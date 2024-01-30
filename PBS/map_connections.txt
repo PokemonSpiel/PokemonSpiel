@@ -28,8 +28,8 @@
 31,South,32,23,North,0
 # Route 3 (31) - Ingido Plateau outside (35)
 31,West,0,35,East,10
-# Route 1 (87) - Anfang (32)
-87,North,0,32,South,9
+# Anfang (32) - Route 1 (87)
+32,South,9,87,North,0
 # Ingido Plateau outside (35) - Route 4 (39)
 35,West,11,39,East,0
 # Route 5 (41) - Route 4 Cycling Road (40)
@@ -40,11 +40,39 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Stadt 1 (88) - Route 1 (87)
-88,North,0,87,South,3
-# Route 2 (89) - Stadt 1 (88)
-89,West,5,88,East,0
+# Route 1 (87) - Stadt 1 (88)
+87,South,3,88,North,0
+# Stadt 1 (88) - Route 2 (89)
+88,East,0,89,West,5
+# Route 7 rechts neben Stadt 4 (100) - Stadt 4 (99)
+100,West,2,99,East,0
+# Route 8 links neben Stadt 4 (101) - Stadt 4 (99)
+101,East,0,99,West,16
+# Stadt 5 (102) - Route 8 links neben Stadt 4 (101)
+102,North,12,101,South,0
+# Route 9 links neben Stadt 5 (103) - Stadt 5 (102)
+103,East,15,102,West,0
+# Route 10 (104) - Route 9 links neben Stadt 5 (103)
+104,South,42,103,North,0
+# Route 4 zu Stadt 3 (96) - Route 3 (94)
+96,South,1,94,North,0
+# Stadt 3 (97) - Route 3 (94)
+97,West,78,94,East,0
+# wasser (161) - Route 3 (94)
+161,West,25,94,East,0
+# wasser2 (162) - Route 3 (94)
+162,North,0,94,South,0
+# Route 5 zu Stadt 4 (142) - Route 3 (94)
+142,East,0,94,West,27
 # Stadt 3 (97) - Route 4 zu Stadt 3 (96)
-97,West,23,96,East,0
+97,West,0,96,East,1
+# wasser (161) - Route 4 zu Stadt 3 (96)
+161,West,0,96,East,54
 # Route 6 rechts neben Stadt 3 (98) - Stadt 3 (97)
 98,West,0,97,East,10
+# wasser (161) - Stadt 3 (97)
+161,North,0,97,South,0
+# wasser2 (162) - wasser (161)
+162,North,39,161,South,0
+# Route 5 zu Stadt 4 (142) - wasser2 (162)
+142,East,33,162,West,0
