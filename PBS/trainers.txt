@@ -224,3 +224,7 @@ Pokemon = MUNCHLAX,14
     Item = SITRUSBERRY
     Happiness = 150
     Ball = CHERISHBALL
+#-------------------------------
+[FIRSTTIME_CHATTER_M,Chatter,1]
+LoseText = Du wirst schon noch sehen.
+Pokemon = PIDGEY,9

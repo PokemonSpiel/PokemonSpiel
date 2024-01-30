@@ -399,3 +399,23 @@ Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
+#-------------------------------
+[FIRSTTIME_CHATTER_M]
+Name = First-Time
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[FIRSTTIME_CHATTER_F]
+Name = First-Time
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[CHATTER_M]
+Name = First-Time
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[CHATTER_F]
+Name = First-Time
+Gender = Female
+BaseMoney = 32
