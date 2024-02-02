@@ -718,7 +718,550 @@ Level Up:
 45 - Swords Dance
 49 - Sandstorm
 53 - Fissure
+
 ===================
+029 - Nidoran♀
+===================
+
+Ability:
+Old	Poison Point / Rivalry
+New	Poison Point / Sheer Force
+
+Level Up:
+1 - Growl
+1 - Scratch
+1 - Tail Whip
+1 - Poison Sting
+6 - Fury Swipes
+9 - Double Kick
+12 - Poison Fang
+15 - Bite
+18 - Helping Hand
+21 - Toxic Spikes
+24 - Poison Jab
+27 - Flatter
+30 - Crunch
+33 - Poison Tail
+36 - Captivate
+39 - Super Fang
+
+===================
+030 - Nidorina
+===================
+
+Ability:
+Old	Poison Point / Rivalry
+New	Poison Point / Sheer Force
+
+Level Up:
+1 - Growl
+1 - Scratch
+1 - Tail Whip
+1 - Poison Sting
+6 - Fury Swipes
+9 - Double Kick
+12 - Poison Fang
+15 - Bite
+19 - Helping Hand
+23 - Toxic Spikes
+27 - Poison Jab
+31 - Flatter
+35 - Crunch
+39 - Poison Tail
+43 - Captivate
+47 - Super Fang
+50 - Toxic
+
+===================
+031 - Nidoqueen
+===================
+
+Ability:
+Old	Poison Point / Rivalry
+New	Poison Point / Sheer Force
+
+Level Up:
+1 - Superpower
+1 - Sludge Wave
+1 - Drill Run
+1 - Scratch
+1 - Tail Whip
+1 - Double Kick
+1 - Poison Sting
+25 - Body Slam
+35 - Earth Power
+45 - Earthquake
+55 - Superpower
+
+===================
+032 - Nidoran♂
+===================
+
+Ability:
+Old	Poison Point / Rivalry
+New 	Poison Point / Hustle
+
+Level Up:
+1 - Leer
+1 - Peck
+1 - Focus Energy
+1 - Poison Sting
+6 - Fury Attack
+9 - Double Kick
+12 - Poison Fang
+15 - Horn Attack
+18 - Helping Hand
+21 - Toxic Spikes
+24 - Poison Jab
+27 - Flatter
+30 - Sucker Punch
+33 - Poison Tail
+36 - Captivate
+39 - Head Smash
+
+===================
+033 - Nidorino
+===================
+
+Ability:
+Old	Poison Point / Rivalry
+New 	Poison Point / Hustle
+
+Level Up:
+1 - Leer
+1 - Peck
+1 - Focus Energy
+1 - Poison Sting
+6 - Fury Attack
+9 - Double Kick
+12 - Poison Fang
+15 - Horn Attack
+19 - Helping Hand
+23 - Toxic Spikes
+27 - Poison Jab
+31 - Flatter
+35 - Sucker Punch
+39 - Poison Tail
+43 - Captivate
+47 - Head Smash
+50 - Toxic
+
+===================
+034 - Nidoking
+===================
+
+Ability:
+Old	Poison Point / Rivalry
+New 	Poison Point / Hustle
+
+Level Up:
+1 - Megahorn
+1 - Drill Run
+1 - Peck
+1 - Focus Energy
+1 - Double Kick
+1 - Poison Sting
+25 - Thrash
+35 - Earth Power
+45 - Earthquake
+55 - Megahorn
+
+===================
+035 - Clefairy
+===================
+Level Up:
+1 - Pound
+1 - Growl
+1 - Double Slap
+4 - Encore
+7 - Sing
+9 - Disarming Voice
+11 - Defense Curl
+13 - Follow Me
+15 - Draining Kiss (!!)
+17 - Wake-Up Slap
+19 - Body Slam
+21 - Minimize
+23 - Metronome
+25 - Cosmic Power
+27 - Lucky Chant
+29 - Moonblast
+31 - Moonlight
+33 - Wish
+35 - Meteor Mash
+37 - Gravity
+39 - Healing Wish
+
+===================
+036 - Clefable
+===================
+Level Up:
+1 - Soft-Boiled
+1 - Teleport
+1 - Sing
+1 - Double Slap
+1 - Minimize
+1 - Metronome
+37 - Moonblast
+
+===================
+037 - Vulpix
+===================
+Ability:
+Old     Flash Fire / None
+New     Drought / Flash Fire
+
+Moves:
+Now compatible with TM53, Energy Ball.
+
+Level Up:
+1 - Ember
+1 - Tail Whip
+4 - Roar
+7 - Quick Attack
+11 - Confuse Ray
+13 - Fire Spin
+15 - Payback
+17 - Will-O-Wisp
+21 - Feint Attack
+23 - Extrasensory
+25 - Flamethrower
+27 - Safeguard
+31 - Dark Pulse
+33 - Hypnosis
+35 - Heat Wave
+37 - Imprison
+41 - Captivate
+43 - Grudge
+45 - Fire Blast
+
+===================
+038 - Ninetales
+===================
+Ability:
+Old     Flash Fire / None
+New     Drought / Flash Fire
+
+Base Stats:
+Old     73 HP / 76 Atk / 75 Def / 81 SAtk / 100 SDef / 100 Spd / 505 BST
+New     73 HP / 66 Atk / 75 Def / 81 SAtk / 100 SDef / 110 Spd / 505 BST
+
+Moves:
+Now compatible with TM29, Psychic. (!!)
+Now compatible with TM30, Shadow Ball. (!!)
+Now compatible with TM53, Energy Ball.
+Now compatible with TM85, Dazzling Gleam. (!!)
+
+Level Up:
+1 - Moonblast (!!)
+1 - Imprison
+1 - Nasty Plot
+1 - Flamethrower
+1 - Quick Attack
+1 - Confuse Ray
+1 - Safeguard
+
+===================
+039 - Jigglypuff
+===================
+Ability:
+Old     Cute Charm / None
+New     Cute Charm / Competitive
+
+Base Stats:
+Old     115 HP / 45 Atk / 20 Def / 45 SAtk / 25 SDef / 20 Spd / 270 BST
+New     115 HP / 55 Atk / 30 Def / 55 SAtk / 35 SDef / 30 Spd / 320 BST
+
+Level Up:
+1 - Sing
+1 - Defense Curl
+4 - Pound
+7 - Fake Tears
+9 - Disarming Voice
+11 - Double Slap
+13 - Disable
+15 - Draining Kiss (!!)
+17 - Rollout
+19 - Body Slam
+21 - Stockpile
+21 - Swallow
+21 - Spit Up
+23 - Wake-Up Slap
+25 - Hyper Voice
+27 - Rest
+29 - Moonblast (!!)
+31 - Gyro Ball
+33 - Mimic
+35 - Double-Edge
+37 - Last Resort
+
+===================
+040 - Wigglytuff
+===================
+Ability:
+Old     Cute Charm / None
+New     Cute Charm / Competitive
+
+Base Stats:
+Old     140 HP / 70 Atk / 45 Def / 85 SAtk / 50 SDef / 45 Spd / 435 BST
+New     140 HP / 80 Atk / 55 Def / 95 SAtk / 60 SDef / 55 Spd / 485 BST
+
+Level Up:
+1 - Play Rough
+1 - Double-Edge
+1 - Perish Song
+1 - Sing
+1 - Defense Curl
+1 - Disable
+1 - Double Slap
+33 - Hyper Voice
+43 - Moonblast (!!)
+
+===================
+041 - Zubat
+===================
+Moves:
+Now compatible with TM88, Hurricane. (!!)
+
+Level Up:
+1 - Absorb
+1 - Supersonic
+1 - Astonish
+7 - Bite
+10 - Wing Attack
+13 - Poison Fang
+15 - Confuse Ray
+17 - Air Cutter
+19 - Mean Look
+22 - Leech Life
+25 - Swift
+28 - Hypnosis
+31 - Air Slash
+34 - Haze
+37 - Zen Headbutt
+40 - Nasty Plot
+43 - Brave Bird
+
+===================
+042 - Golbat
+===================
+Moves:
+Now compatible with TM88, Hurricane. (!!)
+
+Level Up:
+1 - Screech
+1 - Absorb
+1 - Supersonic
+1 - Astonish
+7 - Bite
+10 - Wing Attack
+13 - Poison Fang
+15 - Confuse Ray
+17 - Air Cutter
+19 - Mean Look
+22 - Crunch
+23 - Leech Life
+27 - Swift
+31 - Hypnosis
+35 - Air Slash
+39 - Haze
+43 - Zen Headbutt
+47 - Nasty Plot
+51 - Brave Bird
+
+===================
+043 - Oddish
+===================
+Ability:
+Old     Chlorophyll / None
+New     Chlorophyll / Run Away
+
+Level Up:
+1 - Absorb
+1 - Growth
+4 - Acid
+7 - Sweet Scent
+10 - Sleep Powder
+10 - Poison Powder
+10 - Stun Spore
+13 - Mega Drain
+16 - Lucky Chant
+19 - Sludge (!!)
+22 - Moonlight
+25 - Giga Drain
+28 - Toxic
+31 - Moonblast
+34 - Sludge Bomb
+37 - Natural Gift
+40 - Petal Dance
+
+===================
+044 - Gloom
+===================
+Ability:
+Old     Chlorophyll / None
+New     Chlorophyll / Stench
+
+Level Up:
+1 - Absorb
+1 - Growth
+4 - Acid
+7 - Sweet Scent
+10 - Sleep Powder
+10 - Poison Powder
+10 - Stun Spore
+13 - Mega Drain
+16 - Lucky Chant
+19 - Sludge (!!)
+23 - Moonlight
+27 - Giga Drain
+31 - Toxic
+35 - Moonblast
+39 - Sludge Bomb
+43 - Natural Gift
+47 - Petal Dance
+
+===================
+045 - Vileplume
+===================
+Ability:
+Old     Chlorophyll / None
+New     Chlorophyll / Effect Spore
+
+Level Up:
+1 - Moonblast
+1 - Mega Drain
+1 - Aromatherapy
+1 - Poison Powder
+1 - Stun Spore
+17 - Aromatherapy
+27 - Earth Power (!!)
+37 - Teeter Dance
+47 - Petal Dance
+57 - Solar Beam
+
+===================
+046 - Paras
+===================
+Moves:
+Now compatible with TM62, Bug Buzz. (!!)
+
+Level Up:
+1 - Scratch
+1 - Fury Cutter
+7 - Absorb
+10 - Stun Spore
+10 - Poison Powder
+13 - Bug Bite
+16 - Bullet Seed
+19 - Spore
+22 - Slash
+25 - Leech Life
+28 - Growth
+31 - Seed Bomb
+34 - Cross Poison
+37 - Knock Off
+40 - Giga Drain
+43 - Aromatherapy
+46 - X-Scissor
+
+===================
+047 - Parasect
+===================
+Base Stats (Complete):
+Old     60 HP / 95 Atk / 80 Def / 60 SAtk / 80 SDef / 30 Spd / 405 BST
+New     60 HP / 115 Atk / 100 Def / 55 SAtk / 90 SDef / 30 Spd / 450 BST
+
+Moves:
+Now compatible with TM62, Bug Buzz. (!!)
+
+Level Up:
+1 - Leech Seed
+1 - Scratch
+1 - Fury Cutter
+7 - Absorb
+10 - Stun Spore
+10 - Poison Powder
+13 - Bug Bite
+16 - Bullet Seed
+19 - Spore
+22 - Slash
+26 - Leech Life
+30 - Growth
+34 - Seed Bomb
+38 - Cross Poison
+42 - Knock Off
+46 - Giga Drain
+50 - Aromatherapy
+54 - X-Scissor
+
+===================
+048 - Venonat
+===================
+Ability:
+Old     Compound Eyes / Tinted Lens
+New     Tinted Lens / Compound Eyes
+
+Moves:
+Now compatible with TM62, Bug Buzz. (!!)
+
+Level Up:
+1 - Tackle
+1 - Disable
+1 - Foresight
+7 - Supersonic
+10 - Bug Bite
+13 - Confusion
+15 - Poison Powder
+15 - Stun Spore
+15 - Sleep Powder
+17 - Psybeam
+21 - Poison Fang
+24 - Leech Life
+27 - Zen Headbutt
+30 - Signal Beam
+33 - Baton Pass
+36 - Psychic
+39 - Morning Sun
+
+===================
+049 - Venomoth
+===================
+Ability:
+Old     Shield Dust / Tinted Lens
+New     Tinted Lens / Shield Dust
+
+Base Stats (Complete):
+Old     70 HP / 65 Atk / 60 Def / 90 SAtk / 75 SDef / 90 Spd / 450 BST
+New     70 HP / 55 Atk / 60 Def / 100 SAtk / 75 SDef / 90 Spd / 450 BST
+
+Moves:
+Now compatible with TM62, Bug Buzz.
+Now compatible with TM88, Hurricane. (!!)
+Now compatible with HM02, Fly. (!!)
+
+Level Up:
+1 - Silver Wind
+1 - Tackle
+1 - Disable
+1 - Foresight
+7 - Supersonic
+10 - Bug Bite
+13 - Confusion
+15 - Poison Powder
+15 - Stun Spore
+15 - Sleep Powder
+17 - Psybeam
+21 - Poison Fang
+24 - Leech Life
+27 - Zen Headbutt
+30 - Signal Beam
+31 - Gust
+34 - Baton Pass
+38 - Psychic
+42 - Morning Sun
+46 - Bug Buzz
+
 125 - Electabuzz
 ===================
 Evolution:
