@@ -1261,7 +1261,754 @@ Level Up:
 38 - Psychic
 42 - Morning Sun
 46 - Bug Buzz
+===================
+050 - Diglett
+===================
+Level Up:
+1 - Sand Attack
+1 - Scratch
+1 - Mud-Slap
+4 - Growl
+7 - Astonish
+10 - Bulldoze
+13 - Magnitude
+16 - Feint Attack
+19 - Dig
+22 - Sucker Punch
+25 - Mud Bomb
+28 - Rock Slide
+31 - Earth Power
+34 - Slash
+37 - Earthquake
+40 - Memento
+43 - Fissure
 
+===================
+051 - Dugtrio
+===================
+Level Up:
+1 - Sand Attack
+1 - Scratch
+1 - Mud-Slap
+4 - Growl
+7 - Astonish
+10 - Bulldoze
+13 - Magnitude
+16 - Feint Attack
+19 - Dig
+22 - Sucker Punch
+25 - Mud Bomb
+26 - Tri Attack
+29 - Rock Slide
+33 - Earth Power
+37 - Slash
+37 - Night Slash
+41 - Earthquake
+45 - Memento
+49 - Fissure
+
+===================
+052 - Meowth
+===================
+Ability:
+Old     Pickup / Technician
+New     Technician / Pickup
+
+Level Up:
+1 - Scratch
+1 - Growl
+1 - Assist
+6 - Bite
+9 - Fake Out
+12 - Fury Swipes
+15 - Screech
+18 - Pay Day
+21 - Feint Attack
+24 - Slash
+24 - Night Slash
+27 - Taunt
+30 - Assurance
+33 - Hypnosis
+36 - Nasty Plot
+39 - Play Rough
+42 - Captivate
+45 - Feint
+48 - Double-Edge
+
+===================
+053 - Persian
+===================
+Ability:
+Old     Limber / Technician
+New     Technician / Limber
+
+Base Stats:
+Old     65 HP / 70 Atk / 60 Def / 65 SAtk / 65 SDef / 115 Spd / 440 BST
+New     65 HP / 80 Atk / 60 Def / 80 SAtk / 65 SDef / 115 Spd / 465 BST
+
+Level Up:
+1 - Switcheroo
+1 - Scratch
+1 - Growl
+1 - Assist
+6 - Bite
+9 - Fake Out
+12 - Fury Swipes
+15 - Screech
+18 - Swift
+21 - Feint Attack
+24 - Slash
+24 - Night Slash
+27 - Taunt
+28 - Power Gem
+30 - Assurance
+34 - Hypnosis
+38 - Nasty Plot
+42 - Play Rough
+46 - Captivate
+50 - Feint
+54 - Double-Edge
+
+===================
+054 - Psyduck
+===================
+Level Up:
+1 - Water Sport
+1 - Scratch
+1 - Tail Whip
+6 - Water Gun
+9 - Confusion
+12 - Fury Swipes
+15 - Water Pulse
+18 - Disable
+21 - Zen Headbutt
+24 - Screech
+27 - Hypnosis
+30 - Aqua Tail
+33 - Psychic
+36 - Psych Up
+39 - Future Sight
+42 - Amnesia
+45 - Cross Chop
+48 - Hydro Pump
+
+===================
+055 - Golduck
+===================
+Level Up:
+1 - Me First
+1 - Aqua Jet
+1 - Water Sport
+1 - Scratch
+1 - Tail Whip
+6 - Water Gun
+9 - Confusion
+12 - Fury Swipes
+15 - Water Pulse
+18 - Disable
+21 - Zen Headbutt
+24 - Screech
+27 - Hypnosis
+30 - Aqua Tail
+33 - Power Gem (!!)
+34 - Psychic
+38 - Psych Up
+42 - Future Sight
+46 - Amnesia
+50 - Cross Chop
+54 - Hydro Pump
+
+===================
+056 - Mankey
+===================
+Level Up:
+1 - Scratch
+1 - Low Kick
+1 - Leer
+1 - Focus Energy
+5 - Fury Swipes
+8 - Karate Chop
+11 - Covet
+14 - Pursuit
+17 - Seismic Toss
+20 - Swagger
+23 - Cross Chop
+26 - Assurance
+29 - Punishment
+32 - Night Slash
+35 - Close Combat
+38 - Thrash
+41 - U-turn
+44 - Screech
+47 - Outrage
+50 - Close Combat
+
+===================
+057 - Primeape
+===================
+Level Up:
+1 - Final Gambit
+1 - Scratch
+1 - Low Kick
+1 - Leer
+1 - Focus Energy
+5 - Fury Swipes
+8 - Karate Chop
+11 - Fling
+14 - Pursuit
+17 - Seismic Toss
+20 - Swagger
+23 - Cross Chop
+26 - Assurance
+28 - Rage
+30 - Punishment
+34 - Night Slash
+38 - Close Combat
+42 - Thrash
+46 - U-turn
+50 - Screech
+54 - Outrage
+58 - Close Combat
+
+===================
+058 - Growlithe
+===================
+Level Up:
+1 - Bite
+1 - Leer
+1 - Roar
+1 - Howl
+7 - Ember
+11 - Odor Sleuth
+13 - Helping Hand
+15 - Fire Fang
+18 - Reversal
+21 - Take Down
+23 - Flame Wheel
+25 - Agility
+28 - Flamethrower
+31 - Crunch
+33 - Outrage
+35 - Heat Wave
+38 - Play Rough
+41 - Flare Blitz
+
+===================
+059 - Arcanine
+===================
+Level Up:
+1 - Morning Sun
+1 - Thunder Fang
+1 - Play Rough
+1 - Bite
+1 - Roar
+1 - Odor Sleuth
+1 - Fire Fang
+34 - Extreme Speed
+44 - Close Combat
+54 - Flare Blitz
+
+===================
+060 - Poliwag
+===================
+Level Up
+1 - Pound
+1 - Bubble
+1 - Water Sport
+6 - Hypnosis
+9 - Water Gun
+12 - Double Slap
+15 - Rain Dance
+18 - Bubble Beam
+21 - Mud Shot
+24 - Body Slam
+27 - Low Kick
+30 - Belly Drum
+33 - Mud Bomb
+36 - Wake-Up Slap
+39 - Hydro Pump
+
+===================
+061 - Poliwhirl
+===================
+Evolution:
+Now able to evolve into Politoed by using a King's Rock.
+
+Level Up:
+1 - Pound
+1 - Bubble
+1 - Water Sport
+6 - Hypnosis
+9 - Water Gun
+12 - Double Slap
+15 - Rain Dance
+18 - Bubble Beam
+21 - Mud Shot
+24 - Body Slam
+28 - Low Kick
+32 - Belly Drum
+36 - Mud Bomb
+40 - Wake-Up Slap
+44 - Hydro Pump
+
+===================
+062 - Poliwrath
+===================
+Moves:
+Now compatible with TM60, Drain Punch. (!!)
+
+Level Up:
+1 - Vacuum Wave
+1 - Mist
+1 - Haze
+1 - Bulk Up
+1 - Pound
+1 - Bubble Beam
+1 - Hypnosis
+1 - Double Slap
+1 - Brick Break
+33 - Dynamic Punch
+43 - Mind Reader
+53 - Close Combat (!!)
+
+===================
+063 - Abra
+===================
+Level Up:
+1 - Teleport
+
+===================
+064 - Kadabra
+===================
+Evolution:
+Now able to evolve into Alakazam at Level 36.
+
+Level Up:
+1 - Flash
+1 - Kinesis
+1 - Teleport
+1 - Confusion
+16 - Psybeam
+19 - Disable
+22 - Night Shade
+25 - Miracle Eye
+28 - Reflect
+28 - Light Screen
+31 - Psycho Cut
+34 - Recover
+37 - Psychic
+40 - Role Play
+43 - Future Sight
+46 - Substitute
+49 - Trick
+
+===================
+065 - Alakazam
+===================
+Level Up:
+1 - Encore
+1 - Flash
+1 - Barrier
+1 - Kinesis
+1 - Teleport
+1 - Confusion
+16 - Psybeam
+19 - Disable
+22 - Night Shade
+25 - Miracle Eye
+28 - Reflect
+28 - Light Screen
+31 - Psycho Cut
+34 - Recover
+37 - Psychic
+40 - Calm Mind
+43 - Future Sight
+46 - Substitute
+49 - Trick
+52 - Aura Sphere (!!)
+
+===================
+066 - Machop
+===================
+Level Up:
+1 - Low Kick
+1 - Leer
+1 - Focus Energy
+7 - Karate Chop
+10 - Foresight
+13 - Brick Break
+15 - Seismic Toss
+17 - Revenge
+20 - Knock Off
+23 - Vital Throw
+26 - Wake-Up Slap
+29 - Payback
+32 - Counter
+35 - Bulk Up
+38 - Cross Chop
+41 - Scary Face
+44 - Dynamic Punch
+47 - Close Combat
+50 - Superpower
+
+===================
+067 - Machoke
+===================
+Evolution:
+Now able to evolve into Machamp at Level 36.
+
+Level Up:
+1 - Low Kick
+1 - Leer
+1 - Focus Energy
+7 - Karate Chop
+10 - Foresight
+13 - Brick Break
+15 - Seismic Toss
+17 - Revenge
+20 - Knock Off
+23 - Vital Throw
+26 - Wake-Up Slap
+30 - Payback
+34 - Counter
+38 - Bulk Up
+42 - Cross Chop
+46 - Scary Face
+50 - Dynamic Punch
+54 - Close Combat
+58 - Superpower
+
+===================
+068 - Machamp
+===================
+Level Up:
+1 - Close Combat
+1 - Bullet Punch
+1 - Low Kick
+1 - Leer
+1 - Focus Energy
+7 - Karate Chop
+10 - Foresight
+13 - Brick Break
+15 - Seismic Toss
+17 - Revenge
+20 - Knock Off
+23 - Vital Throw
+26 - Wake-Up Slap
+30 - Payback
+34 - Counter
+38 - Bulk Up
+42 - Cross Chop
+46 - Scary Face
+50 - Dynamic Punch
+54 - Close Combat
+58 - Superpower
+
+===================
+069 - Bellsprout
+===================
+Ability:
+Old     Chlorophyll / None
+New     Chlorophyll / Gluttony
+
+Level Up:
+1 - Vine Whip
+1 - Growth
+1 - Acid
+7 - Wrap
+10 - Sleep Powder
+10 - Poison Powder
+10 - Stun Spore
+13 - Razor Leaf
+16 - Sweet Scent
+19 - Gastro Acid
+22 - Leech Life
+25 - Poison Jab
+28 - Seed Bomb
+31 - Knock Off
+34 - Slam
+37 - Wring Out
+40 - Power Whip
+
+===================
+070 - Weepinbell
+===================
+Ability:
+Old     Chlorophyll / None
+New     Chlorophyll / Gluttony
+
+Level Up:
+1 - Vine Whip
+1 - Growth
+1 - Acid
+7 - Wrap
+10 - Sleep Powder
+10 - Poison Powder
+10 - Stun Spore
+13 - Razor Leaf
+16 - Sweet Scent
+19 - Gastro Acid
+23 - Leech Life
+27 - Poison Jab
+31 - Seed Bomb
+35 - Knock Off
+39 - Slam
+43 - Wring Out
+47 - Power Whip
+
+===================
+071 - Victreebel
+===================
+Ability:
+Old     Chlorophyll / None
+New     Chlorophyll / Gluttony
+
+Level Up:
+1 - Weather Ball
+1 - Sucker Punch
+1 - Leech Life
+1 - Stockpile
+1 - Swallow
+1 - Spit Up
+1 - Vine Whip
+1 - Sleep Powder
+1 - Sweet Scent
+1 - Razor Leaf
+33 - Leaf Blade
+43 - Power Whip
+53 - Leaf Storm
+
+===================
+072 - Tentacool
+===================
+Level Up:
+1 - Poison Sting
+1 - Water Gun
+1 - Supersonic
+7 - Acid
+10 - Toxic Spikes
+13 - Water Pulse
+16 - Wrap
+19 - Mega Drain
+22 - Bubble Beam
+25 - Barrier
+28 - Poison Jab
+31 - Muddy Water
+34 - Sludge Bomb
+37 - Screech
+40 - Giga Drain
+43 - Hydro Pump
+46 - Wring Out
+
+===================
+073 - Tentacruel
+===================
+Level Up:
+1 - Poison Sting
+1 - Water Gun
+1 - Supersonic
+7 - Acid
+10 - Toxic Spikes
+13 - Water Pulse
+16 - Wrap
+19 - Mega Drain
+22 - Bubble Beam
+25 - Barrier
+28 - Poison Jab
+32 - Muddy Water
+36 - Sludge Bomb
+40 - Screech
+44 - Giga Drain
+48 - Hydro Pump
+52 - Wring Out
+
+===================
+074 - Geodude
+===================
+Level Up:
+1 - Tackle
+1 - Defense Curl
+1 - Mud Sport
+7 - Rock Polish
+10 - Rock Throw
+13 - Bulldoze
+16 - Rollout
+19 - Magnitude
+22 - Self-Destruct
+25 - Rock Slide
+28 - Stealth Rock
+31 - Earthquake
+34 - Rock Blast
+37 - Explosion
+40 - Double-Edge
+43 - Stone Edge
+46 - Hammer Arm
+
+===================
+075 - Graveler
+===================
+Evolution:
+Now able to evolve into Golem at Level 36.
+
+Level Up:
+1 - Tackle
+1 - Defense Curl
+1 - Mud Sport
+7 - Rock Polish
+10 - Rock Throw
+13 - Bulldoze
+16 - Rollout
+19 - Magnitude
+22 - Self-Destruct
+25 - Gyro Ball
+26 - Rock Slide
+30 - Stealth Rock
+34 - Earthquake
+38 - Rock Blast
+42 - Explosion
+46 - Double-Edge
+50 - Stone Edge
+54 - Hammer Arm
+
+===================
+076 - Golem
+===================
+Level Up:
+1 - Fire Punch
+1 - Thunder Punch
+1 - Iron Head
+1 - Tackle
+1 - Defense Curl
+1 - Mud Sport
+7 - Rock Polish
+10 - Rock Throw
+13 - Bulldoze
+16 - Rollout
+19 - Magnitude
+22 - Self-Destruct
+25 - Gyro Ball
+26 - Rock Slide
+30 - Stealth Rock
+34 - Earthquake
+38 - Rock Blast
+42 - Explosion
+46 - Double-Edge
+50 - Stone Edge
+54 - Hammer Arm
+
+===================
+077 - Ponyta
+===================
+Ability:
+Old     Run Away / Flash Fire
+New     Flame Body / Flash Fire
+
+Level Up:
+1 - Tackle
+1 - Growl
+1 - Tail Whip
+7 - Ember
+10 - Stomp
+13 - Double Kick
+16 - Flame Wheel
+19 - Take Down
+22 - Fire Spin
+25 - Agility
+28 - Hypnosis
+31 - Low Kick
+34 - Flare Blitz
+37 - Double-Edge
+40 - Bounce
+43 - Jump Kick (!!)
+46 - Fire Blast
+
+===================
+078 - Rapidash
+===================
+Ability:
+Old     Run Away / Flash Fire
+New     Flame Body / Flash Fire
+
+Level Up:
+1 - Poison Jab
+1 - Drill Run
+1 - Megahorn
+1 - Tackle
+1 - Growl
+1 - Tail Whip
+7 - Ember
+10 - Stomp
+13 - Double Kick
+16 - Flame Wheel
+19 - Take Down
+22 - Fire Spin
+25 - Agility
+28 - Hypnosis
+31 - Low Kick
+34 - Flare Blitz
+35 - Fury Attack
+38 - Double-Edge
+42 - Bounce
+46 - Jump Kick (!!)
+50 - Fire Blast
+
+===================
+079 - Slowpoke
+===================
+Evolution:
+Now able to evolve into Slowking by using a King's Rock.
+
+Moves:
+Now compatible with HM07, Waterfall. (!!)
+
+Level Up:
+1 - Curse
+1 - Yawn
+1 - Tackle
+4 - Growl
+7 - Water Gun
+10 - Confusion
+13 - Disable
+16 - Headbutt
+19 - Water Pulse
+22 - Zen Headbutt
+25 - Aqua Tail
+28 - Slack Off
+31 - Amnesia
+34 - Psychic
+37 - Rain Dance
+40 - Psych Up
+43 - Future Sight
+46 - Trick Room
+
+===================
+080 - Slowbro
+===================
+Moves:
+Now compatible with HM07, Waterfall. (!!)
+
+Level Up:
+1 - Curse
+1 - Yawn
+1 - Tackle
+4 - Growl
+7 - Water Gun
+10 - Confusion
+13 - Disable
+16 - Headbutt
+19 - Water Pulse
+22 - Zen Headbutt
+25 - Aqua Tail
+28 - Slack Off
+31 - Amnesia
+33 - Withdraw
+35 - Psychic
+39 - Rain Dance
+43 - Psych Up
+47 - Future Sight
+51 - Trick Room
+
+===================
 125 - Electabuzz
 ===================
 Evolution:
