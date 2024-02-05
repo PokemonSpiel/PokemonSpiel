@@ -3218,6 +3218,123 @@ Level Up:
 53 - Fire Blast
 
 ===================
+127 - Pinsir
+===================
+Moves:
+Now compatible with TM62, Bug Buzz. (!!)
+
+Level Up:
+1 - Vice Grip
+1 - Focus Energy
+1 - Bind
+4 - Harden
+7 - Seismic Toss
+10 - Quick Attack
+13 - Bug Bite
+16 - Revenge
+19 - Vital Throw
+22 - Double Hit
+25 - Brick Break
+28 - X-Scissor
+31 - Knock Off
+34 - Swords Dance
+37 - Close Combat
+40 - Thrash
+43 - Megahorn (!!)
+46 - Superpower
+49 - Guillotine
+
+===================
+128 - Tauros
+===================
+Level Up:
+1 - Tackle
+1 - Tail Whip
+1 - Rage
+4 - Scary Face
+7 - Horn Attack
+10 - Pursuit
+13 - Stomp
+16 - Rest
+19 - Bulldoze
+22 - Payback
+25 - Take Down
+28 - Zen Headbutt
+31 - Body Slam
+34 - Swagger
+37 - Thrash
+40 - Iron Head
+43 - Double-Edge
+46 - Megahorn (!!)
+49 - Outrage
+52 - Giga Impact
+
+===================
+129 - Magikarp
+===================
+Level Up:
+1 - Splash
+1 - Tackle
+1 - Flail
+15 - Bounce
+
+===================
+130 - Gyarados
+===================
+Moves:
+Now compatible with TM88, Hurricane.
+
+Level Up:
+1 - Thrash
+1 - Leer
+1 - Bind
+1 - Rage
+20 - Bite
+23 - Dragon Rage
+26 - Ice Fang
+29 - Aqua Tail
+32 - Scary Face
+35 - Crunch
+38 - Dragon Dance
+41 - Outrage
+44 - Hydro Pump
+47 - Rain Dance
+50 - Hurricane
+53 - Hyper Beam
+
+===================
+131 - Lapras
+===================
+Level Up:
+1 - Sing
+1 - Growl
+1 - Water Gun
+4 - Mist
+7 - Confuse Ray
+10 - Ice Shard
+13 - Water Pulse
+16 - Body Slam
+19 - Rain Dance
+22 - Perish Song
+25 - Ice Beam
+28 - Bubble Beam
+31 - Safeguard
+34 - Dragon Pulse
+37 - Drill Run
+40 - Future Sight
+43 - Dragon Dance
+46 - Avalanche
+49 - Megahorn
+52 - Hydro Pump
+55 - Sheer Cold
+
+===================
+132 - Ditto
+===================
+Level Up:
+1 - Transform
+
+===================
 133 - Eevee
 ===================
 Evolution:
