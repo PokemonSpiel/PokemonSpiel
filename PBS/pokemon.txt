@@ -1690,7 +1690,7 @@ Category = Psi
 Pokedex = Dieses POKéMON sendet spezielle Alphawellen aus, die bei Gegnern Kopfschmerzen auslösen.
 Generation = 1
 WildItemUncommon = TWISTEDSPOON
-Evolutions = ALAKAZAM,Level,36
+Evolutions = ALAKAZAM,Item,TWISTEDSPOON
 #-------------------------------
 [ALAKAZAM]
 Name = Simsala
@@ -1771,7 +1771,7 @@ Category = Kraftprotz
 Pokedex = Maschocks starke Muskeln sind so hart wie Stahl. Dieses Pokémon hat so viel Kraft, dass es mit nur einem Finger einen Sumo-Ringer in der Luft halten kann.
 Generation = 1
 WildItemUncommon = FOCUSBAND
-Evolutions = MACHAMP,Level,36
+Evolutions = MACHAMP,Item,FOCUSBAND
 #-------------------------------
 [MACHAMP]
 Name = Machomei
@@ -1984,7 +1984,7 @@ Category = Gesteins
 Pokedex = Es rollt Bergpfade entlang. Rollt es zu schnell, bremst es ab, indem es gegen gewaltige Felsen rollt.
 Generation = 1
 WildItemUncommon = EVERSTONE
-Evolutions = GOLEM,Level,36
+Evolutions = GOLEM,Item,EVERSTONE
 #-------------------------------
 [GOLEM]
 Name = Geowaz

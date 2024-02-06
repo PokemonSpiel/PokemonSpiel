@@ -1581,7 +1581,7 @@ Level Up:
 064 - Kadabra
 ===================
 Evolution:
-Now able to evolve into Alakazam at Level 36.
+Now able to evolve into Alakazam by using a Twisted Spoon
 
 Level Up:
 1 - Flash
@@ -1655,7 +1655,7 @@ Level Up:
 067 - Machoke
 ===================
 Evolution:
-Now able to evolve into Machamp at Level 36.
+Now able to evolve into Machamp by using Focus Band
 
 Level Up:
 1 - Low Kick
@@ -1848,8 +1848,7 @@ Level Up:
 075 - Graveler
 ===================
 Evolution:
-Now able to evolve into Golem at Level 36.
-
+Now able to evolve into Golem by using an Overtone
 Level Up:
 1 - Tackle
 1 - Defense Curl
