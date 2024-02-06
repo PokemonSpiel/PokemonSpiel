@@ -6155,6 +6155,455 @@ Level Up:
 46 - Zap Cannon
 49 - Hyper Beam
 
+===================
+234 - Stantler
+===================
+Level Up:
+1 - Me First
+1 - Tackle
+1 - Leer
+7 - Astonish
+10 - Hypnosis
+13 - Stomp
+16 - Sand Attack
+18 - Confuse Ray
+21 - Take Down
+24 - Calm Mind
+27 - Zen Headbutt
+31 - Role Play
+34 - Thrash
+37 - Jump Kick
+40 - Imprison
+43 - Bounce
+46 - Captivate
+48 - Megahorn
+51 - Double-Edge
+54 - Me First
+
+===================
+235 - Smeargle
+===================
+Ability:
+Old     Own Tempo / Technician
+New     Technician / Own Tempo
+
+Level Up:
+1 - Sketch
+6 - Sketch
+11 - Sketch
+16 - Sketch
+21 - Sketch
+26 - Sketch
+31 - Sketch
+36 - Sketch
+41 - Sketch
+46 - Sketch
+51 - Sketch
+56 - Sketch
+61 - Sketch
+66 - Sketch
+71 - Sketch
+76 - Sketch
+81 - Sketch
+86 - Sketch
+91 - Sketch
+96 - Sketch
+
+===================
+236 - Tyrogue
+===================
+Ability:
+Old     Guts / Steadfast
+New     Steadfast / Guts
+
+Level Up:
+1 - Tackle
+1 - Helping Hand
+1 - Foresight
+1 - Fake Out
+1 - Low Kick
+1 - Mach Punch
+1 - Rapid Spin
+
+===================
+237 - Hitmontop
+===================
+Ability:
+Old     Intimidate / Technician
+New     Technician / Intimidate
+
+Level Up:
+1 - Revenge
+1 - Rapid Spin
+1 - Focus Energy
+20 - Rolling Kick
+21 - Agility
+23 - Pursuit
+25 - Brick Break
+27 - Quick Attack
+29 - Triple Kick
+31 - Feint
+33 - Detect
+35 - Close Combat
+37 - Counter
+39 - Drill Run
+41 - Bullet Punch
+43 - Endeavor
+45 - High Jump Kick
+
+===================
+238 - Smoochum
+===================
+Ability:
+Old     Oblivious / Forewarn
+New     Hydration / Forewarn
+
+Base Stats:
+Old     45 HP / 30 Atk / 15 Def / 85 SAtk / 65 SDef / 65 Spd / 305 BST
+New     45 HP / 30 Atk / 15 Def / 95 SAtk / 65 SDef / 65 Spd / 315 BST
+
+Level Up:
+1 - Pound
+1 - Sweet Kiss
+1 - Lick
+1 - Powder Snow
+6 - Confusion
+9 - Sing
+12 - Fake Out
+15 - Icy Wind
+18 - Mean Look
+21 - Extrasensory (!!)
+24 - Fake Tears
+27 - Lucky Chant
+30 - Ice Beam
+33 - Copycat
+36 - Psychic
+39 - Avalanche
+42 - Perish Song
+45 - Blizzard
+48 - Nasty Plot
+
+===================
+239 - Elekid
+===================
+Ability:
+Old     Static / None
+New     Static / Vital Spirit
+
+Level Up:
+1 - Quick Attack
+1 - Leer
+1 - Thunder Shock
+7 - Low Kick
+10 - Swift
+13 - Shock Wave
+16 - Thunder Wave
+19 - Thunder Punch
+22 - Light Screen
+25 - Brick Break
+28 - Discharge
+31 - Screech
+34 - Cross Chop
+37 - Thunderbolt
+40 - Wild Charge
+43 - Close Combat (!!)
+46 - Thunder
+
+===================
+240 - Magby
+===================
+Ability:
+Old     Flame Body / None
+New     Flame Body / Vital Spirit
+
+Level Up:
+1 - Smog
+1 - Leer
+1 - Ember
+7 - Smokescreen
+10 - Feint Attack
+13 - Fire Spin
+16 - Will-O-Wisp
+19 - Fire Punch
+22 - Confuse Ray
+25 - Brick Break
+28 - Lava Plume
+31 - Sunny Day
+34 - Cross Chop
+37 - Flamethrower
+40 - Flare Blitz
+43 - Aura Sphere (!!)
+46 - Fire Blast
+
+===================
+241 - Miltank
+===================
+Level Up:
+1 - Tackle
+1 - Growl
+5 - Defense Curl
+9 - Stomp
+13 - Milk Drink
+17 - Bide
+21 - Rollout
+25 - Body Slam
+29 - Zen Headbutt
+33 - Wake-Up Slap
+37 - Captivate
+41 - Gyro Ball
+45 - Heal Bell
+49 - Hammer Arm
+53 - Double-Edge
+
+===================
+242 - Blissey
+===================
+Ability:
+Old     Natural Cure / Serene Grace
+New     Serene Grace / Natural Cure
+
+Level Up:
+1 - Double-Edge
+1 - Counter
+1 - Aromatherapy
+1 - Defense Curl
+1 - Pound
+1 - Growl
+4 - Tail Whip
+7 - Refresh
+10 - Double Slap
+13 - Soft-Boiled
+16 - Egg Bomb
+19 - Minimize
+22 - Hyper Voice
+25 - Sing
+28 - Fling
+31 - Seismic Toss
+34 - Take Down
+37 - Light Screen
+40 - Healing Wish
+43 - Counter
+46 - Double-Edge
+
+===================
+243 - Raikou
+===================
+Ability:
+Old     Pressure / None
+New     Pressure / Inner Focus
+
+Level Up:
+1 - Zap Cannon
+1 - Extreme Speed
+1 - Bite
+1 - Leer
+1 - Roar
+6 - Thunder Shock
+10 - Quick Attack
+14 - Spark
+18 - Reflect
+22 - Crunch
+26 - Thunder Fang
+30 - Discharge
+34 - Extrasensory
+38 - Rain Dance
+42 - Calm Mind
+46 - Thunder
+50 - Aura Sphere
+
+===================
+244 - Entei
+===================
+Ability:
+Old     Pressure / None
+New     Pressure / Inner Focus
+
+Level Up:
+1 - Sacred Fire
+1 - Extreme Speed
+1 - Bite
+1 - Leer
+1 - Roar
+6 - Ember
+10 - Fire Spin
+14 - Stomp
+18 - Flamethrower
+22 - Swagger
+26 - Fire Fang
+30 - Lava Plume
+34 - Extrasensory
+38 - Fire Blast
+42 - Calm Mind
+46 - Eruption
+50 - Flare Blitz
+
+===================
+245 - Suicune
+===================
+Ability:
+Old     Pressure / None
+New     Pressure / Inner Focus
+
+Moves:
+Now compatible with TM88, Hurricane. (!!)
+
+Level Up:
+1 - Sheer Cold
+1 - Extreme Speed
+1 - Bite
+1 - Leer
+1 - Rain Dance
+6 - Bubble Beam
+10 - Gust
+14 - Aurora Beam
+18 - Mist
+22 - Mirror Coat
+26 - Ice Fang
+30 - Tailwind
+34 - Extrasensory
+38 - Hydro Pump
+42 - Calm Mind
+46 - Blizzard
+50 - Air Slash
+
+===================
+246 - Larvitar
+===================
+Level Up:
+1 - Leer
+1 - Bite
+1 - Screech
+4 - Sandstorm
+7 - Pursuit
+10 - Rock Tomb
+13 - Bulldoze
+16 - Scary Face
+19 - Rock Slide
+22 - Thrash
+25 - Crunch
+28 - Payback
+31 - Dragon Dance
+34 - Earthquake
+37 - Outrage
+40 - Stone Edge
+43 - Hyper Beam
+
+===================
+247 - Pupitar
+===================
+Level Up:
+1 - Leer
+1 - Bite
+1 - Screech
+4 - Sandstorm
+7 - Pursuit
+10 - Rock Tomb
+13 - Bulldoze
+16 - Scary Face
+19 - Rock Slide
+22 - Thrash
+25 - Crunch
+28 - Payback
+33 - Dragon Dance
+38 - Earthquake
+43 - Outrage
+48 - Stone Edge
+53 - Hyper Beam
+
+===================
+248 - Tyranitar
+===================
+Level Up:
+1 - Thunder Fang
+1 - Ice Fang
+1 - Fire Fang
+1 - Leer
+1 - Bite
+1 - Screech
+4 - Sandstorm
+7 - Pursuit
+10 - Rock Tomb
+13 - Bulldoze
+16 - Scary Face
+19 - Rock Slide
+22 - Thrash
+25 - Crunch
+28 - Payback
+33 - Dragon Dance
+38 - Earthquake
+43 - Outrage
+48 - Stone Edge
+54 - Hyper Beam
+60 - Giga Impact
+
+===================
+249 - Lugia
+===================
+Moves:
+Now compatible with TM88, Hurricane.
+
+Level Up:
+1 - Whirlwind
+1 - Weather Ball
+1 - Gust
+1 - Rain Dance
+6 - Calm Mind
+10 - Extrasensory
+14 - Natural Gift
+18 - Punishment
+22 - Ancient Power
+26 - Safeguard
+30 - Recover
+34 - Future Sight
+38 - Hydro Pump
+42 - Dragon Rush
+46 - Aeroblast
+50 - Sky Attack
+
+===================
+250 - Ho-oh
+===================
+Moves:
+Now compatible with TM88, Hurricane.
+
+Level Up:
+1 - Whirlwind
+1 - Weather Ball
+1 - Gust
+1 - Sunny Day
+6 - Calm Mind
+10 - Extrasensory
+14 - Natural Gift
+18 - Punishment
+22 - Ancient Power
+26 - Safeguard
+30 - Recover
+34 - Future Sight
+38 - Fire Blast
+42 - Brave Bird
+46 - Sacred Fire
+50 - Sky Attack
+
+===================
+251 - Celebi
+===================
+Level Up:
+1 - Leech Seed
+1 - Confusion
+1 - Recover
+1 - Heal Bell
+6 - Safeguard
+10 - Magical Leaf
+14 - Ancient Power
+18 - Baton Pass
+22 - Natural Gift
+26 - Heal Block
+30 - Psychic
+34 - Future Sight
+38 - Nasty Plot
+42 - Healing Wish
+46 - Perish Song
+50 - Leaf Storm
 
 ===================
 263 - Zigzagoon
