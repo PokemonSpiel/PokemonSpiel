@@ -7293,6 +7293,338 @@ Level Up:
 46 - Hydro Pump
 50 - Hurricane
 
+
+===================
+280 - Ralts
+===================
+Base Stats:
+Old     28 HP / 25 Atk / 25 Def / 45 SAtk / 35 SDef / 40 Spd / 198 BST
+New     28 HP / 25 Atk / 25 Def / 65 SAtk / 55 SDef / 40 Spd / 238 BST
+
+Level Up:
+1 - Teleport
+1 - Growl
+1 - Confusion
+1 - Double Team
+7 - Disarming Voice
+10 - Lucky Chant
+13 - Psybeam (!!)
+16 - Draining Kiss
+19 - Magical Leaf
+22 - Hypnosis
+25 - Psychic
+28 - Calm Mind
+31 - Moonblast (!!)
+34 - Imprison
+37 - Charm
+40 - Dream Eater
+43 - Future Sight
+
+===================
+281 - Kirlia
+===================
+Base Stats (Complete):
+Old     38 HP / 35 Atk / 35 Def / 65 SAtk / 55 SDef / 50 Spd / 278 BST
+New     38 HP / 35 Atk / 35 Def / 95 SAtk / 85 SDef / 50 Spd / 338 BST
+
+Level Up:
+1 - Teleport
+1 - Growl
+1 - Confusion
+1 - Double Team
+7 - Disarming Voice
+10 - Lucky Chant
+13 - Psybeam (!!)
+16 - Draining Kiss
+19 - Magical Leaf
+23 - Hypnosis
+27 - Psychic
+31 - Calm Mind
+35 - Moonblast (!!)
+39 - Imprison
+43 - Charm
+47 - Dream Eater
+51 - Future Sight
+
+===================
+282 - Gardevoir
+===================
+Level Up:
+1 - Aura Sphere
+1 - Healing Wish
+1 - Teleport
+1 - Growl
+1 - Confusion
+1 - Double Team
+7 - Disarming Voice
+10 - Wish
+13 - Psybeam (!!)
+16 - Draining Kiss
+19 - Magical Leaf
+23 - Hypnosis
+27 - Psychic
+32 - Calm Mind
+37 - Moonblast
+42 - Imprison
+47 - Captivate
+52 - Future Sight
+57 - Dream Eater
+
+===================
+283 - Surskit
+===================
+Base Stats:
+Old     40 HP / 30 Atk / 32 Def / 50 SAtk / 52 SDef / 65 Spd / 269 BST
+New     40 HP / 30 Atk / 30 Def / 55 SAtk / 55 SDef / 65 Spd / 275 BST
+
+Moves:
+Now compatible with TM62, Bug Buzz. (!!)
+
+Level Up:
+1 - Bubble
+1 - Sweet Scent
+1 - Quick Attack
+6 - Bug Bite
+9 - Water Sport
+12 - Mud Shot
+15 - Bubble Beam
+18 - Agility
+21 - Signal Beam
+24 - Psybeam
+27 - Aqua Jet
+30 - Mist
+30 - Haze
+33 - Baton Pass
+36 - Hydro Pump
+
+===================
+284 - Masquerain
+===================
+Base Stats:
+Old     70 HP / 60 Atk / 62 Def / 100 SAtk / 82 SDef / 80 Spd / 454 BST
+New     70 HP / 50 Atk / 50 Def / 110 SAtk / 100 SDef / 100 Spd / 480 BST
+
+Moves:
+Now compatible with TM62, Bug Buzz.
+Now compatible with TM88, Hurricane. (!!)
+Now compatible with HM02, Fly. (!!)
+
+Level Up:
+1 - Bug Buzz
+1 - Ominous Wind
+1 - Bubble
+1 - Sweet Scent
+1 - Gust
+1 - Quick Attack
+6 - Bug Bite
+9 - Water Sport
+12 - Whirlwind
+15 - Bubble Beam
+18 - Agility
+21 - Signal Beam
+22 - Air Cutter
+22 - Scary Face
+25 - Psybeam
+29 - Silver Wind
+33 - Stun Spore
+37 - Air Slash
+41 - Bug Buzz
+45 - Whirlwind
+49 - Quiver Dance
+
+===================
+285 - Shroomish
+===================
+Ability:
+Old     Effect Spore / Poison Heal
+New     Technician / Poison Heal
+
+Level Up:
+1 - Absorb
+4 - Tackle
+7 - Mega Drain
+10 - Leech Seed
+13 - Bullet Seed
+16 - Headbutt
+19 - Poison Powder
+19 - Stun Spore
+19 - Spore
+22 - Seed Bomb
+25 - Giga Drain
+28 - Growth
+31 - Energy Ball
+34 - Toxic
+37 - Worry Seed
+40 - Charm
+43 - Solar Beam
+
+===================
+286 - Breloom
+===================
+Ability:
+Old     Effect Spore / Poison Heal
+New     Technician / Poison Heal
+
+Moves:
+Now compatible with TM54, False Swipe.
+
+Level Up:
+1 - Feint
+1 - Absorb
+4 - Tackle
+7 - Mega Drain
+10 - Leech Seed
+13 - Bullet Seed
+16 - Headbutt
+19 - Poison Powder
+19 - Stun Spore
+19 - Spore
+22 - Seed Bomb
+23 - Mach Punch
+26 - Force Palm
+30 - Drain Punch
+34 - Mind Reader
+38 - Sky Uppercut
+42 - Counter
+46 - Dynamic Punch
+50 - Superpower
+
+===================
+287 - Slakoth
+===================
+Level Up:
+1 - Scratch
+1 - Yawn
+1 - Counter
+7 - Encore
+11 - Slack Off
+15 - Crush Claw
+19 - Feint Attack
+23 - Covet
+27 - Amnesia
+31 - Body Slam
+35 - Night Slash
+39 - Counter
+43 - Flail
+47 - Play Rough
+
+===================
+288 - Vigoroth
+===================
+Level Up:
+1 - Scratch
+1 - Focus Energy
+1 - Counter
+7 - Encore
+11 - Uproar
+15 - Crush Claw
+19 - Fury Swipes
+23 - Slash
+27 - Endure
+31 - Facade
+35 - Night Slash
+39 - Counter
+43 - Reversal
+47 - Play Rough
+51 - Focus Punch
+
+===================
+289 - Slaking
+===================
+Level Up:
+1 - Scratch
+1 - Yawn
+7 - Encore
+11 - Slack Off
+15 - Crush Claw
+19 - Feint Attack
+23 - Covet
+27 - Amnesia
+31 - Body Slam
+35 - Night Slash
+36 - Swagger
+39 - Counter
+43 - Flail
+47 - Play Rough
+51 - Fling
+55 - Punishment
+59 - Hammer Arm
+
+===================
+290 - Nincada
+===================
+Moves:
+Now compatible with TM62, Bug Buzz.
+
+Level Up:
+1 - Scratch
+1 - Harden
+1 - Absorb
+1 - Bug Bite
+4 - Sand Attack
+7 - Fury Swipes
+11 - Mud-Slap
+15 - Leech Life
+19 - Mind Reader
+23 - Metal Claw
+27 - Dig
+31 - X-Scissor
+35 - Bide
+39 - False Swipe
+
+===================
+291 - Ninjask
+===================
+Moves:
+Now compatible with TM62, Bug Buzz.
+
+Level Up:
+1 - Scratch
+1 - Harden
+1 - Absorb
+1 - Bug Bite
+4 - Sand Attack
+7 - Fury Swipes
+11 - Agility
+15 - Leech Life
+19 - Mind Reader
+20 - Double Team
+20 - Fury Cutter
+20 - Screech
+23 - Slash
+23 - Night Slash
+27 - Aerial Ace
+31 - X-Scissor
+35 - Baton Pass
+39 - Swords Dance
+43 - U-turn
+47 - Bug Buzz
+51 - Extreme Speed (!!)
+
+===================
+292 - Shedinja
+===================
+Moves:
+Now compatible with TM62, Bug Buzz.
+Now compatible with TM75, Swords Dance. (!!)
+
+Level Up:
+1 - Scratch
+1 - Harden
+1 - Absorb
+1 - Bug Bite
+4 - Sand Attack
+7 - Fury Swipes
+11 - Spite
+15 - Leech Life
+19 - Mind Reader
+23 - Shadow Sneak
+27 - X-Scissor
+31 - Confuse Ray
+35 - Shadow Ball
+39 - Heal Block
+43 - Grudge
+
 ===================
 399 - Bidoof
 ===================
