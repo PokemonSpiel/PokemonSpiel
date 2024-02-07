@@ -6916,7 +6916,7 @@ Level Up:
 ===================
 263 - Zigzagoon
 ===================
-Base Stats:
+Base Stats (Complete):
 Old     38 HP / 30 Atk / 41 Def / 30 SAtk / 41 SDef / 60 Spd / 240 BST
 New     38 HP / 40 Atk / 41 Def / 30 SAtk / 41 SDef / 60 Spd / 250 BST
 
@@ -6929,20 +6929,22 @@ Level Up:
 1 - Tail Whip
 1 - Sand Attack
 7 - Covet
+10 - Odor Sleuth
 13 - Headbutt
-15 - Babydoll-Eyes
 16 - Pin Missile
+19 - Mud Sport
 22 - Flail
 25 - Take Down
 28 - Rest
 31 - Double-Edge
 34 - Belly Drum
+37 - Fling
 40 - Super Fang
 
 ===================
 264 - Linoone
 ===================
-Base Stats:
+Base Stats (Complete):
 Old     78 HP / 70 Atk / 61 Def / 50 SAtk / 61 SDef / 100 Spd / 420 BST
 New     85 HP / 85 Atk / 60 Def / 50 SAtk / 60 SDef / 110 Spd / 450 BST
 
@@ -6958,8 +6960,10 @@ Level Up:
 1 - Tail Whip
 1 - Sand Attack
 7 - Covet
+10 - Odor Sleuth
 13 - Headbutt
 16 - Fury Swipes
+19 - Mud Sport
 23 - Slash
 27 - Take Down
 31 - Rest
@@ -6968,6 +6972,76 @@ Level Up:
 43 - Fling
 47 - Super Fang
 51 - Extreme Speed
+
+===================
+265 - Wurmple
+===================
+Ability:
+Old     Shield Dust / None
+New     Shield Dust / Run Away
+
+Level Up:
+1 - Tackle
+1 - String Shot
+1 - Poison Sting
+1 - Bug Bite
+
+===================
+266 - Silcoon
+===================
+Ability:
+Old     Shed Skin / None
+New     Shed Skin / Shed Skin
+
+Level Up:
+1 - Harden
+7 - Harden
+7 - Iron Defense
+
+===================
+267 - Beautifly
+===================
+Ability;
+Old     Swarm / None
+New     Swarm / Rivalry
+
+Base Stats:
+Old     60 HP / 70 Atk / 50 Def / 100 SAtk / 50 SDef / 65 Spd / 395 BST
+New     60 HP / 70 Atk / 60 Def / 125 SAtk / 60 SDef / 75 Spd / 450 BST
+
+Moves:
+Now compatible with TM62, Bug Buzz.
+Now compatible with TM88, Hurricane. (!!)
+Now compatible with HM02, Fly. (!!)
+
+Level Up:
+1 - Absorb
+10 - Gust
+11 - Absorb
+13 - Stun Spore
+15 - Silver Wind
+18 - Mega Drain
+21 - Air Cutter
+24 - Morning Sun
+27 - Bug Buzz
+30 - Attract
+33 - Giga Drain
+36 - Air Slash (!!)
+39 - Rage
+42 - Whirlwind
+45 - Hurricane (!!)
+
+===================
+268 - Cascoon
+===================
+Ability:
+Old     Shed Skin / None
+New     Shed Skin / Shed Skin
+
+Level Up:
+1 - Harden
+7 - Harden
+7 - Iron Defense
 
 ===================
 399 - Bidoof
