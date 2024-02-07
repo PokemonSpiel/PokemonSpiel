@@ -6916,7 +6916,7 @@ Level Up:
 ===================
 263 - Zigzagoon
 ===================
-Base Stats (Complete):
+Base Stats:
 Old     38 HP / 30 Atk / 41 Def / 30 SAtk / 41 SDef / 60 Spd / 240 BST
 New     38 HP / 40 Atk / 41 Def / 30 SAtk / 41 SDef / 60 Spd / 250 BST
 
@@ -6929,22 +6929,20 @@ Level Up:
 1 - Tail Whip
 1 - Sand Attack
 7 - Covet
-10 - Odor Sleuth
 13 - Headbutt
+15 - Babydoll-Eyes
 16 - Pin Missile
-19 - Mud Sport
 22 - Flail
 25 - Take Down
 28 - Rest
 31 - Double-Edge
 34 - Belly Drum
-37 - Fling
 40 - Super Fang
 
 ===================
 264 - Linoone
 ===================
-Base Stats (Complete):
+Base Stats:
 Old     78 HP / 70 Atk / 61 Def / 50 SAtk / 61 SDef / 100 Spd / 420 BST
 New     85 HP / 85 Atk / 60 Def / 50 SAtk / 60 SDef / 110 Spd / 450 BST
 
@@ -6960,10 +6958,8 @@ Level Up:
 1 - Tail Whip
 1 - Sand Attack
 7 - Covet
-10 - Odor Sleuth
 13 - Headbutt
 16 - Fury Swipes
-19 - Mud Sport
 23 - Slash
 27 - Take Down
 31 - Rest
@@ -7042,6 +7038,260 @@ Level Up:
 1 - Harden
 7 - Harden
 7 - Iron Defense
+
+===================
+269 - Dustox
+===================
+Ability;
+Old     Shield Dust / None
+New     Shield Dust / Compound Eyes
+
+Base Stats (Complete):
+Old     60 HP / 50 Atk / 70 Def / 50 SAtk / 90 SDef / 65 Spd / 385 BST
+New     60 HP / 50 Atk / 75 Def / 75 SAtk / 115 SDef / 75 Spd / 450 BST
+
+Moves:
+Now compatible with TM62, Bug Buzz.
+Now compatible with TM88, Hurricane. (!!)
+Now compatible with HM02, Fly. (!!)
+
+Level Up:
+1 - Confusion
+10 - Gust
+11 - Confusion
+13 - Poison Powder
+15 - Silver Wind
+18 - Psybeam
+21 - Signal Beam
+24 - Moonlight
+27 - Bug Buzz
+30 - Light Screen
+33 - Toxic
+36 - Tailwind
+39 - Protect
+42 - Whirlwind
+45 - Hurricane (!!)
+
+===================
+270 - Lotad
+===================
+Level Up:
+1 - Astonish
+1 - Growl
+1 - Absorb
+7 - Bubble
+10 - Nature Power
+13 - Mega Drain
+16 - Natural Gift
+19 - Bubble Beam
+22 - Giga Drain
+25 - Rain Dance
+28 - Mist
+31 - Zen Headbutt
+34 - Energy Ball
+
+===================
+271 - Lombre
+===================
+Level Up:
+1 - Water Sport
+1 - Astonish
+1 - Growl
+1 - Absorb
+7 - Bubble
+10 - Nature Power
+13 - Mega Drain
+14 - Fake Out
+16 - Fury Swipes
+20 - Bubble Beam
+24 - Giga Drain
+28 - Uproar
+32 - Knock Off
+36 - Zen Headbutt
+40 - Energy Ball
+44 - Hydro Pump
+
+===================
+272 - Ludicolo
+===================
+Level Up:
+1 - Astonish
+1 - Growl
+1 - Mega Drain
+1 - Nature Power
+32 - Teeter Dance
+44 - Hydro Pump
+
+===================
+273 - Seedot
+===================
+Level Up:
+1 - Bide
+1 - Harden
+1 - Growth
+1 - Bullet Seed
+10 - Nature Power
+15 - Synthesis
+20 - Seed Bomb
+25 - Sunny Day
+30 - Explosion
+
+===================
+274 - Nuzleaf
+===================
+Level Up:
+1 - Pound
+1 - Harden
+1 - Growth
+1 - Bullet Seed
+10 - Nature Power
+14 - Razor Leaf
+17 - Fake Out
+20 - Torment
+23 - Feint Attack
+26 - Leaf Blade
+29 - Razor Wind
+32 - Swagger
+35 - Extrasensory
+
+===================
+275 - Shiftry
+===================
+Moves:
+Now compatible with TM88, Hurricane.
+
+Level Up:
+1 - Ominous Wind
+1 - Icy Wind
+1 - Razor Leaf
+1 - Feint Attack
+1 - Whirlwind
+1 - Nasty Plot
+32 - Hurricane
+44 - Leaf Storm
+
+===================
+276 - Taillow
+===================
+Ability:
+Old     Guts / None
+New     Guts / Scrappy
+
+Moves:
+Now compatible with TM88, Hurricane.
+
+Level Up:
+1 - Peck
+1 - Growl
+7 - Focus Energy
+10 - Quick Attack
+13 - Wing Attack
+16 - Double Team
+19 - Aerial Ace
+22 - Reversal
+25 - Agility
+28 - U-turn
+31 - Air Slash
+34 - Endeavor
+37 - Brave Bird
+40 - Hurricane
+
+===================
+277 - Swellow
+===================
+Ability:
+Old     Guts / None
+New     Guts / Scrappy
+
+Base Stats (Complete):
+Old     60 HP / 85 Atk / 60 Def / 75 SAtk / 50 SDef / 125 Spd / 455 BST
+New     60 HP / 90 Atk / 60 Def / 80 SAtk / 50 SDef / 125 Spd / 465 BST
+
+Moves:
+Now compatible with TM88, Hurricane.
+
+Level Up:
+1 - Extreme Speed (!!)
+1 - Pluck
+1 - Peck
+1 - Growl
+7 - Focus Energy
+10 - Quick Attack
+13 - Wing Attack
+16 - Double Team
+19 - Aerial Ace
+23 - Reversal
+27 - Agility
+31 - U-turn
+35 - Air Slash
+39 - Endeavor
+43 - Brave Bird
+47 - Hurricane
+
+===================
+278 - Wingull
+===================
+Ability:
+Old     Keen Eye / Hydration
+New     Hydration / Keen Eye
+
+Moves:
+Now compatible with TM88, Hurricane.
+
+Level Up:
+1 - Water Gun
+1 - Growl
+1 - Quick Attack
+7 - Supersonic
+10 - Wing Attack
+13 - Water Pulse
+16 - Mist
+19 - Air Cutter
+22 - Pursuit
+25 - Aerial Ace
+28 - Roost
+31 - Air Slash
+34 - Tailwind
+37 - Uproar
+40 - Agility
+43 - Hurricane
+
+===================
+279 - Pelipper
+===================
+Ability:
+Old     Keen Eye / Hydration
+New     Drizzle / Keen Eye
+
+Base Stats:
+Old     60 HP / 50 Atk / 100 Def / 95 SAtk / 70 SDef / 65 Spd / 440 BST
+New     60 HP / 50 Atk / 110 Def / 95 SAtk / 80 SDef / 65 Spd / 460 BST
+
+Moves:
+Now compatible with TM88, Hurricane.
+
+Level Up:
+1 - Hurricane
+1 - Hydro Pump
+1 - Water Gun
+1 - Growl
+1 - Payback
+7 - Supersonic
+10 - Wing Attack
+13 - Water Pulse
+16 - Mist
+19 - Air Cutter
+22 - Fling
+25 - Protect
+26 - Stockpile
+26 - Swallow
+26 - Spit Up
+30 - Roost
+34 - Air Slash
+38 - Tailwind
+42 - Uproar
+46 - Hydro Pump
+50 - Hurricane
 
 ===================
 399 - Bidoof
