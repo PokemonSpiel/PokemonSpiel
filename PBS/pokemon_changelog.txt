@@ -6605,6 +6605,315 @@ Level Up:
 50 - Leaf Storm
 
 ===================
+252 - Treecko
+===================
+Ability:
+Old     Overgrow / None
+New     Unburden / Overgrow
+
+Level Up:
+1 - Pound
+1 - Leer
+5 - Absorb
+8 - Quick Attack
+11 - Mega Drain
+14 - Pursuit
+17 - Agility
+20 - Giga Drain
+23 - Slam
+26 - Grass Whistle
+29 - Detect
+32 - Energy Ball
+35 - Crunch
+38 - Screech
+41 - Endeavor
+44 - Leaf Storm
+
+===================
+253 - Grovyle
+===================
+Ability:
+Old     Overgrow / None
+New     Unburden / Overgrow
+
+Level Up:
+1 - Pound
+1 - Leer
+5 - Absorb
+8 - Quick Attack
+11 - Mega Drain
+14 - Pursuit
+16 - Fury Cutter
+18 - Agility
+22 - Giga Drain
+26 - Slam
+30 - Leaf Blade
+34 - Detect
+38 - Energy Ball
+42 - X-Scissor
+46 - Screech
+50 - Endeavor
+54 - Leaf Storm
+
+===================
+254 - Sceptile
+===================
+Ability:
+Old     Overgrow / None
+New     Unburden / Overgrow
+
+Base Stats:
+Old     70 HP / 85 Atk / 65 Def / 105 SAtk / 85 SDef / 120 Spd / 530 BST
+New     70 HP / 90 Atk / 65 Def / 110 SAtk / 80 SDef / 120 Spd / 535 BST
+
+Level Up:
+1 - Grass Whistle
+1 - Night Slash
+1 - Outrage
+1 - Pound
+1 - Leer
+5 - Absorb
+8 - Quick Attack
+11 - Mega Drain
+14 - Pursuit
+16 - Fury Cutter
+18 - Agility
+22 - Giga Drain
+26 - Slam
+30 - Leaf Blade
+34 - Detect
+36 - Dragon Pulse
+39 - Energy Ball
+44 - X-Scissor
+49 - Screech
+54 - Endeavor
+59 - Leaf Storm
+
+===================
+255 - Torchic
+===================
+Ability:
+Old     Blaze / None
+New     Speed Boost / Blaze
+
+Level Up:
+1 - Scratch
+1 - Growl
+5 - Ember
+8 - Sand Attack
+11 - Peck
+14 - Fire Spin
+17 - Quick Attack
+20 - Baton Pass
+23 - Focus Energy
+26 - Feather Dance
+29 - Flamethrower
+32 - Slash
+32 - Night Slash
+35 - Bounce
+38 - Last Resort
+41 - Mirror Move
+44 - Fire Blast
+
+===================
+256 - Combusken
+===================
+Ability:
+Old     Blaze / None
+New     Speed Boost / Blaze
+
+Level Up:
+1 - Scratch
+1 - Growl
+5 - Ember
+8 - Sand Attack
+11 - Peck
+14 - Bulk Up
+16 - Double Kick
+18 - Quick Attack
+22 - Fire Punch
+26 - Focus Energy
+30 - Sky Uppercut
+34 - Flamethrower
+38 - Slash
+38 - Night Slash
+42 - Bounce
+46 - Superpower
+50 - Mirror Move
+54 - Flare Blitz
+
+===================
+257 - Blaziken
+===================
+Ability:
+Old     Blaze / None
+New     Speed Boost / Blaze
+
+Base Stats:
+Old     80 HP / 120 Atk / 70 Def / 110 SAtk / 70 SDef / 80 Spd / 530 BST
+New     80 HP / 120 Atk / 75 Def / 110 SAtk / 70 SDef / 80 Spd / 535 BST
+
+Level Up:
+1 - High Jump Kick
+1 - Thunder Punch
+1 - Scratch
+1 - Growl
+5 - Ember
+8 - Sand Attack
+11 - Peck
+14 - Bulk Up
+16 - Double Kick
+18 - Quick Attack
+22 - Fire Punch
+26 - Focus Energy
+30 - Sky Uppercut
+34 - Flamethrower
+36 - Blaze Kick
+39 - Slash
+39 - Night Slash
+44 - Bounce
+49 - Superpower
+54 - Brave Bird
+59 - Flare Blitz
+
+===================
+258 - Mudkip
+===================
+Ability:
+Old     Torrent / None
+New     Swift Swim / Torrent
+
+Level Up:
+1 - Tackle
+1 - Growl
+5 - Water Gun
+8 - Mud-Slap
+11 - Foresight
+14 - Bide
+17 - Mud Sport
+20 - Rock Throw
+23 - Aqua Tail
+26 - Protect
+29 - Take Down
+32 - Earth Power
+35 - Whirlpool
+38 - Mirror Coat
+41 - Hydro Pump
+44 - Endeavor
+
+===================
+259 - Marshtomp
+===================
+Ability:
+Old     Torrent / None
+New     Swift Swim / Torrent
+
+Level Up:
+1 - Mud Shot
+1 - Tackle
+1 - Growl
+5 - Water Gun
+8 - Mud-Slap
+11 - Foresight
+14 - Bide
+16 - Bulldoze
+18 - Mud Bomb
+22 - Rock Slide
+26 - Aqua Tail
+30 - Protect
+34 - Take Down
+38 - Earthquake
+42 - Muddy Water
+46 - Mirror Coat
+50 - Hydro Pump
+54 - Endeavor
+
+===================
+260 - Swampert
+===================
+Ability:
+Old     Torrent / None
+New     Swift Swim / Torrent
+
+Level Up:
+1 - Avalanche
+1 - Curse
+1 - Mud Shot
+1 - Tackle
+1 - Growl
+5 - Water Gun
+8 - Mud-Slap
+11 - Foresight
+14 - Bide
+16 - Bulldoze
+18 - Mud Bomb
+22 - Rock Slide
+26 - Aqua Tail
+30 - Protect
+34 - Take Down
+36 - Hammer Arm
+39 - Earthquake
+44 - Muddy Water
+49 - Mirror Coat
+54 - Hydro Pump
+59 - Endeavor
+
+===================
+261 - Poochyena
+===================
+Base Stats (Complete):
+Old     35 HP / 55 Atk / 35 Def / 30 SAtk / 30 SDef / 35 Spd / 220 BST
+New     35 HP / 75 Atk / 35 Def / 30 SAtk / 30 SDef / 65 Spd / 270 BST
+
+Level Up:
+1 - Tackle
+1 - Howl
+1 - Sand Attack
+7 - Bite
+10 - Odor Sleuth
+13 - Assurance
+16 - Roar
+19 - Swagger
+22 - Crunch
+25 - Scary Face
+28 - Embargo
+31 - Taunt
+34 - Yawn
+37 - Take Down
+40 - Play Rough
+43 - Sucker Punch
+
+===================
+262 - Mightyena
+===================
+Base Stats (Complete):
+Old     70 HP / 90 Atk / 70 Def / 60 SAtk / 60 SDef / 70 Spd / 420 BST
+New     70 HP / 110 Atk / 70 Def / 60 SAtk / 60 SDef / 95 Spd / 465 BST
+
+Level Up:
+1 - Sucker Punch
+1 - Fire Fang
+1 - Thunder Fang
+1 - Ice Fang
+1 - Poison Fang
+1 - Tackle
+1 - Howl
+1 - Sand Attack
+7 - Bite
+10 - Odor Sleuth
+13 - Assurance
+16 - Roar
+19 - Swagger
+23 - Crunch
+27 - Scary Face
+31 - Embargo
+35 - Taunt
+39 - Yawn
+43 - Take Down
+47 - Play Rough
+51 - Sucker Punch
+
+===================
 263 - Zigzagoon
 ===================
 Base Stats:
@@ -6659,54 +6968,6 @@ Level Up:
 43 - Fling
 47 - Super Fang
 51 - Extreme Speed
-
-===================
-239 - Elekid
-===================
-Level Up:
-1 - Quick Attack
-1 - Leer
-1 - Thunder Shock
-7 - Low Kick
-10 - Swift
-13 - Shock Wave
-16 - Thunder Wave
-19 - Thunder Punch
-22 - Light Screen
-25 - Brick Break
-28 - Discharge
-31 - Screech
-34 - Cross Chop
-37 - Thunderbolt
-40 - Wild Charge
-43 - Close Combat (!!)
-46 - Thunder
-
-===================
-240 - Magby
-===================
-Ability:
-Old     Flame Body / None
-New     Flame Body / Vital Spirit
-
-Level Up:
-1 - Smog
-1 - Leer
-1 - Ember
-7 - Smokescreen
-10 - Feint Attack
-13 - Fire Spin
-16 - Will-O-Wisp
-19 - Fire Punch
-22 - Confuse Ray
-25 - Brick Break
-28 - Lava Plume
-31 - Sunny Day
-34 - Cross Chop
-37 - Flamethrower
-40 - Flare Blitz
-43 - Aura Sphere (!!)
-46 - Fire Blast
 
 ===================
 399 - Bidoof
