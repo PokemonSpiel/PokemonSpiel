@@ -7626,6 +7626,394 @@ Level Up:
 43 - Grudge
 
 ===================
+293 - Whismur
+===================
+Ability (Complete):
+Old     Soundproof / None
+New     Soundproof / Scrappy
+
+Moves:
+Now compatible with TM62, Bug Buzz. (!!)
+
+Level Up:
+1 - Pound
+1 - Howl
+1 - Disarming Voice
+7 - Astonish
+10 - Uproar
+13 - Screech
+16 - Stomp
+19 - Supersonic
+22 - Extrasensory
+25 - Fake Tears
+28 - Hyper Voice
+31 - Roar
+34 - Rest
+34 - Sleep Talk
+37 - Hammer Arm
+40 - Endeavor
+
+===================
+294 - Loudred
+===================
+Ability:
+Old     Soundproof / None
+New     Soundproof / Scrappy
+
+Moves:
+Now compatible with TM62, Bug Buzz. (!!)
+
+Level Up:
+1 - Pound
+1 - Howl
+7 - Astonish
+10 - Uproar
+13 - Screech
+16 - Stomp
+19 - Supersonic
+20 - Bite
+23 - Extrasensory
+27 - Fake Tears
+31 - Hyper Voice
+35 - Roar
+39 - Rest
+39 - Sleep Talk
+43 - Hammer Arm
+47 - Endeavor
+
+===================
+295 - Exploud
+===================
+Ability:
+Old     Soundproof / None
+New     Soundproof / Scrappy
+
+Moves:
+Now compatible with TM62, Bug Buzz. (!!)
+
+Level Up:
+1 - Ice Fang
+1 - Fire Fang
+1 - Thunder Fang
+1 - Pound
+1 - Howl
+7 - Astonish
+10 - Uproar
+13 - Screech
+16 - Stomp
+19 - Supersonic
+20 - Bite
+23 - Extrasensory
+27 - Fake Tears
+31 - Hyper Voice
+35 - Roar
+39 - Rest
+39 - Sleep Talk
+40 - Crunch
+44 - Hammer Arm
+49 - Endeavor
+54 - Hyper Beam
+
+===================
+296 - Makuhita
+===================
+Level Up:
+1 - Tackle
+1 - Focus Energy
+4 - Sand Attack
+7 - Arm Thrust
+9 - Fake Out
+11 - Force Palm
+13 - Whirlwind
+15 - Knock Off
+17 - Vital Throw
+19 - Smelling Salts
+21 - Belly Drum
+24 - Wake-Up Slap
+27 - Revenge
+30 - Seismic Toss
+33 - Cross Chop
+36 - Endure
+39 - Close Combat
+42 - Reversal
+45 - Counter
+
+===================
+297 - Hariyama
+===================
+Level Up:
+1 - Bullet Punch
+1 - Tackle
+1 - Focus Energy
+4 - Sand Attack
+7 - Arm Thrust
+9 - Fake Out
+11 - Force Palm
+13 - Whirlwind
+15 - Knock Off
+17 - Vital Throw
+19 - Smelling Salts
+21 - Belly Drum
+25 - Wake-Up Slap
+29 - Revenge
+33 - Seismic Toss
+37 - Cross Chop
+41 - Endure
+45 - Close Combat
+49 - Reversal
+53 - Counter
+
+===================
+298 - Azurill
+===================
+Ability:
+Old     Thick Fat / Huge Power
+New     Huge Power / Thick Fat
+
+Base Stats:
+Old     50 HP / 20 Atk / 40 Def / 20 SAtk / 40 SDef / 20 Spd / 190 BST
+New     50 HP / 20 Atk / 40 Def / 40 SAtk / 40 SDef / 20 Spd / 210 BST
+
+Level Up:
+1 - Splash
+1 - Water Gun
+1 - Tail Whip
+1 - Water Sport
+6 - Bubble
+8 - Charm
+10 - Bubble Beam
+12 - Sing
+14 - Helping Hand
+16 - Slam
+18 - Bounce
+
+===================
+299 - Nosepass
+===================
+Base Stats:
+Old     30 HP / 45 Atk / 135 Def / 45 SAtk / 90 SDef / 30 Spd / 375 BST
+New     30 HP / 35 Atk / 135 Def / 55 SAtk / 90 SDef / 30 Spd / 375 BST
+
+Level Up:
+1 - Tackle
+1 - Harden
+4 - Block
+7 - Rock Throw
+10 - Thunder Wave
+13 - Spark
+16 - Rock Slide
+19 - Rest
+22 - Power Gem
+25 - Discharge
+28 - Rock Blast
+31 - Sandstorm
+34 - Thunderbolt
+37 - Earth Power
+40 - Stone Edge
+43 - Lock-On
+43 - Zap Cannon
+46 - Head Smash (!!)
+
+===================
+300 - Skitty
+===================
+Base Stats (Complete):
+Old     50 HP / 45 Atk / 45 Def / 35 SAtk / 35 SDef / 50 Spd / 260 BST
+New     50 HP / 50 Atk / 50 Def / 40 SAtk / 40 SDef / 60 Spd / 290 BST
+
+Level Up:
+1 - Tail Whip
+1 - Growl
+1 - Tackle
+1 - Fake Out
+1 - Assist
+4 - Foresight
+7 - Sing
+11 - Double Slap
+13 - Disarming Voice
+15 - Attract
+17 - Covet
+19 - Copycat
+21 - Feint Attack
+23 - Wake-Up Slap
+25 - Zen Headbutt
+27 - Sucker Punch
+29 - Charm
+31 - Heal Bell
+33 - Captivate
+35 - Play Rough
+37 - Double-Edge
+
+===================
+301 - Delcatty
+===================
+Base Stats (Complete):
+Old     70 HP / 65 Atk / 65 Def / 55 SAtk / 55 SDef / 90 Spd / 400 BST
+New     70 HP / 95 Atk / 65 Def / 85 SAtk / 55 SDef / 95 Spd / 465 BST
+
+Level Up:
+1 - Last Resort
+1 - Double-Edge
+1 - Hyper Voice
+1 - Play Rough
+1 - Fake Out
+1 - Sing
+1 - Attract
+1 - Double Slap
+
+===================
+302 - Sableye
+===================
+Ability:
+Old     Keen Eye / Stall
+New     Magic Guard / Stall
+
+Base Stats:
+Old     50 HP / 75 Atk / 75 Def / 65 SAtk / 65 SDef / 50 Spd / 380 BST
+New     50 HP / 85 Atk / 95 Def / 85 SAtk / 85 SDef / 50 Spd / 450 BST
+
+Level Up:
+1 - Scratch
+1 - Leer
+1 - Foresight
+4 - Night Shade
+7 - Astonish
+11 - Fury Swipes
+13 - Detect
+15 - Shadow Sneak
+17 - Feint Attack
+21 - Fake Out
+23 - Punishment
+25 - Shadow Claw
+27 - Knock Off
+31 - Confuse Ray
+33 - Zen Headbutt
+35 - Power Gem
+37 - Sucker Punch
+41 - Shadow Ball
+43 - Mean Look
+45 - Nasty Plot
+47 - Recover
+
+===================
+303 - Mawile
+===================
+Ability:
+Old     Hyper Cutter / Intimidate
+New     Huge Power / Intimidate
+
+Base Stats:
+Old     50 HP / 85 Atk / 85 Def / 55 SAtk / 55 SDef / 50 Spd / 380 BST
+New     50 HP / 95 Atk / 115 Def / 55 SAtk / 85 SDef / 50 Spd / 450 BST
+
+Level Up:
+1 - Taunt
+1 - Growl
+1 - Astonish
+4 - Fake Tears
+7 - Bite
+10 - Sweet Scent
+13 - Vice Grip
+16 - Feint Attack
+19 - Baton Pass
+22 - Ice Fang
+22 - Thunder Fang
+22 - Fire Fang
+25 - Iron Head
+28 - Crunch
+31 - Play Rough
+34 - Iron Defense
+37 - Sucker Punch
+40 - Stockpile
+40 - Swallow
+40 - Spit Up
+43 - Metal Burst
+
+===================
+304 - Aron
+===================
+Ability:
+Old     Sturdy / Rock Head
+New     Rock Head / Sturdy
+
+Level Up:
+1 - Tackle
+1 - Harden
+4 - Mud-Slap
+7 - Headbutt
+10 - Metal Claw
+13 - Rock Tomb
+16 - Protect
+19 - Rock Slide
+22 - Roar
+25 - Iron Head
+28 - Take Down
+31 - Metal Sound
+34 - Iron Tail
+37 - Iron Defense
+40 - Double-Edge
+43 - Dragon Rush
+46 - Head Smash
+49 - Metal Burst
+
+===================
+305 - Lairon
+===================
+Ability:
+Old     Sturdy / Rock Head
+New     Rock Head / Sturdy
+
+Level Up:
+1 - Tackle
+1 - Harden
+4 - Mud-Slap
+7 - Headbutt
+10 - Metal Claw
+13 - Rock Tomb
+16 - Protect
+19 - Rock Slide
+22 - Roar
+26 - Iron Head
+30 - Take Down
+34 - Metal Sound
+38 - Iron Tail
+42 - Iron Defense
+46 - Double-Edge
+50 - Dragon Rush
+54 - Head Smash
+58 - Metal Burst
+
+===================
+306 - Aggron
+===================
+Ability:
+Old     Sturdy / Rock Head
+New     Rock Head / Sturdy
+
+Level Up:
+1 - Metal Burst
+1 - Head Smash
+1 - Superpower
+1 - Tackle
+1 - Harden
+4 - Mud-Slap
+7 - Headbutt
+10 - Metal Claw
+13 - Rock Tomb
+16 - Protect
+19 - Rock Slide
+22 - Roar
+26 - Iron Head
+30 - Take Down
+34 - Metal Sound
+38 - Iron Tail
+43 - Iron Defense
+48 - Double-Edge
+53 - Dragon Rush
+58 - Head Smash
+63 - Metal Burst
+
+===================
 399 - Bidoof
 ===================
 Moves:
