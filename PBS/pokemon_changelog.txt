@@ -9526,6 +9526,559 @@ Level Up:
 54 - Sheer Cold
 
 ===================
+363 - Spheal
+===================
+Level Up:
+1 - Defense Curl
+1 - Powder Snow
+1 - Growl
+1 - Water Gun
+7 - Rollout
+10 - Encore
+13 - Ice Ball
+16 - Water Pulse
+19 - Aurora Beam
+22 - Body Slam
+25 - Rest
+25 - Snore
+28 - Hail
+31 - Ice Beam
+34 - Aqua Tail
+37 - Belly Drum
+40 - Blizzard
+43 - Sheer Cold
+
+===================
+364 - Sealeo
+===================
+Level Up:
+1 - Defense Curl
+1 - Powder Snow
+1 - Growl
+1 - Water Gun
+7 - Rollout
+10 - Encore
+13 - Ice Ball
+16 - Water Pulse
+19 - Aurora Beam
+22 - Body Slam
+24 - Swagger
+26 - Rest
+26 - Snore
+30 - Hail
+34 - Ice Beam
+38 - Aqua Tail
+42 - Belly Drum
+46 - Blizzard
+50 - Sheer Cold
+
+===================
+365 - Walrein
+===================
+Level Up:
+1 - Ice Fang
+1 - Defense Curl
+1 - Powder Snow
+1 - Growl
+1 - Water Gun
+7 - Rollout
+10 - Encore
+13 - Ice Ball
+16 - Water Pulse
+19 - Aurora Beam
+22 - Body Slam
+24 - Swagger
+26 - Rest
+26 - Snore
+30 - Hail
+34 - Ice Beam
+38 - Aqua Tail
+40 - Crunch
+44 - Belly Drum
+50 - Blizzard
+56 - Sheer Cold
+
+===================
+366 - Clamperl
+===================
+Ability:
+Old     Shell Armor / None
+New     Shell Armor / Battle Armor
+
+Evolution:
+Now able to evolve into Huntail by using a Deep Sea Tooth.
+Now able to evolve into Gorebyss by using a Deep Sea Scale.
+
+Level Up:
+1 - Clamp
+1 - Water Gun
+1 - Whirlpool
+1 - Iron Defense
+15 - Water Pulse
+25 - Muddy Water
+
+===================
+367 - Huntail
+===================
+Ability:
+Old     Swift Swim / None
+New     Swift Swim / Water Veil
+
+Level Up:
+1 - Whirlpool
+1 - Bite
+1 - Screech
+1 - Scary Face
+7 - Feint Attack
+11 - Water Pulse
+15 - Ice Fang
+19 - Aqua Ring
+23 - Dive
+27 - Sucker Punch
+31 - Aqua Tail
+35 - Crunch
+39 - Baton Pass
+43 - Confuse Ray
+47 - Super Fang
+51 - Hydro Pump
+
+===================
+368 - Gorebyss
+===================
+Ability:
+Old     Swift Swim / None
+New     Swift Swim / Hydration
+
+Level Up:
+1 - Whirlpool
+1 - Confusion
+1 - Water Sport
+1 - Agility
+7 - Draining Kiss
+11 - Water Pulse
+15 - Amnesia
+19 - Aqua Ring
+23 - Dive
+27 - Captivate
+31 - Muddy Water
+35 - Psychic
+39 - Baton Pass
+43 - Confuse Ray
+47 - Barrier
+51 - Hydro Pump
+
+===================
+369 - Relicanth
+===================
+Ability:
+Old     Swift Swim / Rock Head
+New     Rock Head / Swift Swim
+
+Level Up:
+1 - Tackle
+1 - Harden
+1 - Mud Sport
+1 - Water Gun
+7 - Rock Tomb
+10 - Ancient Power
+13 - Dive
+16 - Take Down
+19 - Yawn
+22 - Rock Slide
+25 - Magnitude
+28 - Aqua Tail
+31 - Rest
+34 - Zen Headbutt
+37 - Flail
+40 - Stone Edge
+43 - Amnesia
+46 - Earthquake
+49 - Double-Edge
+52 - Hydro Pump
+55 - Head Smash
+
+===================
+370 - Luvdisc
+===================
+Ability:
+Old     Swift Swim / None
+New     Swift Swim / Hydration
+
+Base Stats:
+Old     43 HP / 30 Atk / 55 Def / 40 SAtk / 65 SDef / 97 Spd / 330 BST
+New     50 HP / 30 Atk / 75 Def / 95 SAtk / 75 SDef / 125 Spd / 450 BST
+
+Moves:
+Now compatible with TM85, Dazzling Gleam. (!!)
+
+Level Up:
+1 - Tackle
+1 - Charm
+4 - Water Gun
+7 - Agility
+10 - Aqua Jet
+13 - Lucky Chant
+16 - Water Pulse
+19 - Draining Kiss
+22 - Attract
+25 - Flail
+28 - Sweet Kiss
+31 - Take Down
+34 - Captivate
+37 - Moonblast (!!)
+40 - Aqua Ring
+43 - Bounce
+46 - Safeguard
+49 - Hydro Pump
+
+===================
+371 - Bagon
+===================
+Level Up:
+1 - Dragon Breath
+1 - Rage
+1 - Leer
+7 - Ember
+10 - Bite
+13 - Dragon Breath
+16 - Headbutt
+19 - Focus Energy
+22 - Dragon Claw
+25 - Crunch
+28 - Zen Headbutt
+31 - Scary Face
+34 - Dragon Dance
+37 - Flamethrower
+40 - Dragon Rush
+43 - Double-Edge
+46 - Hydro Pump
+49 - Outrage
+
+===================
+372 - Shelgon
+===================
+Level Up:
+1 - Rage
+1 - Leer
+7 - Ember
+10 - Bite
+13 - Dragon Breath
+16 - Headbutt
+19 - Focus Energy
+22 - Dragon Claw
+25 - Crunch
+28 - Zen Headbutt
+30 - Protect
+32 - Scary Face
+36 - Dragon Dance
+40 - Flamethrower
+44 - Dragon Rush
+48 - Double-Edge
+52 - Hydro Pump
+56 - Outrage
+
+===================
+373 - Salamence
+===================
+Moves:
+Now compatible with TM88, Hurricane. (!!)
+
+Level Up:
+1 - Fire Fang
+1 - Thunder Fang
+1 - Rage
+1 - Leer
+7 - Ember
+10 - Bite
+13 - Dragon Breath
+16 - Headbutt
+19 - Focus Energy
+22 - Dragon Claw
+25 - Crunch
+28 - Zen Headbutt
+30 - Protect
+32 - Scary Face
+36 - Dragon Dance
+40 - Flamethrower
+44 - Dragon Rush
+48 - Double-Edge
+50 - Fly
+54 - Hydro Pump
+60 - Outrage
+
+===================
+374 - Beldum
+===================
+Ability:
+Old     Clear Body / None
+New     Rock Head / Clear Body
+
+Catch Rate
+Old     3
+New     45
+
+Level Up:
+1 - Take Down
+1 - Zen Headbutt
+1 - Iron Head
+1 - Iron Defense
+
+===================
+375 - Metang
+===================
+Ability:
+Old     Clear Body / None
+New     Iron Fist / Clear Body
+
+Catch Rate
+Old     3
+New     45
+
+Moves:
+Now compatible with HM02, Fly. (!!)
+
+Level Up:
+1 - Magnet Rise
+1 - Take Down
+1 - Zen Headbutt
+1 - Iron Head
+1 - Iron Defense
+1 - Metal Claw
+1 - Confusion
+23 - Pursuit
+26 - Bullet Punch
+29 - Miracle Eye
+32 - Flash Cannon
+35 - Scary Face
+38 - Psychic
+41 - Agility
+44 - Meteor Mash
+47 - Iron Defense
+50 - Hyper Beam
+
+===================
+376 - Metagross
+===================
+Ability:
+Old     Clear Body / None
+New     Iron Fist / Clear Body
+
+Catch Rate
+Old     3
+New     45
+
+Moves:
+Now compatible with HM02, Fly. (!!)
+
+Level Up:
+1 - Magnet Rise
+1 - Ice Punch
+1 - Thunder Punch
+1 - Take Down
+1 - Zen Headbutt
+1 - Iron Head
+1 - Iron Defense
+1 - Metal Claw
+1 - Confusion
+23 - Pursuit
+26 - Bullet Punch
+29 - Miracle Eye
+32 - Flash Cannon
+35 - Scary Face
+38 - Psychic
+41 - Agility
+44 - Meteor Mash
+45 - Hammer Arm
+51 - Iron Defense
+59 - Hyper Beam
+
+===================
+377 - Regirock
+===================
+Level Up:
+1 - Explosion
+1 - Stomp
+1 - Bulldoze
+6 - Rock Throw
+10 - Charge Beam
+14 - Block
+18 - Curse
+22 - Ancient Power
+26 - Iron Defense
+30 - Hammer Arm
+34 - Lock-On
+34 - Zap Cannon
+38 - Sandstorm
+42 - Stone Edge
+46 - Superpower
+50 - Hyper Beam
+
+===================
+378 - Regice
+===================
+Level Up:
+1 - Explosion
+1 - Stomp
+1 - Bulldoze
+6 - Icy Wind
+10 - Charge Beam
+14 - Block
+18 - Curse
+22 - Ancient Power
+26 - Amnesia
+30 - Hammer Arm
+34 - Lock-On
+34 - Zap Cannon
+38 - Hail
+42 - Ice Beam
+46 - Superpower
+50 - Hyper Beam
+
+===================
+379 - Registeel
+===================
+Level Up:
+1 - Explosion
+1 - Stomp
+1 - Bulldoze
+6 - Metal Claw
+10 - Charge Beam
+14 - Block
+18 - Curse
+22 - Ancient Power
+26 - Iron Defense
+26 - Amnesia
+30 - Hammer Arm
+34 - Lock-On
+34 - Zap Cannon
+38 - Gravity
+42 - Iron Head
+42 - Flash Cannon
+46 - Superpower
+50 - Hyper Beam
+
+===================
+380 - Latias
+===================
+Level Up:
+1 - Healing Wish
+1 - Wish
+1 - Psywave
+1 - Safeguard
+6 - Water Sport
+10 - Charm
+14 - Refresh
+18 - Dragon Breath
+22 - Magic Coat
+26 - Psycho Shift
+30 - Helping Hand
+34 - Zen Headbutt
+38 - Recover
+42 - Psychic
+46 - Dragon Pulse
+50 - Last Resort
+
+===================
+381 - Latios
+===================
+Level Up:
+1 - Memento
+1 - Heal Block
+1 - Psywave
+1 - Safeguard
+6 - Protect
+10 - Dragon Dance
+14 - Refresh
+18 - Dragon Breath
+22 - Magic Coat
+26 - Psycho Shift
+30 - Helping Hand
+34 - Zen Headbutt
+38 - Recover
+42 - Psychic
+46 - Dragon Pulse
+50 - Last Resort
+
+===================
+382 - Kyogre
+===================
+Level Up:
+1 - Ancient Power
+1 - Water Pulse
+6 - Scary Face
+10 - Aqua Tail
+14 - Body Slam
+18 - Aqua Ring
+22 - Ice Beam
+26 - Calm Mind
+30 - Muddy Water
+34 - Sheer Cold
+38 - Hydro Pump
+42 - Thunder
+46 - Double-Edge
+50 - Water Spout
+
+===================
+383 - Groudon
+===================
+Level Up:
+1 - Ancient Power
+1 - Mud Shot
+6 - Scary Face
+10 - Earth Power
+14 - Lava Plume
+18 - Rest
+22 - Hammer Arm
+26 - Bulk Up
+30 - Earth Power
+34 - Fissure
+38 - Fire Blast
+42 - Solar Beam
+46 - Earthquake
+50 - Eruption
+
+===================
+384 - Rayquaza
+===================
+Level Up:
+1 - Dragon Breath (!!)
+6 - Scary Face
+10 - Ancient Power
+14 - Crunch
+18 - Air Slash
+22 - Rest
+26 - Extreme Speed
+30 - Dragon Pulse
+34 - Dragon Dance
+38 - Fly
+42 - Hyper Voice
+46 - Outrage
+50 - Hyper Beam
+
+===================
+385 - Jirachi
+===================
+Level Up:
+1 - Draco Meteor
+1 - Healing Wish
+1 - Wish
+1 - Confusion
+1 - Rest
+1 - Swift
+6 - Helping Hand
+10 - Psychic
+14 - Refresh
+18 - Lucky Chant
+22 - Zen Headbutt
+26 - Cosmic Power
+30 - Gravity
+34 - Iron Head
+38 - Future Sight
+42 - Double-Edge
+46 - Last Resort
+50 - Doom Desire
+
+===================
 399 - Bidoof
 ===================
 Moves:
