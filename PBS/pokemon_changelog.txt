@@ -10079,6 +10079,326 @@ Level Up:
 50 - Doom Desire
 
 ===================
+386 - Deoxys
+===================
+Level Up (Normal Forme):
+1 - Leer
+1 - Wrap
+6 - Night Shade
+10 - Teleport
+14 - Knock Off
+18 - Pursuit
+22 - Psychic
+26 - Snatch
+30 - Psycho Shift
+34 - Zen Headbutt
+38 - Cosmic Power
+42 - Recover
+46 - Psycho Boost
+50 - Hyper Beam
+
+Level Up (Attack Forme):
+1 - Leer
+1 - Wrap
+6 - Night Shade
+10 - Teleport
+14 - Taunt
+18 - Pursuit
+22 - Psychic
+26 - Superpower
+30 - Psycho Shift
+34 - Zen Headbutt
+38 - Cosmic Power
+42 - Zap Cannon
+46 - Psycho Boost
+50 - Hyper Beam
+
+Level Up (Defense Forme):
+1 - Leer
+1 - Wrap
+6 - Night Shade
+10 - Teleport
+14 - Knock Off
+18 - Spikes
+22 - Psychic
+26 - Snatch
+30 - Psycho Shift
+34 - Zen Headbutt
+38 - Iron Defense
+38 - Amnesia
+42 - Recover
+46 - Psycho Boost
+50 - Counter
+50 - Mirror Coat
+
+Level Up (Speed Forme):
+1 - Leer
+1 - Wrap
+6 - Night Shade
+10 - Double Team
+14 - Knock Off
+18 - Pursuit
+22 - Psychic
+26 - Swift
+30 - Psycho Shift
+34 - Zen Headbutt
+38 - Agility
+42 - Recover
+46 - Psycho Boost
+50 - Extreme Speed
+
+===================
+387 - Turtwig
+===================
+Ability:
+Old     Overgrow / None
+New     Shell Armor / Overgrow
+
+Level Up:
+1 - Tackle
+1 - Withdraw
+5 - Absorb
+8 - Razor Leaf
+11 - Curse
+14 - Bullet Seed
+17 - Bite
+20 - Mega Drain
+23 - Seed Bomb
+26 - Leech Seed
+29 - Crunch
+32 - Body Slam
+35 - Synthesis
+38 - Giga Drain
+41 - Leaf Storm
+
+===================
+388 - Grotle
+===================
+Ability:
+Old     Overgrow / None
+New     Shell Armor / Overgrow
+
+Level Up:
+1 - Tackle
+1 - Withdraw
+5 - Absorb
+8 - Razor Leaf
+11 - Curse
+14 - Bullet Seed
+17 - Bite
+18 - Bulldoze (!!)
+21 - Mega Drain
+25 - Seed Bomb
+29 - Leech Seed
+33 - Crunch
+37 - Body Slam
+41 - Synthesis
+45 - Giga Drain
+49 - Leaf Storm
+
+===================
+389 - Torterra
+===================
+Ability:
+Old     Overgrow / None
+New     Shell Armor / Overgrow
+
+Base Stats:
+Old     95 HP / 109 Atk / 105 Def / 75 SAtk / 85 SDef / 56 Spd / 525 BST
+New     95 HP / 114 Atk / 110 Def / 75 SAtk / 85 SDef / 56 Spd / 535 BST
+
+Level Up:
+1 - Wood Hammer
+1 - Iron Head
+1 - Superpower
+1 - Tackle
+1 - Withdraw
+5 - Absorb
+8 - Razor Leaf
+11 - Curse
+14 - Bullet Seed
+17 - Bite
+18 - Bulldoze
+21 - Mega Drain
+25 - Seed Bomb
+29 - Leech Seed
+32 - Earthquake
+34 - Crunch
+39 - Body Slam
+44 - Synthesis
+49 - Giga Drain
+54 - Leaf Storm
+
+===================
+390 - Chimchar
+===================
+Ability:
+Old     Blaze / None
+New     Iron Fist / Blaze
+
+Level Up:
+1 - Scratch
+1 - Leer
+5 - Ember
+8 - Taunt
+11 - Fury Swipes
+14 - Flame Wheel
+17 - Focus Energy
+20 - Fake Out
+23 - Nasty Plot
+26 - Torment
+29 - Facade
+32 - Flamethrower
+35 - Slack Off
+38 - Fire Spin
+41 - Fire Blast
+
+===================
+391 - Monferno
+===================
+Ability:
+Old     Blaze / None
+New     Iron Fist / Blaze
+
+Moves:
+Now compatible with TM60, Drain Punch. (!!)
+
+Level Up:
+1 - Scratch
+1 - Leer
+5 - Ember
+8 - Taunt
+11 - Fury Swipes
+14 - Mach Punch
+15 - Flame Wheel
+19 - Low Kick
+23 - Fake Out
+27 - Flamethrower
+31 - Feint
+35 - Close Combat
+39 - Torment
+43 - Fire Spin
+47 - Slack Off
+51 - Flare Blitz
+
+===================
+392 - Infernape
+===================
+Ability:
+Old     Blaze / None
+New     Iron Fist / Blaze
+
+Base Stats (Complete):
+Old     76 HP / 104 Atk / 71 Def / 104 SAtk / 71 SDef / 108 Spd / 534 BST
+New     76 HP / 104 Atk / 71 Def / 104 SAtk / 71 SDef / 109 Spd / 535 BST
+
+Moves:
+Now compatible with TM60, Drain Punch. (!!)
+
+Level Up:
+1 - Fire Punch
+1 - Thunder Punch
+1 - Scratch
+1 - Leer
+5 - Ember
+8 - Taunt
+11 - Fury Swipes
+14 - Mach Punch
+15 - Flame Wheel
+19 - Low Kick
+23 - Fake Out
+27 - Flamethrower
+31 - Feint
+35 - Close Combat
+36 - Vacuum Wave
+41 - Torment
+46 - Fire Spin
+51 - Slack Off
+56 - Flare Blitz
+
+===================
+393 - Piplup
+===================
+Ability:
+Old     Torrent / None
+New     Defiant / Torrent
+
+Level Up:
+1 - Pound
+1 - Growl
+5 - Bubble
+8 - Water Sport
+11 - Peck
+14 - Bide
+17 - Bubble Beam
+20 - Icy Wind
+23 - Scald
+26 - Fury Attack
+29 - Mist
+32 - Whirlpool
+35 - Yawn
+38 - Drill Peck
+41 - Hydro Pump
+
+===================
+394 - Prinplup
+===================
+Ability:
+Old     Torrent / None
+New     Defiant / Torrent
+
+Level Up:
+1 - Tackle
+1 - Growl
+5 - Bubble
+8 - Water Sport
+11 - Peck
+14 - Bide
+16 - Metal Claw
+18 - Bubble Beam
+22 - Icy Wind
+26 - Scald
+30 - Fury Attack
+34 - Mist
+38 - Whirlpool
+42 - Yawn
+46 - Drill Peck
+50 - Hydro Pump
+
+===================
+395 - Empoleon
+===================
+Ability:
+Old     Torrent / None
+New     Defiant / Torrent
+
+Base Stats:
+Old     84 HP / 86 Atk / 88 Def / 111 SAtk / 101 SDef / 60 Spd / 530 BST
+New     84 HP / 86 Atk / 88 Def / 116 SAtk / 101 SDef / 60 Spd / 535 BST
+
+Level Up:
+1 - Feather Dance
+1 - Agility
+1 - Aqua Jet
+1 - Tackle
+1 - Growl
+5 - Bubble
+8 - Swords Dance
+11 - Peck
+14 - Swagger
+16 - Metal Claw
+18 - Bubble Beam
+22 - Icy Wind
+26 - Scald
+30 - Fury Attack
+34 - Mist
+36 - Flash Cannon
+39 - Whirlpool
+44 - Yawn
+49 - Drill Peck
+54 - Hydro Pump
+
+===================
 399 - Bidoof
 ===================
 Moves:
