@@ -10399,6 +10399,90 @@ Level Up:
 54 - Hydro Pump
 
 ===================
+396 - Starly
+===================
+Ability:
+Old     Keen Eye / None
+New     Reckless / Keen Eye
+
+Moves:
+Now compatible with TM88, Hurricane. (!!)
+
+Level Up:
+1 - Tackle
+1 - Growl
+5 - Quick Attack
+8 - Wing Attack
+11 - Double Team
+14 - Foresight
+17 - Aerial Ace
+20 - Facade
+23 - Endeavor
+26 - Whirlwind
+29 - Take Down
+32 - Roost
+35 - Agility
+38 - Brave Bird
+41 - Double-Edge
+
+===================
+397 - Staravia
+===================
+Ability:
+Old     Intimdate / None
+New     Reckless / Intimidate
+
+Moves:
+Now compatible with TM88, Hurricane. (!!)
+
+Level Up:
+1 - Tackle
+1 - Growl
+5 - Quick Attack
+8 - Wing Attack
+11 - Double Team
+14 - Foresight
+18 - Aerial Ace
+22 - Facade
+26 - Endeavor
+30 - Whirlwind
+34 - Take Down
+38 - Roost
+42 - Agility
+46 - Brave Bird
+50 - Double-Edge
+
+===================
+398 - Staraptor
+===================
+Ability:
+Old     Intimdate / None
+New     Reckless / Intimidate
+
+Moves:
+Now compatible with TM88, Hurricane. (!!)
+
+Level Up:
+1 - Double-Edge
+1 - Brave Bird
+1 - Tackle
+1 - Growl
+5 - Quick Attack
+8 - Wing Attack
+11 - Double Team
+14 - Foresight
+18 - Aerial Ace
+22 - Facade
+26 - Endeavor
+30 - Whirlwind
+34 - Close Combat
+35 - Take Down
+40 - Roost
+45 - Agility
+50 - Brave Bird
+55 - Double-Edge
+
+===================
 399 - Bidoof
 ===================
 Moves:
@@ -10453,6 +10537,145 @@ Level Up:
 50 - Double-Edge
 
 ===================
+401 - Kricketot
+===================
+Ability:
+Old     Shed Skin / None
+New     Run Away / Shed Skin
+
+Base Stats:
+Old     37 HP / 25 Atk / 41 Def / 25 SAtk / 41 SDef / 25 Spd / 194 BST
+New     37 HP / 35 Atk / 41 Def / 35 SAtk / 41 SDef / 25 Spd / 214 BST
+
+Level Up:
+1 - Growl
+1 - Bide
+1 - Bug Bite
+1 - String Shot
+
+===================
+402 - Kricketune
+===================
+Ability:
+Old     Swarm / None
+New     Technician / Swarm
+
+Base Stats:
+Old     77 HP / 85 Atk / 51 Def / 55 SAtk / 51 SDef / 65 Spd / 384 BST
+New     80 HP / 115 Atk / 70 Def / 50 SAtk / 70 SDef / 65 Spd / 450 BST
+
+Moves:
+Now compatible with TM62, Bug Buzz.
+
+Level Up:
+1 - Perish Song
+1 - Fury Cutter
+1 - Growl
+1 - Bide
+1 - Bug Bite
+1 - String Shot
+10 - Fury Cutter
+13 - Absorb
+16 - Sing
+19 - Leech Life
+22 - Focus Energy
+25 - Slash
+25 - Night Slash
+28 - X-Scissor
+31 - Screech
+34 - Knock Off
+37 - Taunt
+40 - Heal Bell
+43 - Bug Buzz
+46 - Hyper Voice
+49 - Perish Song
+
+===================
+403 - Shinx
+===================
+Ability:
+Old     Rivalry / Intimidate
+New     Intimidate / Guts
+
+Level Up:
+1 - Tackle
+1 - Leer
+1 - Howl
+6 - Quick Attack
+9 - Spark
+12 - Bite
+15 - Charge
+18 - Double Kick
+21 - Thunder Fang
+21 - Ice Fang
+21 - Fire Fang
+24 - Roar
+27 - Crunch
+30 - Swagger
+33 - Wild Charge
+36 - Scary Face
+39 - Discharge
+42 - Sucker Punch (!!)
+
+===================
+404 - Luxio
+===================
+Ability:
+Old     Rivalry / Intimidate
+New     Intimidate / Guts
+
+Level Up:
+1 - Tackle
+1 - Leer
+1 - Howl
+6 - Quick Attack
+9 - Spark
+12 - Bite
+16 - Charge
+20 - Double Kick
+24 - Thunder Fang
+24 - Ice Fang
+24 - Fire Fang
+28 - Roar
+32 - Crunch
+36 - Swagger
+40 - Wild Charge
+44 - Scary Face
+48 - Discharge
+52 - Sucker Punch (!!)
+
+===================
+405 - Luxray
+===================
+Ability:
+Old     Rivalry / Intimidate
+New     Intimidate / Guts
+
+Moves:
+Now compatible with TM79, Dark Pulse. (!!)
+
+Level Up:
+1 - Superpower
+1 - Tackle
+1 - Leer
+1 - Howl
+6 - Quick Attack
+9 - Spark
+12 - Bite
+16 - Charge
+20 - Double Kick
+24 - Thunder Fang
+24 - Ice Fang
+24 - Fire Fang
+28 - Roar
+33 - Crunch
+38 - Swagger
+43 - Wild Charge
+48 - Scary Face
+53 - Discharge
+58 - Sucker Punch (!!)
+
+===================
 406 - Budew
 ===================
 Ability:
@@ -10490,6 +10713,334 @@ Level Up:
 1 - Magical Leaf
 1 - Sweet Scent
 53 - Leaf Storm
+
+===================
+408 - Cranidos
+===================
+Ability:
+Old     Mold Breaker / None
+New     Rock Head / Mold Breaker
+
+Level Up:
+1 - Headbutt
+1 - Leer
+6 - Focus Energy
+9 - Pursuit
+12 - Take Down
+15 - Scary Face
+18 - Rock Slide
+21 - Assurance
+24 - Ancient Power
+27 - Zen Headbutt
+30 - Screech
+33 - Crunch
+36 - Rock Polish
+39 - Iron Head
+42 - Stone Edge
+45 - Hammer Arm
+48 - Head Smash
+
+===================
+409 - Rampardos
+===================
+Ability:
+Old     Mold Breaker / None
+New     Rock Head / Mold Breaker
+
+Level Up:
+1 - Superpower
+1 - Headbutt
+1 - Leer
+6 - Focus Energy
+9 - Pursuit
+12 - Take Down
+15 - Scary Face
+18 - Rock Slide
+21 - Assurance
+24 - Ancient Power
+27 - Zen Headbutt
+30 - Endeavor
+31 - Screech
+35 - Crunch
+39 - Rock Polish
+43 - Iron Head
+47 - Stone Edge
+51 - Hammer Arm
+55 - Head Smash
+
+===================
+410 - Shieldon
+===================
+Ability:
+Old     Sturdy / None
+New     Soundproof / Sturdy
+
+Base Stats:
+Old     30 HP / 42 Atk / 118 Def / 42 SAtk / 88 SDef / 30 Spd / 350 BST
+New     30 HP / 62 Atk / 118 Def / 22 SAtk / 88 SDef / 30 Spd / 350 BST
+
+Level Up:
+1 - Tackle
+1 - Protect
+6 - Taunt
+9 - Metal Sound
+12 - Take Down
+15 - Iron Defense
+18 - Rock Slide
+21 - Swagger
+24 - Ancient Power
+27 - Iron Head
+30 - Endure
+33 - Stealth Rock
+36 - Metal Burst
+39 - Iron Tail
+42 - Stone Edge
+45 - Magnet Rise
+48 - Head Smash (!!)
+
+===================
+411 - Bastiodon
+===================
+Ability:
+Old     Sturdy / None
+New     Soundproof / Sturdy
+
+Base Stats:
+Old     60 HP / 52 Atk / 168 Def / 47 SAtk / 138 SDef / 30 Spd / 495 BST
+New     60 HP / 72 Atk / 168 Def / 27 SAtk / 138 SDef / 30 Spd / 495 BST
+
+Level Up:
+1 - Fissure
+1 - Tackle
+1 - Protect
+6 - Taunt
+9 - Metal Sound
+12 - Take Down
+15 - Iron Defense
+18 - Rock Slide
+21 - Swagger
+24 - Ancient Power
+27 - Iron Head
+30 - Block
+31 - Endure
+35 - Stealth Rock
+39 - Metal Burst
+43 - Iron Tail
+47 - Stone Edge
+51 - Magnet Rise
+55 - Head Smash (!!)
+
+===================
+412 - Burmy
+===================
+Ability:
+Old     Shed Skin / None
+New     Battle Armor / Shed Skin
+
+Base Stats:
+Old     40 HP / 29 Atk / 45 Def / 29 SAtk / 45 SDef / 36 Spd / 224 BST
+New     40 HP / 20 Atk / 45 Def / 45 SAtk / 45 SDef / 30 Spd / 225 BST
+
+Level Up:
+1 - Protect
+1 - Tackle
+1 - Bug Bite
+1 - Hidden Power
+
+===================
+413 - Wormadam
+===================
+Ability:
+Old     Anticipation / None
+New     Battle Armor / Anticipation
+
+Base Stats (Plant Cloak):
+Old     60 HP / 59 Atk / 85 Def / 79 SAtk / 105 SDef / 36 Spd / 424 BST
+New     60 HP / 50 Atk / 90 Def / 110 SAtk / 110 SDef / 30 Spd / 450 BST
+
+Base Stats (Sandy Cloak):
+Old     60 HP / 79 Atk / 105 Def / 59 SAtk / 85 SDef / 36 Spd / 424 BST
+New     60 HP / 50 Atk / 110 Def / 110 SAtk / 90 SDef / 30 Spd / 450 BST
+
+Base Stats (Trash Cloak):
+Old     60 HP / 69 Atk / 95 Def / 69 SAtk / 95 SDef / 36 Spd / 424 BST
+New     60 HP / 50 Atk / 100 Def / 110 SAtk / 100 SDef / 30 Spd / 450 BST
+
+Moves:
+Now compatible with TM62, Bug Buzz.
+
+Level Up (Plant Cloak):
+1 - Leaf Storm
+1 - Sucker Punch
+1 - Protect
+1 - Tackle
+1 - Bug Bite
+1 - Hidden Power
+20 - Razor Leaf
+23 - Confusion
+26 - Bug Buzz
+29 - Growth
+32 - Energy Ball
+35 - Psybeam
+38 - Attract
+41 - Psychic
+44 - Flail
+47 - Captivate
+50 - Leaf Storm
+
+Level Up (Sandy Cloak):
+1 - Fissure
+1 - Sucker Punch
+1 - Protect
+1 - Tackle
+1 - Bug Bite
+1 - Hidden Power
+20 - Rock Blast
+23 - Confusion
+26 - Bug Buzz
+29 - Harden
+32 - Earth Power
+35 - Psybeam
+38 - Attract
+41 - Psychic
+44 - Flail
+47 - Captivate
+50 - Fissure
+
+Level Up (Trash Cloak):
+1 - Iron Head
+1 - Metal Burst
+1 - Sucker Punch
+1 - Protect
+1 - Tackle
+1 - Bug Bite
+1 - Hidden Power
+20 - Mirror Shot
+23 - Confusion
+26 - Bug Buzz
+29 - Metal Sound
+32 - Flash Cannon
+35 - Psybeam
+38 - Attract
+41 - Psychic
+44 - Flail
+47 - Captivate
+50 - Iron Head
+
+===================
+414 - Mothim
+===================
+Ability:
+Old     Swarm / None
+New     Tinted Lens / Swarm
+
+Base Stats:
+Old     70 HP / 94 Atk / 50 Def / 94 SAtk / 50 SDef / 66 Spd / 424 BST
+New     70 HP / 70 Atk / 50 Def / 110 SAtk / 50 SDef / 100 Spd / 450 BST
+
+Moves:
+Now compatible with TM62, Bug Buzz.
+Now compatible with TM88, Hurricane. (!!)
+
+Level Up:
+1 - Hurricane (!!)
+1 - Protect
+1 - Tackle
+1 - Bug Bite
+1 - Hidden Power
+20 - Gust
+23 - Confusion
+26 - Bug Buzz
+29 - Poison Powder
+32 - Air Cutter
+35 - Psybeam
+38 - Air Slash
+41 - Psychic
+44 - Flail
+47 - Camouflage
+50 - Hurricane (!!)
+
+===================
+415 - Combee
+===================
+Ability:
+Old     Honey Gather / None
+New     Hustle / Honey Gather
+
+Moves:
+Now compatible with TM62, Bug Buzz.
+
+Level Up:
+1 - Sweet Scent
+1 - Gust
+1 - Bug Bite
+1 - Bug Buzz
+
+===================
+416 - Vespiquen
+===================
+Ability:
+Old     Pressure / None
+New     Intimidate / Pressure
+
+Moves:
+Now compatible with TM62, Bug Buzz.
+Now compatible with TM88, Hurricane. (!!)
+Now compatible with HM02, Fly. (!!)
+
+Level Up:
+1 - Sweet Scent
+1 - Gust
+1 - Bug Bite
+1 - Bug Buzz
+1 - Poison Sting
+1 - Confuse Ray
+5 - Fury Cutter
+9 - Pursuit
+13 - Fury Swipes
+17 - Slash
+21 - Defend Order
+21 - Heal Order
+21 - Attack Order
+25 - Air Slash
+29 - Toxic
+33 - Power Gem
+37 - Captivate
+41 - Swagger
+45 - Tailwind
+49 - Destiny Bond
+
+===================
+417 - Pachirisu
+===================
+Ability:
+Old     Run Away / Pickup
+New     Volt Absorb / Pickup
+
+Base Stats:
+Old     60 HP / 45 Atk / 70 Def / 45 SAtk / 90 SDef / 95 Spd / 405 BST
+New     60 HP / 45 Atk / 80 Def / 80 SAtk / 90 SDef / 95 Spd / 450 BST
+
+Level Up:
+1 - Growl
+1 - Bide
+5 - Quick Attack
+9 - Charm
+13 - Spark
+15 - Endure
+17 - Charge Beam
+19 - Hyper Fang
+23 - Swift
+25 - Discharge
+27 - Uproar
+29 - Sweet Kiss
+33 - Thunder Wave
+35 - Thunderbolt
+37 - Fake Tears
+39 - Super Fang
+43 - Thunder
+45 - Last Resort
+
 
 
 ===================
