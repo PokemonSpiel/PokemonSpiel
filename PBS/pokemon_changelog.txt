@@ -11042,6 +11042,521 @@ Level Up:
 45 - Last Resort
 
 
+===================
+418 - Buizel
+===================
+Ability:
+Old     Swift Swim / None
+New     Swift Swim / Water Veil
+
+Level Up:
+1 - Sonic Boom
+4 - Growl
+7 - Water Gun
+10 - Quick Attack
+13 - Water Sport
+16 - Aqua Jet
+19 - Pursuit
+22 - Swift
+25 - Aqua Tail
+28 - Double Hit
+31 - Whirlpool
+34 - Razor Wind
+37 - Agility
+40 - Me First
+43 - Hydro Pump
+
+===================
+419 - Floatzel
+===================
+Ability:
+Old     Swift Swim / None
+New     Swift Swim / Water Veil
+
+Level Up:
+1 - Sonic Boom
+4 - Growl
+7 - Water Gun
+10 - Quick Attack
+13 - Water Sport
+16 - Aqua Jet
+19 - Pursuit
+22 - Swift
+25 - Aqua Tail
+26 - Crunch
+29 - Double Hit
+33 - Ice Fang
+37 - Razor Wind
+41 - Agility
+45 - Me First
+49 - Hydro Pump
+
+===================
+420 - Cherubi
+===================
+Level Up:
+1 - Morning Sun
+1 - Tackle
+7 - Growth
+10 - Leech Seed
+13 - Helping Hand
+16 - Magical Leaf
+19 - Worry Seed
+22 - Sunny Day
+25 - Giga Drain
+28 - Take Down
+31 - Grass Whistle
+34 - Energy Ball
+37 - Lucky Chant
+40 - Healing Wish
+43 - Solar Beam
+
+===================
+421 - Cherrim
+===================
+Base Stats:
+Old     70 HP / 60 Atk / 70 Def / 87 SAtk / 78 SDef / 85 Spd / 450 BST
+New     70 HP / 45 Atk / 70 Def / 107 SAtk / 83 SDef / 90 Spd / 465 BST
+
+Level Up:
+1 - Morning Sun
+1 - Weather Ball
+1 - Tackle
+7 - Growth
+10 - Leech Seed
+13 - Helping Hand
+16 - Magical Leaf
+19 - Worry Seed
+22 - Sunny Day
+25 - Petal Dance
+26 - Giga Drain
+30 - Take Down
+34 - Grass Whistle
+38 - Energy Ball
+42 - Lucky Chant
+46 - Healing Wish
+50 - Solar Beam
+
+===================
+422 - Shellos
+===================
+Level Up:
+1 - Mud-Slap
+1 - Mud Sport
+7 - Harden
+10 - Water Pulse
+13 - Mud Bomb
+16 - Hidden Power
+19 - Sludge
+22 - Whirlpool
+25 - Rain Dance
+28 - Earth Power
+31 - Muddy Water
+34 - Body Slam
+37 - Counter
+37 - Mirror Coat
+40 - Acid Armor
+40 - Amnesia
+43 - Recover
+
+===================
+423 - Gastrodon
+===================
+Level Up:
+1 - Mud-Slap
+1 - Mud Sport
+7 - Harden
+10 - Water Pulse
+13 - Mud Bomb
+16 - Hidden Power
+19 - Sludge
+22 - Whirlpool
+25 - Rain Dance
+28 - Earth Power
+30 - Sludge Bomb
+32 - Muddy Water
+36 - Body Slam
+40 - Counter
+40 - Mirror Coat
+44 - Acid Armor
+44 - Amnesia
+48 - Recover
+
+===================
+424 - Ambipom
+===================
+Level Up:
+1 - Scratch
+1 - Tail Whip
+1 - Sand Attack
+5 - Astonish
+8 - Tickle
+11 - Baton Pass
+14 - Pursuit
+17 - Fury Swipes
+20 - Covet
+23 - Swift
+26 - Screech
+29 - Agility
+32 - Double Hit
+35 - Fake Out
+38 - Fling
+41 - Bounce
+44 - Nasty Plot
+47 - Switcheroo
+50 - Last Resort
+
+===================
+425 - Drifloon
+===================
+Ability:
+Old     Aftermath / Unburden
+New     Unburden / Aftermath
+
+Moves:
+Now compatible with TM88, Hurricane. (!!)
+
+Level Up:
+1 - Astonish
+4 - Minimize
+7 - Gust
+10 - Focus Energy
+13 - Payback
+16 - Ominous Wind
+19 - Air Cutter
+22 - Stockpile
+22 - Swallow
+22 - Spit Up
+25 - Shadow Ball
+28 - Amnesia
+31 - Air Slash (!!)
+34 - Hypnosis
+37 - Baton Pass
+40 - Weather Ball
+43 - Hurricane (!!)
+46 - Explosion
+
+===================
+426 - Drifblim
+===================
+Ability:
+Old     Aftermath / Unburden
+New     Unburden / Aftermath
+
+Moves:
+Now compatible with TM35, Flamethrower. (!!)
+Now compatible with TM88, Hurricane. (!!)
+
+Level Up:
+1 - Destiny Bond
+1 - Astonish
+4 - Minimize
+7 - Gust
+10 - Focus Energy
+13 - Payback
+16 - Ominous Wind
+19 - Air Cutter
+22 - Stockpile
+22 - Swallow
+22 - Spit Up
+25 - Shadow Ball
+29 - Amnesia
+33 - Air Slash (!!)
+37 - Hypnosis
+41 - Baton Pass
+45 - Weather Ball
+49 - Hurricane (!!)
+53 - Explosion
+
+===================
+427 - Buneary
+===================
+Ability:
+Old     Run Away / Klutz
+New     Limber / Run Away
+
+Level Up:
+1 - Splash
+1 - Pound
+1 - Defense Curl
+1 - Foresight
+7 - Endure
+10 - Quick Attack
+13 - Frustration
+16 - Jump Kick
+19 - Fake Out
+22 - Baton Pass
+25 - Dizzy Punch
+28 - Agility
+31 - Switcheroo
+34 - Charm
+37 - Flail
+40 - Bounce
+43 - Focus Punch
+46 - Healing Wish
+
+===================
+428 - Lopunny
+===================
+Ability:
+Old     Cute Charm / Klutz
+New     Scrappy / Cute Charm
+
+Base Stats:
+Old     65 HP / 76 Atk / 84 Def / 54 SAtk / 96 SDef / 105 Spd / 480 BST
+New     65 HP / 106 Atk / 84 Def / 44 SAtk / 96 SDef / 105 Spd / 500 BST
+
+Level Up:
+1 - Mega Kick (!!)
+1 - Blaze Kick (!!)
+1 - Splash
+1 - Pound
+1 - Defense Curl
+1 - Foresight
+7 - Endure
+10 - Quick Attack
+13 - Return
+16 - Jump Kick
+19 - Fake Out
+22 - Baton Pass
+25 - Dizzy Punch
+28 - Agility
+31 - Switcheroo
+34 - Charm
+37 - Flail
+40 - Bounce
+43 - Focus Punch
+46 - Healing Wish
+49 - High Jump Kick
+
+===================
+429 - Mismagius
+===================
+Level Up:
+1 - Nasty Plot
+1 - Hyper Voice
+1 - Power Gem
+1 - Lucky Chant
+1 - Magical Leaf
+1 - Growl
+1 - Psywave
+1 - Spite
+1 - Astonish
+43 - Moonblast (!!)
+
+===================
+430 - Honchkrow
+===================
+Ability:
+Old     Insomnia / Super Luck
+New     Super Luck / Insomnia
+
+Moves:
+Now compatible with TM88, Hurricane. (!!)
+
+Level Up:
+1 - Sucker Punch
+1 - Astonish
+1 - Pursuit
+1 - Haze
+1 - Wing Attack
+29 - Swagger
+35 - Dark Pulse
+41 - Night Slash
+49 - Nasty Plot
+55 - Brave Bird
+
+===================
+431 - Glameow
+===================
+Base Stats:
+Old     49 HP / 55 Atk / 42 Def / 42 SAtk / 37 SDef / 85 Spd / 310 BST
+New     50 HP / 65 Atk / 45 Def / 45 SAtk / 40 SDef / 90 Spd / 335 BST
+
+Level Up:
+1 - Fake Out
+1 - Scratch
+1 - Growl
+1 - Quick Attack
+7 - Fury Swipes
+10 - Hypnosis
+13 - Covet
+16 - Feint Attack
+19 - Charm
+22 - Slash
+25 - Assist
+28 - Knock Off
+31 - Captivate
+34 - Wake-Up Slap
+37 - Play Rough
+40 - Attract
+43 - Sucker Punch
+46 - Flail
+49 - Last Resort
+
+===================
+432 - Purugly
+===================
+Base Stats:
+Old     71 HP / 82 Atk / 64 Def / 64 SAtk / 59 SDef / 112 Spd / 452 BST
+New     90 HP / 95 Atk / 70 Def / 65 SAtk / 60 SDef / 115 Spd / 495 BST
+
+Level Up:
+1 - Fake Out
+1 - Scratch
+1 - Growl
+1 - Quick Attack
+7 - Fury Swipes
+10 - Hypnosis
+13 - Covet
+16 - Feint Attack
+19 - Charm
+22 - Slash
+25 - Assist
+28 - Knock Off
+31 - Captivate
+32 - Swagger
+35 - Wake-Up Slap
+39 - Play Rough
+43 - Attract
+47 - Body Slam
+51 - Flail
+55 - Last Resort
+
+===================
+433 - Chingling
+===================
+Base Stats:
+Old     45 HP / 30 Atk / 50 Def / 65 SAtk / 50 SDef / 45 Spd / 285 BST
+New     45 HP / 30 Atk / 50 Def / 80 SAtk / 60 SDef / 45 Spd / 310 BST
+
+Level Up:
+1 - Confusion
+1 - Wrap
+4 - Growl
+7 - Astonish
+10 - Psywave
+13 - Yawn
+16 - Extrasensory (!!)
+19 - Take Down
+22 - Uproar
+
+===================
+434 - Stunky
+===================
+Ability:
+Old     Stench / Aftermath
+New     Aftermath / Stench
+
+Base Stats:
+Old     63 HP / 63 Atk / 47 Def / 41 SAtk / 41 SDef / 74 Spd / 329 BST
+New     65 HP / 65 Atk / 50 Def / 40 SAtk / 40 SDef / 75 Spd / 335 BST
+
+Level Up:
+1 - Scratch
+1 - Focus Energy
+4 - Poison Gas
+7 - Screech
+10 - Bite
+13 - Fury Swipes
+16 - Smog
+19 - Smokescreen
+22 - Slash
+22 - Night Slash
+25 - Feint
+28 - Toxic
+31 - Poison Jab (!!)
+34 - Memento
+37 - Crunch
+40 - Sludge Bomb
+43 - Play Rough
+46 - Sucker Punch
+49 - Gunk Shot (!!)
+52 - Explosion
+
+===================
+435 - Skuntank
+===================
+Ability:
+Old     Stench / Aftermath
+New     Aftermath / Stench
+
+Base Stats (Complete):
+Old     103 HP / 93 Atk / 67 Def / 71 SAtk / 61 SDef / 84 Spd / 479 BST
+New     115 HP / 95 Atk / 70 Def / 70 SAtk / 60 SDef / 85 Spd / 495 BST
+
+Level Up:
+1 - Scratch
+1 - Focus Energy
+4 - Poison Gas
+7 - Screech
+10 - Bite
+13 - Fury Swipes
+16 - Smog
+19 - Smokescreen
+22 - Slash
+22 - Night Slash
+25 - Feint
+28 - Toxic
+31 - Poison Jab
+32 - Flamethrower
+35 - Memento
+39 - Crunch
+43 - Sludge Bomb
+47 - Play Rough
+51 - Sucker Punch
+55 - Gunk Shot (!!)
+59 - Explosion
+
+===================
+436 - Bronzor
+===================
+Level Up:
+1 - Tackle
+1 - Confusion
+5 - Imprison
+9 - Confuse Ray
+13 - Psywave
+15 - Hypnosis
+17 - Extrasensory
+19 - Feint Attack
+23 - Gyro Ball
+25 - Iron Defense
+27 - Zen Headbutt
+30 - Safeguard
+33 - Flash Cannon
+36 - Future Sight
+39 - Metal Sound
+42 - Payback
+45 - Heal Block
+
+===================
+437 - Bronzong
+===================
+Moves:
+Now compatible with HM02, Fly. (!!)
+
+Level Up:
+1 - Sunny Day
+1 - Rain Dance
+1 - Tackle
+1 - Confusion
+5 - Imprison
+9 - Confuse Ray
+13 - Psywave
+15 - Hypnosis
+17 - Extrasensory
+19 - Feint Attack
+23 - Gyro Ball
+25 - Iron Defense
+27 - Zen Headbutt
+30 - Safeguard
+33 - Block
+34 - Flash Cannon
+38 - Future Sight
+42 - Metal Sound
+46 - Payback
+50 - Heal Block
 
 ===================
 438 - Bonsly
@@ -11050,7 +11565,7 @@ Ability:
 Old     Sturdy / Rock Head
 New     Rock Head / Sturdy
 
-Base Stats (Complete):
+Base Stats:
 Old     50 HP / 80 Atk / 95 Def / 10 SAtk / 45 SDef / 10 Spd / 290 BST
 New     60 HP / 85 Atk / 95 Def / 10 SAtk / 55 SDef / 10 Spd / 315 BST
 
@@ -11073,6 +11588,196 @@ Level Up:
 39 - Double-Edge
 
 ===================
+439 - Mime Jr.
+===================
+Ability:
+Old     Soundproof / Filter
+New     Filter / Technician
+
+Base Stats:
+Old     20 HP / 25 Atk / 45 Def / 70 SAtk / 90 SDef / 60 Spd / 310 BST
+New     20 HP / 15 Atk / 45 Def / 80 SAtk / 90 SDef / 65 Spd / 315 BST
+
+Level Up:
+1 - Tickle
+1 - Barrier
+1 - Pound
+1 - Confusion
+6 - Copycat
+9 - Meditate
+12 - Double Slap
+15 - Encore
+18 - Mimic
+21 - Psybeam
+24 - Light Screen
+24 - Reflect
+27 - Dazzling Gleam
+30 - Substitute
+33 - Psychic
+36 - Trick
+39 - Nasty Plot
+42 - Role Play
+45 - Baton Pass
+48 - Safeguard
+
+===================
+440 - Happiny
+===================
+Ability:
+Old     Natural Cure / Serene Grace
+New     Serene Grace / Natural Cure
+
+Level Up:
+1 - Pound
+1 - Charm
+1 - Uproar
+4 - Copycat
+7 - Refresh
+10 - Sweet Kiss
+
+===================
+441 - Chatot
+===================
+Ability:
+Old     Keen Eye / Tangled Feet
+New     Soundproof / Tangled Feet
+
+Base Stats:
+Old     76 HP / 65 Atk / 45 Def / 92 SAtk / 42 SDef / 91 Spd / 411 BST
+New     75 HP / 45 Atk / 55 Def / 110 SAtk / 55 SDef / 110 Spd / 450 BST
+
+Moves:
+Now compatible with TM88, Hurricane. (!!)
+
+Level Up:
+1 - Taunt
+1 - Supersonic
+1 - Peck
+6 - Growl
+9 - Fury Attack
+12 - Mirror Move
+15 - Air Cutter
+18 - Sing
+21 - Taunt
+24 - Uproar
+27 - Mimic
+30 - Chatter
+33 - Roost
+36 - Agility
+39 - Hyper Voice
+42 - Feather Dance
+45 - Nasty Plot
+48 - Hurricane (!!)
+
+===================
+442 - Spiritomb
+===================
+Level Up:
+1 - Pursuit
+1 - Confuse Ray
+1 - Spite
+1 - Shadow Sneak
+7 - Feint Attack
+10 - Hypnosis
+13 - Dream Eater
+16 - Will-O-Wisp
+19 - Ominous Wind
+22 - Disable
+25 - Curse
+28 - Shadow Ball
+31 - Dark Pulse
+34 - Sucker Punch
+37 - Nasty Plot
+40 - Memento
+43 - Pain Split
+46 - Destiny Bond
+
+===================
+443 - Gible
+===================
+Ability:
+Old     Sand Veil / None
+New     Rough Skin / Sand Veil
+
+Level Up:
+1 - Dragon Breath
+1 - Tackle
+1 - Sand Attack
+7 - Dragon Breath
+10 - Bulldoze
+13 - Take Down
+16 - Dragon Rage
+19 - Sandstorm
+22 - Dig
+25 - Slash
+28 - Dragon Claw
+31 - Scary Face
+34 - Rock Slide
+37 - Earthquake
+40 - Dragon Rush
+43 - Iron Head
+46 - Stone Edge
+49 - Outrage
+
+===================
+444 - Gabite
+===================
+Ability:
+Old     Sand Veil / None
+New     Rough Skin / Sand Veil
+
+Level Up:
+1 - Tackle
+1 - Sand Attack
+7 - Dragon Breath
+10 - Bulldoze
+13 - Take Down
+16 - Dragon Rage
+19 - Sandstorm
+22 - Dig
+26 - Slash
+30 - Dragon Claw
+34 - Scary Face
+38 - Rock Slide
+42 - Earthquake
+46 - Dragon Rush
+50 - Iron Head
+54 - Stone Edge
+58 - Outrage
+
+===================
+445 - Garchomp
+===================
+Ability:
+Old     Sand Veil / None
+New     Rough Skin / Sand Veil
+
+Moves:
+Now compatible with HM02, Fly. (!!)
+
+Level Up:
+1 - Fire Fang
+1 - Tackle
+1 - Sand Attack
+7 - Dragon Breath
+10 - Bulldoze
+13 - Take Down
+16 - Dragon Rage
+19 - Sandstorm
+22 - Dig
+26 - Slash
+30 - Dragon Claw
+34 - Scary Face
+38 - Rock Slide
+42 - Earthquake
+46 - Dragon Rush
+48 - Crunch
+52 - Iron Head
+58 - Stone Edge
+64 - Outrage
+70 - Extreme Speed (!!)
+
+===================
 446 - Munchlax
 ===================
 Ability:
@@ -11081,18 +11786,17 @@ New     Thick Fat / Pickup
 
 Level Up:
 1 - Metronome
+1 - Odor Sleuth
 1 - Tackle
 1 - Defense Curl
-1 - Lick
-8 - Recycle
 9 - Amnesia
-12 - Covet
-15 - Bite
+12 - Lick
+15 - Recycle
 18 - Screech
 21 - Body Slam
 24 - Stockpile
-24 - Swallow
-27 - Rollout
+27 - Swallow
+30 - Rollout
 33 - Zen Headbutt
 36 - Natural Gift
 39 - Fling
@@ -11105,16 +11809,17 @@ Level Up:
 447 - Riolu
 ===================
 Evolution:
-Now evolves into Lucario when happy regardless of the time.
+Now evolves into Lucario regardless of time.
 
 Level Up:
 1 - Quick Attack
+1 - Foresight
 1 - Endure
 1 - Low Kick
 4 - Bite
 7 - Counter
-8 - Metal Claw
-11 - Force Palm
+10 - Force Palm
+13 - Feint
 16 - Copycat
 19 - Screech
 22 - Reversal
@@ -11125,13 +11830,11 @@ Level Up:
 ===================
 448 - Lucario
 ===================
-Ability (Complete):
+Ability:
 Old     Steadfast / Inner Focus
 New     Adaptability / Inner Focus
 
 Level Up:
-Level Up Move - Aurasphere
-1 - Aurasphere
 1 - Bullet Punch
 1 - Quick Attack
 1 - Foresight
@@ -11153,6 +11856,478 @@ Level Up Move - Aurasphere
 49 - Meteor Mash
 53 - High Jump Kick
 57 - Extreme Speed
+
+===================
+449 - Hippopotas
+===================
+Level Up:
+1 - Curse
+1 - Tackle
+1 - Sand Attack
+7 - Bite
+11 - Yawn
+15 - Bulldoze
+19 - Take Down
+23 - Dig
+27 - Crunch
+31 - Body Slam
+35 - Slack Off
+39 - Earthquake
+43 - Stealth Rock
+47 - Double-Edge
+51 - Fissure
+55 - Superpower
+
+===================
+450 - Hippowdon
+===================
+Level Up:
+1 - Ice Fang
+1 - Fire Fang
+1 - Thunder Fang
+1 - Curse
+1 - Tackle
+1 - Sand Attack
+7 - Bite
+11 - Yawn
+15 - Bulldoze
+19 - Take Down
+23 - Dig
+27 - Crunch
+31 - Body Slam
+36 - Slack Off
+41 - Earthquake
+46 - Stealth Rock
+51 - Double-Edge
+56 - Fissure
+61 - Superpower
+
+===================
+451 - Skorupi
+===================
+Ability:
+Old     Battle Armor / Sniper
+New     Sniper / Battle Armor
+
+Level Up:
+1 - Bite
+1 - Poison Sting
+1 - Leer
+6 - Knock Off
+9 - Pin Missile
+12 - Acupressure
+15 - Bug Bite
+18 - Poison Fang
+21 - Pursuit
+24 - Toxic Spikes
+27 - X-Scissor
+30 - Swords Dance
+33 - Poison Jab
+36 - Night Slash
+39 - Scary Face
+42 - Crunch
+45 - Cross Poison
+
+===================
+452 - Drapion
+===================
+Ability:
+Old     Battle Armor / Sniper
+New     Sniper / Battle Armor
+
+Level Up:
+1 - Thunder Fang
+1 - Ice Fang
+1 - Fire Fang
+1 - Bite
+1 - Poison Sting
+1 - Leer
+6 - Knock Off
+9 - Pin Missile
+12 - Acupressure
+15 - Bug Bite
+18 - Poison Fang
+21 - Pursuit
+24 - Toxic Spikes
+27 - X-Scissor
+31 - Swords Dance
+35 - Poison Jab
+39 - Night Slash
+43 - Scary Face
+47 - Crunch
+51 - Cross Poison
+
+===================
+453 - Croagunk
+===================
+Ability:
+Old     Anticipation / Dry Skin
+New     Dry Skin / Anticipation
+
+Moves:
+Now compatible with TM60, Drain Punch.
+
+Level Up:
+1 - Astonish
+1 - Taunt
+1 - Fake Out
+4 - Mud-Slap
+7 - Poison Sting
+10 - Torment
+13 - Pursuit
+16 - Feint Attack
+19 - Revenge
+22 - Swagger
+25 - Mud Bomb
+28 - Poison Jab
+31 - Drain Punch
+34 - Nasty Plot
+37 - Sucker Punch
+40 - Cross Chop
+43 - Sludge Bomb
+46 - Flatter
+49 - Gunk Shot
+
+===================
+454 - Toxicroak
+===================
+Ability:
+Old     Anticipation / Dry Skin
+New     Dry Skin / Anticipation
+
+Moves:
+Now compatible with TM60, Drain Punch.
+
+Level Up:
+1 - Vacuum Wave
+1 - Astonish
+1 - Taunt
+1 - Fake Out
+4 - Mud-Slap
+7 - Poison Sting
+10 - Torment
+13 - Pursuit
+16 - Feint Attack
+19 - Revenge
+22 - Swagger
+25 - Mud Bomb
+28 - Poison Jab
+31 - Drain Punch
+35 - Nasty Plot
+39 - Sucker Punch
+43 - Cross Chop
+47 - Sludge Bomb
+51 - Flatter
+55 - Gunk Shot
+
+===================
+455 - Carnivine
+===================
+Base Stats:
+Old     74 HP / 100 Atk / 72 Def / 90 SAtk / 72 SDef / 46 Spd / 454 BST
+New     74 HP / 110 Atk / 72 Def / 100 SAtk / 72 SDef / 36 Spd / 464 BST
+
+Moves:
+Now compatible with TM79, Dark Pulse. (!!)
+
+Level Up:
+1 - Bind
+1 - Growth
+1 - Bite
+6 - Vine Whip
+9 - Bug Bite
+12 - Sweet Scent
+15 - Razor Leaf
+18 - Ingrain
+21 - Feint Attack
+24 - Sleep Powder
+24 - Stun Spore
+27 - Knock Off
+30 - Seed Bomb
+33 - Stockpile
+33 - Spit Up
+33 - Swallow
+36 - Crunch
+39 - Energy Ball
+42 - Wring Out
+45 - Power Whip
+
+===================
+456 - Finneon
+===================
+Base Stats:
+Old     49 HP / 49 Atk / 56 Def / 49 SAtk / 61 SDef / 66 Spd / 330 BST
+New     50 HP / 30 Atk / 60 Def / 60 SAtk / 60 SDef / 70 Spd / 330 BST
+
+Moves:
+Now compatible with TM88, Hurricane. (!!)
+
+Level Up:
+1 - Pound
+1 - Charm
+6 - Water Gun
+9 - Attract
+12 - Rain Dance
+15 - Gust
+18 - Water Pulse
+21 - Psybeam
+24 - Captivate
+27 - Safeguard
+30 - Aqua Tail
+33 - Silver Wind
+36 - Aqua Ring
+39 - Whirlpool
+42 - U-turn
+45 - Bounce
+48 - Hydro Pump (!!)
+
+===================
+457 - Lumineon
+===================
+Base Stats:
+Old     69 HP / 69 Atk / 76 Def / 69 SAtk / 86 SDef / 91 Spd / 460 BST
+New     70 HP / 40 Atk / 75 Def / 105 SAtk / 90 SDef / 105 Spd / 485 BST
+
+Moves:
+Now compatible with TM88, Hurricane. (!!)
+
+Level Up:
+1 - Hydro Pump (!!)
+1 - Icy Wind
+1 - Ominous Wind
+1 - Pound
+1 - Charm
+6 - Water Gun
+9 - Attract
+12 - Rain Dance
+15 - Gust
+18 - Water Pulse
+21 - Psybeam
+24 - Captivate
+27 - Safeguard
+30 - Aqua Tail
+34 - Silver Wind
+38 - Aqua Ring
+42 - Whirlpool
+46 - U-turn
+50 - Bounce
+54 - Hydro Pump (!!)
+
+===================
+458 - Mantyke
+===================
+Level Up:
+1 - Tackle
+1 - Bubble
+1 - Air Cutter
+4 - Supersonic
+7 - Confuse Ray
+10 - Water Pulse
+13 - Wing Attack
+16 - Headbutt
+19 - Bubble Beam
+22 - Signal Beam
+25 - Take Down
+28 - Agility
+31 - Air Slash
+34 - Aqua Ring
+37 - Mirror Coat
+40 - Bounce
+43 - Tailwind
+46 - Hydro Pump
+
+===================
+459 - Snover
+===================
+Ability:
+Old     Snow Warning / None
+New     Snow Warning / Soundproof
+
+Level Up:
+1 - Powder Snow
+1 - Leer
+1 - Razor Leaf
+7 - Icy Wind
+10 - Grass Whistle
+13 - Swagger
+16 - Bullet Seed
+19 - Ice Shard
+22 - Leech Seed
+25 - Avalanche
+28 - Seed Bomb
+31 - Ingrain
+34 - Wood Hammer
+37 - Mist
+40 - Icicle Crash (!!)
+43 - Blizzard
+46 - Sheer Cold
+
+===================
+460 - Abomasnow
+===================
+Ability:
+Old     Snow Warning / None
+New     Snow Warning / Soundproof
+
+Level Up:
+1 - Ice Punch
+1 - Powder Snow
+1 - Leer
+1 - Razor Leaf
+7 - Icy Wind
+10 - Grass Whistle
+13 - Swagger
+16 - Bullet Seed
+19 - Ice Shard
+22 - Leech Seed
+25 - Avalanche
+28 - Seed Bomb
+31 - Ingrain
+34 - Wood Hammer
+37 - Mist
+41 - Icicle Crash (!!)
+45 - Blizzard
+49 - Sheer Cold
+
+===================
+461 - Weavile
+===================
+Ability:
+Old     Pressure / None
+New     Technician / Pressure
+
+Level Up:
+1 - Embargo
+1 - Revenge
+1 - Assurance
+1 - Low Kick
+1 - Scratch
+1 - Leer
+1 - Taunt
+7 - Quick Attack
+10 - Icy Wind
+13 - Feint Attack
+16 - Fury Swipes
+19 - Ice Shard
+22 - Metal Claw
+25 - Nasty Plot
+28 - Fling
+31 - Night Slash
+34 - Screech
+37 - Icicle Crash
+40 - Snatch
+43 - Punishment
+46 - Dark Pulse
+
+===================
+462 - Magnezone
+===================
+Moves:
+Now compatible with TM62, Bug Buzz. (!!)
+
+Level Up:
+1 - Mirror Coat
+1 - Barrier
+1 - Tackle
+1 - Supersonic
+1 - Thunder Shock
+4 - Thunder Wave
+7 - Sonic Boom
+10 - Spark
+13 - Magnet Bomb
+16 - Light Screen
+19 - Charge Beam
+22 - Mirror Shot
+25 - Metal Sound
+28 - Discharge
+33 - Flash Cannon
+37 - Screech
+41 - Thunderbolt
+45 - Lock-On
+49 - Magnet Rise
+53 - Gyro Ball
+57 - Zap Cannon
+
+===================
+463 - Lickilicky
+===================
+Level Up:
+1 - Lick
+4 - Supersonic
+7 - Defense Curl
+10 - Wrap
+13 - Disable
+16 - Stomp
+19 - Knock Off
+22 - Amnesia
+25 - Slam
+28 - Magnitude
+31 - Me First
+33 - Rollout
+34 - Zen Headbutt
+37 - Body Slam
+40 - Refresh
+43 - Thrash
+46 - Screech
+49 - Hammer Arm
+52 - Power Whip
+55 - Wring Out
+58 - Gyro Ball
+
+===================
+464 - Rhyperior
+===================
+Ability:
+Old     Lightning Rod / Rock Head
+New     Solid Rock / Reckless
+
+Level Up:
+1 - Thunder Fang
+1 - Horn Attack
+1 - Tail Whip
+4 - Fury Attack
+7 - Scary Face
+10 - Bulldoze
+13 - Stomp
+16 - Rock Blast
+19 - Magnitude
+22 - Take Down
+25 - Drill Run
+28 - Crunch
+31 - Rock Slide
+34 - Poison Jab
+36 - Hammer Arm
+38 - Megahorn
+42 - Earthquake
+46 - Stone Edge
+50 - Dragon Rush
+54 - Superpower
+58 - Rock Wrecker
+
+===================
+465 - Tangrowth
+===================
+Level Up:
+1 - Block
+1 - Absorb
+4 - Ingrain
+7 - Vine Whip
+10 - Bind
+13 - Poison Powder
+13 - Stun Spore
+13 - Sleep Powder
+16 - Mega Drain
+19 - Natural Gift
+22 - Knock Off
+25 - Nature Power
+28 - Giga Drain
+31 - Wake-Up Slap
+34 - Ancient Power
+37 - Slam
+40 - Tickle
+43 - Wring Out
+46 - Power Whip
+49 - Leaf Storm
 
 ===================
 466 - Electivire
@@ -11209,6 +12384,83 @@ Level Up:
 61 - Magma Storm (!!)
 
 ===================
+468 - Togekiss
+===================
+Ability:
+Old     Hustle / Serene Grace
+New     Serene Grace / Super Luck
+
+Moves:
+Now compatible with TM88, Hurricane. (!!)
+
+Level Up:
+1 - Heat Wave
+1 - Magical Leaf
+1 - Sky Attack
+1 - Extreme Speed
+1 - Aura Sphere
+1 - Air Slash
+
+===================
+469 - Yanmega
+===================
+Moves:
+Now compatible with TM62, Bug Buzz.
+Now compatible with TM88, Hurricane. (!!)
+Now compatible with HM02, Fly. (!!)
+
+Level Up:
+1 - Night Slash
+1 - Bug Bite
+1 - Tackle
+1 - Foresight
+1 - Quick Attack
+6 - Double Team
+9 - Sonic Boom
+13 - Slash
+15 - Silver Wind
+17 - Detect
+19 - Air Cutter
+23 - Supersonic
+25 - Signal Beam
+27 - Uproar
+29 - Air Slash
+33 - Ancient Power
+35 - Feint
+37 - Pursuit
+39 - U-turn
+43 - Screech
+45 - Bug Buzz
+
+===================
+470 - Leafeon
+===================
+Moves:
+Now compatible with HM01, Cut. (!!)
+
+Level Up:
+1 - Sunny Day
+1 - Helping Hand
+1 - Growl
+1 - Tackle
+1 - Tail Whip
+1 - Bite
+1 - Vine Whip (!!)
+7 - Sand Attack
+10 - Quick Attack
+13 - Synthesis
+16 - Razor Leaf
+19 - Magical Leaf
+22 - Grass Whistle
+25 - Seed Bomb
+28 - Night Slash (!!)
+31 - Swords Dance
+34 - Leaf Blade
+37 - Psycho Cut (!!)
+40 - Last Resort
+43 - Power Whip (!!)
+
+===================
 471 - Glaceon
 ===================
 Base Stats (Complete):
@@ -11241,6 +12493,102 @@ Level Up:
 40 - Last Resort
 43 - Blizzard
 
+===================
+471 - Glaceon
+===================
+Base Stats:
+Old     65 HP / 60 Atk / 110 Def / 130 SAtk / 95 SDef / 65 Spd / 525 BST
+New     65 HP / 60 Atk / 110 Def / 130 SAtk / 65 SDef / 95 Spd / 525 BST
+
+Moves:
+Now compatible with TM85, Dazzling Gleam. (!!)
+Now compatible with TM86, Grass Knot. (!!)
+
+Level Up:
+1 - Hail
+1 - Helping Hand
+1 - Growl
+1 - Tackle
+1 - Tail Whip
+1 - Bite
+1 - Powder Snow (!!)
+7 - Sand Attack
+10 - Quick Attack
+13 - Mirror Coat
+16 - Icy Wind
+19 - Ice Shard
+22 - Ice Fang
+25 - Aurora Beam (!!)
+28 - Extrasensory (!!)
+31 - Barrier
+34 - Ice Beam
+37 - Earth Power (!!)
+40 - Last Resort
+43 - Blizzard
+
+===================
+472 - Gliscor
+===================
+Ability:
+Old     Hyper Cutter / Sand Veil
+New     Poison Heal / Hyper Cutter
+
+Moves:
+Now compatible with TM62, Bug Buzz. (!!)
+Now compatible with HM02, Fly. (!!)
+
+Level Up:
+1 - Thunder Fang
+1 - Ice Fang
+1 - Fire Fang
+1 - Poison Jab
+1 - Sand Attack
+1 - Harden
+4 - Quick Attack
+7 - Fury Cutter
+10 - Knock Off
+13 - Wing Attack
+16 - Bulldoze
+19 - Feint Attack
+22 - Night Slash
+25 - U-turn
+28 - Cross Poison
+31 - Screech
+34 - X-Scissor
+37 - Earthquake
+40 - Sky Uppercut
+43 - Swords Dance
+46 - Guillotine
+
+===================
+473 - Mamoswine
+===================
+Ability:
+Old     Oblivious / Snow Cloak
+New     Thick Fat / Snow Cloak
+
+Level Up:
+1 - Fury Attack
+1 - Ancient Power
+1 - Peck
+1 - Odor Sleuth
+1 - Hail
+4 - Mud-Slap
+7 - Mud Sport
+10 - Powder Snow
+13 - Ice Fang
+16 - Bulldoze
+19 - Endure
+22 - Mud Bomb
+25 - Avalanche
+28 - Take Down
+31 - Mist
+33 - Double Hit
+35 - Earthquake
+39 - Thrash
+43 - Icicle Crash
+47 - Scary Face
+51 - Blizzard
 
 ===================
 474 - Porygon-Z
@@ -11267,6 +12615,465 @@ Level Up:
 43 - Psychic
 46 - Zap Cannon
 49 - Hyper Beam
+
+
+===================
+475 - Gallade
+===================
+Level Up:
+1 - Leaf Blade
+1 - Teleport
+1 - Leer
+1 - Confusion
+1 - Double Team
+7 - Slash
+10 - Fury Cutter
+13 - Psycho Cut
+16 - Night Slash
+19 - Aerial Ace
+23 - Protect
+27 - Zen Headbutt
+32 - Swords Dance
+37 - Close Combat
+42 - Helping Hand
+47 - False Swipe
+52 - Feint
+57 - Memento
+
+===================
+476 - Probopass
+===================
+Base Stats:
+Old     60 HP / 55 Atk / 145 Def / 75 SAtk / 150 SDef / 40 Spd / 525 BST
+New     60 HP / 45 Atk / 145 Def / 85 SAtk / 150 SDef / 40 Spd / 525 BST
+
+Level Up:
+1 - Tri Attack
+1 - Magnet Rise
+1 - Gravity
+1 - Tackle
+1 - Harden
+4 - Block
+7 - Rock Throw
+10 - Thunder Wave
+13 - Spark
+16 - Rock Slide
+19 - Rest
+22 - Power Gem
+25 - Discharge
+28 - Rock Blast
+31 - Sandstorm
+34 - Thunderbolt
+37 - Earth Power
+40 - Stone Edge
+43 - Lock-On
+43 - Zap Cannon
+46 - Head Smash (!!)
+
+===================
+477 - Dusknoir
+===================
+Ability:
+Old     Pressure / None
+New     Iron Fist / Pressure
+
+Moves:
+Now compatible with TM60, Drain Punch. (!!)
+
+Level Up:
+1 - Fire Punch
+1 - Ice Punch
+1 - Thunder Punch
+1 - Gravity
+1 - Bind
+1 - Leer
+1 - Night Shade
+7 - Disable
+10 - Astonish
+13 - Foresight
+16 - Shadow Sneak
+19 - Pursuit
+22 - Will-O-Wisp
+25 - Payback
+28 - Curse
+31 - Shadow Ball
+32 - Shadow Punch
+35 - Confuse Ray
+39 - Mean Look
+43 - Future Sight
+47 - Destiny Bond
+
+===================
+478 - Froslass
+===================
+Ability:
+Old     Snow Cloak / None
+New     Levitate / Snow Cloak
+
+Base Stats:
+Old     70 HP / 80 Atk / 70 Def / 80 SAtk / 70 SDef / 110 Spd / 480 BST
+New     70 HP / 70 Atk / 70 Def / 110 SAtk / 70 SDef / 110 Spd / 500 BST
+
+Level Up:
+1 - Weather Ball
+1 - Ominous Wind
+1 - Powder Snow
+1 - Leer
+6 - Double Team
+9 - Ice Shard
+12 - Icy Wind
+15 - Astonish
+18 - Draining Kiss
+21 - Wake-Up Slap
+24 - Will-O-Wisp
+27 - Avalanche
+30 - Captivate
+32 - Shadow Ball
+34 - Ice Beam
+38 - Confuse Ray
+42 - Switcheroo
+46 - Hail
+50 - Blizzard
+54 - Destiny Bond
+
+===================
+479 - Rotom
+===================
+Ability (Fan Rotom):
+Old     Levitate / None
+New     Motor Drive / None
+
+Base Stats (Regular Form):
+Old     50 HP / 50 Atk / 77 Def / 95 SAtk / 77 SDef / 91 Spd / 440 BST
+New     50 HP / 50 Atk / 77 Def / 95 SAtk / 77 SDef / 101 Spd / 450 BST
+
+Level Up:
+1 - Trick
+1 - Snatch
+1 - Astonish
+1 - Thunder Wave
+4 - Thunder Shock
+7 - Confuse Ray
+10 - Shock Wave
+13 - Double Team
+16 - Ominous Wind
+19 - Uproar
+22 - Substitute
+25 - Charge Beam
+28 - Will-O-Wisp
+31 - Discharge
+34 - Shadow Ball
+37 - Charge
+40 - Thunderbolt
+43 - Dark Pulse
+46 - Pain Split
+49 - Thunder
+
+===================
+480 - Uxie
+===================
+Level Up:
+1 - Moonblast (!!)
+1 - Memento
+1 - Confusion
+6 - Imprison
+10 - Endure
+14 - Swift
+18 - Yawn
+22 - Future Sight
+26 - Zen Headbutt
+30 - Natural Gift
+34 - Flail
+38 - Extrasensory
+42 - Amnesia
+46 - Rest
+50 - Psychic
+
+===================
+481 - Mesprit
+===================
+Level Up:
+1 - Moonblast (!!)
+1 - Healing Wish
+1 - Confusion
+6 - Imprison
+10 - Protect
+14 - Swift
+18 - Lucky Chant
+22 - Future Sight
+26 - Zen Headbutt
+30 - Natural Gift
+34 - Copycat
+38 - Extrasensory
+42 - Charm
+46 - Rest
+50 - Psychic
+
+===================
+482 - Azelf
+===================
+Level Up:
+1 - Moonblast (!!)
+1 - Explosion
+1 - Confusion
+6 - Imprison
+10 - Detect
+14 - Swift
+18 - Uproar
+22 - Future Sight
+26 - Zen Headbutt
+30 - Natural Gift
+34 - Last Resort
+38 - Extrasensory
+42 - Nasty Plot
+46 - Rest
+50 - Psychic
+
+===================
+483 - Dialga
+===================
+Level Up:
+1 - Dragon Breath
+1 - Scary Face
+6 - Metal Claw
+10 - Ancient Power
+14 - Slash
+18 - Power Gem
+22 - Metal Burst
+26 - Dragon Claw
+30 - Dragon Pulse
+34 - Iron Tail
+38 - Aura Sphere
+42 - Earth Power
+46 - Flash Cannon
+50 - Roar of Time
+
+===================
+484 - Palkia
+===================
+Level Up:
+1 - Dragon Breath
+1 - Scary Face
+6 - Water Pulse
+10 - Ancient Power
+14 - Slash
+18 - Power Gem
+22 - Aqua Ring
+26 - Dragon Claw
+30 - Dragon Pulse
+34 - Aqua Tail
+38 - Aura Sphere
+42 - Earth Power
+46 - Hydro Pump
+50 - Spacial Rend
+
+===================
+485 - Heatran
+===================
+Ability:
+Old     Flash Fire / None
+New     Flash Fire / Flame Body
+
+Level Up:
+1 - Eruption
+1 - Ancient Power
+6 - Leer
+10 - Fire Fang
+14 - Metal Sound
+18 - Crunch
+22 - Scary Face
+26 - Lava Plume
+30 - Fire Spin
+34 - Iron Head
+38 - Earth Power
+42 - Heat Wave
+46 - Stone Edge
+50 - Magma Storm
+
+===================
+486 - Regigigas
+===================
+Level Up:
+1 - Fire Punch
+1 - Ice Punch
+1 - Thunder Punch
+1 - Dizzy Punch
+6 - Knock Off
+10 - Confuse Ray
+14 - Foresight
+18 - Drain Punch
+22 - Revenge
+26 - Zen Headbutt
+30 - Payback
+34 - Block
+38 - Nature Power
+42 - Crush Grip
+46 - Superpower
+50 - Giga Impact
+
+===================
+487 - Giratina
+===================
+Level Up:
+1 - Dragon Breath
+1 - Scary Face
+6 - Ominous Wind
+10 - Ancient Power
+14 - Slash
+18 - Shadow Sneak
+22 - Destiny Bond
+26 - Dragon Claw
+30 - Shadow Ball
+34 - Shadow Claw
+38 - Aura Sphere
+42 - Earth Power
+46 - Dragon Pulse
+50 - Shadow Force
+
+===================
+488 - Cresselia
+===================
+Level Up:
+1 - Confusion
+1 - Double Team
+6 - Safeguard
+10 - Mist
+14 - Aurora Beam
+18 - Future Sight
+22 - Slash
+26 - Reflect
+26 - Light Screen
+30 - Psycho Shift
+34 - Psycho Cut
+38 - Moonlight
+42 - Ice Beam
+46 - Psychic
+50 - Moonblast
+
+===================
+489 - Phione
+===================
+Level Up:
+1 - Bubble
+1 - Water Sport
+6 - Charm
+10 - Supersonic
+14 - Bubble Beam
+18 - Acid Armor
+22 - Water Pulse
+26 - Whirlpool
+30 - Uproar
+34 - Aqua Ring
+38 - Signal Beam
+42 - Dive
+46 - Rain Dance
+50 - Hydro Pump (!!)
+
+===================
+490 - Manaphy
+===================
+Level Up:
+1 - Heart Swap
+1 - Tail Glow
+1 - Bubble
+1 - Water Sport
+6 - Charm
+10 - Supersonic
+14 - Bubble Beam
+18 - Acid Armor
+22 - Water Pulse
+26 - Whirlpool
+30 - Uproar
+34 - Aqua Ring
+38 - Signal Beam
+42 - Dive
+46 - Rain Dance
+50 - Hydro Pump (!!)
+
+===================
+491 - Darkrai
+===================
+Level Up:
+1 - Roar of Time
+1 - Spacial Rend
+1 - Ominous Wind
+1 - Disable
+1 - Knock Off
+6 - Quick Attack
+10 - Hypnosis
+14 - Feint Attack
+18 - Nightmare
+22 - Double Team
+26 - Haze
+30 - Night Shade
+34 - Sucker Punch
+38 - Dark Void
+42 - Nasty Plot
+46 - Dream Eater
+50 - Dark Pulse
+
+===================
+492 - Shaymin
+===================
+Level Up (Land Forme):
+1 - Healing Wish
+1 - Growth
+6 - Magical Leaf
+10 - Leech Seed
+14 - Synthesis
+18 - Sweet Scent
+22 - Natural Gift
+26 - Worry Seed
+30 - Aromatherapy
+34 - Energy Ball
+38 - Earth Power
+42 - Sweet Kiss
+46 - Leaf Storm
+50 - Seed Flare
+
+Level Up (Sky Forme):
+1 - Healing Wish
+1 - Growth
+6 - Magical Leaf
+10 - Leech Seed
+14 - Quick Attack
+18 - Sweet Scent
+22 - Natural Gift
+26 - Worry Seed
+30 - Aromatherapy
+34 - Energy Ball
+38 - Air Slash
+42 - Sweet Kiss
+46 - Leaf Storm
+50 - Seed Flare
+
+===================
+493 - Arceus
+===================
+Moves:
+Now compatible with TM88, Hurricane. (!!)
+
+Level Up:
+1 - Roar of Time
+1 - Spacial Rend
+1 - Shadow Force
+1 - Seismic Toss
+1 - Cosmic Power
+1 - Natural Gift
+1 - Punishment
+6 - Gravity
+10 - Earth Power
+14 - Hyper Voice
+18 - Extreme Speed
+22 - Refresh
+26 - Future Sight
+30 - Hyper Beam
+34 - Perish Song
+38 - Outrage
+42 - Recover
+46 - Blast Burn
+46 - Hydro Cannon
+50 - Judgment
 
 ===================
 700 - Sylveon
