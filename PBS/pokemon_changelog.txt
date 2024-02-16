@@ -166,7 +166,7 @@ Level Up:
 1 - Rutenschlag
 5 - Aquaknarre
 8 - Panzerschutz
-11 - Bubble
+11 - Blubber
 14 - Biss
 17 - Turbodreher
 20 - Aquawelle
@@ -187,7 +187,7 @@ Level Up:
 1 - Rutenschlag
 5 - Aquaknarre
 8 - Panzerschutz
-11 - Bubble
+11 - Blubber
 14 - Biss
 16 - Gähner
 18 - Turbodreher
@@ -218,7 +218,7 @@ Level Up:
 1 - Rutenschlag
 5 - Aquaknarre
 8 - Panzerschutz
-11 - Bubble
+11 - Blubber
 14 - Biss
 16 - Gähner
 18 - Turbodreher
@@ -275,7 +275,7 @@ Level Up:
 13 - Giftpuder
 13 - Stachelspore
 13 - Schlafpuder
-15 - Silver Wind
+15 - Silberhauch
 17 - Windschnitt
 19 - Psystrahl
 21 - Superschall
@@ -335,12 +335,12 @@ Level Up:
 17 - Nadelrakete
 19 - Verfolgung
 21 - Energiefokus
-23 - GIfthieb
+23 - Gifthieb
 25 - Gewissheit
 28 - Kreuzschere
 31 - Giftstreich (!!)
-34 - Drill Pikser (!!)
-34 - Drill Run
+34 - Bohrschnabel (!!)
+34 - Schlagbohrer
 37 - Agilität
 40 - Notsituation
 43 - Wutanfall
@@ -463,7 +463,7 @@ Level Up:
 22 - Superzahn
 25 - Knirscher
 28 - Tiefschlag
-31 - Flame Wheel
+31 - Flammenrad
 34 - Risikotackle
 37 - Gegenschlag
 40 - Notsituation
@@ -495,7 +495,7 @@ Level Up:
 23 - Superzahn
 27 - Knirscher
 31 - Tiefschlag
-35 - Flame Wheel
+35 - Flammenrad
 39 - Risikotackle
 43 - Gegenschlag
 47 - Notsituation
@@ -521,9 +521,9 @@ Level Up:
 16 - Spiegeltrick
 19 - Fassade
 22 - Gewissheit
-25 - Drill Pikser
+25 - Bohrschnabel
 28 - Agilität
-31 - Drill Run
+31 - Schlagbohrer
 34 - Energiefokus
 37 - Ruheort
 40 - Rückenwind
@@ -557,9 +557,9 @@ Level Up:
 16 - Spiegeltrick
 19 - Fassade
 23 - Gewissheit
-27 - Drill Pikser
+27 - Bohrschnabel
 31 - Agilität
-35 - Drill Run
+35 - Schlagbohrer
 39 - Energiefokus
 43 - Ruheort
 47 - Rückenwind
@@ -677,7 +677,7 @@ Level Up:
 1 - Sandwirbel
 1 - Giftstachel
 7 - Walzer
-9 - Bulldoze
+9 - Dampfwalze
 11 - Turbodreher
 13 - Zornklinge
 15 - Sternschauer
@@ -687,7 +687,7 @@ Level Up:
 24 - Nachthieb
 27 - Schaufler
 30 - Gyroball
-33 - GIfthieb
+33 - Gifthieb
 36 - Erdbeben
 39 - Schwerttanz
 42 - Sandsturm
@@ -702,7 +702,7 @@ Level Up:
 1 - Sandwirbel
 1 - Giftstachel
 7 - Walzer
-9 - Bulldoze
+9 - Dampfwalze
 11 - Turbodreher
 13 - Zornklinge
 15 - Sternschauer
@@ -713,7 +713,7 @@ Level Up:
 25 - Nachthieb
 29 - Schaufler
 33 - Gyroball
-37 - GIfthieb
+37 - Gifthieb
 41 - Erdbeben
 45 - Schwerttanz
 49 - Sandsturm
@@ -738,7 +738,7 @@ Level Up:
 15 - Biss
 18 - Rechte Hand
 21 - Giftspitzen
-24 - GIfthieb
+24 - Gifthieb
 27 - Schmeichler
 30 - Knirscher
 33 - Giftschweif
@@ -764,7 +764,7 @@ Level Up:
 15 - Biss
 19 - Rechte Hand
 23 - Giftspitzen
-27 - GIfthieb
+27 - Gifthieb
 31 - Schmeichler
 35 - Knirscher
 39 - Giftschweif
@@ -782,8 +782,8 @@ New	Poison Point / Sheer Force
 
 Level Up:
 1 - Kraftkoloss
-1 - Schlammbad Wave
-1 - Drill Run
+1 - Schlammwoge
+1 - Schlagbohrer
 1 - Kratzer
 1 - Rutenschlag
 1 - Doppelkick
@@ -812,7 +812,7 @@ Level Up:
 15 - Hornattack
 18 - Rechte Hand
 21 - Giftspitzen
-24 - GIfthieb
+24 - Gifthieb
 27 - Schmeichler
 30 - Tiefschlag
 33 - Giftschweif
@@ -838,7 +838,7 @@ Level Up:
 15 - Hornattack
 19 - Rechte Hand
 23 - Giftspitzen
-27 - GIfthieb
+27 - Gifthieb
 31 - Schmeichler
 35 - Tiefschlag
 39 - Giftschweif
@@ -856,7 +856,7 @@ New 	Poison Point / Hustle
 
 Level Up:
 1 - Vielender
-1 - Drill Run
+1 - Schlagbohrer
 1 - Pikser
 1 - Energiefokus
 1 - Doppelkick
@@ -875,22 +875,22 @@ Level Up:
 1 - Duplexhieb
 4 - Zugabe
 7 - Gesang
-9 - Disarming Voice
+9 - Säuselstimme
 11 - Einigler
 13 - Spotlight
-15 - Draining Kiss (!!)
+15 - Diebeskuss (!!)
 17 - Weckruf
 19 - Bodyslam
 21 - Komprimator
 23 - Metronom
 25 - Kosmik-Kraft
 27 - Beschwörung
-29 - Moonblast
+29 - Mondgewalt
 31 - Mondschein
 33 - Wunschtraum
 35 - Sternenhieb
 37 - Erdanziehung
-39 - Healing Wunschtraum
+39 - Heilopfer
 
 ===================
 036 - Clefable
@@ -902,7 +902,7 @@ Level Up:
 1 - Duplexhieb
 1 - Komprimator
 1 - Metronom
-37 - Moonblast
+37 - Mondgewalt
 
 ===================
 037 - Vulpix
@@ -950,10 +950,10 @@ Moves:
 Now compatible with TM29, Psychokinese. (!!)
 Now compatible with TM30, Spukball. (!!)
 Now compatible with TM53, Energieball.
-Now compatible with TM85, Dazzling Gleam. (!!)
+Now compatible with TM85, Zauberschein. (!!)
 
 Level Up:
-1 - Moonblast (!!)
+1 - Mondgewalt (!!)
 1 - Begrenzer
 1 - Ränkeschmied
 1 - Flammenwurf
@@ -977,10 +977,10 @@ Level Up:
 1 - Einigler
 4 - Klaps
 7 - Trugträne
-9 - Disarming Voice
+9 - Säuselstimme
 11 - Duplexhieb
 13 - Aussetzer
-15 - Draining Kiss (!!)
+15 - Diebeskuss (!!)
 17 - Walzer
 19 - Bodyslam
 21 - Horter
@@ -989,7 +989,7 @@ Level Up:
 23 - Weckruf
 25 - Schwallwelle
 27 - Erholung
-29 - Moonblast (!!)
+29 - Mondgewalt (!!)
 31 - Gyroball
 33 - Mimikry
 35 - Risikotackle
@@ -1007,7 +1007,7 @@ Old     140 HP / 70 Atk / 45 Def / 85 SAtk / 50 SDef / 45 Spd / 435 BST
 New     140 HP / 80 Atk / 55 Def / 95 SAtk / 60 SDef / 55 Spd / 485 BST
 
 Level Up:
-1 - Play Rough
+1 - Knuddler
 1 - Risikotackle
 1 - Abgesang
 1 - Gesang
@@ -1015,7 +1015,7 @@ Level Up:
 1 - Aussetzer
 1 - Duplexhieb
 33 - Schwallwelle
-43 - Moonblast (!!)
+43 - Mondgewalt (!!)
 
 ===================
 041 - Zubat
@@ -1090,7 +1090,7 @@ Level Up:
 22 - Mondschein
 25 - Gigasauger
 28 - Toxin
-31 - Moonblast
+31 - Mondgewalt
 34 - Matschbombe
 37 - Beerenkräfte
 40 - Blättertanz
@@ -1116,7 +1116,7 @@ Level Up:
 23 - Mondschein
 27 - Gigasauger
 31 - Toxin
-35 - Moonblast
+35 - Mondgewalt
 39 - Matschbombe
 43 - Beerenkräfte
 47 - Blättertanz
@@ -1129,7 +1129,7 @@ Old     Chlorophyll / None
 New     Chlorophyll / Effect Spore
 
 Level Up:
-1 - Moonblast
+1 - Mondgewalt
 1 - Megasauger
 1 - Aromakur
 1 - Giftpuder
@@ -1241,7 +1241,7 @@ Now compatible with TM88, Hurricane. (!!)
 Now compatible with HM02, Fliegen. (!!)
 
 Level Up:
-1 - Silver Wind
+1 - Silberhauch
 1 - Tackle
 1 - Aussetzer
 1 - Gesichte
@@ -1270,7 +1270,7 @@ Level Up:
 1 - Lehmschelle
 4 - Heuler
 7 - Erstauner
-10 - Bulldoze
+10 - Dampfwalze
 13 - Intensität
 16 - Finte
 19 - Schaufler
@@ -1292,7 +1292,7 @@ Level Up:
 1 - Lehmschelle
 4 - Heuler
 7 - Erstauner
-10 - Bulldoze
+10 - Dampfwalze
 13 - Intensität
 16 - Finte
 19 - Schaufler
@@ -1330,7 +1330,7 @@ Level Up:
 30 - Gewissheit
 33 - Hynose
 36 - Ränkeschmied
-39 - Play Rough
+39 - Knuddler
 42 - Liebreiz
 45 - Offenlegung
 48 - Risikotackle
@@ -1364,7 +1364,7 @@ Level Up:
 30 - Gewissheit
 34 - Hynose
 38 - Ränkeschmied
-42 - Play Rough
+42 - Knuddler
 46 - Liebreiz
 50 - Offenlegung
 54 - Risikotackle
@@ -1447,7 +1447,7 @@ Level Up:
 057 - Primeape
 ===================
 Level Up:
-1 - Final Gambit
+1 - Wagemut
 1 - Kratzer
 1 - Fußkick
 1 - Silberblick
@@ -1484,13 +1484,13 @@ Level Up:
 15 - Feuerzahn
 18 - Gegenschlag
 21 - Bodycheck
-23 - Flame Wheel
+23 - Flammenrad
 25 - Agilität
 28 - Flammenwurf
 31 - Knirscher
 33 - Wutanfall
 35 - Hitzewelle
-38 - Play Rough
+38 - Knuddler
 41 - Flammenblitz
 
 ===================
@@ -1499,7 +1499,7 @@ Level Up:
 Level Up:
 1 - Morgengrauen
 1 - Donnerzahn
-1 - Play Rough
+1 - Knuddler
 1 - Biss
 1 - Brüller
 1 - Schnüffler
@@ -1513,7 +1513,7 @@ Level Up:
 ===================
 Level Up
 1 - Klaps
-1 - Bubble
+1 - Blubber
 1 - Nassmacher
 6 - Hynose
 9 - Aquaknarre
@@ -1536,7 +1536,7 @@ Now able to evolve into Politoed by using a King's Rock.
 
 Level Up:
 1 - Klaps
-1 - Bubble
+1 - Blubber
 1 - Nassmacher
 6 - Hynose
 9 - Aquaknarre
@@ -1558,7 +1558,7 @@ Moves:
 Now compatible with TM60, Ableithieb. (!!)
 
 Level Up:
-1 - Vacuum Wave
+1 - Vakuumwelle
 1 - Weißnebel
 1 - Dunkelnebel
 1 - Protzer
@@ -1723,7 +1723,7 @@ Level Up:
 16 - Lockduft
 19 - Magensäfte
 22 - Blutsauger
-25 - GIfthieb
+25 - Gifthieb
 28 - Samenbomben
 31 - Abschlag
 34 - Slam
@@ -1749,7 +1749,7 @@ Level Up:
 16 - Lockduft
 19 - Magensäfte
 23 - Blutsauger
-27 - GIfthieb
+27 - Gifthieb
 31 - Samenbomben
 35 - Abschlag
 39 - Slam
@@ -1792,7 +1792,7 @@ Level Up:
 19 - Megasauger
 22 - Blubbstrahl
 25 - Barriere
-28 - GIfthieb
+28 - Gifthieb
 31 - Lehmbrühe
 34 - Matschbombe
 37 - Kreideschrei
@@ -1814,7 +1814,7 @@ Level Up:
 19 - Megasauger
 22 - Blubbstrahl
 25 - Barriere
-28 - GIfthieb
+28 - Gifthieb
 32 - Lehmbrühe
 36 - Matschbombe
 40 - Kreideschrei
@@ -1831,10 +1831,10 @@ Level Up:
 1 - Lehmsuhler
 7 - Steinpolitur
 10 - Steinwurf
-13 - Bulldoze
+13 - Dampfwalze
 16 - Walzer
 19 - Intensität
-22 - Self-Destruct
+22 - Finale
 25 - Steinhagel
 28 - Tarnsteine
 31 - Erdbeben
@@ -1855,10 +1855,10 @@ Level Up:
 1 - Lehmsuhler
 7 - Steinpolitur
 10 - Steinwurf
-13 - Bulldoze
+13 - Dampfwalze
 16 - Walzer
 19 - Intensität
-22 - Self-Destruct
+22 - Finale
 25 - Gyroball
 26 - Steinhagel
 30 - Tarnsteine
@@ -1881,10 +1881,10 @@ Level Up:
 1 - Lehmsuhler
 7 - Steinpolitur
 10 - Steinwurf
-13 - Bulldoze
+13 - Dampfwalze
 16 - Walzer
 19 - Intensität
-22 - Self-Destruct
+22 - Finale
 25 - Gyroball
 26 - Steinhagel
 30 - Tarnsteine
@@ -1909,7 +1909,7 @@ Level Up:
 7 - Glut
 10 - Stampfer
 13 - Doppelkick
-16 - Flame Wheel
+16 - Flammenrad
 19 - Bodycheck
 22 - Feuerwirbel
 25 - Agilität
@@ -1929,8 +1929,8 @@ Old     Run Away / Blitz Fire
 New     Flame Body / Blitz Fire
 
 Level Up:
-1 - GIfthieb
-1 - Drill Run
+1 - Gifthieb
+1 - Schlagbohrer
 1 - Vielender
 1 - Tackle
 1 - Heuler
@@ -1938,7 +1938,7 @@ Level Up:
 7 - Glut
 10 - Stampfer
 13 - Doppelkick
-16 - Flame Wheel
+16 - Flammenrad
 19 - Bodycheck
 22 - Feuerwirbel
 25 - Agilität
@@ -1961,7 +1961,7 @@ Moves:
 Now compatible with HM07, Kaskade. (!!)
 
 Level Up:
-1 - Curse
+1 - Fluch
 1 - Gähner
 1 - Tackle
 4 - Heuler
@@ -1978,7 +1978,7 @@ Level Up:
 37 - Regentanz
 40 - Psycho-Plus
 43 - Seher
-46 - Trickbetrug Room
+46 - Bizarroraum
 
 ===================
 080 - Slowbro
@@ -1987,7 +1987,7 @@ Moves:
 Now compatible with HM07, Kaskade. (!!)
 
 Level Up:
-1 - Curse
+1 - Fluch
 1 - Gähner
 1 - Tackle
 4 - Heuler
@@ -2005,7 +2005,7 @@ Level Up:
 39 - Regentanz
 43 - Psycho-Plus
 47 - Seher
-51 - Trickbetrug Room
+51 - Bizarroraum
 
 ===================
 081 - Magnemite
@@ -2090,7 +2090,7 @@ Level Up:
 22 - Nachthieb
 25 - Vergeltung
 28 - Laubklinge
-31 - GIfthieb
+31 - Gifthieb
 34 - Luftschnitt
 37 - Trugschlag
 40 - Offenlegung
@@ -2117,7 +2117,7 @@ Level Up:
 21 - Agilität
 24 - Sprungkick
 27 - Aufruhr
-30 - Drill Pikser
+30 - Bohrschnabel
 33 - Akupressur
 36 - Spiegeltrick
 39 - Schwerttanz
@@ -2146,7 +2146,7 @@ Level Up:
 21 - Agilität
 24 - Sprungkick
 27 - Aufruhr
-30 - Drill Pikser
+30 - Bohrschnabel
 31 - Triplette
 34 - Akupressur
 38 - Spiegeltrick
@@ -2174,7 +2174,7 @@ Level Up:
 25 - Nassschweif
 28 - Eisstrahl
 31 - Bodycheck
-33 - Drill Run
+33 - Schlagbohrer
 35 - Bodyguard
 38 - Taucher
 41 - Hagelsturm
@@ -2203,7 +2203,7 @@ Level Up:
 25 - Nassschweif
 28 - Eisstrahl
 31 - Bodycheck
-33 - Drill Run
+33 - Schlagbohrer
 34 - Eiseskälte
 35 - Bodyguard
 41 - Taucher
@@ -2214,7 +2214,7 @@ Level Up:
 088 - Grimer
 ===================
 Level Up:
-1 - Curse
+1 - Fluch
 1 - Klaps
 1 - Giftwolke
 4 - Härtner
@@ -2225,11 +2225,11 @@ Level Up:
 19 - Komprimator
 22 - Schattenstoß
 25 - Schleuder
-28 - GIfthieb
+28 - Gifthieb
 31 - Gegenstoß
 34 - Kreideschrei
 37 - Matschbombe
-40 - Säure Armor
+40 - Säurepanzer
 43 - Mülltreffer
 46 - Memento-Mori
 
@@ -2237,9 +2237,9 @@ Level Up:
 089 - Muk
 ===================
 Level Up:
-1 - Moonblast
+1 - Mondgewalt
 1 - Dunkelnebel
-1 - Curse
+1 - Fluch
 1 - Klaps
 1 - Giftwolke
 4 - Härtner
@@ -2250,11 +2250,11 @@ Level Up:
 19 - Komprimator
 22 - Schattenstoß
 25 - Schleuder
-28 - GIfthieb
+28 - Gifthieb
 31 - Gegenstoß
 34 - Kreideschrei
 38 - Matschbombe
-42 - Säure Armor
+42 - Säurepanzer
 46 - Mülltreffer
 50 - Memento-Mori
 
@@ -2307,7 +2307,7 @@ Level Up:
 25 - Stachler
 31 - Duonadel
 37 - Felswurf
-43 - Icicle Crash
+43 - Eiszapfhagel
 
 ===================
 092 - Gastly
@@ -2322,7 +2322,7 @@ Level Up:
 10 - Smog
 13 - Konfusstrahl
 16 - Unheilböen
-19 - Curse
+19 - Fluch
 22 - Tiefschlag
 25 - Spukball
 28 - Gegenstoß
@@ -2348,9 +2348,9 @@ Level Up:
 10 - Smog
 13 - Konfusstrahl
 16 - Unheilböen
-19 - Curse
+19 - Fluch
 22 - Tiefschlag
-25 - FInsterfaust
+25 - Finsterfaust
 26 - Spukball
 30 - Gegenstoß
 34 - Matschbombe
@@ -2372,9 +2372,9 @@ Level Up:
 10 - Smog
 13 - Konfusstrahl
 16 - Unheilböen
-19 - Curse
+19 - Fluch
 22 - Tiefschlag
-25 - FInsterfaust
+25 - Finsterfaust
 26 - Spukball
 30 - Gegenstoß
 34 - Matschbombe
@@ -2399,9 +2399,9 @@ Level Up:
 1 - Tackle
 1 - Härtner
 1 - Klammergriff
-4 - Curse
+4 - Fluch
 7 - Steinwurf
-10 - Bulldoze
+10 - Dampfwalze
 13 - Felsgrab
 16 - Raserei
 19 - Feuerodem
@@ -2472,7 +2472,7 @@ Now compatible with TM65, Dunkelklaue. (!!)
 Now compatible with HM07, Kaskade. (!!)
 
 Level Up:
-1 - Bubble
+1 - Blubber
 1 - Lehmsuhler
 1 - Härtner
 5 - Klammer
@@ -2501,7 +2501,7 @@ Level Up:
 1 - Kraftkoloss
 1 - Agilität
 1 - Amnesie
-1 - Bubble
+1 - Blubber
 1 - Lehmsuhler
 1 - Härtner
 5 - Klammer
@@ -2533,7 +2533,7 @@ Level Up:
 15 - Funkensprung
 18 - Ladestrahl
 21 - Sternschauer
-24 - Self-Destruct
+24 - Finale
 27 - Ladungsstoß
 30 - Lichtschild
 33 - Magnetflug
@@ -2559,7 +2559,7 @@ Level Up:
 15 - Funkensprung
 18 - Ladestrahl
 21 - Sternschauer
-24 - Self-Destruct
+24 - Finale
 27 - Ladungsstoß
 31 - Lichtschild
 35 - Magnetflug
@@ -2704,7 +2704,7 @@ Level Up:
 35 - Nahkampf
 37 - Konter
 39 - Megahieb
-41 - Vacuum Wave
+41 - Vakuumwelle
 43 - Himmelhieb
 45 - Power-Punch
 
@@ -2744,7 +2744,7 @@ Level Up:
 10 - Gewissheit
 13 - Leidteiler
 16 - Schlammbad
-19 - Self-Destruct
+19 - Finale
 22 - Dunkelnebel
 25 - Gyroball
 28 - Matschbombe
@@ -2767,7 +2767,7 @@ Level Up:
 10 - Gewissheit
 13 - Leidteiler
 16 - Schlammbad
-19 - Self-Destruct
+19 - Finale
 22 - Dunkelnebel
 25 - Gyroball
 28 - Matschbombe
@@ -2794,15 +2794,15 @@ Level Up:
 1 - Rutenschlag
 4 - Furienschlag
 7 - Grimasse
-10 - Bulldoze
+10 - Dampfwalze
 13 - Stampfer
 16 - Felswurf
 19 - Intensität
 22 - Bodycheck
-25 - Drill Run
+25 - Schlagbohrer
 28 - Knirscher
 31 - Steinhagel
-34 - GIfthieb
+34 - Gifthieb
 37 - Vielender
 40 - Erdbeben
 43 - Steinkante
@@ -2825,15 +2825,15 @@ Level Up:
 1 - Rutenschlag
 4 - Furienschlag
 7 - Grimasse
-10 - Bulldoze
+10 - Dampfwalze
 13 - Stampfer
 16 - Felswurf
 19 - Intensität
 22 - Bodycheck
-25 - Drill Run
+25 - Schlagbohrer
 28 - Knirscher
 31 - Steinhagel
-34 - GIfthieb
+34 - Gifthieb
 36 - Hammerarm
 38 - Vielender
 42 - Erdbeben
@@ -2867,7 +2867,7 @@ Level Up:
 31 - Geowurf
 34 - Bodycheck
 37 - Lichtschild
-40 - Healing Wunschtraum
+40 - Heilopfer
 43 - Konter
 46 - Risikotackle
 
@@ -2926,7 +2926,7 @@ Level Up:
 116 - Horsea
 ===================
 Level Up:
-1 - Bubble
+1 - Blubber
 1 - Silberblick
 1 - Rauchwolke
 7 - Aquaknarre
@@ -2952,7 +2952,7 @@ Now able to evolve into Kingdra by using a Dragon Scale.
 
 Level Up:
 1 - Aussetzer
-1 - Bubble
+1 - Blubber
 1 - Silberblick
 1 - Rauchwolke
 7 - Aquaknarre
@@ -2993,7 +2993,7 @@ Level Up:
 28 - Bodyslam
 31 - Nassschweif
 34 - Abschlag
-37 - Drill Run
+37 - Schlagbohrer
 40 - Sprungfeder
 43 - Vielender
 46 - Hydropumpe
@@ -3006,7 +3006,7 @@ Old     80 HP / 92 Atk / 65 Def / 65 SAtk / 80 SDef / 68 Spd / 450 BST
 New     80 HP / 122 Atk / 80 Def / 45 SAtk / 80 SDef / 78 Spd / 485 BST
 
 Level Up:
-1 - GIfthieb
+1 - Gifthieb
 1 - Pikser
 1 - Rutenschlag
 1 - Nassmacher
@@ -3022,7 +3022,7 @@ Level Up:
 28 - Bodyslam
 31 - Nassschweif
 35 - Abschlag
-39 - Drill Run
+39 - Schlagbohrer
 43 - Sprungfeder
 47 - Vielender
 51 - Hydropumpe
@@ -3087,7 +3087,7 @@ Level Up:
 21 - Psystrahl
 24 - Lichtschild
 24 - Reflektor
-27 - Dazzling Gleam
+27 - Zauberschein
 30 - Delegator
 33 - Psychokinese
 36 - Trickbetrug
@@ -3110,7 +3110,7 @@ Moves:
 Now compatible with TM62, Käfergebrumm.
 
 Level Up:
-1 - Vacuum Wave
+1 - Vakuumwelle
 1 - Ruckzubhieb
 1 - Silberblick
 4 - Energiefokus
@@ -3144,7 +3144,7 @@ Old     Oblivious / Forewarn
 New     Dry Skin / Forewarn
 
 Level Up:
-1 - Draining Kiss
+1 - Diebeskuss
 1 - Klaps
 1 - Todeskuss
 1 - Schlecker
@@ -3255,7 +3255,7 @@ Level Up:
 10 - Verfolgung
 13 - Stampfer
 16 - Erholung
-19 - Bulldoze
+19 - Dampfwalze
 22 - Gegenstoß
 25 - Bodycheck
 28 - Zen-Kopfstoß
@@ -3319,7 +3319,7 @@ Level Up:
 28 - Blubbstrahl
 31 - Bodyguard
 34 - Drachenpuls
-37 - Drill Run
+37 - Schlagbohrer
 40 - Seher
 43 - Drachentanz
 46 - Lawine
@@ -3355,7 +3355,7 @@ Level Up:
 7 - Sandwirbel
 10 - Ruckzubhieb
 13 - Stafette
-15 - Babydoll-Eyes
+15 - Kulleraugen
 16 - Sternschauer
 19 - Heilung
 22 - Wunschtraum
@@ -3386,9 +3386,9 @@ Level Up:
 16 - Aquawelle
 19 - Aurorastrahl
 22 - Wasserring
-25 - Scald
+25 - Siedewasser
 28 - Sondersensor (!!)
-31 - Säure Armor
+31 - Säurepanzer
 34 - Lehmbrühe
 37 - Eisstrahl
 40 - Zuflucht
@@ -3445,9 +3445,9 @@ Level Up:
 13 - Smog
 16 - Feuerzahn
 19 - Feuerwirbel
-22 - Flame Wheel (!!)
+22 - Flammenrad (!!)
 25 - Flammensturm
-28 - Play Rough (!!)
+28 - Knuddler (!!)
 31 - Grimasse
 34 - Flammenwurf
 37 - Nahkampf (!!)
@@ -3478,7 +3478,7 @@ Level Up:
 31 - Zielschuss
 34 - Magiemantel
 37 - Donnerblitz
-40 - Trickbetrug Room
+40 - Bizarroraum
 43 - Psychokinese
 46 - Blitzkanone
 49 - Hyperstrahl
@@ -3692,7 +3692,7 @@ Level Up:
 22 - Ladungsstoß
 26 - Regentanz
 30 - Rückenwind
-34 - Drill Pikser
+34 - Bohrschnabel
 38 - Donner
 42 - Ruheort
 46 - Lichtschild
@@ -3867,7 +3867,7 @@ Old     Overgrow / None
 New     Serene Grace / Overgrow
 
 Moves:
-Now compatible with TM85, Dazzling Gleam. (!!)
+Now compatible with TM85, Zauberschein. (!!)
 
 Level Up:
 1 - Tackle
@@ -3878,11 +3878,11 @@ Level Up:
 14 - Zauberblatt
 17 - Reflektor
 17 - Lichtschild
-20 - Draining Kiss (!!)
+20 - Diebeskuss (!!)
 23 - Energieball
 26 - Lockduft
 29 - Bodyslam
-32 - Moonblast (!!)
+32 - Mondgewalt (!!)
 35 - Bodyguard
 38 - Aromakur
 41 - Solarstrahl
@@ -3896,7 +3896,7 @@ Old     Overgrow / None
 New     Serene Grace / Overgrow
 
 Moves:
-Now compatible with TM85, Dazzling Gleam. (!!)
+Now compatible with TM85, Zauberschein. (!!)
 
 Level Up:
 1 - Tackle
@@ -3908,11 +3908,11 @@ Level Up:
 16 - Grasflöte
 18 - Reflektor
 18 - Lichtschild
-22 - Draining Kiss (!!)
+22 - Diebeskuss (!!)
 26 - Energieball
 30 - Lockduft
 34 - Bodyslam
-38 - Moonblast (!!)
+38 - Mondgewalt (!!)
 42 - Bodyguard
 46 - Aromakur
 50 - Solarstrahl
@@ -3930,7 +3930,7 @@ Old     80 HP / 82 Atk / 100 Def / 83 SAtk / 100 SDef / 80 Spd / 525 BST
 New     80 HP / 82 Atk / 100 Def / 93 SAtk / 100 SDef / 80 Spd / 535 BST
 
 Moves:
-Now compatible with TM85, Dazzling Gleam. (!!)
+Now compatible with TM85, Zauberschein. (!!)
 
 Level Up:
 1 - Erdkräfte (!!)
@@ -3944,12 +3944,12 @@ Level Up:
 16 - Grasflöte
 18 - Reflektor
 18 - Lichtschild
-22 - Draining Kiss (!!)
+22 - Diebeskuss (!!)
 26 - Energieball
 30 - Lockduft
 32 - Blättertanz
 35 - Bodyslam
-40 - Moonblast (!!)
+40 - Mondgewalt (!!)
 45 - Bodyguard
 50 - Aromakur
 55 - Solarstrahl
@@ -3968,7 +3968,7 @@ Level Up:
 5 - Glut
 8 - Rauchwolke
 11 - Ruckzubhieb
-14 - Flame Wheel
+14 - Flammenrad
 17 - Einigler
 20 - Gegenschlag
 23 - Flammensturm
@@ -3994,7 +3994,7 @@ Level Up:
 8 - Rauchwolke
 11 - Ruckzubhieb
 14 - Doppelkick
-15 - Flame Wheel
+15 - Flammenrad
 19 - Einigler
 23 - Gegenschlag
 27 - Flammensturm
@@ -4027,7 +4027,7 @@ Level Up:
 8 - Rauchwolke
 11 - Ruckzubhieb
 14 - Doppelkick
-15 - Flame Wheel
+15 - Flammenrad
 19 - Einigler
 23 - Gegenschlag
 27 - Flammensturm
@@ -4150,12 +4150,12 @@ Level Up:
 11 - Slam
 14 - Spotlight
 17 - Erholung
-20 - Flame Wheel (!!)
+20 - Flammenrad (!!)
 23 - Zen-Kopfstoß (!!)
 26 - Amnesie
 29 - Gegenschlag
 32 - Stafette
-35 - Play Rough (!!)
+35 - Knuddler (!!)
 38 - Egotrip
 41 - Schwallwelle
 44 - Risikotackle
@@ -4183,12 +4183,12 @@ Level Up:
 14 - Spotlight
 15 - Agilität
 18 - Erholung
-22 - Flame Wheel (!!)
+22 - Flammenrad (!!)
 26 - Zen-Kopfstoß (!!)
 30 - Amnesie
 34 - Gegenschlag
 38 - Stafette
-42 - Play Rough (!!)
+42 - Knuddler (!!)
 46 - Egotrip
 50 - Schwallwelle
 54 - Risikotackle
@@ -4219,7 +4219,7 @@ Level Up:
 27 - Reflektor
 30 - Psychokinese
 33 - Zen-Kopfstoß
-36 - Moonblast
+36 - Mondgewalt
 39 - Ruheort
 42 - Traumfresser
 45 - Hurricane
@@ -4257,7 +4257,7 @@ Level Up:
 30 - Reflektor
 34 - Psychokinese
 38 - Zen-Kopfstoß
-42 - Moonblast
+42 - Mondgewalt
 46 - Ruheort
 50 - Traumfresser
 54 - Hurricane
@@ -4287,7 +4287,7 @@ Level Up:
 11 - Bodyguard
 13 - Tempohieb
 15 - Aero-Ass
-18 - Silver Wind
+18 - Silberhauch
 21 - Kehrtwende
 24 - Stafette
 27 - Abschlag
@@ -4325,7 +4325,7 @@ Level Up:
 11 - Bodyguard
 13 - Tempohieb
 15 - Aero-Ass
-19 - Silver Wind
+19 - Silberhauch
 23 - Kehrtwende
 27 - Stafette
 31 - Abschlag
@@ -4358,7 +4358,7 @@ Level Up:
 23 - Kratzfurie
 25 - Nachthieb
 27 - Spinnennetz
-29 - GIfthieb
+29 - Gifthieb
 32 - Tiefschlag
 35 - Nadelrakete
 38 - Giftstreich
@@ -4391,7 +4391,7 @@ Level Up:
 24 - Kratzfurie
 27 - Nachthieb
 30 - Spinnennetz
-33 - GIfthieb
+33 - Gifthieb
 37 - Tiefschlag
 41 - Nadelrakete
 45 - Giftstreich
@@ -4435,7 +4435,7 @@ Old     Volt Absorber / Illuminate
 New     Volt Absorber / Water Absorber
 
 Level Up:
-1 - Bubble
+1 - Blubber
 1 - Superschall
 1 - Donnerwelle
 6 - Schockwelle
@@ -4461,7 +4461,7 @@ Old     Volt Absorber / Illuminate
 New     Volt Absorber / Water Absorber
 
 Level Up:
-1 - Bubble
+1 - Blubber
 1 - Superschall
 1 - Donnerwelle
 6 - Schockwelle
@@ -4492,12 +4492,12 @@ Now compatible with HM03, Surfer.
 Level Up:
 1 - Donnerschock
 1 - Rutenschlag
-1 - Disarming Voice
+1 - Säuselstimme
 4 - Charme
 7 - Bitterkuss
 11 - Donnerwelle
 13 - Ränkeschmied
-15 - Disarming Voice
+15 - Säuselstimme
 
 ===================
 173 - Cleffa
@@ -4505,13 +4505,13 @@ Level Up:
 Level Up:
 1 - Klaps
 1 - Charme
-1 - Disarming Voice (!!)
+1 - Säuselstimme (!!)
 1 - Bitterkuss
 4 - Zugabe
 7 - Gesang
 11 - Imitator
 13 - Zauberblatt
-15 - Draining Kiss (!!)
+15 - Diebeskuss (!!)
 
 ===================
 174 - Igglybuff
@@ -4523,12 +4523,12 @@ New     Cute Charme / Competitive
 Level Up:
 1 - Gesang
 1 - Charme
-1 - Disarming Voice (!!)
+1 - Säuselstimme (!!)
 1 - Einigler
 4 - Klaps
 7 - Bitterkuss
 11 - Imitator
-15 - Draining Kiss (!!)
+15 - Diebeskuss (!!)
 
 ===================
 175 - Togepi
@@ -4541,19 +4541,19 @@ Level Up:
 1 - Heuler
 1 - Charme
 1 - Sondersensor
-1 - Disarming Voice (!!)
+1 - Säuselstimme (!!)
 5 - Metronom
 8 - Bitterkuss
 11 - Gähner
 13 - Zugabe
-15 - Draining Kiss (!!)
+15 - Diebeskuss (!!)
 17 - Spotlight
 19 - Wunschtraum
 21 - Bodyguard
 23 - Antik-Kraft
 25 - Weichei
 27 - Stafette
-29 - Moonblast (!!)
+29 - Mondgewalt (!!)
 31 - Ränkeschmied
 33 - Risikotackle
 35 - Zuflucht
@@ -4573,12 +4573,12 @@ Level Up:
 1 - Heuler
 1 - Charme
 1 - Sondersensor
-1 - Disarming Voice (!!)
+1 - Säuselstimme (!!)
 5 - Metronom
 8 - Bitterkuss
 11 - Gähner
 13 - Zugabe
-15 - Draining Kiss (!!)
+15 - Diebeskuss (!!)
 17 - Spotlight
 19 - Wunschtraum
 20 - Windschnitt
@@ -4586,7 +4586,7 @@ Level Up:
 23 - Antik-Kraft
 25 - Weichei
 27 - Stafette
-29 - Moonblast (!!)
+29 - Mondgewalt (!!)
 31 - Ränkeschmied
 33 - Risikotackle
 35 - Zuflucht
@@ -4688,7 +4688,7 @@ Level Up:
 ===================
 Moves:
 Now compatible with TM59, Drachenpuls.
-Now compatible with TM85, Dazzling Gleam. (!!)
+Now compatible with TM85, Zauberschein. (!!)
 Now compatible with TM91, Blitz Cannon. (!!)
 
 Level Up:
@@ -4722,7 +4722,7 @@ Old     Chlorophyll / None
 New     Chlorophyll / Own Tempo
 
 Level Up:
-1 - Moonblast
+1 - Mondgewalt
 1 - Zauberblatt
 1 - Blättersturm
 1 - Laubklinge
@@ -4752,14 +4752,14 @@ Level Up:
 1 - Aquaknarre
 1 - Rutenschlag
 1 - Nassmacher
-6 - Bubble
+6 - Blubber
 9 - Einigler
 9 - Walzer
 12 - Blubbstrahl
 15 - Wasserdüse
 18 - Rechte Hand
 21 - Nassschweif
-24 - Play Rough
+24 - Knuddler
 27 - Wasserring
 30 - Regentanz
 33 - Bauchtrommel
@@ -4788,7 +4788,7 @@ Level Up:
 1 - Aquaknarre
 1 - Rutenschlag
 1 - Nassmacher
-6 - Bubble
+6 - Blubber
 9 - Einigler
 9 - Walzer
 12 - Blubbstrahl
@@ -4796,7 +4796,7 @@ Level Up:
 18 - Bodyslam
 19 - Rechte Hand
 23 - Nassschweif
-27 - Play Rough
+27 - Knuddler
 31 - Wasserring
 35 - Regentanz
 39 - Bauchtrommel
@@ -5043,7 +5043,7 @@ Level Up:
 6 - Doppelteam
 9 - Ultraschall
 13 - Flügelschlag
-15 - Silver Wind
+15 - Silberhauch
 17 - Scanner
 19 - Windschnitt
 23 - Superschall
@@ -5076,7 +5076,7 @@ Level Up:
 10 - Slam
 13 - Doppelkick
 15 - Schlammbombe
-17 - Curse
+17 - Fluch
 19 - Amnesie
 22 - Nassschweif
 25 - Gähner
@@ -5108,7 +5108,7 @@ Level Up:
 10 - Slam
 13 - Doppelkick
 15 - Schlammbombe
-17 - Curse
+17 - Fluch
 19 - Amnesie
 23 - Nassschweif
 27 - Gähner
@@ -5166,7 +5166,7 @@ On Level Up - Snarl
 19 - Gewissheit
 22 - Konfusstrahl
 25 - Knirscher (!!)
-28 - Play Rough (!!)
+28 - Knuddler (!!)
 31 - Mondschein
 34 - Tiefschlag
 37 - Mülltreffer (!!)
@@ -5193,7 +5193,7 @@ Level Up:
 17 - Nachtnebel
 19 - Verhöhner
 23 - Finte
-25 - Drill Pikser
+25 - Bohrschnabel
 27 - Horrorblick
 29 - Tiefschlag
 33 - Rückenwind
@@ -5210,7 +5210,7 @@ Now compatible with HM07, Kaskade. (!!)
 Level Up:
 1 - Juwelenkraft
 1 - Kraftreserve
-1 - Curse
+1 - Fluch
 1 - Gähner
 1 - Tackle
 4 - Heuler
@@ -5227,7 +5227,7 @@ Level Up:
 37 - Trumpfkarte
 40 - Psycho-Plus
 43 - Seher
-46 - Trickbetrug Room
+46 - Bizarroraum
 49 - Aurasphäre (!!)
 
 ===================
@@ -5239,18 +5239,18 @@ Level Up:
 5 - Groll
 9 - Erstauner
 11 - Schattenstoß
-13 - Disarming Voice
+13 - Säuselstimme
 15 - Unheilböen
 17 - Psystrahl
 19 - Konfusstrahl
-21 - Draining Kiss (!!)
+21 - Diebeskuss (!!)
 23 - Leidteiler
 25 - Spukball
 27 - Gegenstoß
 29 - Horrorblick
 31 - Abgesang
 33 - Juwelenkraft
-35 - Moonblast (!!)
+35 - Mondgewalt (!!)
 37 - Hynose
 39 - Nachspiel
 41 - Abgangsbund
@@ -5318,17 +5318,17 @@ Level Up:
 1 - Tackle
 1 - Schutzschild
 6 - Käfergebiss
-9 - Self-Destruct
+9 - Finale
 12 - Turbodreher
 15 - Nadelrakete
 18 - Bodycheck
-21 - Bide
+21 - Geduld
 24 - Beerenkräfte
 27 - Stachler
 27 - Giftspitzen
 30 - Gegenstoß
 33 - Gyroball
-36 - Drill Run
+36 - Schlagbohrer
 39 - Explosion
 42 - Eisenabwehr
 45 - Risikotackle
@@ -5344,18 +5344,18 @@ Level Up:
 1 - Tackle
 1 - Schutzschild
 6 - Käfergebiss
-9 - Self-Destruct
+9 - Finale
 12 - Turbodreher
 15 - Nadelrakete
 18 - Bodycheck
-21 - Bide
+21 - Geduld
 24 - Beerenkräfte
 27 - Stachler
 27 - Giftspitzen
 30 - Gegenstoß
 31 - Spiegelsalve
 34 - Gyroball
-38 - Drill Run
+38 - Schlagbohrer
 42 - Explosion
 46 - Eisenabwehr
 50 - Risikotackle
@@ -5380,7 +5380,7 @@ Level Up:
 17 - Gähner
 19 - Antik-Kraft
 21 - Bodyslam
-23 - Drill Run
+23 - Schlagbohrer
 25 - Ruheort
 27 - Bodycheck
 29 - Schaufler
@@ -5411,7 +5411,7 @@ Level Up:
 7 - Zornklinge
 10 - Abschlag
 13 - Flügelschlag
-16 - Bulldoze
+16 - Dampfwalze
 19 - Finte
 22 - Schlitzer
 25 - Kehrtwende
@@ -5438,9 +5438,9 @@ Level Up:
 1 - Tackle
 1 - Härtner
 1 - Klammergriff
-4 - Curse
+4 - Fluch
 7 - Steinwurf
-10 - Bulldoze
+10 - Dampfwalze
 13 - Felsgrab
 16 - Raserei
 19 - Feuerodem
@@ -5470,7 +5470,7 @@ Level Up:
 16 - Kopfnuss
 19 - Brüller
 22 - Raserei
-25 - Play Rough
+25 - Knuddler
 28 - Knirscher
 31 - Superzahn
 34 - Gegenstoß
@@ -5495,7 +5495,7 @@ Level Up:
 16 - Kopfnuss
 19 - Brüller
 22 - Raserei
-26 - Play Rough
+26 - Knuddler
 30 - Knirscher
 34 - Superzahn
 38 - Gegenstoß
@@ -5520,7 +5520,7 @@ Level Up:
 1 - Stachler
 1 - Tackle
 1 - Giftstachel
-6 - Bubble
+6 - Blubber
 9 - Härtner
 12 - Komprimator
 15 - Wasserdüse
@@ -5528,7 +5528,7 @@ Level Up:
 21 - Giftspitzen
 24 - Horter
 24 - Entfessler
-27 - GIfthieb
+27 - Gifthieb
 30 - Vergeltung
 33 - Nassschweif
 36 - Nadelrakete
@@ -5577,7 +5577,7 @@ Moves:
 Now compatible with TM62, Käfergebrumm. (!!)
 
 Level Up:
-1 - Bide
+1 - Geduld
 1 - Panzerschutz
 1 - Walzer
 6 - Zugabe
@@ -5677,7 +5677,7 @@ Level Up:
 36 - Knirscher
 39 - Fuchtler
 42 - Schleuder
-45 - Play Rough
+45 - Knuddler
 48 - Nahkampf
 51 - Risikotackle
 
@@ -5703,7 +5703,7 @@ Level Up:
 39 - Knirscher
 43 - Fuchtler
 47 - Hammerarm
-51 - Play Rough
+51 - Knuddler
 55 - Nahkampf
 59 - Risikotackle
 
@@ -5780,7 +5780,7 @@ Level Up:
 7 - Lehmsuhler
 10 - Pulverschnee
 13 - Eissplitter
-16 - Bulldoze
+16 - Dampfwalze
 19 - Ausdauer
 22 - Schlammbombe
 25 - Lawine
@@ -5788,7 +5788,7 @@ Level Up:
 31 - Weißnebel
 34 - Erdbeben
 37 - Dreschflegel
-40 - Icicle Crash
+40 - Eiszapfhagel
 43 - Amnesie
 46 - Blizzard
 
@@ -5808,7 +5808,7 @@ Level Up:
 7 - Lehmsuhler
 10 - Pulverschnee
 13 - Eiszahn
-16 - Bulldoze
+16 - Dampfwalze
 19 - Ausdauer
 22 - Schlammbombe
 25 - Lawine
@@ -5817,7 +5817,7 @@ Level Up:
 33 - Furienschlag
 35 - Erdbeben
 39 - Fuchtler
-43 - Icicle Crash
+43 - Eiszapfhagel
 47 - Amnesie
 51 - Blizzard
 
@@ -5831,7 +5831,7 @@ New     65 HP / 45 Atk / 115 Def / 90 SAtk / 115 SDef / 35 Spd / 465 BST
 Level Up:
 1 - Tackle
 1 - Härtner
-1 - Bubble
+1 - Blubber
 4 - Dornkanone
 7 - Genesung
 10 - Heilung
@@ -5923,7 +5923,7 @@ Level Up:
 15 - Sternschauer
 18 - Windschnitt (!!)
 21 - Aurorastrahl
-24 - Drill Pikser
+24 - Bohrschnabel
 27 - Aufbereitung
 30 - Luftschnitt (!!)
 33 - Hagelsturm
@@ -5945,7 +5945,7 @@ Level Up:
 1 - Kugelsaat
 1 - Ruheort
 1 - Tackle
-1 - Bubble
+1 - Blubber
 1 - Windschnitt
 4 - Superschall
 7 - Konfusstrahl
@@ -5981,13 +5981,13 @@ Level Up:
 19 - Sternschauer
 22 - Stahlflügel
 25 - Stachler
-28 - Drill Pikser
+28 - Bohrschnabel
 31 - Agilität
 34 - Schlitzer
 34 - Nachthieb
 37 - Eisenschädel
 40 - Luftschnitt
-43 - Drill Run (!!)
+43 - Schlagbohrer (!!)
 46 - Metallsound
 49 - Konter
 52 - Sturzflug
@@ -6049,7 +6049,7 @@ Level Up:
 Level Up:
 1 - Gähner
 1 - Aussetzer
-1 - Bubble
+1 - Blubber
 1 - Silberblick
 1 - Rauchwolke
 7 - Aquaknarre
@@ -6083,7 +6083,7 @@ Level Up:
 4 - Lehmschelle
 7 - Kopfnuss
 10 - Walzer
-13 - Bulldoze
+13 - Dampfwalze
 16 - Dreschflegel
 19 - Beerenkräfte
 22 - Slam
@@ -6093,7 +6093,7 @@ Level Up:
 34 - Zuflucht
 37 - Eissplitter
 40 - Risikotackle
-43 - Play Rough
+43 - Knuddler
 46 - Kopfstoß
 
 ===================
@@ -6112,7 +6112,7 @@ Level Up:
 4 - Lehmschelle
 7 - Kopfnuss
 10 - Walzer
-13 - Bulldoze
+13 - Dampfwalze
 16 - Turbodreher
 19 - Gewissheit
 22 - Slam
@@ -6123,7 +6123,7 @@ Level Up:
 38 - Erdbeben
 42 - Eissplitter
 46 - Gigastoß
-50 - Play Rough
+50 - Knuddler
 54 - Kopfstoß
 
 ===================
@@ -6149,7 +6149,7 @@ Level Up:
 31 - Zielschuss
 34 - Magiemantel
 37 - Donnerblitz
-40 - Trickbetrug Room
+40 - Bizarroraum
 43 - Psychokinese
 46 - Blitzkanone
 49 - Hyperstrahl
@@ -6245,7 +6245,7 @@ Level Up:
 33 - Scanner
 35 - Nahkampf
 37 - Konter
-39 - Drill Run
+39 - Schlagbohrer
 41 - Patronenhieb
 43 - Notsituation
 45 - Turmkick
@@ -6343,7 +6343,7 @@ Level Up:
 5 - Einigler
 9 - Stampfer
 13 - Milk Drink
-17 - Bide
+17 - Geduld
 21 - Walzer
 25 - Bodyslam
 29 - Zen-Kopfstoß
@@ -6380,7 +6380,7 @@ Level Up:
 31 - Geowurf
 34 - Bodycheck
 37 - Lichtschild
-40 - Healing Wunschtraum
+40 - Heilopfer
 43 - Konter
 46 - Risikotackle
 
@@ -6475,7 +6475,7 @@ Level Up:
 4 - Sandsturm
 7 - Verfolgung
 10 - Felsgrab
-13 - Bulldoze
+13 - Dampfwalze
 16 - Grimasse
 19 - Steinhagel
 22 - Fuchtler
@@ -6497,7 +6497,7 @@ Level Up:
 4 - Sandsturm
 7 - Verfolgung
 10 - Felsgrab
-13 - Bulldoze
+13 - Dampfwalze
 16 - Grimasse
 19 - Steinhagel
 22 - Fuchtler
@@ -6522,7 +6522,7 @@ Level Up:
 4 - Sandsturm
 7 - Verfolgung
 10 - Felsgrab
-13 - Bulldoze
+13 - Dampfwalze
 16 - Grimasse
 19 - Steinhagel
 22 - Fuchtler
@@ -6600,7 +6600,7 @@ Level Up:
 30 - Psychokinese
 34 - Seher
 38 - Ränkeschmied
-42 - Healing Wunschtraum
+42 - Heilopfer
 46 - Abgesang
 50 - Blättersturm
 
@@ -6789,7 +6789,7 @@ Level Up:
 5 - Aquaknarre
 8 - Lehmschelle
 11 - Gesichte
-14 - Bide
+14 - Geduld
 17 - Lehmsuhler
 20 - Steinwurf
 23 - Nassschweif
@@ -6815,8 +6815,8 @@ Level Up:
 5 - Aquaknarre
 8 - Lehmschelle
 11 - Gesichte
-14 - Bide
-16 - Bulldoze
+14 - Geduld
+16 - Dampfwalze
 18 - Schlammbombe
 22 - Steinhagel
 26 - Nassschweif
@@ -6837,15 +6837,15 @@ New     Sternschauer Swim / Torrent
 
 Level Up:
 1 - Lawine
-1 - Curse
+1 - Fluch
 1 - Lehmschuss
 1 - Tackle
 1 - Heuler
 5 - Aquaknarre
 8 - Lehmschelle
 11 - Gesichte
-14 - Bide
-16 - Bulldoze
+14 - Geduld
+16 - Dampfwalze
 18 - Schlammbombe
 22 - Steinhagel
 26 - Nassschweif
@@ -6880,7 +6880,7 @@ Level Up:
 31 - Verhöhner
 34 - Gähner
 37 - Bodycheck
-40 - Play Rough
+40 - Knuddler
 43 - Tiefschlag
 
 ===================
@@ -6910,7 +6910,7 @@ Level Up:
 35 - Verhöhner
 39 - Gähner
 43 - Bodycheck
-47 - Play Rough
+47 - Knuddler
 51 - Tiefschlag
 
 ===================
@@ -6930,7 +6930,7 @@ Level Up:
 1 - Sandwirbel
 7 - Bezirzer
 13 - Kopfnuss
-15 - Babydoll-Eyes
+15 - Kulleraugen
 16 - Nadelrakete
 22 - Dreschflegel
 25 - Bodycheck
@@ -6951,7 +6951,7 @@ Now compatible with HM08, Kraxler.
 
 Level Up:
 1 - Turbotempo
-1 - Play Rough
+1 - Knuddler
 1 - Wechseldich
 1 - Tackle
 1 - Heuler
@@ -7015,7 +7015,7 @@ Level Up:
 10 - Windstoß
 11 - Absorber
 13 - Stachelspore
-15 - Silver Wind
+15 - Silberhauch
 18 - Megasauger
 21 - Windschnitt
 24 - Morgengrauen
@@ -7060,7 +7060,7 @@ Level Up:
 10 - Windstoß
 11 - Konfusion
 13 - Giftpuder
-15 - Silver Wind
+15 - Silberhauch
 18 - Psystrahl
 21 - Ampelleuchte
 24 - Mondschein
@@ -7079,7 +7079,7 @@ Level Up:
 1 - Erstauner
 1 - Heuler
 1 - Absorber
-7 - Bubble
+7 - Blubber
 10 - Natur-Kraft
 13 - Megasauger
 16 - Beerenkräfte
@@ -7098,7 +7098,7 @@ Level Up:
 1 - Erstauner
 1 - Heuler
 1 - Absorber
-7 - Bubble
+7 - Blubber
 10 - Natur-Kraft
 13 - Megasauger
 14 - Mogelhieb
@@ -7126,7 +7126,7 @@ Level Up:
 273 - Seedot
 ===================
 Level Up:
-1 - Bide
+1 - Geduld
 1 - Härtner
 1 - Wachstum
 1 - Kugelsaat
@@ -7306,15 +7306,15 @@ Level Up:
 1 - Heuler
 1 - Konfusion
 1 - Doppelteam
-7 - Disarming Voice
+7 - Säuselstimme
 10 - Beschwörung
 13 - Psystrahl (!!)
-16 - Draining Kiss
+16 - Diebeskuss
 19 - Zauberblatt
 22 - Hynose
 25 - Psychokinese
 28 - Gedankengut
-31 - Moonblast (!!)
+31 - Mondgewalt (!!)
 34 - Begrenzer
 37 - Charme
 40 - Traumfresser
@@ -7332,15 +7332,15 @@ Level Up:
 1 - Heuler
 1 - Konfusion
 1 - Doppelteam
-7 - Disarming Voice
+7 - Säuselstimme
 10 - Beschwörung
 13 - Psystrahl (!!)
-16 - Draining Kiss
+16 - Diebeskuss
 19 - Zauberblatt
 23 - Hynose
 27 - Psychokinese
 31 - Gedankengut
-35 - Moonblast (!!)
+35 - Mondgewalt (!!)
 39 - Begrenzer
 43 - Charme
 47 - Traumfresser
@@ -7351,20 +7351,20 @@ Level Up:
 ===================
 Level Up:
 1 - Aurasphäre
-1 - Healing Wunschtraum
+1 - Heilopfer
 1 - Teleport
 1 - Heuler
 1 - Konfusion
 1 - Doppelteam
-7 - Disarming Voice
+7 - Säuselstimme
 10 - Wunschtraum
 13 - Psystrahl (!!)
-16 - Draining Kiss
+16 - Diebeskuss
 19 - Zauberblatt
 23 - Hynose
 27 - Psychokinese
 32 - Gedankengut
-37 - Moonblast
+37 - Mondgewalt
 42 - Begrenzer
 47 - Liebreiz
 52 - Seher
@@ -7381,7 +7381,7 @@ Moves:
 Now compatible with TM62, Käfergebrumm. (!!)
 
 Level Up:
-1 - Bubble
+1 - Blubber
 1 - Lockduft
 1 - Ruckzubhieb
 6 - Käfergebiss
@@ -7412,7 +7412,7 @@ Now compatible with HM02, Fliegen. (!!)
 Level Up:
 1 - Käfergebrumm
 1 - Unheilböen
-1 - Bubble
+1 - Blubber
 1 - Lockduft
 1 - Windstoß
 1 - Ruckzubhieb
@@ -7425,7 +7425,7 @@ Level Up:
 22 - Windschnitt
 22 - Grimasse
 25 - Psystrahl
-29 - Silver Wind
+29 - Silberhauch
 33 - Stachelspore
 37 - Luftschnitt
 41 - Käfergebrumm
@@ -7506,7 +7506,7 @@ Level Up:
 35 - Nachthieb
 39 - Konter
 43 - Dreschflegel
-47 - Play Rough
+47 - Knuddler
 
 ===================
 288 - Vigoroth
@@ -7525,7 +7525,7 @@ Level Up:
 35 - Nachthieb
 39 - Konter
 43 - Gegenschlag
-47 - Play Rough
+47 - Knuddler
 51 - Power-Punch
 
 ===================
@@ -7545,7 +7545,7 @@ Level Up:
 36 - Angeberei
 39 - Konter
 43 - Dreschflegel
-47 - Play Rough
+47 - Knuddler
 51 - Schleuder
 55 - Strafattacke
 59 - Hammerarm
@@ -7569,7 +7569,7 @@ Level Up:
 23 - Metallklaue
 27 - Schaufler
 31 - Kreuzschere
-35 - Bide
+35 - Geduld
 39 - Trugschlag
 
 ===================
@@ -7638,7 +7638,7 @@ Now compatible with TM62, Käfergebrumm. (!!)
 Level Up:
 1 - Klaps
 1 - Jauler
-1 - Disarming Voice
+1 - Säuselstimme
 7 - Erstauner
 10 - Aufruhr
 13 - Kreideschrei
@@ -7779,7 +7779,7 @@ Level Up:
 1 - Aquaknarre
 1 - Rutenschlag
 1 - Nassmacher
-6 - Bubble
+6 - Blubber
 8 - Charme
 10 - Blubbstrahl
 12 - Gesang
@@ -7830,7 +7830,7 @@ Level Up:
 4 - Gesichte
 7 - Gesang
 11 - Duplexhieb
-13 - Disarming Voice
+13 - Säuselstimme
 15 - Anziehung
 17 - Bezirzer
 19 - Imitator
@@ -7841,7 +7841,7 @@ Level Up:
 29 - Charme
 31 - Vitalglocke
 33 - Liebreiz
-35 - Play Rough
+35 - Knuddler
 37 - Risikotackle
 
 ===================
@@ -7855,7 +7855,7 @@ Level Up:
 1 - Zuflucht
 1 - Risikotackle
 1 - Schwallwelle
-1 - Play Rough
+1 - Knuddler
 1 - Mogelhieb
 1 - Gesang
 1 - Anziehung
@@ -7921,7 +7921,7 @@ Level Up:
 22 - Feuerzahn
 25 - Eisenschädel
 28 - Knirscher
-31 - Play Rough
+31 - Knuddler
 34 - Eisenabwehr
 37 - Tiefschlag
 40 - Horter
@@ -8154,7 +8154,7 @@ Level Up:
 33 - Zugabe
 36 - Käfergebrumm
 39 - Zen-Kopfstoß
-42 - Play Rough
+42 - Knuddler
 45 - Rechte Hand
 48 - Risikotackle
 51 - Stafette
@@ -8180,16 +8180,16 @@ Level Up:
 6 - Lockduft
 9 - Charme
 12 - Ruckzubhieb
-15 - Silver Wind
-18 - Draining Kiss (!!)
+15 - Silberhauch
+18 - Diebeskuss (!!)
 21 - Mondschein
 24 - Zugabe
 27 - Wunschtraum
 30 - Schmeichler
-33 - Moonblast (!!)
+33 - Mondgewalt (!!)
 36 - Käfergebrumm
 39 - Zen-Kopfstoß
-42 - Play Rough
+42 - Knuddler
 45 - Rechte Hand
 48 - Bezirzer
 51 - Stafette
@@ -8332,7 +8332,7 @@ Level Up:
 320 - Wailmer
 ===================
 Level Up:
-1 - Curse
+1 - Fluch
 1 - Platscher
 1 - Heuler
 4 - Einigler
@@ -8357,7 +8357,7 @@ Level Up:
 321 - Wailord
 ===================
 Level Up:
-1 - Curse
+1 - Fluch
 1 - Platscher
 1 - Heuler
 4 - Einigler
@@ -8395,7 +8395,7 @@ Level Up:
 19 - Amnesie
 22 - Flammensturm
 25 - Erdkräfte
-28 - Curse
+28 - Fluch
 31 - Bodycheck
 34 - Flammenwurf
 37 - Gähner
@@ -8419,7 +8419,7 @@ Level Up:
 19 - Amnesie
 22 - Flammensturm
 25 - Erdkräfte
-28 - Curse
+28 - Fluch
 31 - Bodycheck
 33 - Steinhagel
 35 - Flammenwurf
@@ -8443,8 +8443,8 @@ Level Up:
 7 - Turbodreher
 10 - Feuerwirbel
 13 - Rauchwolke
-16 - Flame Wheel
-19 - Curse
+16 - Flammenrad
+19 - Fluch
 22 - Bodyslam
 25 - Flammensturm
 28 - Schutzschild
@@ -8532,7 +8532,7 @@ Level Up:
 40 - Dreschflegel
 43 - Wunschtraum
 46 - Fuchtler
-49 - Trickbetrug Room
+49 - Bizarroraum
 52 - Schwallwelle
 
 ===================
@@ -8546,10 +8546,10 @@ Level Up:
 1 - Biss
 1 - Sandwirbel
 1 - Käfergebiss
-1 - Bide
+1 - Geduld
 1 - Finte
 7 - Lehmschelle
-11 - Bulldoze
+11 - Dampfwalze
 15 - Steinhagel
 19 - Schaufler
 23 - Knirscher
@@ -8580,10 +8580,10 @@ Now compatible with TM88, Hurricane. (!!)
 Level Up:
 1 - Sandwirbel
 1 - Ultraschall
-1 - Bide
+1 - Geduld
 1 - Finte
 7 - Lehmschelle
-11 - Bulldoze
+11 - Dampfwalze
 15 - Steinhagel
 19 - Superschall
 23 - Kreideschrei
@@ -8616,10 +8616,10 @@ Level Up:
 1 - Drachentanz
 1 - Sandwirbel
 1 - Ultraschall
-1 - Bide
+1 - Geduld
 1 - Finte
 7 - Lehmschelle
-11 - Bulldoze
+11 - Dampfwalze
 15 - Steinhagel
 19 - Superschall
 23 - Kreideschrei
@@ -8713,7 +8713,7 @@ Level Up:
 1 - Heuler
 4 - Erstauner
 7 - Gesang
-11 - Disarming Voice
+11 - Säuselstimme
 13 - Furienschlag
 15 - Bodyguard
 17 - Pflücker
@@ -8721,7 +8721,7 @@ Level Up:
 22 - Aufruhr
 25 - Beerenkräfte
 28 - Bodycheck
-31 - Moonblast
+31 - Mondgewalt
 34 - Heilung
 37 - Spiegeltrick
 40 - Drachenpuls
@@ -8743,12 +8743,12 @@ Moves:
 Now compatible with TM88, Hurricane. (!!)
 
 Level Up:
-1 - Play Rough
+1 - Knuddler
 1 - Pikser
 1 - Heuler
 4 - Erstauner
 7 - Gesang
-11 - Disarming Voice
+11 - Säuselstimme
 13 - Furienschlag
 15 - Bodyguard
 17 - Pflücker
@@ -8756,7 +8756,7 @@ Level Up:
 22 - Aufruhr
 25 - Beerenkräfte
 28 - Bodycheck
-31 - Moonblast
+31 - Mondgewalt
 34 - Heilung
 35 - Feuerodem
 38 - Drachentanz
@@ -8812,7 +8812,7 @@ Level Up:
 22 - Giftschweif
 25 - Nachthieb
 28 - Magensäfte
-31 - GIfthieb
+31 - Gifthieb
 34 - Knirscher
 37 - Matschbombe
 40 - Dunkelnebel
@@ -8828,7 +8828,7 @@ Old     90 HP / 55 Atk / 65 Def / 95 SAtk / 85 SDef / 70 Spd / 460 BST
 New     90 HP / 55 Atk / 65 Def / 100 SAtk / 85 SDef / 70 Spd / 465 BST
 
 Level Up:
-1 - Moonblast
+1 - Mondgewalt
 1 - Tackle
 1 - Härtner
 1 - Konfusion
@@ -8930,7 +8930,7 @@ Old     Hyper Cutter / Shell Armor
 New     Adaptability / Hyper Cutter
 
 Level Up:
-1 - Bubble
+1 - Blubber
 1 - Härtner
 1 - Klammer
 1 - Silberblick
@@ -8958,7 +8958,7 @@ Old     Hyper Cutter / Shell Armor
 New     Adaptability / Hyper Cutter
 
 Level Up:
-1 - Bubble
+1 - Blubber
 1 - Härtner
 1 - Klammer
 1 - Silberblick
@@ -8994,12 +8994,12 @@ Level Up:
 22 - Sondersensor
 25 - Kosmik-Kraft
 28 - Erdkräfte
-31 - Self-Destruct
+31 - Finale
 34 - Krafttrickbetrug
 37 - Psychokinese
 40 - Sandsturm
 43 - Begrenzer
-46 - Trickbetrug Room
+46 - Bizarroraum
 49 - Explosion
 
 ===================
@@ -9022,13 +9022,13 @@ Level Up:
 22 - Sondersensor
 25 - Kosmik-Kraft
 28 - Erdkräfte
-31 - Self-Destruct
+31 - Finale
 32 - Hyperstrahl
 35 - Krafttrickbetrug
 39 - Psychokinese
 43 - Sandsturm
 47 - Begrenzer
-51 - Trickbetrug Room
+51 - Bizarroraum
 55 - Explosion
 
 ===================
@@ -9170,7 +9170,7 @@ Old     Marvel Scale / None
 New     Marvel Scale / Competitive
 
 Moves:
-Now compatible with TM85, Dazzling Gleam. (!!)
+Now compatible with TM85, Zauberschein. (!!)
 
 Level Up:
 1 - Wickel
@@ -9178,7 +9178,7 @@ Level Up:
 1 - Nassmacher
 5 - Heilung
 7 - Spaßkanone
-9 - Disarming Voice
+9 - Säuselstimme
 11 - Liebreiz
 13 - Aquawelle
 15 - Wasserring
@@ -9188,7 +9188,7 @@ Level Up:
 27 - Genesung
 30 - Hynose
 33 - Anziehung
-36 - Moonblast (!!)
+36 - Mondgewalt (!!)
 39 - Drachenpuls
 42 - Regentanz
 45 - Bodyguard
@@ -9263,7 +9263,7 @@ Level Up:
 16 - Irrlicht
 19 - Finte
 22 - Unheilböen
-25 - Curse
+25 - Fluch
 28 - Spukball
 31 - Gewissheit
 34 - Tiefschlag
@@ -9290,7 +9290,7 @@ Level Up:
 16 - Irrlicht
 19 - Finte
 22 - Unheilböen
-25 - Curse
+25 - Fluch
 28 - Spukball
 31 - Gewissheit
 32 - Dunkelklaue
@@ -9318,7 +9318,7 @@ Level Up:
 19 - Verfolgung
 22 - Irrlicht
 25 - Gegenstoß
-28 - Curse
+28 - Fluch
 31 - Spukball
 34 - Konfusstrahl
 37 - Horrorblick
@@ -9350,10 +9350,10 @@ Level Up:
 19 - Verfolgung
 22 - Irrlicht
 25 - Gegenstoß
-28 - Curse
+28 - Fluch
 31 - Spukball
 34 - Konfusstrahl
-37 - FInsterfaust
+37 - Finsterfaust
 39 - Horrorblick
 43 - Seher
 47 - Abgangsbund
@@ -9400,7 +9400,7 @@ Old     75 HP / 50 Atk / 80 Def / 95 SAtk / 90 SDef / 65 Spd / 455 BST
 New     75 HP / 40 Atk / 80 Def / 110 SAtk / 100 SDef / 65 Spd / 470 BST
 
 Level Up:
-1 - Healing Wunschtraum
+1 - Heilopfer
 1 - Schwallwelle
 1 - Wickel
 4 - Heuler
@@ -9418,7 +9418,7 @@ Level Up:
 40 - Risikotackle
 43 - Genesung
 46 - Schwallwelle
-49 - Healing Wunschtraum
+49 - Heilopfer
 
 ===================
 359 - Absol
@@ -9450,7 +9450,7 @@ Level Up:
 37 - Tiefschlag
 40 - Klingensturm
 43 - Vielender
-46 - Play Rough
+46 - Knuddler
 49 - Seher
 52 - Abgesang
 
@@ -9518,7 +9518,7 @@ Level Up:
 27 - Lawine
 30 - Knirscher
 32 - Steinhagel (!!)
-34 - Icicle Crash (!!)
+34 - Eiszapfhagel (!!)
 38 - Schutzschild
 42 - Wechseldich
 46 - Hagelsturm
@@ -9654,7 +9654,7 @@ Level Up:
 1 - Konfusion
 1 - Nassmacher
 1 - Agilität
-7 - Draining Kiss
+7 - Diebeskuss
 11 - Aquawelle
 15 - Amnesie
 19 - Wasserring
@@ -9709,7 +9709,7 @@ Old     43 HP / 30 Atk / 55 Def / 40 SAtk / 65 SDef / 97 Spd / 330 BST
 New     50 HP / 30 Atk / 75 Def / 95 SAtk / 75 SDef / 125 Spd / 450 BST
 
 Moves:
-Now compatible with TM85, Dazzling Gleam. (!!)
+Now compatible with TM85, Zauberschein. (!!)
 
 Level Up:
 1 - Tackle
@@ -9719,13 +9719,13 @@ Level Up:
 10 - Wasserdüse
 13 - Beschwörung
 16 - Aquawelle
-19 - Draining Kiss
+19 - Diebeskuss
 22 - Anziehung
 25 - Dreschflegel
 28 - Bitterkuss
 31 - Bodycheck
 34 - Liebreiz
-37 - Moonblast (!!)
+37 - Mondgewalt (!!)
 40 - Wasserring
 43 - Sprungfeder
 46 - Bodyguard
@@ -9898,11 +9898,11 @@ Level Up:
 Level Up:
 1 - Explosion
 1 - Stampfer
-1 - Bulldoze
+1 - Dampfwalze
 6 - Steinwurf
 10 - Ladestrahl
 14 - Rückentzug
-18 - Curse
+18 - Fluch
 22 - Antik-Kraft
 26 - Eisenabwehr
 30 - Hammerarm
@@ -9919,11 +9919,11 @@ Level Up:
 Level Up:
 1 - Explosion
 1 - Stampfer
-1 - Bulldoze
+1 - Dampfwalze
 6 - Eissturm
 10 - Ladestrahl
 14 - Rückentzug
-18 - Curse
+18 - Fluch
 22 - Antik-Kraft
 26 - Amnesie
 30 - Hammerarm
@@ -9940,11 +9940,11 @@ Level Up:
 Level Up:
 1 - Explosion
 1 - Stampfer
-1 - Bulldoze
+1 - Dampfwalze
 6 - Metallklaue
 10 - Ladestrahl
 14 - Rückentzug
-18 - Curse
+18 - Fluch
 22 - Antik-Kraft
 26 - Eisenabwehr
 26 - Amnesie
@@ -9961,7 +9961,7 @@ Level Up:
 380 - Latias
 ===================
 Level Up:
-1 - Healing Wunschtraum
+1 - Heilopfer
 1 - Wunschtraum
 1 - Psywelle
 1 - Bodyguard
@@ -10060,7 +10060,7 @@ Level Up:
 ===================
 Level Up:
 1 - Draco Meteor
-1 - Healing Wunschtraum
+1 - Heilopfer
 1 - Wunschtraum
 1 - Konfusion
 1 - Erholung
@@ -10159,7 +10159,7 @@ Level Up:
 1 - Panzerschutz
 5 - Absorber
 8 - Rasierblatt
-11 - Curse
+11 - Fluch
 14 - Kugelsaat
 17 - Biss
 20 - Megasauger
@@ -10183,10 +10183,10 @@ Level Up:
 1 - Panzerschutz
 5 - Absorber
 8 - Rasierblatt
-11 - Curse
+11 - Fluch
 14 - Kugelsaat
 17 - Biss
-18 - Bulldoze (!!)
+18 - Dampfwalze (!!)
 21 - Megasauger
 25 - Samenbomben
 29 - Egelsamen
@@ -10215,10 +10215,10 @@ Level Up:
 1 - Panzerschutz
 5 - Absorber
 8 - Rasierblatt
-11 - Curse
+11 - Fluch
 14 - Kugelsaat
 17 - Biss
-18 - Bulldoze
+18 - Dampfwalze
 21 - Megasauger
 25 - Samenbomben
 29 - Egelsamen
@@ -10242,7 +10242,7 @@ Level Up:
 5 - Glut
 8 - Verhöhner
 11 - Kratzfurie
-14 - Flame Wheel
+14 - Flammenrad
 17 - Energiefokus
 20 - Mogelhieb
 23 - Ränkeschmied
@@ -10270,7 +10270,7 @@ Level Up:
 8 - Verhöhner
 11 - Kratzfurie
 14 - Tempohieb
-15 - Flame Wheel
+15 - Flammenrad
 19 - Fußkick
 23 - Mogelhieb
 27 - Flammenwurf
@@ -10304,13 +10304,13 @@ Level Up:
 8 - Verhöhner
 11 - Kratzfurie
 14 - Tempohieb
-15 - Flame Wheel
+15 - Flammenrad
 19 - Fußkick
 23 - Mogelhieb
 27 - Flammenwurf
 31 - Offenlegung
 35 - Nahkampf
-36 - Vacuum Wave
+36 - Vakuumwelle
 41 - Folterknecht
 46 - Feuerwirbel
 51 - Tagedieb
@@ -10326,18 +10326,18 @@ New     Defiant / Torrent
 Level Up:
 1 - Klaps
 1 - Heuler
-5 - Bubble
+5 - Blubber
 8 - Nassmacher
 11 - Pikser
-14 - Bide
+14 - Geduld
 17 - Blubbstrahl
 20 - Eissturm
-23 - Scald
+23 - Siedewasser
 26 - Furienschlag
 29 - Weißnebel
 32 - Whirlpool
 35 - Gähner
-38 - Drill Pikser
+38 - Bohrschnabel
 41 - Hydropumpe
 
 ===================
@@ -10350,19 +10350,19 @@ New     Defiant / Torrent
 Level Up:
 1 - Tackle
 1 - Heuler
-5 - Bubble
+5 - Blubber
 8 - Nassmacher
 11 - Pikser
-14 - Bide
+14 - Geduld
 16 - Metallklaue
 18 - Blubbstrahl
 22 - Eissturm
-26 - Scald
+26 - Siedewasser
 30 - Furienschlag
 34 - Weißnebel
 38 - Whirlpool
 42 - Gähner
-46 - Drill Pikser
+46 - Bohrschnabel
 50 - Hydropumpe
 
 ===================
@@ -10382,20 +10382,20 @@ Level Up:
 1 - Wasserdüse
 1 - Tackle
 1 - Heuler
-5 - Bubble
+5 - Blubber
 8 - Schwerttanz
 11 - Pikser
 14 - Angeberei
 16 - Metallklaue
 18 - Blubbstrahl
 22 - Eissturm
-26 - Scald
+26 - Siedewasser
 30 - Furienschlag
 34 - Weißnebel
 36 - Blitz Cannon
 39 - Whirlpool
 44 - Gähner
-49 - Drill Pikser
+49 - Bohrschnabel
 54 - Hydropumpe
 
 ===================
@@ -10503,7 +10503,7 @@ Level Up:
 32 - Schwerttanz
 32 - Amnesie
 35 - Kraftkoloss
-38 - Curse
+38 - Fluch
 41 - Risikotackle
 
 ===================
@@ -10533,7 +10533,7 @@ Level Up:
 38 - Schwerttanz
 38 - Amnesie
 42 - Kraftkoloss
-46 - Curse
+46 - Fluch
 50 - Risikotackle
 
 ===================
@@ -10549,7 +10549,7 @@ New     37 HP / 35 Atk / 41 Def / 35 SAtk / 41 SDef / 25 Spd / 214 BST
 
 Level Up:
 1 - Heuler
-1 - Bide
+1 - Geduld
 1 - Käfergebiss
 1 - Fadenschuss
 
@@ -10571,7 +10571,7 @@ Level Up:
 1 - Abgesang
 1 - Zornklinge
 1 - Heuler
-1 - Bide
+1 - Geduld
 1 - Käfergebiss
 1 - Fadenschuss
 10 - Zornklinge
@@ -11023,7 +11023,7 @@ New     60 HP / 45 Atk / 80 Def / 80 SAtk / 90 SDef / 95 Spd / 450 BST
 
 Level Up:
 1 - Heuler
-1 - Bide
+1 - Geduld
 5 - Ruckzubhieb
 9 - Charme
 13 - Funkensprung
@@ -11108,7 +11108,7 @@ Level Up:
 31 - Grasflöte
 34 - Energieball
 37 - Beschwörung
-40 - Healing Wunschtraum
+40 - Heilopfer
 43 - Solarstrahl
 
 ===================
@@ -11134,7 +11134,7 @@ Level Up:
 34 - Grasflöte
 38 - Energieball
 42 - Beschwörung
-46 - Healing Wunschtraum
+46 - Heilopfer
 50 - Solarstrahl
 
 ===================
@@ -11155,7 +11155,7 @@ Level Up:
 34 - Bodyslam
 37 - Konter
 37 - Spiegelcape
-40 - Säure Armor
+40 - Säurepanzer
 40 - Amnesie
 43 - Genesung
 
@@ -11178,7 +11178,7 @@ Level Up:
 36 - Bodyslam
 40 - Konter
 40 - Spiegelcape
-44 - Säure Armor
+44 - Säurepanzer
 44 - Amnesie
 48 - Genesung
 
@@ -11293,7 +11293,7 @@ Level Up:
 37 - Dreschflegel
 40 - Sprungfeder
 43 - Power-Punch
-46 - Healing Wunschtraum
+46 - Heilopfer
 
 ===================
 428 - Lopunny
@@ -11326,7 +11326,7 @@ Level Up:
 37 - Dreschflegel
 40 - Sprungfeder
 43 - Power-Punch
-46 - Healing Wunschtraum
+46 - Heilopfer
 49 - Turmkick
 
 ===================
@@ -11342,7 +11342,7 @@ Level Up:
 1 - Psywelle
 1 - Groll
 1 - Erstauner
-43 - Moonblast (!!)
+43 - Mondgewalt (!!)
 
 ===================
 430 - Honchkrow
@@ -11388,7 +11388,7 @@ Level Up:
 28 - Abschlag
 31 - Liebreiz
 34 - Weckruf
-37 - Play Rough
+37 - Knuddler
 40 - Anziehung
 43 - Tiefschlag
 46 - Dreschflegel
@@ -11417,7 +11417,7 @@ Level Up:
 31 - Liebreiz
 32 - Angeberei
 35 - Weckruf
-39 - Play Rough
+39 - Knuddler
 43 - Anziehung
 47 - Bodyslam
 51 - Dreschflegel
@@ -11465,11 +11465,11 @@ Level Up:
 22 - Nachthieb
 25 - Offenlegung
 28 - Toxin
-31 - GIfthieb (!!)
+31 - Gifthieb (!!)
 34 - Memento-Mori
 37 - Knirscher
 40 - Matschbombe
-43 - Play Rough
+43 - Knuddler
 46 - Tiefschlag
 49 - Mülltreffer (!!)
 52 - Explosion
@@ -11498,12 +11498,12 @@ Level Up:
 22 - Nachthieb
 25 - Offenlegung
 28 - Toxin
-31 - GIfthieb
+31 - Gifthieb
 32 - Flammenwurf
 35 - Memento-Mori
 39 - Knirscher
 43 - Matschbombe
-47 - Play Rough
+47 - Knuddler
 51 - Tiefschlag
 55 - Mülltreffer (!!)
 59 - Explosion
@@ -11611,7 +11611,7 @@ Level Up:
 21 - Psystrahl
 24 - Lichtschild
 24 - Reflektor
-27 - Dazzling Gleam
+27 - Zauberschein
 30 - Delegator
 33 - Psychokinese
 36 - Trickbetrug
@@ -11683,7 +11683,7 @@ Level Up:
 16 - Irrlicht
 19 - Unheilböen
 22 - Aussetzer
-25 - Curse
+25 - Fluch
 28 - Spukball
 31 - Finsteraura
 34 - Tiefschlag
@@ -11704,7 +11704,7 @@ Level Up:
 1 - Tackle
 1 - Sandwirbel
 7 - Feuerodem
-10 - Bulldoze
+10 - Dampfwalze
 13 - Bodycheck
 16 - Drachenwut
 19 - Sandsturm
@@ -11730,7 +11730,7 @@ Level Up:
 1 - Tackle
 1 - Sandwirbel
 7 - Feuerodem
-10 - Bulldoze
+10 - Dampfwalze
 13 - Bodycheck
 16 - Drachenwut
 19 - Sandsturm
@@ -11760,7 +11760,7 @@ Level Up:
 1 - Tackle
 1 - Sandwirbel
 7 - Feuerodem
-10 - Bulldoze
+10 - Dampfwalze
 13 - Bodycheck
 16 - Drachenwut
 19 - Sandsturm
@@ -11861,12 +11861,12 @@ Level Up:
 449 - Hippopotas
 ===================
 Level Up:
-1 - Curse
+1 - Fluch
 1 - Tackle
 1 - Sandwirbel
 7 - Biss
 11 - Gähner
-15 - Bulldoze
+15 - Dampfwalze
 19 - Bodycheck
 23 - Schaufler
 27 - Knirscher
@@ -11885,12 +11885,12 @@ Level Up:
 1 - Eiszahn
 1 - Feuerzahn
 1 - Donnerzahn
-1 - Curse
+1 - Fluch
 1 - Tackle
 1 - Sandwirbel
 7 - Biss
 11 - Gähner
-15 - Bulldoze
+15 - Dampfwalze
 19 - Bodycheck
 23 - Schaufler
 27 - Knirscher
@@ -11922,7 +11922,7 @@ Level Up:
 24 - Giftspitzen
 27 - Kreuzschere
 30 - Schwerttanz
-33 - GIfthieb
+33 - Gifthieb
 36 - Nachthieb
 39 - Grimasse
 42 - Knirscher
@@ -11951,7 +11951,7 @@ Level Up:
 24 - Giftspitzen
 27 - Kreuzschere
 31 - Schwerttanz
-35 - GIfthieb
+35 - Gifthieb
 39 - Nachthieb
 43 - Grimasse
 47 - Knirscher
@@ -11979,7 +11979,7 @@ Level Up:
 19 - Vergeltung
 22 - Angeberei
 25 - Schlammbombe
-28 - GIfthieb
+28 - Gifthieb
 31 - Ableithieb
 34 - Ränkeschmied
 37 - Tiefschlag
@@ -11999,7 +11999,7 @@ Moves:
 Now compatible with TM60, Ableithieb.
 
 Level Up:
-1 - Vacuum Wave
+1 - Vakuumwelle
 1 - Erstauner
 1 - Verhöhner
 1 - Mogelhieb
@@ -12011,7 +12011,7 @@ Level Up:
 19 - Vergeltung
 22 - Angeberei
 25 - Schlammbombe
-28 - GIfthieb
+28 - Gifthieb
 31 - Ableithieb
 35 - Ränkeschmied
 39 - Tiefschlag
@@ -12074,7 +12074,7 @@ Level Up:
 24 - Liebreiz
 27 - Bodyguard
 30 - Nassschweif
-33 - Silver Wind
+33 - Silberhauch
 36 - Wasserring
 39 - Whirlpool
 42 - Kehrtwende
@@ -12106,7 +12106,7 @@ Level Up:
 24 - Liebreiz
 27 - Bodyguard
 30 - Nassschweif
-34 - Silver Wind
+34 - Silberhauch
 38 - Wasserring
 42 - Whirlpool
 46 - Kehrtwende
@@ -12118,7 +12118,7 @@ Level Up:
 ===================
 Level Up:
 1 - Tackle
-1 - Bubble
+1 - Blubber
 1 - Windschnitt
 4 - Superschall
 7 - Konfusstrahl
@@ -12158,7 +12158,7 @@ Level Up:
 31 - Verwurzler
 34 - Holzhammer
 37 - Weißnebel
-40 - Icicle Crash (!!)
+40 - Eiszapfhagel (!!)
 43 - Blizzard
 46 - Eiseskälte
 
@@ -12185,7 +12185,7 @@ Level Up:
 31 - Verwurzler
 34 - Holzhammer
 37 - Weißnebel
-41 - Icicle Crash (!!)
+41 - Eiszapfhagel (!!)
 45 - Blizzard
 49 - Eiseskälte
 
@@ -12214,7 +12214,7 @@ Level Up:
 28 - Schleuder
 31 - Nachthieb
 34 - Kreideschrei
-37 - Icicle Crash
+37 - Eiszapfhagel
 40 - Übernahme
 43 - Strafattacke
 46 - Finsteraura
@@ -12287,15 +12287,15 @@ Level Up:
 1 - Rutenschlag
 4 - Furienschlag
 7 - Grimasse
-10 - Bulldoze
+10 - Dampfwalze
 13 - Stampfer
 16 - Felswurf
 19 - Intensität
 22 - Bodycheck
-25 - Drill Run
+25 - Schlagbohrer
 28 - Knirscher
 31 - Steinhagel
-34 - GIfthieb
+34 - Gifthieb
 36 - Hammerarm
 38 - Vielender
 42 - Erdbeben
@@ -12418,7 +12418,7 @@ Level Up:
 6 - Doppelteam
 9 - Ultraschall
 13 - Schlitzer
-15 - Silver Wind
+15 - Silberhauch
 17 - Scanner
 19 - Windschnitt
 23 - Superschall
@@ -12468,7 +12468,7 @@ Old     65 HP / 60 Atk / 110 Def / 130 SAtk / 95 SDef / 65 Spd / 525 BST
 New     65 HP / 60 Atk / 110 Def / 130 SAtk / 65 SDef / 95 Spd / 525 BST
 
 Moves:
-Now compatible with TM85, Dazzling Gleam. (!!)
+Now compatible with TM85, Zauberschein. (!!)
 Now compatible with TM86, Strauchler. (!!)
 
 Level Up:
@@ -12501,7 +12501,7 @@ Old     65 HP / 60 Atk / 110 Def / 130 SAtk / 95 SDef / 65 Spd / 525 BST
 New     65 HP / 60 Atk / 110 Def / 130 SAtk / 65 SDef / 95 Spd / 525 BST
 
 Moves:
-Now compatible with TM85, Dazzling Gleam. (!!)
+Now compatible with TM85, Zauberschein. (!!)
 Now compatible with TM86, Strauchler. (!!)
 
 Level Up:
@@ -12541,14 +12541,14 @@ Level Up:
 1 - Donnerzahn
 1 - Eiszahn
 1 - Feuerzahn
-1 - GIfthieb
+1 - Gifthieb
 1 - Sandwirbel
 1 - Härtner
 4 - Ruckzubhieb
 7 - Zornklinge
 10 - Abschlag
 13 - Flügelschlag
-16 - Bulldoze
+16 - Dampfwalze
 19 - Finte
 22 - Nachthieb
 25 - Kehrtwende
@@ -12577,7 +12577,7 @@ Level Up:
 7 - Lehmsuhler
 10 - Pulverschnee
 13 - Eiszahn
-16 - Bulldoze
+16 - Dampfwalze
 19 - Ausdauer
 22 - Schlammbombe
 25 - Lawine
@@ -12586,7 +12586,7 @@ Level Up:
 33 - Doppelschlag
 35 - Erdbeben
 39 - Fuchtler
-43 - Icicle Crash
+43 - Eiszapfhagel
 47 - Grimasse
 51 - Blizzard
 
@@ -12611,7 +12611,7 @@ Level Up:
 31 - Zielschuss
 34 - Magiemantel
 37 - Donnerblitz
-40 - Trickbetrug Room
+40 - Bizarroraum
 43 - Psychokinese
 46 - Blitzkanone
 49 - Hyperstrahl
@@ -12695,9 +12695,9 @@ Level Up:
 19 - Verfolgung
 22 - Irrlicht
 25 - Gegenstoß
-28 - Curse
+28 - Fluch
 31 - Spukball
-32 - FInsterfaust
+32 - Finsterfaust
 35 - Konfusstrahl
 39 - Horrorblick
 43 - Seher
@@ -12723,7 +12723,7 @@ Level Up:
 9 - Eissplitter
 12 - Eissturm
 15 - Erstauner
-18 - Draining Kiss
+18 - Diebeskuss
 21 - Weckruf
 24 - Irrlicht
 27 - Lawine
@@ -12773,7 +12773,7 @@ Level Up:
 480 - Uxie
 ===================
 Level Up:
-1 - Moonblast (!!)
+1 - Mondgewalt (!!)
 1 - Memento-Mori
 1 - Konfusion
 6 - Begrenzer
@@ -12793,8 +12793,8 @@ Level Up:
 481 - Mesprit
 ===================
 Level Up:
-1 - Moonblast (!!)
-1 - Healing Wunschtraum
+1 - Mondgewalt (!!)
+1 - Heilopfer
 1 - Konfusion
 6 - Begrenzer
 10 - Schutzschild
@@ -12813,7 +12813,7 @@ Level Up:
 482 - Azelf
 ===================
 Level Up:
-1 - Moonblast (!!)
+1 - Mondgewalt (!!)
 1 - Explosion
 1 - Konfusion
 6 - Begrenzer
@@ -12948,18 +12948,18 @@ Level Up:
 38 - Mondschein
 42 - Eisstrahl
 46 - Psychokinese
-50 - Moonblast
+50 - Mondgewalt
 
 ===================
 489 - Phione
 ===================
 Level Up:
-1 - Bubble
+1 - Blubber
 1 - Nassmacher
 6 - Charme
 10 - Superschall
 14 - Blubbstrahl
-18 - Säure Armor
+18 - Säurepanzer
 22 - Aquawelle
 26 - Whirlpool
 30 - Aufruhr
@@ -12975,12 +12975,12 @@ Level Up:
 Level Up:
 1 - Statustausch
 1 - Schweifglanz
-1 - Bubble
+1 - Blubber
 1 - Nassmacher
 6 - Charme
 10 - Superschall
 14 - Blubbstrahl
-18 - Säure Armor
+18 - Säurepanzer
 22 - Aquawelle
 26 - Whirlpool
 30 - Aufruhr
@@ -13016,7 +13016,7 @@ Level Up:
 492 - Shaymin
 ===================
 Level Up (Land Forme):
-1 - Healing Wunschtraum
+1 - Heilopfer
 1 - Wachstum
 6 - Zauberblatt
 10 - Egelsamen
@@ -13032,7 +13032,7 @@ Level Up (Land Forme):
 50 - Schocksamen
 
 Level Up (Sky Forme):
-1 - Healing Wunschtraum
+1 - Heilopfer
 1 - Wachstum
 6 - Zauberblatt
 10 - Egelsamen
@@ -13082,8 +13082,8 @@ Level Up:
 Now compatible with TM? Psychokinese
 
 Level Up:
-On Level Up - Disarming Voice
-1 - Disarming Voice
+On Level Up - Säuselstimme
+1 - Säuselstimme
 1 - Biss
 1 - Charme
 1 - Rechte Hand
@@ -13091,14 +13091,14 @@ On Level Up - Disarming Voice
 1 - Heuler
 7 - Sandwirbel
 10 - Ruckzubhieb
-15 - Babydoll-Eyes
+15 - Kulleraugen
 20 - Lichtschild
 20 - Reflektor
-23 - Draining Kiss
+23 - Diebeskuss
 25 - Psystrahl
 30 - Mistyterrain
-32 - Dazzling Gleam
+32 - Zauberschein
 35 - Skillswap
 37 - Gedankengut
-38 - Moonblast
+38 - Mondgewalt
 40 - Zuflucht
