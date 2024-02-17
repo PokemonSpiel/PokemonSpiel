@@ -1,5 +1,5 @@
 ===================
-001 - Bulbasaur
+001 - Bisasam
 ===================
 Level Up:
 1 - Tackle
@@ -22,7 +22,7 @@ Level Up:
 44 - Blättersturm
 
 ===================
-002 - Ivysaur
+002 - Bisaknosp
 ===================
 Level Up:
 1 - Tackle
@@ -46,10 +46,10 @@ Level Up:
 54 - Blättersturm
 
 ===================
-003 - Venusaur
+003 - Bisaflor
 ===================
 Ability:
-Old     Overgrow
+Old     Notdünger
 New     Chlorophyll
 
 Level Up:
@@ -77,7 +77,7 @@ Level Up:
 60 - Blättersturm
 
 ===================
-004 - Charmander
+004 - Glumanda
 ===================
 Moves:
 Now compatible with TM59, Drachenpuls.
@@ -101,7 +101,7 @@ Level Up:
 44 - Flammenblitz
 
 ===================
-005 - Charmeleon
+005 - Glutexo
 ===================
 Moves:
 Now compatible with TM59, Drachenpuls.
@@ -126,14 +126,14 @@ Level Up:
 54 - Flammenblitz
 
 ===================
-006 - Charizard
+006 - Glurak
 ===================
 Ability:
-Old     Blaze
-New     Solar Power
+Old     Großbrand
+New     Solarkraft
 
 Moves:
-Now compatible with TM88, Hurricane. (!!)
+Now compatible with TM88, Orkan. (!!)
 
 Level Up:
 1 - Drachenklaue
@@ -159,7 +159,7 @@ Level Up:
 59 - Flammenblitz
 
 ===================
-007 - Squirtle
+007 - Schiggy
 ===================
 Level Up:
 1 - Tackle
@@ -180,7 +180,7 @@ Level Up:
 44 - Fontränen
 
 ===================
-008 - Wartortle
+008 - Schillok
 ===================
 Level Up:
 1 - Tackle
@@ -202,17 +202,17 @@ Level Up:
 54 - Fontränen
 
 ===================
-009 - Blastoise
+009 - Turtok
 ===================
 Ability:
-Old	Torrent
-New	Rain Dish
+Old	Sturzbach
+New	Regengenuss
 
 Moves:
 Now compatible with TM79, Finsteraura.
 
 Level Up:
-1 - Blitz Cannon
+1 - Lichtkanone
 1 - Finsteraura
 1 - Tackle
 1 - Rutenschlag
@@ -234,11 +234,11 @@ Level Up:
 59 - Fontränen
 
 ===================
-010 - Caterpie
+010 - Raupe
 ===================
 Ability:
-Old     Shield Dust
-New     Run Away
+Old     Puderabwehr
+New     Angsthase
 
 Level Up:
 1 - Tackle
@@ -246,7 +246,7 @@ Level Up:
 1 - Käfergebiss
 
 ===================
-011 - Metapod
+011 - Safcon
 ===================
 Level Up:
 1 - Härtner
@@ -254,19 +254,19 @@ Level Up:
 7 - Eisenabwehr
 
 ===================
-012 - Butterfree
+012 - Smettbo
 ===================
 Ability:
-Old     Compound Eyes
-New     Tinted Lens
+Old     Facettenauge
+New     Aufwertung
 
-Base Stats (Complete):
+Base Stats:
 Old     60 HP / 45 Atk / 50 Def / 90 SAtk / 80 SDef / 70 Spd / 395 BST
 New     60 HP / 45 Atk / 50 Def / 110 SAtk / 100 SDef / 85 Spd / 450 BST
 
 Moves:
 Now compatible with TM62, Käfergebrumm.
-Now compatible with TM88, Hurricane. (!!)
+Now compatible with TM88, Orkan. (!!)
 
 Level Up:
 1 - Konfusion
@@ -287,14 +287,14 @@ Level Up:
 37 - Wirbelwind
 40 - Rückenwind
 43 - Teleport
-45 - Hurricane (!!)
+45 - Orkan (!!)
 
 ===================
-013 - Weedle
+013 - Hornliu
 ===================
 Ability:
-Old     Shield Dust / None
-New     Run Away / Shield Dust
+Old     Puderabwehr / Keine
+New     Angsthase / Puderabwehr
 
 Level Up:
 1 - Giftstachel
@@ -302,24 +302,21 @@ Level Up:
 1 - Käfergebiss
 
 ===================
-014 - Kakuna
+014 - Kokuna
 ===================
-Ability:
-Old     Shed Skin
-
 Level Up:
 1 - Härtner
 7 - Härtner
 7 - Eisenabwehr
 
 ===================
-015 - Beedrill
+015 - Bibor
 ===================
 Ability:
-Old     Swarm
-New     Sniper
+Old     Hexaplaga
+New     Superschütze
 
-Base Stats (Complete):
+Base Stats:
 Old     65 HP / 90 Atk / 40 Def / 45 SAtk / 80 SDef / 75 Spd / 395 BST
 New     65 HP / 115 Atk / 40 Def / 40 SAtk / 90 SDef / 90 Spd / 440 BST
 
@@ -347,7 +344,7 @@ Level Up:
 45 - Vielender (!!)
 
 ===================
-016 - Pidgey
+016 - Tabus
 ===================
 Base Stats:
 Old     40 HP / 45 Atk / 40 Def / 35 SAtk / 35 SDef / 56 Spd / 251 BST
@@ -355,7 +352,7 @@ New     40 HP / 35 Atk / 40 Def / 45 SAtk / 35 SDef / 56 Spd / 251 BST
 
 Moves:
 Now compatible with TM83, Schwallwelle. (!!)
-Now compatible with TM88, Hurricane.
+Now compatible with TM88, Orkan.
 
 Level Up:
 1 - Tackle
@@ -373,11 +370,11 @@ Level Up:
 33 - Wirbelwind
 36 - Rückenwind
 39 - Spiegeltrick
-42 - Hurricane
+42 - Orkan
 45 - Sturzflug
 
 ===================
-017 - Pidgeotto
+017 - Tauboga
 ===================
 Base Stats:
 Old     63 HP / 60 Atk / 55 Def / 50 SAtk / 50 SDef / 71 Spd / 349 BST
@@ -385,7 +382,7 @@ New     63 HP / 50 Atk / 50 Def / 65 SAtk / 50 SDef / 71 Spd / 349 BST
 
 Moves:
 Now compatible with TM83, Schwallwelle. (!!)
-Now compatible with TM88, Hurricane.
+Now compatible with TM88, Orkan.
 
 Level Up:
 1 - Tackle
@@ -403,15 +400,15 @@ Level Up:
 39 - Wirbelwind
 43 - Rückenwind
 47 - Spiegeltrick
-51 - Hurricane
+51 - Orkan
 55 - Sturzflug
 
 ===================
-018 - Pidgeot
+018 - Tauboss
 ===================
 Ability:
-Old     Keen Eye / Tangled Feet
-New     No Guard / Tangled Feet
+Old     Adlerauge / Taumelschritt
+New     Schildlos / Taumelschritt
 
 Base Stats:
 Old     83 HP / 80 Atk / 75 Def / 70 SAtk / 70 SDef / 101 Spd / 479 BST
@@ -419,7 +416,7 @@ New     83 HP / 60 Atk / 70 Def / 115 SAtk / 70 SDef / 101 Spd / 499 BST
 
 Moves:
 Now compatible with TM83, Schwallwelle. (!!)
-Now compatible with TM88, Hurricane.
+Now compatible with TM88, Orkan.
 
 Level Up:
 1 - Sturzflug
@@ -441,15 +438,15 @@ Level Up:
 40 - Wirbelwind
 45 - Rückenwind
 50 - Spiegeltrick
-55 - Hurricane
+55 - Orkan
 60 - Sturzflug
 
 ===================
-019 - Rattata
+019 - Rattfratz
 ===================
 Ability:
-Old     Run Away / Guts
-New     Hustle / Guts
+Old     Angsthase / Adrenalin
+New     Übereifer / Adrenalin
 
 Level Up:
 1 - Tackle
@@ -470,13 +467,13 @@ Level Up:
 43 - Zuflucht
 
 ===================
-020 - Raticate
+020 - Rattikarl
 ===================
 Ability:
-Old     Run Away / Guts
-New     Hustle / Guts
+Old     Angsthase / Adrenalin
+New     Übereifer / Adrenalin
 
-Base Stats (Complete):
+Base Stats:
 Old     55 HP / 81 Atk / 60 Def / 50 SAtk / 70 SDef / 97 Spd / 413 BST
 New     55 HP / 97 Atk / 70 Def / 45 SAtk / 70 SDef / 113 Spd / 450 BST
 
