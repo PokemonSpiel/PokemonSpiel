@@ -48,9 +48,9 @@ Level Up:
 ===================
 003 - Bisaflor
 ===================
-Ability:
-Old     Notdünger
-New     Chlorophyll
+Fähigkeit:
+Alt     Notdünger
+Neu     Chlorophyll
 
 Level Up:
 1 - Blattgeißel
@@ -79,8 +79,8 @@ Level Up:
 ===================
 004 - Glumanda
 ===================
-Moves:
-Now compatible with TM59, Drachenpuls.
+Attacken:
+Jetzt kompatibel mit TM59, Drachenpuls.
 
 Level Up:
 1 - Kratzer
@@ -103,8 +103,8 @@ Level Up:
 ===================
 005 - Glutexo
 ===================
-Moves:
-Now compatible with TM59, Drachenpuls.
+Attacken:
+Jetzt kompatibel mit TM59, Drachenpuls.
 
 Level Up:
 1 - Kratzer
@@ -128,12 +128,12 @@ Level Up:
 ===================
 006 - Glurak
 ===================
-Ability:
-Old     Großbrand
-New     Solarkraft
+Fähigkeit:
+Alt     Großbrand
+Neu     Solarkraft
 
-Moves:
-Now compatible with TM88, Orkan. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Drachenklaue
@@ -204,15 +204,15 @@ Level Up:
 ===================
 009 - Turtok
 ===================
-Ability:
-Old	Sturzbach
-New	Regengenuss
+Fähigkeit:
+Alt	Sturzbach
+Neu	Regengenuss
 
-Moves:
-Now compatible with TM79, Finsteraura.
+Attacken:
+Jetzt kompatibel mit TM79, Finsteraura.
 
 Level Up:
-1 - Lichtkanone
+1 - LichtkaKeine
 1 - Finsteraura
 1 - Tackle
 1 - Rutenschlag
@@ -236,9 +236,9 @@ Level Up:
 ===================
 010 - Raupe
 ===================
-Ability:
-Old     Puderabwehr
-New     Angsthase
+Fähigkeit:
+Alt     Puderabwehr
+Neu     Angsthase
 
 Level Up:
 1 - Tackle
@@ -256,17 +256,17 @@ Level Up:
 ===================
 012 - Smettbo
 ===================
-Ability:
-Old     Facettenauge
-New     Aufwertung
+Fähigkeit:
+Alt     Facettenauge
+Neu     Aufwertung
 
 Base Stats:
-Old     60 HP / 45 Atk / 50 Def / 90 SAtk / 80 SDef / 70 Spd / 395 BST
-New     60 HP / 45 Atk / 50 Def / 110 SAtk / 100 SDef / 85 Spd / 450 BST
+Alt     60 HP / 45 Atk / 50 Def / 90 SAtk / 80 SDef / 70 Spd / 395 BST
+Neu     60 HP / 45 Atk / 50 Def / 110 SAtk / 100 SDef / 85 Spd / 450 BST
 
-Moves:
-Now compatible with TM62, Käfergebrumm.
-Now compatible with TM88, Orkan. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm.
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Konfusion
@@ -292,9 +292,9 @@ Level Up:
 ===================
 013 - Hornliu
 ===================
-Ability:
-Old     Puderabwehr / Keine
-New     Angsthase / Puderabwehr
+Fähigkeit:
+Alt     Puderabwehr / Keine
+Neu     Angsthase / Puderabwehr
 
 Level Up:
 1 - Giftstachel
@@ -312,16 +312,16 @@ Level Up:
 ===================
 015 - Bibor
 ===================
-Ability:
-Old     Hexaplaga
-New     Superschütze
+Fähigkeit:
+Alt     Hexaplaga
+Neu     Superschütze
 
 Base Stats:
-Old     65 HP / 90 Atk / 40 Def / 45 SAtk / 80 SDef / 75 Spd / 395 BST
-New     65 HP / 115 Atk / 40 Def / 40 SAtk / 90 SDef / 90 Spd / 440 BST
+Alt     65 HP / 90 Atk / 40 Def / 45 SAtk / 80 SDef / 75 Spd / 395 BST
+Neu     65 HP / 115 Atk / 40 Def / 40 SAtk / 90 SDef / 90 Spd / 440 BST
 
-Moves:
-Now compatible with TM62, Käfergebrumm. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm. (!!)
 
 Level Up:
 1 - Furienschlag
@@ -347,18 +347,18 @@ Level Up:
 016 - Tabus
 ===================
 Base Stats:
-Old     40 HP / 45 Atk / 40 Def / 35 SAtk / 35 SDef / 56 Spd / 251 BST
-New     40 HP / 35 Atk / 40 Def / 45 SAtk / 35 SDef / 56 Spd / 251 BST
+Alt     40 HP / 45 Atk / 40 Def / 35 SAtk / 35 SDef / 56 Spd / 251 BST
+Neu     40 HP / 35 Atk / 40 Def / 45 SAtk / 35 SDef / 56 Spd / 251 BST
 
-Moves:
-Now compatible with TM83, Schwallwelle. (!!)
-Now compatible with TM88, Orkan.
+Attacken:
+Jetzt kompatibel mit TM83, Schwallwelle. (!!)
+Jetzt kompatibel mit TM88, Orkan.
 
 Level Up:
 1 - Tackle
 1 - Sandwirbel
 1 - Windstoß
-6 - Ruckzubhieb
+6 - Ruckzuckhieb
 9 - Flügelschlag
 12 - Sternschauer
 15 - Windschnitt
@@ -377,18 +377,18 @@ Level Up:
 017 - Tauboga
 ===================
 Base Stats:
-Old     63 HP / 60 Atk / 55 Def / 50 SAtk / 50 SDef / 71 Spd / 349 BST
-New     63 HP / 50 Atk / 50 Def / 65 SAtk / 50 SDef / 71 Spd / 349 BST
+Alt     63 HP / 60 Atk / 55 Def / 50 SAtk / 50 SDef / 71 Spd / 349 BST
+Neu     63 HP / 50 Atk / 50 Def / 65 SAtk / 50 SDef / 71 Spd / 349 BST
 
-Moves:
-Now compatible with TM83, Schwallwelle. (!!)
-Now compatible with TM88, Orkan.
+Attacken:
+Jetzt kompatibel mit TM83, Schwallwelle. (!!)
+Jetzt kompatibel mit TM88, Orkan.
 
 Level Up:
 1 - Tackle
 1 - Sandwirbel
 1 - Windstoß
-6 - Ruckzubhieb
+6 - Ruckzuckhieb
 9 - Flügelschlag
 12 - Sternschauer
 15 - Windschnitt
@@ -406,17 +406,17 @@ Level Up:
 ===================
 018 - Tauboss
 ===================
-Ability:
-Old     Adlerauge / Taumelschritt
-New     Schildlos / Taumelschritt
+Fähigkeit:
+Alt     Adlerauge / Taumelschritt
+Neu     Schildlos / Taumelschritt
 
 Base Stats:
-Old     83 HP / 80 Atk / 75 Def / 70 SAtk / 70 SDef / 101 Spd / 479 BST
-New     83 HP / 60 Atk / 70 Def / 115 SAtk / 70 SDef / 101 Spd / 499 BST
+Alt     83 HP / 80 Atk / 75 Def / 70 SAtk / 70 SDef / 101 Spd / 479 BST
+Neu     83 HP / 60 Atk / 70 Def / 115 SAtk / 70 SDef / 101 Spd / 499 BST
 
-Moves:
-Now compatible with TM83, Schwallwelle. (!!)
-Now compatible with TM88, Orkan.
+Attacken:
+Jetzt kompatibel mit TM83, Schwallwelle. (!!)
+Jetzt kompatibel mit TM88, Orkan.
 
 Level Up:
 1 - Sturzflug
@@ -426,7 +426,7 @@ Level Up:
 1 - Tackle
 1 - Sandwirbel
 1 - Windstoß
-6 - Ruckzubhieb
+6 - Ruckzuckhieb
 9 - Flügelschlag
 12 - Sternschauer
 15 - Windschnitt
@@ -444,14 +444,14 @@ Level Up:
 ===================
 019 - Rattfratz
 ===================
-Ability:
-Old     Angsthase / Adrenalin
-New     Übereifer / Adrenalin
+Fähigkeit:
+Alt     Angsthase / Adrenalin
+Neu     Übereifer / Adrenalin
 
 Level Up:
 1 - Tackle
 1 - Rutenschlag
-1 - Ruckzubhieb
+1 - Ruckzuckhieb
 7 - Biss
 10 - Energiefokus
 13 - Verfolgung
@@ -469,20 +469,20 @@ Level Up:
 ===================
 020 - Rattikarl
 ===================
-Ability:
-Old     Angsthase / Adrenalin
-New     Übereifer / Adrenalin
+Fähigkeit:
+Alt     Angsthase / Adrenalin
+Neu     Übereifer / Adrenalin
 
 Base Stats:
-Old     55 HP / 81 Atk / 60 Def / 50 SAtk / 70 SDef / 97 Spd / 413 BST
-New     55 HP / 97 Atk / 70 Def / 45 SAtk / 70 SDef / 113 Spd / 450 BST
+Alt     55 HP / 81 Atk / 60 Def / 50 SAtk / 70 SDef / 97 Spd / 413 BST
+Neu     55 HP / 97 Atk / 70 Def / 45 SAtk / 70 SDef / 113 Spd / 450 BST
 
 Level Up:
 1 - Schwerttanz
 1 - Konter
 1 - Tackle
 1 - Rutenschlag
-1 - Ruckzubhieb
+1 - Ruckzuckhieb
 7 - Biss
 10 - Energiefokus
 13 - Verfolgung
@@ -501,12 +501,12 @@ Level Up:
 ===================
 021 - Habitat
 ===================
-Ability:
-Old     Adlerauge / None
-New     Adlerauge / Superschütze
+Fähigkeit:
+Alt     Adlerauge / Keine
+Neu     Adlerauge / Superschütze
 
-Moves:
-Now compatible with TM88, Orkan. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Pikser
@@ -530,16 +530,16 @@ Level Up:
 ===================
 022 - Ibitak
 ===================
-Ability:
-Old     Adlerauge / None
-New     Adlerauge / Superschütze
+Fähigkeit:
+Alt     Adlerauge / Keine
+Neu     Adlerauge / Superschütze
 
 Base Stats:
-Old     65 HP / 90 Atk / 65 Def / 61 SAtk / 61 SDef / 100 Spd / 442 BST
-New     65 HP / 110 Atk / 65 Def / 61 SAtk / 61 SDef / 100 Spd / 462 BST
+Alt     65 HP / 90 Atk / 65 Def / 61 SAtk / 61 SDef / 100 Spd / 442 BST
+Neu     65 HP / 110 Atk / 65 Def / 61 SAtk / 61 SDef / 100 Spd / 462 BST
 
-Moves:
-Now compatible with TM88, Orkan. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Sturzflug (!!)
@@ -589,8 +589,8 @@ Level Up:
 024 - Arbok
 ===================
 Base Stats:
-Old     60 HP / 95 Atk / 69 Def / 65 SAtk / 79 SDef / 80 Spd / 448 BST
-New     60 HP / 110 Atk / 70 Def / 55 SAtk / 80 SDef / 80 Spd / 455 BST
+Alt     60 HP / 95 Atk / 69 Def / 65 SAtk / 79 SDef / 80 Spd / 448 BST
+Neu     60 HP / 110 Atk / 70 Def / 55 SAtk / 80 SDef / 80 Spd / 455 BST
 
 Level Up:
 1 - Eiszahn
@@ -618,15 +618,15 @@ Level Up:
 ===================
 025 - Pikachu
 ===================
-Ability:
-Old     Statik / None
-New     Statik / Blitzfänger
+Fähigkeit:
+Alt     Statik / Keine
+Neu     Statik / Blitzfänger
 
 Level Up:
 1 - Donnerschock
 1 - Rutenschlag
 1 - Heuler
-4 - Ruckzubhieb
+4 - Ruckzuckhieb
 7 - Donnerwelle
 11 - Doppelkick
 13 - Schockwelle
@@ -644,16 +644,16 @@ Level Up:
 ===================
 026 - Raichu
 ===================
-Ability:
-Old     Statik / None
-New     Statik / Blitzfänger
+Fähigkeit:
+Alt     Statik / Keine
+Neu     Statik / Blitzfänger
 
 Base Stats:
-Old     60 HP / 90 Atk / 55 Def / 90 SAtk / 80 SDef / 110 Spd / 485 BST
-New     60 HP / 95 Atk / 55 Def / 95 SAtk / 80 SDef / 110 Spd / 495 BST
+Alt     60 HP / 90 Atk / 55 Def / 90 SAtk / 80 SDef / 110 Spd / 485 BST
+Neu     60 HP / 95 Atk / 55 Def / 95 SAtk / 80 SDef / 110 Spd / 495 BST
 
-Moves:
-Now compatible with TM29, Psychokinese. (!!)
+Attacken:
+Jetzt kompatibel mit TM29, Psychokinese. (!!)
 
 Level Up:
 1 - Donnerschlag
@@ -662,7 +662,7 @@ Level Up:
 1 - Taumeltanz
 1 - Donnerschock
 1 - Rutenschlag
-1 - Ruckzubhieb
+1 - Ruckzuckhieb
 1 - Donnerblitz
 
 ===================
@@ -720,9 +720,9 @@ Level Up:
 029 - Nidoran♀
 ===================
 
-Ability:
-Old	Giftdorn / Rivalität
-New	Giftdorn / Rohe Gewalt
+Fähigkeit:
+Alt	Giftdorn / Rivalität
+Neu	Giftdorn / Rohe Gewalt
 
 Level Up:
 1 - Heuler
@@ -746,9 +746,9 @@ Level Up:
 030 - Nidorina
 ===================
 
-Ability:
-Old	Giftdorn / Rivalität
-New	Giftdorn / Rohe Gewalt
+Fähigkeit:
+Alt	Giftdorn / Rivalität
+Neu	Giftdorn / Rohe Gewalt
 
 Level Up:
 1 - Heuler
@@ -773,9 +773,9 @@ Level Up:
 031 - Nidoqueen
 ===================
 
-Ability:
-Old	Giftdorn / Rivalität
-New	Giftdorn / Rohe Gewalt
+Fähigkeit:
+Alt	Giftdorn / Rivalität
+Neu	Giftdorn / Rohe Gewalt
 
 Level Up:
 1 - Kraftkoloss
@@ -794,9 +794,9 @@ Level Up:
 032 - Nidoran♂
 ===================
 
-Ability:
-Old	Giftdorn / Rivalität
-New 	Giftdorn / Übereifer
+Fähigkeit:
+Alt	Giftdorn / Rivalität
+Neu 	Giftdorn / Übereifer
 
 Level Up:
 1 - Silberblick
@@ -806,7 +806,7 @@ Level Up:
 6 - Furienschlag
 9 - Doppelkick
 12 - Giftzahn
-15 - Hornattack
+15 - Hornattacke
 18 - Rechte Hand
 21 - Giftspitzen
 24 - Gifthieb
@@ -820,9 +820,9 @@ Level Up:
 033 - Nidorino
 ===================
 
-Ability:
-Old	Giftdorn / Rivalität
-New 	Giftdorn / Übereifer
+Fähigkeit:
+Alt	Giftdorn / Rivalität
+Neu 	Giftdorn / Übereifer
 
 Level Up:
 1 - Silberblick
@@ -832,7 +832,7 @@ Level Up:
 6 - Furienschlag
 9 - Doppelkick
 12 - Giftzahn
-15 - Hornattack
+15 - Hornattacke
 19 - Rechte Hand
 23 - Giftspitzen
 27 - Gifthieb
@@ -847,9 +847,9 @@ Level Up:
 034 - Nidoking
 ===================
 
-Ability:
-Old	Giftdorn / Rivalität
-New 	Giftdorn / Übereifer
+Fähigkeit:
+Alt	Giftdorn / Rivalität
+Neu 	Giftdorn / Übereifer
 
 Level Up:
 1 - Vielender
@@ -904,18 +904,18 @@ Level Up:
 ===================
 037 - Vulpix
 ===================
-Ability:
-Old     Feuerfänger / None
-New     Dürre / Feuerfänger
+Fähigkeit:
+Alt     Feuerfänger / Keine
+Neu     Dürre / Feuerfänger
 
-Moves:
-Now compatible with TM53, Energieball.
+Attacken:
+Jetzt kompatibel mit TM53, Energieball.
 
 Level Up:
 1 - Glut
 1 - Rutenschlag
 4 - Brüller
-7 - Ruckzubhieb
+7 - Ruckzuckhieb
 11 - Konfusstrahl
 13 - Feuerwirbel
 15 - Gegenstoß
@@ -925,7 +925,7 @@ Level Up:
 25 - Flammenwurf
 27 - Bodyguard
 31 - Finsteraura
-33 - Hynose
+33 - Hypnose
 35 - Hitzewelle
 37 - Begrenzer
 41 - Liebreiz
@@ -933,41 +933,41 @@ Level Up:
 45 - Feuersturm
 
 ===================
-038 - Ninetales
+038 - Vulnona
 ===================
-Ability:
-Old     Blitz Fire / None
-New     Drought / Blitz Fire
+Fähigkeit:
+Alt     Feuerfänger / Keine
+Neu     Dürre / Feuerfänger
 
 Base Stats:
-Old     73 HP / 76 Atk / 75 Def / 81 SAtk / 100 SDef / 100 Spd / 505 BST
-New     73 HP / 66 Atk / 75 Def / 81 SAtk / 100 SDef / 110 Spd / 505 BST
+Alt     73 HP / 76 Atk / 75 Def / 81 SAtk / 100 SDef / 100 Spd / 505 BST
+Neu     73 HP / 66 Atk / 75 Def / 81 SAtk / 100 SDef / 110 Spd / 505 BST
 
-Moves:
-Now compatible with TM29, Psychokinese. (!!)
-Now compatible with TM30, Spukball. (!!)
-Now compatible with TM53, Energieball.
-Now compatible with TM85, Zauberschein. (!!)
+Attacken:
+Jetzt kompatibel mit TM29, Psychokinese. (!!)
+Jetzt kompatibel mit TM30, Spukball. (!!)
+Jetzt kompatibel mit TM53, Energieball.
+Jetzt kompatibel mit TM85, Zauberschein. (!!)
 
 Level Up:
 1 - Mondgewalt (!!)
 1 - Begrenzer
 1 - Ränkeschmied
 1 - Flammenwurf
-1 - Ruckzubhieb
+1 - Ruckzuckhieb
 1 - Konfusstrahl
 1 - Bodyguard
 
 ===================
-039 - Jigglypuff
+039 - Pummeluff
 ===================
-Ability:
-Old     Cute Charme / None
-New     Cute Charme / Competitive
+Fähigkeit:
+Alt     Charmebolzen / Keine
+Neu     Charmebolzen / Unbeugsamkeit
 
 Base Stats:
-Old     115 HP / 45 Atk / 20 Def / 45 SAtk / 25 SDef / 20 Spd / 270 BST
-New     115 HP / 55 Atk / 30 Def / 55 SAtk / 35 SDef / 30 Spd / 320 BST
+Alt     115 HP / 45 Atk / 20 Def / 45 SAtk / 25 SDef / 20 Spd / 270 BST
+Neu     115 HP / 55 Atk / 30 Def / 55 SAtk / 35 SDef / 30 Spd / 320 BST
 
 Level Up:
 1 - Gesang
@@ -993,15 +993,15 @@ Level Up:
 37 - Zuflucht
 
 ===================
-040 - Wigglytuff
+040 - Knuddeluff
 ===================
-Ability:
-Old     Cute Charme / None
-New     Cute Charme / Competitive
+Fähigkeit:
+Alt     Charmebolzen / Keine
+Neu     Charmebolzen / Unbeugsamkeit
 
 Base Stats:
-Old     140 HP / 70 Atk / 45 Def / 85 SAtk / 50 SDef / 45 Spd / 435 BST
-New     140 HP / 80 Atk / 55 Def / 95 SAtk / 60 SDef / 55 Spd / 485 BST
+Alt     140 HP / 70 Atk / 45 Def / 85 SAtk / 50 SDef / 45 Spd / 435 BST
+Neu     140 HP / 80 Atk / 55 Def / 95 SAtk / 60 SDef / 55 Spd / 485 BST
 
 Level Up:
 1 - Knuddler
@@ -1017,8 +1017,8 @@ Level Up:
 ===================
 041 - Zubat
 ===================
-Moves:
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Absorber
@@ -1032,7 +1032,7 @@ Level Up:
 19 - Horrorblick
 22 - Blutsauger
 25 - Sternschauer
-28 - Hynose
+28 - Hypnose
 31 - Luftschnitt
 34 - Dunkelnebel
 37 - Zen-Kopfstoß
@@ -1042,8 +1042,8 @@ Level Up:
 ===================
 042 - Golbat
 ===================
-Moves:
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Kreideschrei
@@ -1059,7 +1059,7 @@ Level Up:
 22 - Knirscher
 23 - Blutsauger
 27 - Sternschauer
-31 - Hynose
+31 - Hypnose
 35 - Luftschnitt
 39 - Dunkelnebel
 43 - Zen-Kopfstoß
@@ -1067,11 +1067,11 @@ Level Up:
 51 - Sturzflug
 
 ===================
-043 - Oddish
+043 - Myrapla
 ===================
-Ability:
-Old     Chlorophyll / None
-New     Chlorophyll / Run Away
+Fähigkeit:
+Alt     Chlorophyll / Keine
+Neu     Chlorophyll / Angsthase
 
 Level Up:
 1 - Absorber
@@ -1093,11 +1093,11 @@ Level Up:
 40 - Blättertanz
 
 ===================
-044 - Gloom
+044 - Duflor
 ===================
-Ability:
-Old     Chlorophyll / None
-New     Chlorophyll / Stench
+Fähigkeit:
+Alt     Chlorophyll / Keine
+Neu     Chlorophyll / Duftnote
 
 Level Up:
 1 - Absorber
@@ -1119,11 +1119,11 @@ Level Up:
 47 - Blättertanz
 
 ===================
-045 - Vileplume
+045 - Giflor
 ===================
-Ability:
-Old     Chlorophyll / None
-New     Chlorophyll / Effect Spore
+Fähigkeit:
+Alt     Chlorophyll / Keine
+Neu     Chlorophyll / Sporenwirt
 
 Level Up:
 1 - Mondgewalt
@@ -1140,8 +1140,8 @@ Level Up:
 ===================
 046 - Paras
 ===================
-Moves:
-Now compatible with TM62, Käfergebrumm. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm. (!!)
 
 Level Up:
 1 - Kratzer
@@ -1163,14 +1163,14 @@ Level Up:
 46 - Kreuzschere
 
 ===================
-047 - Parasect
+047 - Parasek
 ===================
-Base Stats (Complete):
-Old     60 HP / 95 Atk / 80 Def / 60 SAtk / 80 SDef / 30 Spd / 405 BST
-New     60 HP / 115 Atk / 100 Def / 55 SAtk / 90 SDef / 30 Spd / 450 BST
+Base Stats:
+Alt     60 HP / 95 Atk / 80 Def / 60 SAtk / 80 SDef / 30 Spd / 405 BST
+Neu     60 HP / 115 Atk / 100 Def / 55 SAtk / 90 SDef / 30 Spd / 450 BST
 
-Moves:
-Now compatible with TM62, Käfergebrumm. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm. (!!)
 
 Level Up:
 1 - Egelsamen
@@ -1193,14 +1193,14 @@ Level Up:
 54 - Kreuzschere
 
 ===================
-048 - Venonat
+048 - Bluzuk
 ===================
-Ability:
-Old     Compound Eyes / Tinted Lens
-New     Tinted Lens / Compound Eyes
+Fähigkeit:
+Alt     Facettenauge / Aufwertung
+Neu     Aufwertung / Facettenauge
 
-Moves:
-Now compatible with TM62, Käfergebrumm. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm. (!!)
 
 Level Up:
 1 - Tackle
@@ -1222,20 +1222,20 @@ Level Up:
 39 - Morgengrauen
 
 ===================
-049 - Venomoth
+049 - Omot
 ===================
-Ability:
-Old     Shield Dust / Tinted Lens
-New     Tinted Lens / Shield Dust
+Fähigkeit:
+Alt     Puderabwehr / Aufwertung
+Neu     Aufwertung / Puderabwehr
 
-Base Stats (Complete):
-Old     70 HP / 65 Atk / 60 Def / 90 SAtk / 75 SDef / 90 Spd / 450 BST
-New     70 HP / 55 Atk / 60 Def / 100 SAtk / 75 SDef / 90 Spd / 450 BST
+Base Stats:
+Alt     70 HP / 65 Atk / 60 Def / 90 SAtk / 75 SDef / 90 Spd / 450 BST
+Neu     70 HP / 55 Atk / 60 Def / 100 SAtk / 75 SDef / 90 Spd / 450 BST
 
-Moves:
-Now compatible with TM62, Käfergebrumm.
-Now compatible with TM88, Hurricane. (!!)
-Now compatible with HM02, Fliegen. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm.
+Jetzt kompatibel mit TM88, Orkan. (!!)
+Jetzt kompatibel mit HM02, Fliegen. (!!)
 
 Level Up:
 1 - Silberhauch
@@ -1258,8 +1258,9 @@ Level Up:
 38 - Psychokinese
 42 - Morgengrauen
 46 - Käfergebrumm
+
 ===================
-050 - Diglett
+050 - Digda
 ===================
 Level Up:
 1 - Sandwirbel
@@ -1281,7 +1282,7 @@ Level Up:
 43 - Geofissur
 
 ===================
-051 - Dugtrio
+051 - Digdri
 ===================
 Level Up:
 1 - Sandwirbel
@@ -1305,11 +1306,11 @@ Level Up:
 49 - Geofissur
 
 ===================
-052 - Meowth
+052 - Mauzi
 ===================
-Ability:
-Old     Pickup / Technician
-New     Technician / Pickup
+Fähigkeit:
+Alt     Mitnahme / Techniker
+Neu     Techniker / Mitnahme
 
 Level Up:
 1 - Kratzer
@@ -1325,7 +1326,7 @@ Level Up:
 24 - Nachthieb
 27 - Verhöhner
 30 - Gewissheit
-33 - Hynose
+33 - Hypnose
 36 - Ränkeschmied
 39 - Knuddler
 42 - Liebreiz
@@ -1333,15 +1334,15 @@ Level Up:
 48 - Risikotackle
 
 ===================
-053 - Persian
+053 - Snobilikat
 ===================
-Ability:
-Old     Limber / Technician
-New     Technician / Limber
+Fähigkeit:
+Alt     Flexibilität / Techniker
+Neu     Techniker / Flexibilität
 
 Base Stats:
-Old     65 HP / 70 Atk / 60 Def / 65 SAtk / 65 SDef / 115 Spd / 440 BST
-New     65 HP / 80 Atk / 60 Def / 80 SAtk / 65 SDef / 115 Spd / 465 BST
+Alt     65 HP / 70 Atk / 60 Def / 65 SAtk / 65 SDef / 115 Spd / 440 BST
+Neu     65 HP / 80 Atk / 60 Def / 80 SAtk / 65 SDef / 115 Spd / 465 BST
 
 Level Up:
 1 - Wechseldich
@@ -1359,7 +1360,7 @@ Level Up:
 27 - Verhöhner
 28 - Juwelenkraft
 30 - Gewissheit
-34 - Hynose
+34 - Hypnose
 38 - Ränkeschmied
 42 - Knuddler
 46 - Liebreiz
@@ -1367,7 +1368,7 @@ Level Up:
 54 - Risikotackle
 
 ===================
-054 - Psyduck
+054 - Enton
 ===================
 Level Up:
 1 - Nassmacher
@@ -1380,7 +1381,7 @@ Level Up:
 18 - Aussetzer
 21 - Zen-Kopfstoß
 24 - Kreideschrei
-27 - Hynose
+27 - Hypnose
 30 - Nassschweif
 33 - Psychokinese
 36 - Psycho-Plus
@@ -1390,7 +1391,7 @@ Level Up:
 48 - Hydropumpe
 
 ===================
-055 - Golduck
+055 - Entoron
 ===================
 Level Up:
 1 - Egotrip
@@ -1405,7 +1406,7 @@ Level Up:
 18 - Aussetzer
 21 - Zen-Kopfstoß
 24 - Kreideschrei
-27 - Hynose
+27 - Hypnose
 30 - Nassschweif
 33 - Juwelenkraft (!!)
 34 - Psychokinese
@@ -1416,7 +1417,7 @@ Level Up:
 54 - Hydropumpe
 
 ===================
-056 - Mankey
+056 - Menki
 ===================
 Level Up:
 1 - Kratzer
@@ -1441,7 +1442,7 @@ Level Up:
 50 - Nahkampf
 
 ===================
-057 - Primeape
+057 - Rasaff
 ===================
 Level Up:
 1 - Wagemut
@@ -1468,7 +1469,7 @@ Level Up:
 58 - Nahkampf
 
 ===================
-058 - Growlithe
+058 - Fukano
 ===================
 Level Up:
 1 - Biss
@@ -1491,7 +1492,7 @@ Level Up:
 41 - Flammenblitz
 
 ===================
-059 - Arcanine
+059 - Arkani
 ===================
 Level Up:
 1 - Morgengrauen
@@ -1506,13 +1507,13 @@ Level Up:
 54 - Flammenblitz
 
 ===================
-060 - Poliwag
+060 - Quapsel
 ===================
 Level Up
 1 - Klaps
 1 - Blubber
 1 - Nassmacher
-6 - Hynose
+6 - Hypnose
 9 - Aquaknarre
 12 - Duplexhieb
 15 - Regentanz
@@ -1526,16 +1527,16 @@ Level Up
 39 - Hydropumpe
 
 ===================
-061 - Poliwhirl
+061 - Quaputzi
 ===================
 Evolution:
-Now able to evolve into Politoed by using a King's Rock.
+Entwickelt sich jetzt zu Quaxo durch Verwenden eines King-Steins.
 
 Level Up:
 1 - Klaps
 1 - Blubber
 1 - Nassmacher
-6 - Hynose
+6 - Hypnose
 9 - Aquaknarre
 12 - Duplexhieb
 15 - Regentanz
@@ -1549,10 +1550,10 @@ Level Up:
 44 - Hydropumpe
 
 ===================
-062 - Poliwrath
+062 - Quappo
 ===================
-Moves:
-Now compatible with TM60, Ableithieb. (!!)
+Attacken:
+Jetzt kompatibel mit TM60, Ableithieb. (!!)
 
 Level Up:
 1 - Vakuumwelle
@@ -1561,7 +1562,7 @@ Level Up:
 1 - Protzer
 1 - Klaps
 1 - Blubbstrahl
-1 - Hynose
+1 - Hypnose
 1 - Duplexhieb
 1 - Durchbruch
 33 - Wuchtschlag
@@ -1578,7 +1579,7 @@ Level Up:
 064 - Kadabra
 ===================
 Evolution:
-Now able to evolve into Alakazam by using a Twisted Spoon
+Entwickelt sich jetzt zu Simsala durch Verwenden eines Krummlöffels.
 
 Level Up:
 1 - Blitz
@@ -1600,7 +1601,7 @@ Level Up:
 49 - Trickbetrug
 
 ===================
-065 - Alakazam
+065 - Simsala
 ===================
 Level Up:
 1 - Zugabe
@@ -1625,7 +1626,7 @@ Level Up:
 52 - Aurasphäre (!!)
 
 ===================
-066 - Machop
+066 - Machollo
 ===================
 Level Up:
 1 - Fußkick
@@ -1649,10 +1650,10 @@ Level Up:
 50 - Kraftkoloss
 
 ===================
-067 - Machoke
+067 - Maschok
 ===================
 Evolution:
-Now able to evolve into Machamp by using Focus Band
+Entwickelt sich jetzt zu Machomei durch Verwenden eines Fokusband
 
 Level Up:
 1 - Fußkick
@@ -1676,7 +1677,7 @@ Level Up:
 58 - Kraftkoloss
 
 ===================
-068 - Machamp
+068 - Machomei
 ===================
 Level Up:
 1 - Nahkampf
@@ -1702,11 +1703,11 @@ Level Up:
 58 - Kraftkoloss
 
 ===================
-069 - Bellsprout
+069 - Knofensa
 ===================
-Ability:
-Old     Chlorophyll / None
-New     Chlorophyll / Gluttony
+Fähigkeit:
+Alt     Chlorophyll / Keine
+Neu     Chlorophyll / Völlerei
 
 Level Up:
 1 - Rankenhieb
@@ -1728,11 +1729,11 @@ Level Up:
 40 - Blattgeißel
 
 ===================
-070 - Weepinbell
+070 - Ultrigaria
 ===================
-Ability:
-Old     Chlorophyll / None
-New     Chlorophyll / Gluttony
+Fähigkeit:
+Alt     Chlorophyll / Keine
+Neu     Chlorophyll / Völlerei
 
 Level Up:
 1 - Rankenhieb
@@ -1754,11 +1755,11 @@ Level Up:
 47 - Blattgeißel
 
 ===================
-071 - Victreebel
+071 - Sarzenia
 ===================
-Ability:
-Old     Chlorophyll / None
-New     Chlorophyll / Gluttony
+Fähigkeit:
+Alt     Chlorophyll / Keine
+Neu     Chlorophyll / Völlerei
 
 Level Up:
 1 - Meteorologe
@@ -1776,7 +1777,7 @@ Level Up:
 53 - Blättersturm
 
 ===================
-072 - Tentacool
+072 - Tentacha
 ===================
 Level Up:
 1 - Giftstachel
@@ -1798,7 +1799,7 @@ Level Up:
 46 - Auswringen
 
 ===================
-073 - Tentacruel
+073 - Tentoxa
 ===================
 Level Up:
 1 - Giftstachel
@@ -1820,7 +1821,7 @@ Level Up:
 52 - Auswringen
 
 ===================
-074 - Geodude
+074 - Kleinstein
 ===================
 Level Up:
 1 - Tackle
@@ -1842,10 +1843,11 @@ Level Up:
 46 - Hammerarm
 
 ===================
-075 - Graveler
+075 - Georok
 ===================
 Evolution:
-Now able to evolve into Golem by using an Overtone
+Entwickelt sich jetzt zu Geowaz durch Verwenden eines Ewigsteins.
+
 Level Up:
 1 - Tackle
 1 - Einigler
@@ -1867,7 +1869,7 @@ Level Up:
 54 - Hammerarm
 
 ===================
-076 - Golem
+076 - Geowaz
 ===================
 Level Up:
 1 - Feuerschlag
@@ -1893,11 +1895,11 @@ Level Up:
 54 - Hammerarm
 
 ===================
-077 - Ponyta
+077 - Ponita
 ===================
-Ability:
-Old     Run Away / Blitz Fire
-New     Flame Body / Blitz Fire
+Fähigkeit:
+Alt     Angsthase / Feuerfänger
+Neu     Flammkörper / Feuerfänger
 
 Level Up:
 1 - Tackle
@@ -1910,7 +1912,7 @@ Level Up:
 19 - Bodycheck
 22 - Feuerwirbel
 25 - Agilität
-28 - Hynose
+28 - Hypnose
 31 - Fußkick
 34 - Flammenblitz
 37 - Risikotackle
@@ -1919,11 +1921,11 @@ Level Up:
 46 - Feuersturm
 
 ===================
-078 - Rapidash
+078 - Gallopa
 ===================
-Ability:
-Old     Run Away / Blitz Fire
-New     Flame Body / Blitz Fire
+Fähigkeit:
+Alt     Angsthase / Feuerfänger
+Neu     Flammkörper / Feuerfänger
 
 Level Up:
 1 - Gifthieb
@@ -1939,7 +1941,7 @@ Level Up:
 19 - Bodycheck
 22 - Feuerwirbel
 25 - Agilität
-28 - Hynose
+28 - Hypnose
 31 - Fußkick
 34 - Flammenblitz
 35 - Furienschlag
@@ -1949,13 +1951,13 @@ Level Up:
 50 - Feuersturm
 
 ===================
-079 - Slowpoke
+079 - Flegmon
 ===================
 Evolution:
-Now able to evolve into Slowking by using a King's Rock.
+Entwickelt sich jetzt zu Laschoking durch Verwenden eines King-Stein.
 
-Moves:
-Now compatible with HM07, Kaskade. (!!)
+Attacken:
+Jetzt kompatibel mit HM07, Kaskade. (!!)
 
 Level Up:
 1 - Fluch
@@ -1978,10 +1980,10 @@ Level Up:
 46 - Bizarroraum
 
 ===================
-080 - Slowbro
+080 - Lahmus
 ===================
-Moves:
-Now compatible with HM07, Kaskade. (!!)
+Attacken:
+Jetzt kompatibel mit HM07, Kaskade. (!!)
 
 Level Up:
 1 - Fluch
@@ -2005,7 +2007,7 @@ Level Up:
 51 - Bizarroraum
 
 ===================
-081 - Magnemite
+081 - Magnetilo
 ===================
 Level Up:
 1 - Tackle
@@ -2020,7 +2022,7 @@ Level Up:
 22 - Spiegelsalve
 25 - Metallsound
 28 - Ladungsstoß
-31 - Blitz Cannon
+31 - Lichtkanone
 34 - Kreideschrei
 37 - Donnerblitz
 40 - Zielschuss
@@ -2032,7 +2034,7 @@ Level Up:
 082 - Magneton
 ===================
 Evolution:
-Now evolves into Magnezone using a Thunderstone
+Entwickelt sich zu Magnezone durch Verwenden eines Donnersteins.
 
 Level Up:
 1 - Tackle
@@ -2048,7 +2050,7 @@ Level Up:
 25 - Metallsound
 28 - Ladungsstoß
 30 - Triplette
-33 - Blitz Cannon
+33 - Lichtkanone
 37 - Kreideschrei
 41 - Donnerblitz
 45 - Zielschuss
@@ -2057,20 +2059,20 @@ Level Up:
 57 - Blitzkanone
 
 ===================
-083 - Farfetch'd
+083 - Porenta
 ===================
-Ability:
-Old     Keen Eye / Inner Focus
-New     Super Luck / Keen Eye
+Fähigkeit:
+Alt     Adlerauge / Konzentrator
+Neu     Glückspilz / Adlerauge
 
 Base Stats:
-Old     52 HP / 90 Atk / 55 Def / 58 SAtk / 62 SDef / 60 Spd / 377 BST
-New     55 HP / 110 Atk / 60 Def / 55 SAtk / 60 SDef / 110 Spd / 450 BST
+Alt     52 HP / 90 Atk / 55 Def / 58 SAtk / 62 SDef / 60 Spd / 377 BST
+Neu     55 HP / 110 Atk / 60 Def / 55 SAtk / 60 SDef / 110 Spd / 450 BST
 
-Moves:
-Now compatible with TM31, Durchbruch. (!!)
-Now compatible with TM52, Fokusstoß. (!!)
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM31, Durchbruch. (!!)
+Jetzt kompatibel mit TM52, Fokusstoß. (!!)
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Pikser
@@ -2096,16 +2098,16 @@ Level Up:
 49 - Nahkampf (!!)
 
 ===================
-084 - Doduo
+084 - Dodu
 ===================
-Ability:
-Old     Run Away / Early Bird
-New     Tangled Feet / Early Bird
+Fähigkeit:
+Alt     Angsthase / Frühwecker
+Neu     Taumelschritt / Frühwecker
 
 Level Up:
 1 - Pikser
 1 - Heuler
-1 - Ruckzubhieb
+1 - Ruckzuckhieb
 6 - Raserei
 9 - Furienschlag
 12 - Verfolgung
@@ -2123,18 +2125,18 @@ Level Up:
 48 - Sturzflug
 
 ===================
-085 - Dodrio
+085 - Dodri
 ===================
-Ability:
-Old     Run Away / Early Bird
-New     Tangled Feet / Early Bird
+Fähigkeit:
+Alt     Angsthase / Frühwecker
+Neu     Taumelschritt / Frühwecker
 
 Level Up:
 1 - Turmkick (!!)
 1 - Sturzflug
 1 - Pikser
 1 - Heuler
-1 - Ruckzubhieb
+1 - Ruckzuckhieb
 6 - Raserei
 9 - Furienschlag
 12 - Verfolgung
@@ -2153,7 +2155,7 @@ Level Up:
 54 - Sturzflug
 
 ===================
-086 - Seel
+086 - Jurob
 ===================
 Level Up:
 1 - Kopfnuss
@@ -2178,11 +2180,11 @@ Level Up:
 43 - Vielender
 
 ===================
-087 - Dewgong
+087 - Jugong
 ===================
 Base Stats:
-Old     90 HP / 70 Atk / 80 Def / 70 SAtk / 95 SDef / 70 Spd / 475 BST
-New     90 HP / 80 Atk / 80 Def / 80 SAtk / 95 SDef / 70 Spd / 495 BST
+Alt     90 HP / 70 Atk / 80 Def / 70 SAtk / 95 SDef / 70 Spd / 475 BST
+Neu     90 HP / 80 Atk / 80 Def / 80 SAtk / 95 SDef / 70 Spd / 495 BST
 
 Level Up:
 1 - Kopfnuss
@@ -2208,7 +2210,7 @@ Level Up:
 49 - Vielender
 
 ===================
-088 - Grimer
+088 - Sleima
 ===================
 Level Up:
 1 - Fluch
@@ -2231,7 +2233,7 @@ Level Up:
 46 - Memento-Mori
 
 ===================
-089 - Muk
+089 - Sleimok
 ===================
 Level Up:
 1 - Mondgewalt
@@ -2256,14 +2258,14 @@ Level Up:
 50 - Memento-Mori
 
 ===================
-090 - Shellder
+090 - Muschas
 ===================
-Ability:
-Old     Shell Armor / Skill Link
-New     Skill Link / Shell Armor
+Fähigkeit:
+Alt     Panzerhaut / Wertelink
+Neu     Wertelink / Panzerhaut
 
-Moves:
-Now compatible with HM07, Kaskade. (!!)
+Attacken:
+Jetzt kompatibel mit HM07, Kaskade. (!!)
 
 Level Up:
 1 - Tackle
@@ -2284,14 +2286,14 @@ Level Up:
 37 - Hydropumpe
 
 ===================
-091 - Cloyster
+091 - Austos
 ===================
-Ability:
-Old     Shell Armor / Skill Link
-New     Skill Link / Shell Armor
+Fähigkeit:
+Alt     Panzerhaut / Wertelink
+Neu     Wertelink / Panzerhaut
 
-Moves:
-Now compatible with HM07, Kaskade. (!!)
+Attacken:
+Jetzt kompatibel mit HM07, Kaskade. (!!)
 
 Level Up:
 1 - Hydropumpe
@@ -2307,14 +2309,14 @@ Level Up:
 43 - Eiszapfhagel
 
 ===================
-092 - Gastly
+092 - Nebulak
 ===================
 Level Up:
 1 - Giftwolke
 1 - Horrorblick
 1 - Schlecker
 1 - Groll
-4 - Hynose
+4 - Hypnose
 7 - Nachtnebel
 10 - Smog
 13 - Konfusstrahl
@@ -2330,17 +2332,17 @@ Level Up:
 43 - Abgangsbund
 
 ===================
-093 - Haunter
+093 - Alpollo
 ===================
 Evolution:
-Now able to evolve into Gengar at Level 36.
+Entwickelt sich jetzt zu Gengar at Level 36.
 
 Level Up:
 1 - Giftwolke
 1 - Horrorblick
 1 - Schlecker
 1 - Groll
-4 - Hynose
+4 - Hypnose
 7 - Nachtnebel
 10 - Smog
 13 - Konfusstrahl
@@ -2364,7 +2366,7 @@ Level Up:
 1 - Horrorblick
 1 - Schlecker
 1 - Groll
-4 - Hynose
+4 - Hypnose
 7 - Nachtnebel
 10 - Smog
 13 - Konfusstrahl
@@ -2385,11 +2387,11 @@ Level Up:
 095 - Onix
 ===================
 Base Stats:
-Old     35 HP / 45 Atk / 160 Def / 30 SAtk / 45 SDef / 70 Spd / 385 BST
-New     35 HP / 75 Atk / 160 Def / 30 SAtk / 45 SDef / 80 Spd / 425 BST
+Alt     35 HP / 45 Atk / 160 Def / 30 SAtk / 45 SDef / 70 Spd / 385 BST
+Neu     35 HP / 75 Atk / 160 Def / 30 SAtk / 45 SDef / 80 Spd / 425 BST
 
 Evolution:
-Now able to evolve into Steelix by using a Metal Coat.
+Entwickelt sich jetzt zu Stahlos durch Verwenden eines Metallmantels.
 
 Level Up:
 1 - Lehmsuhler
@@ -2412,12 +2414,12 @@ Level Up:
 43 - Sandsturm
 
 ===================
-096 - Drowzee
+096 - Traumato
 ===================
 Level Up:
 1 - Traumfresser
 1 - Klaps
-1 - Hynose
+1 - Hypnose
 6 - Aussetzer
 9 - Konfusion
 12 - Kopfnuss
@@ -2443,7 +2445,7 @@ Level Up:
 1 - Wechseldich
 1 - Traumfresser
 1 - Klaps
-1 - Hynose
+1 - Hypnose
 6 - Aussetzer
 9 - Konfusion
 12 - Kopfnuss
@@ -2464,9 +2466,9 @@ Level Up:
 ===================
 098 - Krabby
 ===================
-Moves:
-Now compatible with TM65, Dunkelklaue. (!!)
-Now compatible with HM07, Kaskade. (!!)
+Attacken:
+Jetzt kompatibel mit TM65, Dunkelklaue. (!!)
+Jetzt kompatibel mit HM07, Kaskade. (!!)
 
 Level Up:
 1 - Blubber
@@ -2490,9 +2492,9 @@ Level Up:
 ===================
 099 - Kingler
 ===================
-Moves:
-Now compatible with TM65, Dunkelklaue. (!!)
-Now compatible with HM07, Kaskade. (!!)
+Attacken:
+Jetzt kompatibel mit TM65, Dunkelklaue. (!!)
+Jetzt kompatibel mit HM07, Kaskade. (!!)
 
 Level Up:
 1 - Kraftkoloss
@@ -2518,7 +2520,7 @@ Level Up:
 50 - Dreschflegel
 
 ===================
-100 - Voltorb
+100 - Voltobal
 ===================
 Level Up:
 1 - Ladevorgang
@@ -2541,10 +2543,10 @@ Level Up:
 48 - Donner
 
 ===================
-101 - Electrode
+101 - Lektroball
 ===================
-Moves:
-Now compatible with TM53, Energieball. (!!)
+Attacken:
+Jetzt kompatibel mit TM53, Energieball. (!!)
 
 Level Up:
 1 - Ladevorgang
@@ -2567,11 +2569,11 @@ Level Up:
 55 - Donner
 
 ===================
-102 - Exeggcute
+102 - Owei
 ===================
 Level Up:
 1 - Eierbombe
-1 - Hynose
+1 - Hypnose
 1 - Aufruhr
 7 - Reflektor
 13 - Konfusion
@@ -2590,13 +2592,13 @@ Level Up:
 39 - Blättersturm
 
 ===================
-103 - Exeggutor
+103 - Kokowei
 ===================
 Level Up:
 1 - Blattgeißel
 1 - Samenbomben
 1 - Eierbombe
-1 - Hynose
+1 - Hypnose
 1 - Konfusion
 23 - Stampfer
 33 - Synthese
@@ -2604,7 +2606,7 @@ Level Up:
 53 - Blättersturm
 
 ===================
-104 - Cubone
+104 - Tragosso
 ===================
 Level Up:
 1 - Heuler
@@ -2628,7 +2630,7 @@ Level Up:
 49 - Erdbeben
 
 ===================
-105 - Marowak
+105 - Knogga
 ===================
 Level Up:
 1 - Heuler
@@ -2653,11 +2655,11 @@ Level Up:
 57 - Erdbeben
 
 ===================
-106 - Hitmonlee
+106 - Kicklee
 ===================
-Ability:
-Old     Limber / Reckless
-New     Reckless / Limber
+Fähigkeit:
+Alt     Flexibilität / Achtlos
+Neu     Achtlos / Flexibilität
 
 Level Up:
 1 - Vergeltung
@@ -2679,11 +2681,11 @@ Level Up:
 45 - Gegenschlag
 
 ===================
-107 - Hitmonchan
+107 - Nockchan
 ===================
-Ability:
-Old     Keen Eye / Iron Fist
-New     Iron Fist / Keen Eye
+Fähigkeit:
+Alt     Adlerauge / Eisenfaust
+Neu     Eisenfaust / Adlerauge
 
 Level Up:
 1 - Vergeltung
@@ -2706,7 +2708,7 @@ Level Up:
 45 - Power-Punch
 
 ===================
-108 - Lickitung
+108 - Schlurp
 ===================
 Level Up:
 1 - Schlecker
@@ -2731,7 +2733,7 @@ Level Up:
 55 - Auswringen
 
 ===================
-109 - Koffing
+109 - Smogon
 ===================
 Level Up:
 1 - Tackle
@@ -2753,7 +2755,7 @@ Level Up:
 46 - Memento-Mori
 
 ===================
-110 - Weezing
+110 - Smogmog
 ===================
 Level Up:
 1 - Psystrahl
@@ -2777,17 +2779,14 @@ Level Up:
 50 - Memento-Mori
 
 ===================
-111 - Rhyhorn
+111 - Rihorn
 ===================
-Ability:
-Old     Lightning Rod / Rock Head
-New     Rock Head / Reckless
-
-Evolution:
-Now evolves into Rhydon at Level 36.
+Fähigkeit:
+Alt     Blitzfänger / Steinhaupt
+Neu     Steinhaupt / Achtlos
 
 Level Up:
-1 - Hornattack
+1 - Hornattacke
 1 - Rutenschlag
 4 - Furienschlag
 7 - Grimasse
@@ -2807,18 +2806,18 @@ Level Up:
 49 - Kraftkoloss
 
 ===================
-112 - Rhydon
+112 - Rizeros
 ===================
-Ability:
-Old     Lightning Rod / Rock Head
-New     Rock Head / Reckless
+Fähigkeit:
+Alt     Blitzfänger / Steinhaupt
+Neu     Steinhaupt / Achtlos
 
 Evolution:
-Now able to evolve into Rhyperior by using a Protector.
+Entwickelt sich jetzt zu Rihornior durch Verwenden eines Schützer.
 
 Level Up:
 1 - Donnerzahn
-1 - Hornattack
+1 - Hornattacke
 1 - Rutenschlag
 4 - Furienschlag
 7 - Grimasse
@@ -2839,11 +2838,11 @@ Level Up:
 54 - Kraftkoloss
 
 ===================
-113 - Chansey
+113 - Chaneira
 ===================
-Ability:
-Old     Natural Cure / Serene Grace
-New     Serene Grace / Natural Cure
+Fähigkeit:
+Alt     Innere Kraft / Edelmut
+Neu     Edelmut / Innere Kraft
 
 Level Up:
 1 - Risikotackle
@@ -2893,11 +2892,11 @@ Level Up:
 49 - Blättersturm
 
 ===================
-115 - Kangaskhan
+115 - Kangama
 ===================
-Ability:
-Old     Early Bird / Scrappy
-New     Scrappy / Early Bird
+Fähigkeit:
+Alt     Frühwecker / Rauflust
+Neu     Rauflust / Frühwecker
 
 Level Up:
 1 - Kometenhieb
@@ -2920,7 +2919,7 @@ Level Up:
 49 - Gegenschlag
 
 ===================
-116 - Horsea
+116 - Seeper
 ===================
 Level Up:
 1 - Blubber
@@ -2942,10 +2941,10 @@ Level Up:
 46 - Hydropumpe
 
 ===================
-117 - Seadra
+117 - Seemon
 ===================
 Evolution:
-Now able to evolve into Kingdra by using a Dragon Scale.
+Entwickelt sich jetzt zu Seedraking durch Verwenden einer Drachenschuppe.
 
 Level Up:
 1 - Aussetzer
@@ -2968,19 +2967,19 @@ Level Up:
 51 - Hydropumpe
 
 ===================
-118 - Goldeen
+118 - Goldini
 ===================
-Base Stats (Complete):
-Old     45 HP / 67 Atk / 60 Def / 35 SAtk / 50 SDef / 63 Spd / 320 BST
-New     45 HP / 77 Atk / 60 Def / 25 SAtk / 50 SDef / 73 Spd / 330 BST
+Base Stats:
+Alt     45 HP / 67 Atk / 60 Def / 35 SAtk / 50 SDef / 63 Spd / 320 BST
+Neu     45 HP / 77 Atk / 60 Def / 25 SAtk / 50 SDef / 73 Spd / 330 BST
 
 Level Up:
 1 - Pikser
 1 - Rutenschlag
 1 - Nassmacher
-1 - Ruckzubhieb
+1 - Ruckzuckhieb
 4 - Superschall
-7 - Hornattack
+7 - Hornattacke
 10 - Dreschflegel
 13 - Aquawelle
 16 - Wasserring
@@ -2996,20 +2995,20 @@ Level Up:
 46 - Hydropumpe
 
 ===================
-119 - Seaking
+119 - Golking
 ===================
-Base Stats (Complete):
-Old     80 HP / 92 Atk / 65 Def / 65 SAtk / 80 SDef / 68 Spd / 450 BST
-New     80 HP / 122 Atk / 80 Def / 45 SAtk / 80 SDef / 78 Spd / 485 BST
+Base Stats:
+Alt     80 HP / 92 Atk / 65 Def / 65 SAtk / 80 SDef / 68 Spd / 450 BST
+Neu     80 HP / 122 Atk / 80 Def / 45 SAtk / 80 SDef / 78 Spd / 485 BST
 
 Level Up:
 1 - Gifthieb
 1 - Pikser
 1 - Rutenschlag
 1 - Nassmacher
-1 - Ruckzubhieb
+1 - Ruckzuckhieb
 4 - Superschall
-7 - Hornattack
+7 - Hornattacke
 10 - Dreschflegel
 13 - Aquawelle
 16 - Wasserring
@@ -3025,7 +3024,7 @@ Level Up:
 51 - Hydropumpe
 
 ===================
-120 - Staryu
+120 - Sterndu
 ===================
 Level Up:
 1 - Tackle
@@ -3060,15 +3059,15 @@ Level Up:
 43 - Konfusstrahl
 
 ===================
-122 - Mr. Mime
+122 - Pantimos
 ===================
-Ability:
-Old     Soundproof / Filter
-New     Filter / Technician
+Fähigkeit:
+Alt     Lärmschutz / Filter
+Neu     Filter / Techniker
 
-Base Stats (Complete):
-Old     40 HP / 45 Atk / 65 Def / 100 SAtk / 120 SDef / 90 Spd / 460 BST
-New     40 HP / 35 Atk / 65 Def / 110 SAtk / 120 SDef / 95 Spd / 465 BST
+Base Stats:
+Alt     40 HP / 45 Atk / 65 Def / 100 SAtk / 120 SDef / 90 Spd / 460 BST
+Neu     40 HP / 35 Atk / 65 Def / 110 SAtk / 120 SDef / 95 Spd / 465 BST
 
 Level Up:
 1 - Zauberblatt
@@ -3094,21 +3093,21 @@ Level Up:
 48 - Bodyguard
 
 ===================
-123 - Scyther
+123 - Sichlor
 ===================
-Ability:
-Old     Swarm / Technician
-New     Technician / Swarm
+Fähigkeit:
+Alt     Hexaplaga / Techniker
+Neu     Techniker / Hexaplaga
 
 Evolution:
-Now able to evolve into Scizor by using a Metal Coat.
+Entwickelt sich jetzt zu Scherox durch Verwenden eines Metallmantels.
 
-Moves:
-Now compatible with TM62, Käfergebrumm.
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm.
 
 Level Up:
 1 - Vakuumwelle
-1 - Ruckzubhieb
+1 - Ruckzuckhieb
 1 - Silberblick
 4 - Energiefokus
 7 - Verfolgung
@@ -3130,15 +3129,15 @@ Level Up:
 52 - Offenlegung
 
 ===================
-124 - Jynx
+124 - Rossana
 ===================
-Base Stats (Complete):
-Old     65 HP / 50 Atk / 35 Def / 115 SAtk / 95 SDef / 95 Spd / 455 BST
-New     75 HP / 40 Atk / 35 Def / 125 SAtk / 95 SDef / 95 Spd / 465 BST
+Base Stats:
+Alt     65 HP / 50 Atk / 35 Def / 115 SAtk / 95 SDef / 95 Spd / 455 BST
+Neu     75 HP / 40 Atk / 35 Def / 125 SAtk / 95 SDef / 95 Spd / 465 BST
 
-Ability:
-Old     Oblivious / Forewarn
-New     Dry Skin / Forewarn
+Fähigkeit:
+Alt     Dösigkeit / Vorwarnung
+Neu     Trockenheit / Vorwarnung
 
 Level Up:
 1 - Diebeskuss
@@ -3164,13 +3163,13 @@ Level Up:
 59 - Psyschub (!!)
 
 ===================
-125 - Electabuzz
+125 - Elektek
 ===================
 Evolution:
-Now able to evolve into Electivire by using an Electirizer.
+Entwickelt sich jetzt zu Elevoltek durch Verwenden eines Elektrisierers.
 
 Level Up:
-1 - Ruckzubhieb
+1 - Ruckzuckhieb
 1 - Silberblick
 1 - Donnerschock
 7 - Fußkick
@@ -3192,7 +3191,7 @@ Level Up:
 126 - Magmar
 ===================
 Evolution:
-Now able to evolve into Magmortar by using a Magmarizer.
+Entwickelt sich jetzt zu Magbrand durch Verwenden eines Magmaisierers.
 
 Level Up:
 1 - Smog
@@ -3216,8 +3215,8 @@ Level Up:
 ===================
 127 - Pinsir
 ===================
-Moves:
-Now compatible with TM62, Käfergebrumm. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm. (!!)
 
 Level Up:
 1 - Klammer
@@ -3225,7 +3224,7 @@ Level Up:
 1 - Klammergriff
 4 - Härtner
 7 - Geowurf
-10 - Ruckzubhieb
+10 - Ruckzuckhieb
 13 - Käfergebiss
 16 - Vergeltung
 19 - Überwurf
@@ -3248,7 +3247,7 @@ Level Up:
 1 - Rutenschlag
 1 - Raserei
 4 - Grimasse
-7 - Hornattack
+7 - Hornattacke
 10 - Verfolgung
 13 - Stampfer
 16 - Erholung
@@ -3266,7 +3265,7 @@ Level Up:
 52 - Gigastoß
 
 ===================
-129 - Magikarp
+129 - Karpador
 ===================
 Level Up:
 1 - Platscher
@@ -3275,10 +3274,10 @@ Level Up:
 15 - Sprungfeder
 
 ===================
-130 - Gyarados
+130 - Garados
 ===================
-Moves:
-Now compatible with TM88, Hurricane.
+Attacken:
+Jetzt kompatibel mit TM88, Orkan.
 
 Level Up:
 1 - Fuchtler
@@ -3295,7 +3294,7 @@ Level Up:
 41 - Wutanfall
 44 - Hydropumpe
 47 - Regentanz
-50 - Hurricane
+50 - Orkan
 53 - Hyperstrahl
 
 ===================
@@ -3331,16 +3330,16 @@ Level Up:
 1 - Wandler
 
 ===================
-133 - Eevee
+133 - Evoli
 ===================
 Evolution:
-Now only evolves into Espeon with the Sun Stone.
-Now only evolves into Umbreon with the Moon Stone.
-Now only evolves into Leafeon with the Leaf Stone.
-Now only evolves into Glaceon with the Ice Stone.
+Entwickelt sich jetzt nur zu Psiana durch Verwenden eines Sonnensteins.
+Entwickelt sich jetzt nur zu Nachtara durch Verwenden eines Mondsteins.
+Entwickelt sich jetzt nur zu Folipurba durch Verwenden eines Blattsteins.
+Entwickelt sich jetzt nur zu Glaziola durch Verwenden eines Eissteins.
 
-Moves:
-Now compatible with TM86, Strauchler. (!!)
+Attacken:
+Jetzt kompatibel mit TM86, Strauchler. (!!)
 
 Level Up:
 1 - Rechte Hand
@@ -3350,7 +3349,7 @@ Level Up:
 1 - Biss
 1 - Bezirzer
 7 - Sandwirbel
-10 - Ruckzubhieb
+10 - Ruckzuckhieb
 13 - Stafette
 15 - Kulleraugen
 16 - Sternschauer
@@ -3365,10 +3364,10 @@ Level Up:
 43 - Trumpfkarte
 
 ===================
-134 - Vaporeon
+134 - Aquana
 ===================
-Moves:
-Now compatible with TM86, Strauchler. (!!)
+Attacken:
+Jetzt kompatibel mit TM86, Strauchler. (!!)
 
 Level Up:
 1 - Rechte Hand
@@ -3378,7 +3377,7 @@ Level Up:
 1 - Biss
 1 - Aquaknarre
 7 - Sandwirbel
-10 - Ruckzubhieb
+10 - Ruckzuckhieb
 13 - Dunkelnebel
 16 - Aquawelle
 19 - Aurorastrahl
@@ -3392,10 +3391,10 @@ Level Up:
 43 - Hydropumpe
 
 ===================
-135 - Jolteon
+135 - Blitza
 ===================
-Moves:
-Now compatible with TM86, Strauchler. (!!)
+Attacken:
+Jetzt kompatibel mit TM86, Strauchler. (!!)
 
 Level Up:
 1 - Rechte Hand
@@ -3405,7 +3404,7 @@ Level Up:
 1 - Biss
 1 - Donnerschock
 7 - Sandwirbel
-10 - Ruckzubhieb
+10 - Ruckzuckhieb
 13 - Donnerwelle
 16 - Schockwelle
 19 - Doppelkick
@@ -3419,16 +3418,16 @@ Level Up:
 43 - Donner
 
 ===================
-136 - Flareon
+136 - Flamara
 ===================
-Base Stats (Complete):
-Old     65 HP / 130 Atk / 60 Def / 95 SAtk / 110 SDef / 65 Spd / 525 BST
-New     110 HP / 130 Atk / 60 Def / 65 SAtk / 65 SDef / 95 Spd / 525 BST
+Base Stats:
+Alt     65 HP / 130 Atk / 60 Def / 95 SAtk / 110 SDef / 65 Spd / 525 BST
+Neu     110 HP / 130 Atk / 60 Def / 65 SAtk / 65 SDef / 95 Spd / 525 BST
 
-Moves:
-Now compatible with TM57, Stromstoß. (!!)
-Now compatible with TM80, Steinhagel. (!!)
-Now compatible with TM86, Strauchler. (!!)
+Attacken:
+Jetzt kompatibel mit TM57, Stromstoß. (!!)
+Jetzt kompatibel mit TM80, Steinhagel. (!!)
+Jetzt kompatibel mit TM86, Strauchler. (!!)
 
 Level Up:
 1 - Rechte Hand
@@ -3438,7 +3437,7 @@ Level Up:
 1 - Biss
 1 - Glut
 7 - Sandwirbel
-10 - Ruckzubhieb
+10 - Ruckzuckhieb
 13 - Smog
 16 - Feuerzahn
 19 - Feuerwirbel
@@ -3455,7 +3454,7 @@ Level Up:
 137 - Porygon
 ===================
 Evolution:
-Now able to evolve into Porygon2 by using a Up-Grade.
+Entwickelt sich jetzt zu Porygon2 durch Verwenden eines Up-Grades.
 
 Level Up:
 1 - Umwandlung 2
@@ -3481,11 +3480,8 @@ Level Up:
 49 - Hyperstrahl
 
 ===================
-138 - Omanyte
+138 - Amonitas
 ===================
-Evolution:
-Now evolves into Omastar at Level 30.
-
 Level Up:
 1 - Aquaknarre
 4 - Panzerschutz
@@ -3506,7 +3502,7 @@ Level Up:
 49 - Auswringen
 
 ===================
-139 - Omastar
+139 - Amoroso
 ===================
 Level Up:
 1 - Stachler
@@ -3533,9 +3529,6 @@ Level Up:
 ===================
 140 - Kabuto
 ===================
-Evolution:
-Now evolves into Kabutops at Level 30.
-
 Level Up:
 1 - Kratzer
 1 - Härtner
@@ -3584,8 +3577,8 @@ Level Up:
 ===================
 142 - Aerodactyl
 ===================
-Moves:
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Eiszahn
@@ -3611,11 +3604,11 @@ Level Up:
 65 - Himmelsfeger
 
 ===================
-143 - Snorlax
+143 - Relaxo
 ===================
-Ability:
-Old     Immunity / Thick Fat
-New     Thick Fat / Immunity
+Fähigkeit:
+Alt     Immunität / Speckschicht
+Neu     Speckschicht / Immunität
 
 Level Up:
 1 - Tagedieb (!!)
@@ -3640,14 +3633,14 @@ Level Up:
 51 - Gigastoß
 
 ===================
-144 - Articuno
+144 - Arktos
 ===================
-Ability:
-Old     Pressure / None
-New     Pressure / Snow Cloak
+Fähigkeit:
+Alt     Erzwinger / Keine
+Neu     Erzwinger / Schneemantel
 
-Moves:
-Now compatible with TM88, Hurricane.
+Attacken:
+Jetzt kompatibel mit TM88, Orkan.
 
 Level Up:
 1 - Windstoß
@@ -3664,18 +3657,18 @@ Level Up:
 34 - Eisstrahl
 38 - Blizzard
 42 - Ruheort
-46 - Hurricane
+46 - Orkan
 50 - Eiseskälte
 
 ===================
 145 - Zapdos
 ===================
-Ability:
-Old     Pressure / None
-New     Pressure / Static
+Fähigkeit:
+Alt     Erzwinger / Keine
+Neu     Erzwinger / Statik
 
-Moves:
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Pikser
@@ -3696,14 +3689,14 @@ Level Up:
 50 - Blitzkanone
 
 ===================
-146 - Moltres
+146 - Lavados
 ===================
-Ability:
-Old     Pressure / None
-New     Pressure / Flame Body
+Fähigkeit:
+Alt     Erzwinger / Keine
+Neu     Erzwinger / Flammkörper
 
-Moves:
-Now compatible with TM88, Hurricane.
+Attacken:
+Jetzt kompatibel mit TM88, Orkan.
 
 Level Up:
 1 - Flügelschlag
@@ -3720,15 +3713,15 @@ Level Up:
 34 - Solarstrahl
 38 - Himmelsfeger
 42 - Ruheort
-46 - Hurricane
+46 - Orkan
 50 - Hitzekoller
 
 ===================
 147 - Dratini
 ===================
-Ability:
-Old     Shed Skin / None
-New     Marvel Scale / Shed Skin
+Fähigkeit:
+Alt     Expidermis / Keine
+Neu     Notschutz / Expidermis
 
 Level Up:
 1 - Wickel
@@ -3749,14 +3742,14 @@ Level Up:
 46 - Hyperstrahl
 
 ===================
-148 - Dragonair
+148 - Dragonir
 ===================
-Ability:
-Old     Shed Skin / None
-New     Marvel Scale / Shed Skin
+Fähigkeit:
+Alt     Expidermis / Keine
+Neu     Notschutz / Expidermis
 
-Moves:
-Now compatible with HM02, Fliegen. (!!)
+Attacken:
+Jetzt kompatibel mit HM02, Fliegen. (!!)
 
 Level Up:
 1 - Wickel
@@ -3777,14 +3770,14 @@ Level Up:
 52 - Hyperstrahl
 
 ===================
-149 - Dragonite
+149 - Dragoran
 ===================
-Ability:
-Old     Inner Focus / None
-New     Marvel Scale / Inner Focus
+Fähigkeit:
+Alt     Konzentrator / Keine
+Neu     Notschutz / Konzentrator
 
-Moves:
-Now compatible with TM88, Hurricane.
+Attacken:
+Jetzt kompatibel mit TM88, Orkan.
 
 Level Up:
 1 - Feuerschlag
@@ -3807,7 +3800,7 @@ Level Up:
 48 - Wutanfall
 52 - Hyperstrahl
 55 - Flügelschlag
-60 - Hurricane
+60 - Orkan
 
 ===================
 150 - Mewtwo
@@ -3836,9 +3829,9 @@ Level Up:
 ===================
 151 - Mew
 ===================
-Moves:
-Now compatible with TM62, Käfergebrumm.
-Now compatible with TM88, Hurricane.
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm.
+Jetzt kompatibel mit TM88, Orkan.
 
 Level Up:
 1 - Klaps
@@ -3853,18 +3846,18 @@ Level Up:
 34 - Antik-Kraft
 38 - Psychokinese
 42 - Ränkeschmied
-46 - Hynose
+46 - Hypnose
 50 - Aurasphäre
 
 ===================
-152 - Chikorita
+152 - Endivie
 ===================
-Ability:
-Old     Overgrow / None
-New     Serene Grace / Overgrow
+Fähigkeit:
+Alt     Notdünger / Keine
+Neu     Edelmut / Notdünger
 
-Moves:
-Now compatible with TM85, Zauberschein. (!!)
+Attacken:
+Jetzt kompatibel mit TM85, Zauberschein. (!!)
 
 Level Up:
 1 - Tackle
@@ -3886,14 +3879,14 @@ Level Up:
 44 - Blättersturm
 
 ===================
-153 - Bayleef
+153 - Lorblatt
 ===================
-Ability:
-Old     Overgrow / None
-New     Serene Grace / Overgrow
+Fähigkeit:
+Alt     Notdünger / Keine
+Neu     Edelmut / Notdünger
 
-Moves:
-Now compatible with TM85, Zauberschein. (!!)
+Attacken:
+Jetzt kompatibel mit TM85, Zauberschein. (!!)
 
 Level Up:
 1 - Tackle
@@ -3916,18 +3909,18 @@ Level Up:
 54 - Blättersturm
 
 ===================
-154 - Meganium
+154 - Meganie
 ===================
-Ability:
-Old     Overgrow / None
-New     Serene Grace / Overgrow
+Fähigkeit:
+Alt     Notdünger / Keine
+Neu     Edelmut / Notdünger
 
 Base Stats:
-Old     80 HP / 82 Atk / 100 Def / 83 SAtk / 100 SDef / 80 Spd / 525 BST
-New     80 HP / 82 Atk / 100 Def / 93 SAtk / 100 SDef / 80 Spd / 535 BST
+Alt     80 HP / 82 Atk / 100 Def / 83 SAtk / 100 SDef / 80 Spd / 525 BST
+Neu     80 HP / 82 Atk / 100 Def / 93 SAtk / 100 SDef / 80 Spd / 535 BST
 
-Moves:
-Now compatible with TM85, Zauberschein. (!!)
+Attacken:
+Jetzt kompatibel mit TM85, Zauberschein. (!!)
 
 Level Up:
 1 - Erdkräfte (!!)
@@ -3953,18 +3946,18 @@ Level Up:
 60 - Blättersturm
 
 ===================
-155 - Cyndaquil
+155 - Feurigel
 ===================
-Ability:
-Old     Blaze / None
-New     Adaptability / Blaze
+Fähigkeit:
+Alt     Großbrand / Keine
+Neu     Anpassung / Großbrand
 
 Level Up:
 1 - Tackle
 1 - Silberblick
 5 - Glut
 8 - Rauchwolke
-11 - Ruckzubhieb
+11 - Ruckzuckhieb
 14 - Flammenrad
 17 - Einigler
 20 - Gegenschlag
@@ -3978,18 +3971,18 @@ Level Up:
 44 - Eruption
 
 ===================
-156 - Quilava
+156 - Igelavar
 ===================
-Ability:
-Old     Blaze / None
-New     Adaptability / Blaze
+Fähigkeit:
+Alt     Großbrand / Keine
+Neu     Anpassung / Großbrand
 
 Level Up:
 1 - Tackle
 1 - Silberblick
 5 - Glut
 8 - Rauchwolke
-11 - Ruckzubhieb
+11 - Ruckzuckhieb
 14 - Doppelkick
 15 - Flammenrad
 19 - Einigler
@@ -4004,15 +3997,15 @@ Level Up:
 55 - Eruption
 
 ===================
-157 - Typhlosion
+157 - Tornupto
 ===================
-Ability:
-Old     Blaze / None
-New     Adaptability / Blaze
+Fähigkeit:
+Alt     Großbrand / Keine
+Neu     Anpassung / Großbrand
 
 Base Stats:
-Old     78 HP / 84 Atk / 78 Def / 109 SAtk / 85 SDef / 100 Spd / 534 BST
-New     78 HP / 79 Atk / 73 Def / 124 SAtk / 80 SDef / 101 Spd / 535 BST
+Alt     78 HP / 84 Atk / 78 Def / 109 SAtk / 85 SDef / 100 Spd / 534 BST
+Neu     78 HP / 79 Atk / 73 Def / 124 SAtk / 80 SDef / 101 Spd / 535 BST
 
 Level Up:
 1 - Feuerschlag
@@ -4022,7 +4015,7 @@ Level Up:
 1 - Silberblick
 5 - Glut
 8 - Rauchwolke
-11 - Ruckzubhieb
+11 - Ruckzuckhieb
 14 - Doppelkick
 15 - Flammenrad
 19 - Einigler
@@ -4038,14 +4031,14 @@ Level Up:
 60 - Eruption
 
 ===================
-158 - Totodile
+158 - Karnimani
 ===================
-Ability:
-Old     Torrent / None
-New     Intimidate / Torrent
+Fähigkeit:
+Alt     Sturzbach / Keine
+Neu     Bedroher / Sturzbach
 
-Moves:
-Now compatible with TM02, Drachenklaue.
+Attacken:
+Jetzt kompatibel mit TM02, Drachenklaue.
 
 Level Up:
 1 - Kratzer
@@ -4067,14 +4060,14 @@ Level Up:
 44 - Hydropumpe
 
 ===================
-159 - Croconaw
+159 - Tyracroc
 ===================
-Ability:
-Old     Torrent / None
-New     Intimidate / Torrent
+Fähigkeit:
+Alt     Sturzbach / Keine
+Neu     Bedroher / Sturzbach
 
-Moves:
-Now compatible with TM02, Drachenklaue.
+Attacken:
+Jetzt kompatibel mit TM02, Drachenklaue.
 
 Level Up:
 1 - Kratzer
@@ -4097,15 +4090,15 @@ Level Up:
 53 - Hydropumpe
 
 ===================
-160 - Feraligatr
+160 - Impergator
 ===================
-Ability:
-Old     Torrent / None
-New     Intimidate / Torrent
+Fähigkeit:
+Alt     Sturzbach / Keine
+Neu     Bedroher / Sturzbach
 
 Base Stats:
-Old     85 HP / 105 Atk / 100 Def / 79 SAtk / 83 SDef / 78 Spd / 530 BST
-New     85 HP / 110 Atk / 100 Def / 79 SAtk / 83 SDef / 78 Spd / 535 BST
+Alt     85 HP / 105 Atk / 100 Def / 79 SAtk / 83 SDef / 78 Spd / 530 BST
+Neu     85 HP / 110 Atk / 100 Def / 79 SAtk / 83 SDef / 78 Spd / 535 BST
 
 Level Up:
 1 - Fußkick
@@ -4131,17 +4124,17 @@ Level Up:
 59 - Hydropumpe
 
 ===================
-161 - Sentret
+161 - Wiesor
 ===================
 Base Stats:
-Old     35 HP / 46 Atk / 34 Def / 35 SAtk / 45 SDef / 20 Spd / 215 BST
-New     45 HP / 45 Atk / 35 Def / 35 SAtk / 45 SDef / 40 Spd / 245 BST
+Alt     35 HP / 46 Atk / 34 Def / 35 SAtk / 45 SDef / 20 Spd / 215 BST
+Neu     45 HP / 45 Atk / 35 Def / 35 SAtk / 45 SDef / 40 Spd / 245 BST
 
 Level Up:
 1 - Kratzer
 1 - Gesichte
 1 - Einigler
-1 - Ruckzubhieb
+1 - Ruckzuckhieb
 5 - Kratzfurie
 8 - Rechte Hand
 11 - Slam
@@ -4158,22 +4151,22 @@ Level Up:
 44 - Risikotackle
 
 ===================
-162 - Furret
+162 - Wiesenior
 ===================
-Ability:
-Old     Run Away / Keen Eye
-New     Scrappy / Keen Eye
+Fähigkeit:
+Alt     Angsthase / Adlerauge
+Neu     Rauflust / Adlerauge
 
 Base Stats:
-Old     85 HP / 76 Atk / 64 Def / 45 SAtk / 55 SDef / 90 Spd / 415 BST
-New     95 HP / 85 Atk / 65 Def / 45 SAtk / 55 SDef / 105 Spd / 450 BST
+Alt     85 HP / 76 Atk / 64 Def / 45 SAtk / 55 SDef / 90 Spd / 415 BST
+Neu     95 HP / 85 Atk / 65 Def / 45 SAtk / 55 SDef / 105 Spd / 450 BST
 
 Level Up:
 1 - Turbotempo
 1 - Kratzer
 1 - Gesichte
 1 - Einigler
-1 - Ruckzubhieb
+1 - Ruckzuckhieb
 5 - Kratzfurie
 8 - Rechte Hand
 11 - Slam
@@ -4193,20 +4186,20 @@ Level Up:
 ===================
 163 - Hoothoot
 ===================
-Ability:
-Old     Insomnia / Keen Eye
-New     Tinted Lens / Insomnia
+Fähigkeit:
+Alt     Insomnia / Adlerauge
+Neu     Aufwertung / Insomnia
 
-Moves:
-Now compatible with TM70, Blitz. (!!)
-Now compatible with TM88, Hurricane.
+Attacken:
+Jetzt kompatibel mit TM70, Blitz. (!!)
+Jetzt kompatibel mit TM88, Orkan.
 
 Level Up:
 1 - Tackle
 1 - Heuler
 1 - Gesichte
 1 - Pikser
-6 - Hynose
+6 - Hypnose
 9 - Konfusion
 12 - Windschnitt
 15 - Aufruhr
@@ -4219,22 +4212,22 @@ Level Up:
 36 - Mondgewalt
 39 - Ruheort
 42 - Traumfresser
-45 - Hurricane
+45 - Orkan
 
 ===================
-164 - Noctowl
+164 - Noctuh
 ===================
-Ability:
-Old     Insomnia / Keen Eye
-New     Tinted Lens / Insomnia
+Fähigkeit:
+Alt     Insomnia / Adlerauge
+Neu     Aufwertung / Insomnia
 
 Base Stats:
-Old     100 HP / 50 Atk / 50 Def / 86 SAtk / 96 SDef / 70 Spd / 452 BST
-New     100 HP / 40 Atk / 40 Def / 106 SAtk / 116 SDef / 60 Spd / 462 BST
+Alt     100 HP / 50 Atk / 50 Def / 86 SAtk / 96 SDef / 70 Spd / 452 BST
+Neu     100 HP / 40 Atk / 40 Def / 106 SAtk / 116 SDef / 60 Spd / 462 BST
 
-Moves:
-Now compatible with TM70, Blitz. (!!)
-Now compatible with TM88, Hurricane.
+Attacken:
+Jetzt kompatibel mit TM70, Blitz. (!!)
+Jetzt kompatibel mit TM88, Orkan.
 
 Level Up:
 1 - Himmelsfeger
@@ -4244,7 +4237,7 @@ Level Up:
 1 - Heuler
 1 - Gesichte
 1 - Pikser
-6 - Hynose
+6 - Hypnose
 9 - Konfusion
 12 - Windschnitt
 15 - Aufruhr
@@ -4257,21 +4250,21 @@ Level Up:
 42 - Mondgewalt
 46 - Ruheort
 50 - Traumfresser
-54 - Hurricane
+54 - Orkan
 
 ===================
 165 - Ledyba
 ===================
-Ability:
-Old     Swarm / Early Bird
-New     Technician / Iron Fist
+Fähigkeit:
+Alt     Hexaplaga / Frühwecker
+Neu     Techniker / Eisenfaust
 
 Base Stats:
-Old     40 HP / 20 Atk / 30 Def / 40 SAtk / 80 SDef / 55 Spd / 265 BST
-New     40 HP / 50 Atk / 30 Def / 20 SAtk / 80 SDef / 55 Spd / 275 BST
+Alt     40 HP / 20 Atk / 30 Def / 40 SAtk / 80 SDef / 55 Spd / 265 BST
+Neu     40 HP / 50 Atk / 30 Def / 20 SAtk / 80 SDef / 55 Spd / 275 BST
 
-Moves:
-Now compatible with TM62, Käfergebrumm.
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm.
 
 Level Up:
 1 - Tackle
@@ -4297,17 +4290,17 @@ Level Up:
 ===================
 166 - Ledian
 ===================
-Ability:
-Old     Swarm / Early Bird
-New     Technician / Iron Fist
+Fähigkeit:
+Alt     Hexaplaga / Frühwecker
+Neu     Techniker / Eisenfaust
 
 Base Stats:
-Old     55 HP / 35 Atk / 50 Def / 55 SAtk / 110 SDef / 85 Spd / 390 BST
-New     65 HP / 105 Atk / 50 Def / 35 SAtk / 110 SDef / 85 Spd / 450 BST
+Alt     55 HP / 35 Atk / 50 Def / 55 SAtk / 110 SDef / 85 Spd / 390 BST
+Neu     65 HP / 105 Atk / 50 Def / 35 SAtk / 110 SDef / 85 Spd / 450 BST
 
-Moves:
-Now compatible with TM62, Käfergebrumm.
-Now compatible with HM02, Fliegen. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm.
+Jetzt kompatibel mit HM02, Fliegen. (!!)
 
 Level Up:
 1 - Eisschlag
@@ -4333,14 +4326,14 @@ Level Up:
 51 - Sternenhieb (!!)
 
 ===================
-167 - Spinarak
+167 - Webarak
 ===================
 Base Stats:
-Old     40 HP / 60 Atk / 40 Def / 40 SAtk / 40 SDef / 30 Spd / 250 BST
-New     40 HP / 70 Atk / 40 Def / 40 SAtk / 40 SDef / 45 Spd / 275 BST
+Alt     40 HP / 60 Atk / 40 Def / 40 SAtk / 40 SDef / 30 Spd / 250 BST
+Neu     40 HP / 70 Atk / 40 Def / 40 SAtk / 40 SDef / 45 Spd / 275 BST
 
-Moves:
-Now compatible with TM62, Käfergebrumm. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm. (!!)
 
 Level Up:
 1 - Giftstachel
@@ -4367,11 +4360,11 @@ Level Up:
 168 - Ariados
 ===================
 Base Stats:
-Old     70 HP / 90 Atk / 70 Def / 60 SAtk / 70 SDef / 40 Spd / 400 BST
-New     70 HP / 110 Atk / 70 Def / 50 SAtk / 70 SDef / 80 Spd / 450 BST
+Alt     70 HP / 90 Atk / 70 Def / 60 SAtk / 70 SDef / 40 Spd / 400 BST
+Neu     70 HP / 110 Atk / 70 Def / 50 SAtk / 70 SDef / 80 Spd / 450 BST
 
-Moves:
-Now compatible with TM62, Käfergebrumm. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm. (!!)
 
 Level Up:
 1 - Energiefokus
@@ -4397,10 +4390,10 @@ Level Up:
 55 - Vielender
 
 ===================
-169 - Crobat
+169 - Iksbat
 ===================
-Moves:
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Giftstreich
@@ -4417,7 +4410,7 @@ Level Up:
 22 - Knirscher
 23 - Blutsauger
 27 - Sternschauer
-31 - Hynose
+31 - Hypnose
 35 - Luftschnitt
 39 - Dunkelnebel
 43 - Zen-Kopfstoß
@@ -4425,11 +4418,11 @@ Level Up:
 51 - Sturzflug
 
 ===================
-170 - Chinchou
+170 - Lampi
 ===================
-Ability:
-Old     Volt Absorber / Illuminate
-New     Volt Absorber / Water Absorber
+Fähigkeit:
+Alt     Voltabsorber / Erleuchtung
+Neu     Voltabsorber / H2O-Absorber
 
 Level Up:
 1 - Blubber
@@ -4453,9 +4446,9 @@ Level Up:
 ===================
 171 - Lanturn
 ===================
-Ability:
-Old     Volt Absorber / Illuminate
-New     Volt Absorber / Water Absorber
+Fähigkeit:
+Alt     Voltabsorber / Erleuchtung
+Neu     Voltabsorber / H2O-Absorber
 
 Level Up:
 1 - Blubber
@@ -4479,12 +4472,12 @@ Level Up:
 ===================
 172 - Pichu
 ===================
-Ability:
-Old     Static / None
-New     Static / Lightning Rod
+Fähigkeit:
+Alt     Statik / Keine
+Neu     Statik / Blitzfänger
 
-Moves:
-Now compatible with HM03, Surfer.
+Attacken:
+Jetzt kompatibel mit HM03, Surfer.
 
 Level Up:
 1 - Donnerschock
@@ -4497,7 +4490,7 @@ Level Up:
 15 - Säuselstimme
 
 ===================
-173 - Cleffa
+173 - Pii
 ==================
 Level Up:
 1 - Klaps
@@ -4511,11 +4504,11 @@ Level Up:
 15 - Diebeskuss (!!)
 
 ===================
-174 - Igglybuff
+174 - Fluffeluff
 ===================
-Ability:
-Old     Cute Charme / None
-New     Cute Charme / Competitive
+Fähigkeit:
+Alt     Charmebolzen / Keine
+Neu     Charmebolzen / Unbeugsamkeit
 
 Level Up:
 1 - Gesang
@@ -4530,9 +4523,9 @@ Level Up:
 ===================
 175 - Togepi
 ===================
-Ability:
-Old     Hustle / Serene Grace
-New     Serene Grace / Super Luck
+Fähigkeit:
+Alt     Übereifer / Edelmut
+Neu     Edelmut / Glückspilz
 
 Level Up:
 1 - Heuler
@@ -4558,12 +4551,12 @@ Level Up:
 ===================
 176 - Togetic
 ===================
-Ability:
-Old     Hustle / Serene Grace
-New     Serene Grace / Super Luck
+Fähigkeit:
+Alt     Übereifer / Edelmut
+Neu     Edelmut / Glückspilz
 
-Moves:
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Zauberblatt
@@ -4613,8 +4606,8 @@ Level Up:
 ===================
 178 - Xatu
 ===================
-Moves:
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Rückenwind
@@ -4636,10 +4629,10 @@ Level Up:
 46 - Krafttausch
 46 - Schutztausch
 50 - Egotrip
-54 - Hurricane (!!)
+54 - Orkan (!!)
 
 ===================
-179 - Mareep
+179 - Voltilamm
 ===================
 Level Up:
 1 - Tackle
@@ -4660,7 +4653,7 @@ Level Up:
 43 - Donner
 
 ===================
-180 - Flaaffy
+180 - Waaty
 ===================
 Level Up:
 1 - Tackle
@@ -4683,10 +4676,10 @@ Level Up:
 ===================
 181 - Ampharos
 ===================
-Moves:
-Now compatible with TM59, Drachenpuls.
-Now compatible with TM85, Zauberschein. (!!)
-Now compatible with TM91, Blitz Cannon. (!!)
+Attacken:
+Jetzt kompatibel mit TM59, Drachenpuls.
+Jetzt kompatibel mit TM85, Zauberschein. (!!)
+Jetzt kompatibel mit TM91, Lichtkanone. (!!)
 
 Level Up:
 1 - Schweifglanz (!!)
@@ -4712,11 +4705,11 @@ Level Up:
 59 - Donner
 
 ===================
-182 - Bellossom
+182 - Blubella
 ===================
-Ability:
-Old     Chlorophyll / None
-New     Chlorophyll / Own Tempo
+Fähigkeit:
+Alt     Chlorophyll / Keine
+Neu     Chlorophyll / Gleichmut
 
 Level Up:
 1 - Mondgewalt
@@ -4736,13 +4729,13 @@ Level Up:
 ===================
 183 - Marill
 ===================
-Ability:
-Old     Thick Fat / Huge Power
-New     Huge Power / Thick Fat
+Fähigkeit:
+Alt     Speckschicht / Kraftkoloss
+Neu     Kraftkoloss / Speckschicht
 
 Base Stats:
-Old     70 HP / 20 Atk / 50 Def / 20 SAtk / 50 SDef / 40 Spd / 250 BST
-New     70 HP / 20 Atk / 50 Def / 40 SAtk / 50 SDef / 40 Spd / 270 BST
+Alt     70 HP / 20 Atk / 50 Def / 20 SAtk / 50 SDef / 40 Spd / 250 BST
+Neu     70 HP / 20 Atk / 50 Def / 40 SAtk / 50 SDef / 40 Spd / 270 BST
 
 Level Up:
 1 - Tackle
@@ -4767,16 +4760,16 @@ Level Up:
 ===================
 184 - Azumarill
 ===================
-Ability:
-Old     Thick Fat / Huge Power
-New     Huge Power / Thick Fat
+Fähigkeit:
+Alt     Speckschicht / Kraftkoloss
+Neu     Kraftkoloss / Speckschicht
 
 Base Stats:
-Old     100 HP / 50 Atk / 80 Def / 60 SAtk / 80 SDef / 50 Spd / 420 BST
-New     110 HP / 50 Atk / 80 Def / 80 SAtk / 80 SDef / 50 Spd / 450 BST
+Alt     100 HP / 50 Atk / 80 Def / 60 SAtk / 80 SDef / 50 Spd / 420 BST
+Neu     110 HP / 50 Atk / 80 Def / 80 SAtk / 80 SDef / 50 Spd / 450 BST
 
-Moves:
-Now compatible with TM60, Ableithieb. (!!)
+Attacken:
+Jetzt kompatibel mit TM60, Ableithieb. (!!)
 
 Level Up:
 1 - Hydropumpe
@@ -4802,15 +4795,15 @@ Level Up:
 51 - Hydropumpe
 
 ===================
-185 - Sudowoodo
+185 - Mogelbaum
 ===================
-Ability:
-Old     Sturdy / Rock Head
-New     Rock Head / Sturdy
+Fähigkeit:
+Alt     Robustheit / Steinhaupt
+Neu     Steinhaupt / Robustheit
 
-Base Stats (Complete):
-Old     70 HP / 100 Atk / 115 Def / 30 SAtk / 65 SDef / 30 Spd / 410 BST
-New     90 HP / 115 Atk / 125 Def / 30 SAtk / 75 SDef / 30 Spd / 465 BST
+Base Stats:
+Alt     70 HP / 100 Atk / 115 Def / 30 SAtk / 65 SDef / 30 Spd / 410 BST
+Neu     90 HP / 115 Atk / 125 Def / 30 SAtk / 75 SDef / 30 Spd / 465 BST
 
 Level Up:
 1 - Holzhammer
@@ -4836,17 +4829,17 @@ Level Up:
 48 - Kopfstoß
 
 ===================
-186 - Politoed
+186 - Quaxo
 ===================
-Ability:
-Old     Water Absorber / Damp
-New     Drizzle / Damp
+Fähigkeit:
+Alt     H2O-Absorber / Feuchtigkeit
+Neu     Niesel / Feuchtigkeit
 
 Level Up:
 1 - Zugabe
 1 - Klaps
 1 - Blubbstrahl
-1 - Hynose
+1 - Hypnose
 1 - Duplexhieb
 1 - Abgesang
 33 - Angeberei
@@ -4854,11 +4847,11 @@ Level Up:
 53 - Schwallwelle
 
 ===================
-187 - Hoppip
+187 - Hoppspross
 ===================
 Base Stats:
-Old     35 HP / 35 Atk / 40 Def / 35 SAtk / 55 SDef / 50 Spd / 250 BST
-New     35 HP / 35 Atk / 40 Def / 45 SAtk / 55 SDef / 50 Spd / 260 BST
+Alt     35 HP / 35 Atk / 40 Def / 35 SAtk / 55 SDef / 50 Spd / 250 BST
+Neu     35 HP / 35 Atk / 40 Def / 45 SAtk / 55 SDef / 50 Spd / 260 BST
 
 Level Up:
 1 - Platscher
@@ -4884,11 +4877,11 @@ Level Up:
 35 - Memento-Mori
 
 ===================
-188 - Skiploom
+188 - Hubbelupf
 ===================
 Base Stats:
-Old     55 HP / 45 Atk / 50 Def / 45 SAtk / 65 SDef / 80 Spd / 340 BST
-New     55 HP / 45 Atk / 50 Def / 65 SAtk / 65 SDef / 80 Spd / 360 BST
+Alt     55 HP / 45 Atk / 50 Def / 45 SAtk / 65 SDef / 80 Spd / 340 BST
+Neu     55 HP / 45 Atk / 50 Def / 65 SAtk / 65 SDef / 80 Spd / 360 BST
 
 Level Up:
 1 - Platscher
@@ -4914,15 +4907,15 @@ Level Up:
 44 - Memento-Mori
 
 ===================
-189 - Jumpluff
+189 - Papungha
 ===================
 Base Stats:
-Old     75 HP / 55 Atk / 70 Def / 55 SAtk / 95 SDef / 110 Spd / 460 BST
-New     75 HP / 55 Atk / 70 Def / 85 SAtk / 95 SDef / 110 Spd / 490 BST
+Alt     75 HP / 55 Atk / 70 Def / 55 SAtk / 95 SDef / 110 Spd / 460 BST
+Neu     75 HP / 55 Atk / 70 Def / 85 SAtk / 95 SDef / 110 Spd / 490 BST
 
-Moves:
-Now compatible with TM88, Hurricane. (!!)
-Now compatible with HM02, Fliegen. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
+Jetzt kompatibel mit HM02, Fliegen. (!!)
 
 Level Up:
 1 - Platscher
@@ -4948,7 +4941,7 @@ Level Up:
 50 - Memento-Mori
 
 ===================
-190 - Aipom
+190 - Griffel
 ===================
 Level Up:
 1 - Kratzer
@@ -4972,7 +4965,7 @@ Level Up:
 50 - Zuflucht
 
 ===================
-191 - Sunkern
+191 - Sonnkern
 ===================
 Level Up:
 1 - Absorber
@@ -4997,11 +4990,11 @@ Level Up:
 45 - Samenbomben
 
 ===================
-192 - Sunflora
+192 - Sonnflora
 ===================
 Base Stats:
-Old     75 HP / 75 Atk / 55 Def / 105 SAtk / 85 SDef / 30 Spd / 425 BST
-New     85 HP / 55 Atk / 85 Def / 125 SAtk / 95 SDef / 30 Spd / 475 BST
+Alt     75 HP / 75 Atk / 55 Def / 105 SAtk / 85 SDef / 30 Spd / 425 BST
+Neu     85 HP / 55 Atk / 85 Def / 125 SAtk / 95 SDef / 30 Spd / 475 BST
 
 Level Up:
 1 - Absorber
@@ -5029,14 +5022,14 @@ Level Up:
 ===================
 193 - Yanma
 ===================
-Moves:
-Now compatible with TM62, Käfergebrumm.
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm.
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Tackle
 1 - Gesichte
-1 - Ruckzubhieb
+1 - Ruckzuckhieb
 6 - Doppelteam
 9 - Ultraschall
 13 - Flügelschlag
@@ -5048,22 +5041,22 @@ Level Up:
 27 - Aufruhr
 29 - Luftschnitt
 33 - Antik-Kraft
-35 - Hynose
+35 - Hypnose
 37 - Verfolgung
 39 - Kehrtwende
 43 - Kreideschrei
 45 - Käfergebrumm
 
 ===================
-194 - Wooper
+194 - Felino
 ===================
-Ability:
-Old     Damp / Water Absorber
-New     Water Absorber / Unaware
+Fähigkeit:
+Alt     Feuchtigkeit / H2O-Absorber
+Neu     H2O-Absorber / Unkenntnis
 
-Base Stats (Complete):
-Old     55 HP / 45 Atk / 45 Def / 25 SAtk / 25 SDef / 15 Spd / 210 BST
-New     55 HP / 55 Atk / 55 Def / 25 SAtk / 25 SDef / 15 Spd / 230 BST
+Base Stats:
+Alt     55 HP / 45 Atk / 45 Def / 25 SAtk / 25 SDef / 15 Spd / 210 BST
+Neu     55 HP / 55 Atk / 55 Def / 25 SAtk / 25 SDef / 15 Spd / 230 BST
 
 Level Up:
 1 - Aquaknarre
@@ -5087,15 +5080,15 @@ Level Up:
 46 - Genesung
 
 ===================
-195 - Quagsire
+195 - Morlord
 ===================
-Ability:
-Old     Damp / Water Absorber
-New     Water Absorber / Unaware
+Fähigkeit:
+Alt     Feuchtigkeit / H2O-Absorber
+Neu     H2O-Absorber / Unkenntnis
 
-Base Stats (Complete):
-Old     95 HP / 85 Atk / 85 Def / 65 SAtk / 65 SDef / 35 Spd / 430 BST
-New     95 HP / 95 Atk / 95 Def / 65 SAtk / 65 SDef / 35 Spd / 450 BST
+Base Stats:
+Alt     95 HP / 85 Atk / 85 Def / 65 SAtk / 65 SDef / 35 Spd / 430 BST
+Neu     95 HP / 95 Atk / 95 Def / 65 SAtk / 65 SDef / 35 Spd / 450 BST
 
 Level Up:
 1 - Aquaknarre
@@ -5119,7 +5112,7 @@ Level Up:
 55 - Genesung
 
 ===================
-196 - Espeon
+196 - Psiana
 ===================
 Level Up:
 1 - Rechte Hand
@@ -5129,7 +5122,7 @@ Level Up:
 1 - Biss
 1 - Konfusion
 7 - Sandwirbel
-10 - Ruckzubhieb
+10 - Ruckzuckhieb
 13 - Psycho-Plus
 16 - Psystrahl
 19 - Sternschauer
@@ -5143,13 +5136,13 @@ Level Up:
 43 - Krafttausch
 
 ===================
-197 - Umbreon
+197 - Nachtara
 ===================
-Moves:
-Now compatible with TM86, Strauchler. (!!)
+Attacken:
+Jetzt kompatibel mit TM86, Strauchler. (!!)
 
 Level Up:
-On Level Up - Snarl
+1 - Snarl
 1 - Rechte Hand
 1 - Heuler
 1 - Tackle
@@ -5157,7 +5150,7 @@ On Level Up - Snarl
 1 - Biss
 1 - Verfolgung
 7 - Sandwirbel
-10 - Ruckzubhieb
+10 - Ruckzuckhieb
 13 - Horrorblick
 16 - Finte
 19 - Gewissheit
@@ -5171,14 +5164,14 @@ On Level Up - Snarl
 43 - Schutztausch
 
 ===================
-198 - Murkrow
+198 - Kramurx
 ===================
-Ability:
-Old     Insomnia / Super Luck
-New     Super Luck / Insomnia
+Fähigkeit:
+Alt     Insomnia / Glückspilz
+Neu     Glückspilz / Insomnia
 
-Moves:
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Pikser
@@ -5199,10 +5192,10 @@ Level Up:
 39 - Sturzflug
 
 ===================
-199 - Slowking
+199 - Laschoking
 ===================
-Moves:
-Now compatible with HM07, Kaskade. (!!)
+Attacken:
+Jetzt kompatibel mit HM07, Kaskade. (!!)
 
 Level Up:
 1 - Juwelenkraft
@@ -5228,7 +5221,7 @@ Level Up:
 49 - Aurasphäre (!!)
 
 ===================
-200 - Misdreavus
+200 - Traunfugil
 ===================
 Level Up:
 1 - Psywelle
@@ -5248,16 +5241,16 @@ Level Up:
 31 - Abgesang
 33 - Juwelenkraft
 35 - Mondgewalt (!!)
-37 - Hynose
+37 - Hypnose
 39 - Nachspiel
 41 - Abgangsbund
 
 ===================
-201 - Unown
+201 - Icognito
 ===================
 Base Stats:
-Old     48 HP / 72 Atk / 48 Def / 72 SAtk / 48 SDef / 48 Spd / 336 BST
-New     54 HP / 108 Atk / 54 Def / 108 SAtk / 54 SDef / 54 Spd / 432 BST
+Alt     48 HP / 72 Atk / 48 Def / 72 SAtk / 48 SDef / 48 Spd / 336 BST
+Neu     54 HP / 108 Atk / 54 Def / 108 SAtk / 54 SDef / 54 Spd / 432 BST
 
 Level Up:
 1 - Kraftreserve
@@ -5268,7 +5261,7 @@ Level Up:
 31 - Erdkräfte (!!)
 
 ===================
-202 - Wobbuffet
+202 - Woingenau
 ===================
 Level Up:
 1 - Platscher
@@ -5305,10 +5298,10 @@ Level Up:
 45 - Ränkeschmied
 
 ===================
-204 - Pineco
+204 - Tannza
 ===================
-Moves:
-Now compatible with TM62, Käfergebrumm. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm. (!!)
 
 Level Up:
 1 - Vergeltung
@@ -5331,10 +5324,10 @@ Level Up:
 45 - Risikotackle
 
 ===================
-205 - Forretress
+205 - Forstellka
 ===================
-Moves:
-Now compatible with TM62, Käfergebrumm. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm. (!!)
 
 Level Up:
 1 - Krafttrickbetrug
@@ -5360,11 +5353,11 @@ Level Up:
 58 - Blitzkanone
 
 ===================
-206 - Dunsparce
+206 - Dummisel
 ===================
 Base Stats:
-Old     100 HP / 70 Atk / 70 Def / 65 SAtk / 65 SDef / 45 Spd / 415 BST
-New     105 HP / 95 Atk / 95 Def / 55 SAtk / 55 SDef / 45 Spd / 450 BST
+Alt     100 HP / 70 Atk / 70 Def / 65 SAtk / 65 SDef / 45 Spd / 415 BST
+Neu     105 HP / 95 Atk / 95 Def / 55 SAtk / 55 SDef / 45 Spd / 450 BST
 
 Level Up:
 1 - Raserei
@@ -5390,21 +5383,21 @@ Level Up:
 43 - Dreschflegel
 
 ===================
-207 - Gligar
+207 - Skorgla
 ===================
-Ability:
-Old     Hyper Cutter / Sand Veil
-New     Immunity / Hyper Cutter
+Fähigkeit:
+Alt     Scherenmacht / Sandschleier
+Neu     Immunität / Scherenmacht
 
-Moves:
-Now compatible with TM62, Käfergebrumm. (!!)
-Now compatible with HM08, Kraxler.
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm. (!!)
+Jetzt kompatibel mit HM08, Kraxler.
 
 Level Up:
 1 - Giftstachel
 1 - Sandwirbel
 1 - Härtner
-4 - Ruckzubhieb
+4 - Ruckzuckhieb
 7 - Zornklinge
 10 - Abschlag
 13 - Flügelschlag
@@ -5421,11 +5414,11 @@ Level Up:
 46 - Guillotine
 
 ===================
-208 - Steelix
+208 - Stahlos
 ===================
 Base Stats:
-Old     75 HP / 85 Atk / 200 Def / 55 SAtk / 65 SDef / 30 Spd / 510 BST
-New     75 HP / 105 Atk / 200 Def / 45 SAtk / 65 SDef / 30 Spd / 520 BST
+Alt     75 HP / 85 Atk / 200 Def / 55 SAtk / 65 SDef / 30 Spd / 510 BST
+Neu     75 HP / 105 Atk / 200 Def / 45 SAtk / 65 SDef / 30 Spd / 520 BST
 
 Level Up:
 1 - Donnerzahn
@@ -5502,15 +5495,15 @@ Level Up:
 54 - Wutanfall
 
 ===================
-211 - Qwilfish
+211 - Baldorfish
 ===================
-Ability:
-Old     Poison Point / Sternschauer Swim
-New     Intimidate / Sternschauer Swim
+Fähigkeit:
+Alt     Giftdorn / Wassertempo
+Neu     Bedroher / Wassertempo
 
 Base Stats:
-Old     65 HP / 95 Atk / 85 Def / 55 SAtk / 55 SDef / 85 Spd / 440 BST
-New     65 HP / 95 Atk / 95 Def / 45 SAtk / 55 SDef / 95 Spd / 450 BST
+Alt     65 HP / 95 Atk / 85 Def / 55 SAtk / 55 SDef / 85 Spd / 440 BST
+Neu     65 HP / 95 Atk / 95 Def / 45 SAtk / 55 SDef / 95 Spd / 450 BST
 
 Level Up:
 1 - Aquaknarre
@@ -5535,18 +5528,18 @@ Level Up:
 48 - Hydropumpe
 
 ===================
-212 - Scizor
+212 - Scherox
 ===================
-Ability:
-Old     Swarm / Technician
-New     Technician / Swarm
+Fähigkeit:
+Alt     Hexaplaga / Techniker
+Neu     Techniker / Hexaplaga
 
-Moves:
-Now compatible with TM62, Käfergebrumm.
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm.
 
 Level Up:
 1 - Patronenhieb
-1 - Ruckzubhieb
+1 - Ruckzuckhieb
 1 - Silberblick
 4 - Energiefokus
 7 - Verfolgung
@@ -5568,10 +5561,10 @@ Level Up:
 52 - Offenlegung
 
 ===================
-213 - Shuckle
+213 - Pottrott
 ===================
-Moves:
-Now compatible with TM62, Käfergebrumm. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm. (!!)
 
 Level Up:
 1 - Geduld
@@ -5594,15 +5587,15 @@ Level Up:
 48 - Steinkante
 
 ===================
-214 - Heracross
+214 - Skaraborn
 ===================
-Ability:
-Old     Swarm / Guts
-New     Guts / Skill Link
+Fähigkeit:
+Alt     Hexaplaga / Adrenalin
+Neu     Adrenalin / Wertelink
 
-Moves:
-Now compatible with TM09, Kugelsaat.
-Now compatible with TM62, Käfergebrumm. (!!)
+Attacken:
+Jetzt kompatibel mit TM09, Kugelsaat.
+Jetzt kompatibel mit TM62, Käfergebrumm. (!!)
 
 Level Up:
 1 - Armstoß
@@ -5611,7 +5604,7 @@ Level Up:
 1 - Felswurf
 1 - Tackle
 1 - Silberblick
-1 - Hornattack
+1 - Hornattacke
 1 - Ausdauer
 7 - Offenlegung
 11 - Aero-Ass
@@ -5627,17 +5620,17 @@ Level Up:
 51 - Gegenschlag
 
 ===================
-215 - Sneasel
+215 - Sniesel
 ===================
-Ability:
-Old     Inner Focus / Keen Eye
-New     Technician / Inner Focus
+Fähigkeit:
+Alt     Konzentrator / Adlerauge
+Neu     Techniker / Konzentrator
 
 Level Up:
 1 - Kratzer
 1 - Silberblick
 1 - Verhöhner
-7 - Ruckzubhieb
+7 - Ruckzuckhieb
 10 - Eissturm
 13 - Finte
 16 - Kratzfurie
@@ -5705,11 +5698,11 @@ Level Up:
 59 - Risikotackle
 
 ===================
-218 - Slugma
+218 - Schneckmag
 ===================
 Base Stats:
-Old     40 HP / 40 Atk / 40 Def / 70 SAtk / 40 SDef / 20 Spd / 250 BST
-New     50 HP / 50 Atk / 50 Def / 90 SAtk / 50 SDef / 20 Spd / 310 BST
+Alt     40 HP / 40 Atk / 40 Def / 70 SAtk / 40 SDef / 20 Spd / 250 BST
+Neu     50 HP / 50 Atk / 50 Def / 90 SAtk / 50 SDef / 20 Spd / 310 BST
 
 Level Up:
 1 - Gähner
@@ -5734,13 +5727,13 @@ Level Up:
 ===================
 219 - Magcargo
 ===================
-Ability:
-Old     Magma Armor / Flame Body
-New     Solid Rock / Flame Body
+Fähigkeit:
+Alt     Magma Armor / Flammkörper
+Neu     Felskern / Flammkörper
 
 Base Stats:
-Old     60 HP / 50 Atk / 120 Def / 90 SAtk / 80 SDef / 30 Spd / 430 BST
-New     60 HP / 50 Atk / 150 Def / 110 SAtk / 100 SDef / 30 Spd / 500 BST
+Alt     60 HP / 50 Atk / 120 Def / 90 SAtk / 80 SDef / 30 Spd / 430 BST
+Neu     60 HP / 50 Atk / 150 Def / 110 SAtk / 100 SDef / 30 Spd / 500 BST
 
 Level Up:
 1 - Gähner
@@ -5763,11 +5756,11 @@ Level Up:
 58 - Hitzekoller
 
 ===================
-220 - Swinub
+220 - Quiekel
 ===================
-Ability:
-Old     Oblivious / Snow Cloak
-New     Thick Fat / Snow Cloak
+Fähigkeit:
+Alt     Dösigkeit / Schneemantel
+Neu     Speckschicht / Schneemantel
 
 Level Up:
 1 - Tackle
@@ -5790,11 +5783,11 @@ Level Up:
 46 - Blizzard
 
 ===================
-221 - Piloswine
+221 - Keifel
 ===================
-Ability:
-Old     Oblivious / Snow Cloak
-New     Thick Fat / Snow Cloak
+Fähigkeit:
+Alt     Dösigkeit / Schneemantel
+Neu     Speckschicht / Schneemantel
 
 Level Up:
 1 - Antik-Kraft
@@ -5819,11 +5812,11 @@ Level Up:
 51 - Blizzard
 
 ===================
-222 - Corsola
+222 - Corasonn
 ===================
 Base Stats:
-Old     65 HP / 55 Atk / 95 Def / 65 SAtk / 95 SDef / 35 Spd / 410 BST
-New     65 HP / 45 Atk / 115 Def / 90 SAtk / 115 SDef / 35 Spd / 465 BST
+Alt     65 HP / 55 Atk / 95 Def / 65 SAtk / 95 SDef / 35 Spd / 410 BST
+Neu     65 HP / 45 Atk / 115 Def / 90 SAtk / 115 SDef / 35 Spd / 465 BST
 
 Level Up:
 1 - Tackle
@@ -5874,7 +5867,7 @@ Level Up:
 ===================
 Level Up:
 1 - Felswurf
-1 - Blitz Cannon
+1 - Lichtkanone
 1 - Ladestrahl
 1 - Aquaknarre
 1 - Zielschuss
@@ -5896,18 +5889,18 @@ Level Up:
 56 - Fontränen
 
 ===================
-225 - Delibird
+225 - Botogel
 ===================
-Ability:
-Old     Vital Spirit / Hustle
-New     Technician / Hustle
+Fähigkeit:
+Alt     Munterkeit / Übereifer
+Neu     Techniker / Übereifer
 
 Base Stats:
-Old     45 HP / 55 Atk / 45 Def / 65 SAtk / 45 SDef / 75 Spd / 330 BST
-New     45 HP / 85 Atk / 50 Def / 110 SAtk / 50 SDef / 110 Spd / 450 BST
+Alt     45 HP / 55 Atk / 45 Def / 65 SAtk / 45 SDef / 75 Spd / 330 BST
+Neu     45 HP / 85 Atk / 50 Def / 110 SAtk / 50 SDef / 110 Spd / 450 BST
 
-Moves:
-Now compatible with TM89, Kehrtwende. (!!)
+Attacken:
+Jetzt kompatibel mit TM89, Kehrtwende. (!!)
 
 Level Up:
 1 - Mogelhieb
@@ -5915,7 +5908,7 @@ Level Up:
 1 - Geschenk
 1 - Turbodreher
 6 - Eissturm
-9 - Ruckzubhieb
+9 - Ruckzuckhieb
 12 - Eissplitter
 15 - Sternschauer
 18 - Windschnitt (!!)
@@ -5927,15 +5920,15 @@ Level Up:
 36 - Eisstrahl
 39 - Seher
 42 - Blizzard
-45 - Hurricane (!!)
+45 - Orkan (!!)
 48 - Abgangsbund
 
 ===================
-226 - Mantine
+226 - Mantax
 ===================
-Moves:
-Now compatible with TM88, Hurricane. (!!)
-Now compatible with HM02, Fliegen. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
+Jetzt kompatibel mit HM02, Fliegen. (!!)
 
 Level Up:
 1 - Psystrahl
@@ -5961,10 +5954,10 @@ Level Up:
 46 - Hydropumpe
 
 ===================
-227 - Skarmory
+227 - Panzaeron
 ===================
-Moves:
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Sturzflug
@@ -5990,11 +5983,11 @@ Level Up:
 52 - Sturzflug
 
 ===================
-228 - Houndour
+228 - Hunduster
 ===================
-Ability:
-Old     Early Bird / Blitz Fire
-New     Intimidate / Blitz Fire
+Fähigkeit:
+Alt     Frühwecker / Feuerfänger
+Neu     Bedroher / Feuerfänger
 
 Level Up:
 1 - Glut
@@ -6015,11 +6008,11 @@ Level Up:
 40 - Ränkeschmied
 
 ===================
-229 - Houndoom
+229 - Hundemon
 ===================
-Ability:
-Old     Early Bird / Blitz Fire
-New     Intimidate / Blitz Fire
+Fähigkeit:
+Alt     Frühwecker / Feuerfänger
+Neu     Bedroher / Feuerfänger
 
 Level Up:
 1 - Ränkeschmied
@@ -6041,7 +6034,7 @@ Level Up:
 46 - Ränkeschmied
 
 ===================
-230 - Kingdra
+230 - Seedraking
 ===================
 Level Up:
 1 - Gähner
@@ -6068,9 +6061,9 @@ Level Up:
 ===================
 231 - Phanpy
 ===================
-Ability:
-Old     Pickup / None
-New     Sand Veil / Pickup
+Fähigkeit:
+Alt     Mitnahme / Keine
+Neu     Sandschleier / Mitnahme
 
 Level Up:
 1 - Schnüffler
@@ -6096,14 +6089,14 @@ Level Up:
 ===================
 232 - Donphan
 ===================
-Ability:
-Old     Sturdy / None
-New     Sand Veil / Sturdy
+Fähigkeit:
+Alt     Robustheit / Keine
+Neu     Sandschleier / Robustheit
 
 Level Up:
 1 - Feuerzahn
 1 - Donnerzahn
-1 - Hornattack
+1 - Hornattacke
 1 - Heuler
 1 - Einigler
 4 - Lehmschelle
@@ -6127,7 +6120,7 @@ Level Up:
 233 - Porygon2
 ===================
 Evolution:
-Now able to evolve into Porygon-Z by using a Dubious Disc.
+Entwickelt sich jetzt zu Porygon-Z durch Verwenden einer Dubiosdisc.
 
 Level Up:
 1 - Umwandlung 2
@@ -6152,14 +6145,14 @@ Level Up:
 49 - Hyperstrahl
 
 ===================
-234 - Stantler
+234 - Damhirplex
 ===================
 Level Up:
 1 - Egotrip
 1 - Tackle
 1 - Silberblick
 7 - Erstauner
-10 - Hynose
+10 - Hypnose
 13 - Stampfer
 16 - Sandwirbel
 18 - Konfusstrahl
@@ -6177,11 +6170,11 @@ Level Up:
 54 - Egotrip
 
 ===================
-235 - Smeargle
+235 - Farbeagle
 ===================
-Ability:
-Old     Own Tempo / Technician
-New     Technician / Own Tempo
+Fähigkeit:
+Alt     Gleichmut / Techniker
+Neu     Techniker / Gleichmut
 
 Level Up:
 1 - Nachahmer
@@ -6206,11 +6199,11 @@ Level Up:
 96 - Nachahmer
 
 ===================
-236 - Tyrogue
+236 - Rabauz
 ===================
-Ability:
-Old     Guts / Steadfast
-New     Steadfast / Guts
+Fähigkeit:
+Alt     Adrenalin / Felsenfest
+Neu     Felsenfest / Adrenalin
 
 Level Up:
 1 - Tackle
@@ -6222,11 +6215,11 @@ Level Up:
 1 - Turbodreher
 
 ===================
-237 - Hitmontop
+237 - Kapoera
 ===================
-Ability:
-Old     Intimidate / Technician
-New     Technician / Intimidate
+Fähigkeit:
+Alt     Bedroher / Techniker
+Neu     Techniker / Bedroher
 
 Level Up:
 1 - Vergeltung
@@ -6236,7 +6229,7 @@ Level Up:
 21 - Agilität
 23 - Verfolgung
 25 - Durchbruch
-27 - Ruckzubhieb
+27 - Ruckzuckhieb
 29 - Dreifachkick
 31 - Offenlegung
 33 - Scanner
@@ -6248,15 +6241,15 @@ Level Up:
 45 - Turmkick
 
 ===================
-238 - Smoochum
+238 - Kussilla
 ===================
-Ability:
-Old     Oblivious / Forewarn
-New     Hydration / Forewarn
+Fähigkeit:
+Alt     Dösigkeit / Vorwarnung
+Neu     Hydration / Vorwarnung
 
 Base Stats:
-Old     45 HP / 30 Atk / 15 Def / 85 SAtk / 65 SDef / 65 Spd / 305 BST
-New     45 HP / 30 Atk / 15 Def / 95 SAtk / 65 SDef / 65 Spd / 315 BST
+Alt     45 HP / 30 Atk / 15 Def / 85 SAtk / 65 SDef / 65 Spd / 305 BST
+Neu     45 HP / 30 Atk / 15 Def / 95 SAtk / 65 SDef / 65 Spd / 315 BST
 
 Level Up:
 1 - Klaps
@@ -6282,12 +6275,12 @@ Level Up:
 ===================
 239 - Elekid
 ===================
-Ability:
-Old     Static / None
-New     Static / Vital Spirit
+Fähigkeit:
+Alt     Statik / Keine
+Neu     Statik / Munterkeit
 
 Level Up:
-1 - Ruckzubhieb
+1 - Ruckzuckhieb
 1 - Silberblick
 1 - Donnerschock
 7 - Fußkick
@@ -6308,9 +6301,9 @@ Level Up:
 ===================
 240 - Magby
 ===================
-Ability:
-Old     Flame Body / None
-New     Flame Body / Vital Spirit
+Fähigkeit:
+Alt     Flammkörper / Keine
+Neu     Flammkörper / Munterkeit
 
 Level Up:
 1 - Smog
@@ -6339,7 +6332,7 @@ Level Up:
 1 - Heuler
 5 - Einigler
 9 - Stampfer
-13 - Milk Drink
+13 - Milchgetränk
 17 - Geduld
 21 - Walzer
 25 - Bodyslam
@@ -6352,11 +6345,11 @@ Level Up:
 53 - Risikotackle
 
 ===================
-242 - Blissey
+242 - Heiteira
 ===================
-Ability:
-Old     Natural Cure / Serene Grace
-New     Serene Grace / Natural Cure
+Fähigkeit:
+Alt     Innere Kraft / Edelmut
+Neu     Edelmut / Innere Kraft
 
 Level Up:
 1 - Risikotackle
@@ -6384,9 +6377,9 @@ Level Up:
 ===================
 243 - Raikou
 ===================
-Ability:
-Old     Pressure / None
-New     Pressure / Inner Focus
+Fähigkeit:
+Alt     Erzwinger / Keine
+Neu     Erzwinger / Konzentrator
 
 Level Up:
 1 - Blitzkanone
@@ -6395,7 +6388,7 @@ Level Up:
 1 - Silberblick
 1 - Brüller
 6 - Donnerschock
-10 - Ruckzubhieb
+10 - Ruckzuckhieb
 14 - Funkensprung
 18 - Reflektor
 22 - Knirscher
@@ -6410,9 +6403,9 @@ Level Up:
 ===================
 244 - Entei
 ===================
-Ability:
-Old     Pressure / None
-New     Pressure / Inner Focus
+Fähigkeit:
+Alt     Erzwinger / Keine
+Neu     Erzwinger / Konzentrator
 
 Level Up:
 1 - Läuterfeuer
@@ -6436,12 +6429,12 @@ Level Up:
 ===================
 245 - Suicune
 ===================
-Ability:
-Old     Pressure / None
-New     Pressure / Inner Focus
+Fähigkeit:
+Alt     Erzwinger / Keine
+Neu     Erzwinger / Konzentrator
 
-Moves:
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Eiseskälte
@@ -6507,7 +6500,7 @@ Level Up:
 53 - Hyperstrahl
 
 ===================
-248 - Tyranitar
+248 - Despotar
 ===================
 Level Up:
 1 - Donnerzahn
@@ -6535,8 +6528,8 @@ Level Up:
 ===================
 249 - Lugia
 ===================
-Moves:
-Now compatible with TM88, Hurricane.
+Attacken:
+Jetzt kompatibel mit TM88, Orkan.
 
 Level Up:
 1 - Wirbelwind
@@ -6559,8 +6552,8 @@ Level Up:
 ===================
 250 - Ho-oh
 ===================
-Moves:
-Now compatible with TM88, Hurricane.
+Attacken:
+Jetzt kompatibel mit TM88, Orkan.
 
 Level Up:
 1 - Wirbelwind
@@ -6602,17 +6595,17 @@ Level Up:
 50 - Blättersturm
 
 ===================
-252 - Treecko
+252 - Geckarbor
 ===================
-Ability:
-Old     Overgrow / None
-New     Unburden / Overgrow
+Fähigkeit:
+Alt     Notdünger / Keine
+Neu     Entlastung / Notdünger
 
 Level Up:
 1 - Klaps
 1 - Silberblick
 5 - Absorber
-8 - Ruckzubhieb
+8 - Ruckzuckhieb
 11 - Megasauger
 14 - Verfolgung
 17 - Agilität
@@ -6627,17 +6620,17 @@ Level Up:
 44 - Blättersturm
 
 ===================
-253 - Grovyle
+253 - Reptain
 ===================
-Ability:
-Old     Overgrow / None
-New     Unburden / Overgrow
+Fähigkeit:
+Alt     Notdünger / Keine
+Neu     Entlastung / Notdünger
 
 Level Up:
 1 - Klaps
 1 - Silberblick
 5 - Absorber
-8 - Ruckzubhieb
+8 - Ruckzuckhieb
 11 - Megasauger
 14 - Verfolgung
 16 - Zornklinge
@@ -6653,15 +6646,15 @@ Level Up:
 54 - Blättersturm
 
 ===================
-254 - Sceptile
+254 - Gewaldro
 ===================
-Ability:
-Old     Overgrow / None
-New     Unburden / Overgrow
+Fähigkeit:
+Alt     Notdünger / Keine
+Neu     Entlastung / Notdünger
 
 Base Stats:
-Old     70 HP / 85 Atk / 65 Def / 105 SAtk / 85 SDef / 120 Spd / 530 BST
-New     70 HP / 90 Atk / 65 Def / 110 SAtk / 80 SDef / 120 Spd / 535 BST
+Alt     70 HP / 85 Atk / 65 Def / 105 SAtk / 85 SDef / 120 Spd / 530 BST
+Neu     70 HP / 90 Atk / 65 Def / 110 SAtk / 80 SDef / 120 Spd / 535 BST
 
 Level Up:
 1 - Grasflöte
@@ -6670,7 +6663,7 @@ Level Up:
 1 - Klaps
 1 - Silberblick
 5 - Absorber
-8 - Ruckzubhieb
+8 - Ruckzuckhieb
 11 - Megasauger
 14 - Verfolgung
 16 - Zornklinge
@@ -6687,11 +6680,11 @@ Level Up:
 59 - Blättersturm
 
 ===================
-255 - Torchic
+255 - Flemmli
 ===================
-Ability:
-Old     Blaze / None
-New     Speed Boost / Blaze
+Fähigkeit:
+Alt     Großbrand / Keine
+Neu     Temposchub / Großbrand
 
 Level Up:
 1 - Kratzer
@@ -6700,7 +6693,7 @@ Level Up:
 8 - Sandwirbel
 11 - Pikser
 14 - Feuerwirbel
-17 - Ruckzubhieb
+17 - Ruckzuckhieb
 20 - Stafette
 23 - Energiefokus
 26 - Daunenreigen
@@ -6713,11 +6706,11 @@ Level Up:
 44 - Feuersturm
 
 ===================
-256 - Combusken
+256 - Jungglut
 ===================
-Ability:
-Old     Blaze / None
-New     Speed Boost / Blaze
+Fähigkeit:
+Alt     Großbrand / Keine
+Neu     Temposchub / Großbrand
 
 Level Up:
 1 - Kratzer
@@ -6727,7 +6720,7 @@ Level Up:
 11 - Pikser
 14 - Protzer
 16 - Doppelkick
-18 - Ruckzubhieb
+18 - Ruckzuckhieb
 22 - Feuerschlag
 26 - Energiefokus
 30 - Himmelhieb
@@ -6740,15 +6733,15 @@ Level Up:
 54 - Flammenblitz
 
 ===================
-257 - Blaziken
+257 - Lohgock
 ===================
-Ability:
-Old     Blaze / None
-New     Speed Boost / Blaze
+Fähigkeit:
+Alt     Großbrand / Keine
+Neu     Temposchub / Großbrand
 
 Base Stats:
-Old     80 HP / 120 Atk / 70 Def / 110 SAtk / 70 SDef / 80 Spd / 530 BST
-New     80 HP / 120 Atk / 75 Def / 110 SAtk / 70 SDef / 80 Spd / 535 BST
+Alt     80 HP / 120 Atk / 70 Def / 110 SAtk / 70 SDef / 80 Spd / 530 BST
+Neu     80 HP / 120 Atk / 75 Def / 110 SAtk / 70 SDef / 80 Spd / 535 BST
 
 Level Up:
 1 - Turmkick
@@ -6760,7 +6753,7 @@ Level Up:
 11 - Pikser
 14 - Protzer
 16 - Doppelkick
-18 - Ruckzubhieb
+18 - Ruckzuckhieb
 22 - Feuerschlag
 26 - Energiefokus
 30 - Himmelhieb
@@ -6774,11 +6767,11 @@ Level Up:
 59 - Flammenblitz
 
 ===================
-258 - Mudkip
+258 - Hydropi
 ===================
-Ability:
-Old     Torrent / None
-New     Sternschauer Swim / Torrent
+Fähigkeit:
+Alt     Sturzbach / Keine
+Neu     Wassertempo / Sturzbach
 
 Level Up:
 1 - Tackle
@@ -6799,11 +6792,11 @@ Level Up:
 44 - Notsituation
 
 ===================
-259 - Marshtomp
+259 - Moorabbel
 ===================
-Ability:
-Old     Torrent / None
-New     Sternschauer Swim / Torrent
+Fähigkeit:
+Alt     Sturzbach / Keine
+Neu     Wassertempo / Sturzbach
 
 Level Up:
 1 - Lehmschuss
@@ -6826,11 +6819,11 @@ Level Up:
 54 - Notsituation
 
 ===================
-260 - Swampert
+260 - Sumpex
 ===================
-Ability:
-Old     Torrent / None
-New     Sternschauer Swim / Torrent
+Fähigkeit:
+Alt     Sturzbach / Keine
+Neu     Wassertempo / Sturzbach
 
 Level Up:
 1 - Lawine
@@ -6856,11 +6849,11 @@ Level Up:
 59 - Notsituation
 
 ===================
-261 - Poochyena
+261 - Fiffyen
 ===================
-Base Stats (Complete):
-Old     35 HP / 55 Atk / 35 Def / 30 SAtk / 30 SDef / 35 Spd / 220 BST
-New     35 HP / 75 Atk / 35 Def / 30 SAtk / 30 SDef / 65 Spd / 270 BST
+Base Stats:
+Alt     35 HP / 55 Atk / 35 Def / 30 SAtk / 30 SDef / 35 Spd / 220 BST
+Neu     35 HP / 75 Atk / 35 Def / 30 SAtk / 30 SDef / 65 Spd / 270 BST
 
 Level Up:
 1 - Tackle
@@ -6881,11 +6874,11 @@ Level Up:
 43 - Tiefschlag
 
 ===================
-262 - Mightyena
+262 - Magnayen
 ===================
-Base Stats (Complete):
-Old     70 HP / 90 Atk / 70 Def / 60 SAtk / 60 SDef / 70 Spd / 420 BST
-New     70 HP / 110 Atk / 70 Def / 60 SAtk / 60 SDef / 95 Spd / 465 BST
+Base Stats:
+Alt     70 HP / 90 Atk / 70 Def / 60 SAtk / 60 SDef / 70 Spd / 420 BST
+Neu     70 HP / 110 Atk / 70 Def / 60 SAtk / 60 SDef / 95 Spd / 465 BST
 
 Level Up:
 1 - Tiefschlag
@@ -6911,14 +6904,14 @@ Level Up:
 51 - Tiefschlag
 
 ===================
-263 - Zigzagoon
+263 - Zigzachs
 ===================
 Base Stats:
-Old     38 HP / 30 Atk / 41 Def / 30 SAtk / 41 SDef / 60 Spd / 240 BST
-New     38 HP / 40 Atk / 41 Def / 30 SAtk / 41 SDef / 60 Spd / 250 BST
+Alt     38 HP / 30 Atk / 41 Def / 30 SAtk / 41 SDef / 60 Spd / 240 BST
+Neu     38 HP / 40 Atk / 41 Def / 30 SAtk / 41 SDef / 60 Spd / 250 BST
 
-Moves:
-Now compatible with HM08, Kraxler.
+Attacken:
+Jetzt kompatibel mit HM08, Kraxler.
 
 Level Up:
 1 - Tackle
@@ -6937,14 +6930,14 @@ Level Up:
 40 - Superzahn
 
 ===================
-264 - Linoone
+264 - Geradachs
 ===================
 Base Stats:
-Old     78 HP / 70 Atk / 61 Def / 50 SAtk / 61 SDef / 100 Spd / 420 BST
-New     85 HP / 85 Atk / 60 Def / 50 SAtk / 60 SDef / 110 Spd / 450 BST
+Alt     78 HP / 70 Atk / 61 Def / 50 SAtk / 61 SDef / 100 Spd / 420 BST
+Neu     85 HP / 85 Atk / 60 Def / 50 SAtk / 60 SDef / 110 Spd / 450 BST
 
-Moves:
-Now compatible with HM08, Kraxler.
+Attacken:
+Jetzt kompatibel mit HM08, Kraxler.
 
 Level Up:
 1 - Turbotempo
@@ -6967,11 +6960,11 @@ Level Up:
 51 - Turbotempo
 
 ===================
-265 - Wurmple
+265 - Waumpel
 ===================
-Ability:
-Old     Shield Dust / None
-New     Shield Dust / Run Away
+Fähigkeit:
+Alt     Puderabwehr / Keine
+Neu     Puderabwehr / Angsthase
 
 Level Up:
 1 - Tackle
@@ -6980,11 +6973,11 @@ Level Up:
 1 - Käfergebiss
 
 ===================
-266 - Silcoon
+266 - Schaloko
 ===================
-Ability:
-Old     Shed Skin / None
-New     Shed Skin / Shed Skin
+Fähigkeit:
+Alt     Expidermis / Keine
+Neu     Expidermis / Expidermis
 
 Level Up:
 1 - Härtner
@@ -6992,20 +6985,20 @@ Level Up:
 7 - Eisenabwehr
 
 ===================
-267 - Beautifly
+267 - Papinella
 ===================
-Ability;
-Old     Swarm / None
-New     Swarm / Rivalry
+Fähigkeit;
+Alt     Hexaplaga / Keine
+Neu     Hexaplaga / Rivalität
 
 Base Stats:
-Old     60 HP / 70 Atk / 50 Def / 100 SAtk / 50 SDef / 65 Spd / 395 BST
-New     60 HP / 70 Atk / 60 Def / 125 SAtk / 60 SDef / 75 Spd / 450 BST
+Alt     60 HP / 70 Atk / 50 Def / 100 SAtk / 50 SDef / 65 Spd / 395 BST
+Neu     60 HP / 70 Atk / 60 Def / 125 SAtk / 60 SDef / 75 Spd / 450 BST
 
-Moves:
-Now compatible with TM62, Käfergebrumm.
-Now compatible with TM88, Hurricane. (!!)
-Now compatible with HM02, Fliegen. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm.
+Jetzt kompatibel mit TM88, Orkan. (!!)
+Jetzt kompatibel mit HM02, Fliegen. (!!)
 
 Level Up:
 1 - Absorber
@@ -7022,14 +7015,14 @@ Level Up:
 36 - Luftschnitt (!!)
 39 - Raserei
 42 - Wirbelwind
-45 - Hurricane (!!)
+45 - Orkan (!!)
 
 ===================
-268 - Cascoon
+268 - Panekon
 ===================
-Ability:
-Old     Shed Skin / None
-New     Shed Skin / Shed Skin
+Fähigkeit:
+Alt     Expidermis / Keine
+Neu     Expidermis / Expidermis
 
 Level Up:
 1 - Härtner
@@ -7037,20 +7030,20 @@ Level Up:
 7 - Eisenabwehr
 
 ===================
-269 - Dustox
+269 - Pudox
 ===================
-Ability;
-Old     Shield Dust / None
-New     Shield Dust / Compound Eyes
+Fähigkeit;
+Alt     Puderabwehr / Keine
+Neu     Puderabwehr / Facettenauge
 
-Base Stats (Complete):
-Old     60 HP / 50 Atk / 70 Def / 50 SAtk / 90 SDef / 65 Spd / 385 BST
-New     60 HP / 50 Atk / 75 Def / 75 SAtk / 115 SDef / 75 Spd / 450 BST
+Base Stats:
+Alt     60 HP / 50 Atk / 70 Def / 50 SAtk / 90 SDef / 65 Spd / 385 BST
+Neu     60 HP / 50 Atk / 75 Def / 75 SAtk / 115 SDef / 75 Spd / 450 BST
 
-Moves:
-Now compatible with TM62, Käfergebrumm.
-Now compatible with TM88, Hurricane. (!!)
-Now compatible with HM02, Fliegen. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm.
+Jetzt kompatibel mit TM88, Orkan. (!!)
+Jetzt kompatibel mit HM02, Fliegen. (!!)
 
 Level Up:
 1 - Konfusion
@@ -7067,10 +7060,10 @@ Level Up:
 36 - Rückenwind
 39 - Schutzschild
 42 - Wirbelwind
-45 - Hurricane (!!)
+45 - Orkan (!!)
 
 ===================
-270 - Lotad
+270 - Loturzel
 ===================
 Level Up:
 1 - Erstauner
@@ -7088,7 +7081,7 @@ Level Up:
 34 - Energieball
 
 ===================
-271 - Lombre
+271 - Lombrero
 ===================
 Level Up:
 1 - Nassmacher
@@ -7109,7 +7102,7 @@ Level Up:
 44 - Hydropumpe
 
 ===================
-272 - Ludicolo
+272 - Kappalores
 ===================
 Level Up:
 1 - Erstauner
@@ -7120,7 +7113,7 @@ Level Up:
 44 - Hydropumpe
 
 ===================
-273 - Seedot
+273 - Samurzel
 ===================
 Level Up:
 1 - Geduld
@@ -7134,7 +7127,7 @@ Level Up:
 30 - Explosion
 
 ===================
-274 - Nuzleaf
+274 - Blanas
 ===================
 Level Up:
 1 - Klaps
@@ -7152,10 +7145,10 @@ Level Up:
 35 - Sondersensor
 
 ===================
-275 - Shiftry
+275 - Tengulist
 ===================
-Moves:
-Now compatible with TM88, Hurricane.
+Attacken:
+Jetzt kompatibel mit TM88, Orkan.
 
 Level Up:
 1 - Unheilböen
@@ -7164,24 +7157,24 @@ Level Up:
 1 - Finte
 1 - Wirbelwind
 1 - Ränkeschmied
-32 - Hurricane
+32 - Orkan
 44 - Blättersturm
 
 ===================
-276 - Taillow
+276 - Schwalbini
 ===================
-Ability:
-Old     Guts / None
-New     Guts / Scrappy
+Fähigkeit:
+Alt     Adrenalin / Keine
+Neu     Adrenalin / Rauflust
 
-Moves:
-Now compatible with TM88, Hurricane.
+Attacken:
+Jetzt kompatibel mit TM88, Orkan.
 
 Level Up:
 1 - Pikser
 1 - Heuler
 7 - Energiefokus
-10 - Ruckzubhieb
+10 - Ruckzuckhieb
 13 - Flügelschlag
 16 - Doppelteam
 19 - Aero-Ass
@@ -7191,21 +7184,21 @@ Level Up:
 31 - Luftschnitt
 34 - Notsituation
 37 - Sturzflug
-40 - Hurricane
+40 - Orkan
 
 ===================
-277 - Swellow
+277 - Schwalboss
 ===================
-Ability:
-Old     Guts / None
-New     Guts / Scrappy
+Fähigkeit:
+Alt     Adrenalin / Keine
+Neu     Adrenalin / Rauflust
 
-Base Stats (Complete):
-Old     60 HP / 85 Atk / 60 Def / 75 SAtk / 50 SDef / 125 Spd / 455 BST
-New     60 HP / 90 Atk / 60 Def / 80 SAtk / 50 SDef / 125 Spd / 465 BST
+Base Stats:
+Alt     60 HP / 85 Atk / 60 Def / 75 SAtk / 50 SDef / 125 Spd / 455 BST
+Neu     60 HP / 90 Atk / 60 Def / 80 SAtk / 50 SDef / 125 Spd / 465 BST
 
-Moves:
-Now compatible with TM88, Hurricane.
+Attacken:
+Jetzt kompatibel mit TM88, Orkan.
 
 Level Up:
 1 - Turbotempo (!!)
@@ -7213,7 +7206,7 @@ Level Up:
 1 - Pikser
 1 - Heuler
 7 - Energiefokus
-10 - Ruckzubhieb
+10 - Ruckzuckhieb
 13 - Flügelschlag
 16 - Doppelteam
 19 - Aero-Ass
@@ -7223,22 +7216,22 @@ Level Up:
 35 - Luftschnitt
 39 - Notsituation
 43 - Sturzflug
-47 - Hurricane
+47 - Orkan
 
 ===================
 278 - Wingull
 ===================
-Ability:
-Old     Keen Eye / Hydration
-New     Hydration / Keen Eye
+Fähigkeit:
+Alt     Adlerauge / Hydration
+Neu     Hydration / Adlerauge
 
-Moves:
-Now compatible with TM88, Hurricane.
+Attacken:
+Jetzt kompatibel mit TM88, Orkan.
 
 Level Up:
 1 - Aquaknarre
 1 - Heuler
-1 - Ruckzubhieb
+1 - Ruckzuckhieb
 7 - Superschall
 10 - Flügelschlag
 13 - Aquawelle
@@ -7251,24 +7244,24 @@ Level Up:
 34 - Rückenwind
 37 - Aufruhr
 40 - Agilität
-43 - Hurricane
+43 - Orkan
 
 ===================
 279 - Pelipper
 ===================
-Ability:
-Old     Keen Eye / Hydration
-New     Drizzle / Keen Eye
+Fähigkeit:
+Alt     Adlerauge / Hydration
+Neu     Niesel / Adlerauge
 
 Base Stats:
-Old     60 HP / 50 Atk / 100 Def / 95 SAtk / 70 SDef / 65 Spd / 440 BST
-New     60 HP / 50 Atk / 110 Def / 95 SAtk / 80 SDef / 65 Spd / 460 BST
+Alt     60 HP / 50 Atk / 100 Def / 95 SAtk / 70 SDef / 65 Spd / 440 BST
+Neu     60 HP / 50 Atk / 110 Def / 95 SAtk / 80 SDef / 65 Spd / 460 BST
 
-Moves:
-Now compatible with TM88, Hurricane.
+Attacken:
+Jetzt kompatibel mit TM88, Orkan.
 
 Level Up:
-1 - Hurricane
+1 - Orkan
 1 - Hydropumpe
 1 - Aquaknarre
 1 - Heuler
@@ -7288,15 +7281,15 @@ Level Up:
 38 - Rückenwind
 42 - Aufruhr
 46 - Hydropumpe
-50 - Hurricane
+50 - Orkan
 
 
 ===================
-280 - Ralts
+280 - Trasla
 ===================
 Base Stats:
-Old     28 HP / 25 Atk / 25 Def / 45 SAtk / 35 SDef / 40 Spd / 198 BST
-New     28 HP / 25 Atk / 25 Def / 65 SAtk / 55 SDef / 40 Spd / 238 BST
+Alt     28 HP / 25 Atk / 25 Def / 45 SAtk / 35 SDef / 40 Spd / 198 BST
+Neu     28 HP / 25 Atk / 25 Def / 65 SAtk / 55 SDef / 40 Spd / 238 BST
 
 Level Up:
 1 - Teleport
@@ -7308,7 +7301,7 @@ Level Up:
 13 - Psystrahl (!!)
 16 - Diebeskuss
 19 - Zauberblatt
-22 - Hynose
+22 - Hypnose
 25 - Psychokinese
 28 - Gedankengut
 31 - Mondgewalt (!!)
@@ -7320,9 +7313,9 @@ Level Up:
 ===================
 281 - Kirlia
 ===================
-Base Stats (Complete):
-Old     38 HP / 35 Atk / 35 Def / 65 SAtk / 55 SDef / 50 Spd / 278 BST
-New     38 HP / 35 Atk / 35 Def / 95 SAtk / 85 SDef / 50 Spd / 338 BST
+Base Stats:
+Alt     38 HP / 35 Atk / 35 Def / 65 SAtk / 55 SDef / 50 Spd / 278 BST
+Neu     38 HP / 35 Atk / 35 Def / 95 SAtk / 85 SDef / 50 Spd / 338 BST
 
 Level Up:
 1 - Teleport
@@ -7334,7 +7327,7 @@ Level Up:
 13 - Psystrahl (!!)
 16 - Diebeskuss
 19 - Zauberblatt
-23 - Hynose
+23 - Hypnose
 27 - Psychokinese
 31 - Gedankengut
 35 - Mondgewalt (!!)
@@ -7344,7 +7337,7 @@ Level Up:
 51 - Seher
 
 ===================
-282 - Gardevoir
+282 - Guardevoir
 ===================
 Level Up:
 1 - Aurasphäre
@@ -7358,7 +7351,7 @@ Level Up:
 13 - Psystrahl (!!)
 16 - Diebeskuss
 19 - Zauberblatt
-23 - Hynose
+23 - Hypnose
 27 - Psychokinese
 32 - Gedankengut
 37 - Mondgewalt
@@ -7368,19 +7361,19 @@ Level Up:
 57 - Traumfresser
 
 ===================
-283 - Surskit
+283 - Gehweiher
 ===================
 Base Stats:
-Old     40 HP / 30 Atk / 32 Def / 50 SAtk / 52 SDef / 65 Spd / 269 BST
-New     40 HP / 30 Atk / 30 Def / 55 SAtk / 55 SDef / 65 Spd / 275 BST
+Alt     40 HP / 30 Atk / 32 Def / 50 SAtk / 52 SDef / 65 Spd / 269 BST
+Neu     40 HP / 30 Atk / 30 Def / 55 SAtk / 55 SDef / 65 Spd / 275 BST
 
-Moves:
-Now compatible with TM62, Käfergebrumm. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm. (!!)
 
 Level Up:
 1 - Blubber
 1 - Lockduft
-1 - Ruckzubhieb
+1 - Ruckzuckhieb
 6 - Käfergebiss
 9 - Nassmacher
 12 - Lehmschuss
@@ -7395,16 +7388,16 @@ Level Up:
 36 - Hydropumpe
 
 ===================
-284 - Masquerain
+284 - Maskeregen
 ===================
 Base Stats:
-Old     70 HP / 60 Atk / 62 Def / 100 SAtk / 82 SDef / 80 Spd / 454 BST
-New     70 HP / 50 Atk / 50 Def / 110 SAtk / 100 SDef / 100 Spd / 480 BST
+Alt     70 HP / 60 Atk / 62 Def / 100 SAtk / 82 SDef / 80 Spd / 454 BST
+Neu     70 HP / 50 Atk / 50 Def / 110 SAtk / 100 SDef / 100 Spd / 480 BST
 
-Moves:
-Now compatible with TM62, Käfergebrumm.
-Now compatible with TM88, Hurricane. (!!)
-Now compatible with HM02, Fliegen. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm.
+Jetzt kompatibel mit TM88, Orkan. (!!)
+Jetzt kompatibel mit HM02, Fliegen. (!!)
 
 Level Up:
 1 - Käfergebrumm
@@ -7412,7 +7405,7 @@ Level Up:
 1 - Blubber
 1 - Lockduft
 1 - Windstoß
-1 - Ruckzubhieb
+1 - Ruckzuckhieb
 6 - Käfergebiss
 9 - Nassmacher
 12 - Wirbelwind
@@ -7430,11 +7423,11 @@ Level Up:
 49 - Falterreigen
 
 ===================
-285 - Shroomish
+285 - Knilz
 ===================
-Ability:
-Old     Effect Spore / Poison Heal
-New     Technician / Poison Heal
+Fähigkeit:
+Alt     Sporenwirt / Giftheilung
+Neu     Techniker / Giftheilung
 
 Level Up:
 1 - Absorber
@@ -7456,14 +7449,14 @@ Level Up:
 43 - Solarstrahl
 
 ===================
-286 - Breloom
+286 - Kapilz
 ===================
-Ability:
-Old     Effect Spore / Poison Heal
-New     Technician / Poison Heal
+Fähigkeit:
+Alt     Sporenwirt / Giftheilung
+Neu     Techniker / Giftheilung
 
-Moves:
-Now compatible with TM54, Trugschlag.
+Attacken:
+Jetzt kompatibel mit TM54, Trugschlag.
 
 Level Up:
 1 - Offenlegung
@@ -7478,7 +7471,7 @@ Level Up:
 19 - Pilzspore
 22 - Samenbomben
 23 - Tempohieb
-26 - kraftwelle
+26 - Kraftwelle
 30 - Ableithieb
 34 - Willensleser
 38 - Himmelhieb
@@ -7487,7 +7480,7 @@ Level Up:
 50 - Kraftkoloss
 
 ===================
-287 - Slakoth
+287 - Bummelz
 ===================
 Level Up:
 1 - Kratzer
@@ -7506,7 +7499,7 @@ Level Up:
 47 - Knuddler
 
 ===================
-288 - Vigoroth
+288 - Muntier
 ===================
 Level Up:
 1 - Kratzer
@@ -7526,7 +7519,7 @@ Level Up:
 51 - Power-Punch
 
 ===================
-289 - Slaking
+289 - Letarking
 ===================
 Level Up:
 1 - Kratzer
@@ -7550,8 +7543,8 @@ Level Up:
 ===================
 290 - Nincada
 ===================
-Moves:
-Now compatible with TM62, Käfergebrumm.
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm.
 
 Level Up:
 1 - Kratzer
@@ -7572,8 +7565,8 @@ Level Up:
 ===================
 291 - Ninjask
 ===================
-Moves:
-Now compatible with TM62, Käfergebrumm.
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm.
 
 Level Up:
 1 - Kratzer
@@ -7599,11 +7592,11 @@ Level Up:
 51 - Turbotempo (!!)
 
 ===================
-292 - Shedinja
+292 - Ninjatom
 ===================
-Moves:
-Now compatible with TM62, Käfergebrumm.
-Now compatible with TM75, Schwerttanz. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm.
+Jetzt kompatibel mit TM75, Schwerttanz. (!!)
 
 Level Up:
 1 - Kratzer
@@ -7623,14 +7616,14 @@ Level Up:
 43 - Nachspiel
 
 ===================
-293 - Whismur
+293 - Flurmel
 ===================
-Ability (Complete):
-Old     Soundproof / None
-New     Soundproof / Scrappy
+Fähigkeit:
+Alt     Lärmschutz / Keine
+Neu     Lärmschutz / Rauflust
 
-Moves:
-Now compatible with TM62, Käfergebrumm. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm. (!!)
 
 Level Up:
 1 - Klaps
@@ -7651,14 +7644,14 @@ Level Up:
 40 - Notsituation
 
 ===================
-294 - Loudred
+294 - Krakeelo
 ===================
-Ability:
-Old     Soundproof / None
-New     Soundproof / Scrappy
+Fähigkeit:
+Alt     Lärmschutz / Keine
+Neu     Lärmschutz / Rauflust
 
-Moves:
-Now compatible with TM62, Käfergebrumm. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm. (!!)
 
 Level Up:
 1 - Klaps
@@ -7679,14 +7672,14 @@ Level Up:
 47 - Notsituation
 
 ===================
-295 - Exploud
+295 - Krawumms
 ===================
-Ability:
-Old     Soundproof / None
-New     Soundproof / Scrappy
+Fähigkeit:
+Alt     Lärmschutz / Keine
+Neu     Lärmschutz / Rauflust
 
-Moves:
-Now compatible with TM62, Käfergebrumm. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm. (!!)
 
 Level Up:
 1 - Eiszahn
@@ -7720,7 +7713,7 @@ Level Up:
 4 - Sandwirbel
 7 - Armstoß
 9 - Mogelhieb
-11 - kraftwelle
+11 - Kraftwelle
 13 - Wirbelwind
 15 - Abschlag
 17 - Überwurf
@@ -7745,7 +7738,7 @@ Level Up:
 4 - Sandwirbel
 7 - Armstoß
 9 - Mogelhieb
-11 - kraftwelle
+11 - Kraftwelle
 13 - Wirbelwind
 15 - Abschlag
 17 - Überwurf
@@ -7763,13 +7756,13 @@ Level Up:
 ===================
 298 - Azurill
 ===================
-Ability:
-Old     Thick Fat / Huge Power
-New     Huge Power / Thick Fat
+Fähigkeit:
+Alt     Speckschicht / Kraftkoloss
+Neu     Kraftkoloss / Speckschicht
 
 Base Stats:
-Old     50 HP / 20 Atk / 40 Def / 20 SAtk / 40 SDef / 20 Spd / 190 BST
-New     50 HP / 20 Atk / 40 Def / 40 SAtk / 40 SDef / 20 Spd / 210 BST
+Alt     50 HP / 20 Atk / 40 Def / 20 SAtk / 40 SDef / 20 Spd / 190 BST
+Neu     50 HP / 20 Atk / 40 Def / 40 SAtk / 40 SDef / 20 Spd / 210 BST
 
 Level Up:
 1 - Platscher
@@ -7785,11 +7778,11 @@ Level Up:
 18 - Sprungfeder
 
 ===================
-299 - Nosepass
+299 - Nasgnet
 ===================
 Base Stats:
-Old     30 HP / 45 Atk / 135 Def / 45 SAtk / 90 SDef / 30 Spd / 375 BST
-New     30 HP / 35 Atk / 135 Def / 55 SAtk / 90 SDef / 30 Spd / 375 BST
+Alt     30 HP / 45 Atk / 135 Def / 45 SAtk / 90 SDef / 30 Spd / 375 BST
+Neu     30 HP / 35 Atk / 135 Def / 55 SAtk / 90 SDef / 30 Spd / 375 BST
 
 Level Up:
 1 - Tackle
@@ -7812,11 +7805,11 @@ Level Up:
 46 - Kopfstoß (!!)
 
 ===================
-300 - Skitty
+300 - Eneco
 ===================
-Base Stats (Complete):
-Old     50 HP / 45 Atk / 45 Def / 35 SAtk / 35 SDef / 50 Spd / 260 BST
-New     50 HP / 50 Atk / 50 Def / 40 SAtk / 40 SDef / 60 Spd / 290 BST
+Base Stats:
+Alt     50 HP / 45 Atk / 45 Def / 35 SAtk / 35 SDef / 50 Spd / 260 BST
+Neu     50 HP / 50 Atk / 50 Def / 40 SAtk / 40 SDef / 60 Spd / 290 BST
 
 Level Up:
 1 - Rutenschlag
@@ -7842,11 +7835,11 @@ Level Up:
 37 - Risikotackle
 
 ===================
-301 - Delcatty
+301 - Enekoro
 ===================
-Base Stats (Complete):
-Old     70 HP / 65 Atk / 65 Def / 55 SAtk / 55 SDef / 90 Spd / 400 BST
-New     70 HP / 95 Atk / 65 Def / 85 SAtk / 55 SDef / 95 Spd / 465 BST
+Base Stats:
+Alt     70 HP / 65 Atk / 65 Def / 55 SAtk / 55 SDef / 90 Spd / 400 BST
+Neu     70 HP / 95 Atk / 65 Def / 85 SAtk / 55 SDef / 95 Spd / 465 BST
 
 Level Up:
 1 - Zuflucht
@@ -7861,13 +7854,13 @@ Level Up:
 ===================
 302 - Sableye
 ===================
-Ability:
-Old     Keen Eye / Stall
-New     Magic Guard / Stall
+Fähigkeit:
+Alt     Adlerauge / Stall
+Neu     Magic Guard / Stall
 
 Base Stats:
-Old     50 HP / 75 Atk / 75 Def / 65 SAtk / 65 SDef / 50 Spd / 380 BST
-New     50 HP / 85 Atk / 95 Def / 85 SAtk / 85 SDef / 50 Spd / 450 BST
+Alt     50 HP / 75 Atk / 75 Def / 65 SAtk / 65 SDef / 50 Spd / 380 BST
+Neu     50 HP / 85 Atk / 95 Def / 85 SAtk / 85 SDef / 50 Spd / 450 BST
 
 Level Up:
 1 - Kratzer
@@ -7895,13 +7888,13 @@ Level Up:
 ===================
 303 - Mawile
 ===================
-Ability:
-Old     Hyper Cutter / Intimidate
-New     Huge Power / Intimidate
+Fähigkeit:
+Alt     Scherenmacht / Bedroher
+Neu     Kraftkoloss / Bedroher
 
 Base Stats:
-Old     50 HP / 85 Atk / 85 Def / 55 SAtk / 55 SDef / 50 Spd / 380 BST
-New     50 HP / 95 Atk / 115 Def / 55 SAtk / 85 SDef / 50 Spd / 450 BST
+Alt     50 HP / 85 Atk / 85 Def / 55 SAtk / 55 SDef / 50 Spd / 380 BST
+Neu     50 HP / 95 Atk / 115 Def / 55 SAtk / 85 SDef / 50 Spd / 450 BST
 
 Level Up:
 1 - Verhöhner
@@ -7929,9 +7922,9 @@ Level Up:
 ===================
 304 - Aron
 ===================
-Ability:
-Old     Sturdy / Rock Head
-New     Rock Head / Sturdy
+Fähigkeit:
+Alt     Robustheit / Steinhaupt
+Neu     Steinhaupt / Robustheit
 
 Level Up:
 1 - Tackle
@@ -7956,9 +7949,9 @@ Level Up:
 ===================
 305 - Lairon
 ===================
-Ability:
-Old     Sturdy / Rock Head
-New     Rock Head / Sturdy
+Fähigkeit:
+Alt     Robustheit / Steinhaupt
+Neu     Steinhaupt / Robustheit
 
 Level Up:
 1 - Tackle
@@ -7983,9 +7976,9 @@ Level Up:
 ===================
 306 - Aggron
 ===================
-Ability:
-Old     Sturdy / Rock Head
-New     Rock Head / Sturdy
+Fähigkeit:
+Alt     Robustheit / Steinhaupt
+Neu     Steinhaupt / Robustheit
 
 Level Up:
 1 - Metallstoß
@@ -8019,7 +8012,7 @@ Level Up:
 1 - Silberblick
 4 - Jauler
 7 - Schnüffler
-10 - Ruckzubhieb
+10 - Ruckzuckhieb
 13 - Funkensprung
 16 - Biss
 19 - Ladestrahl
@@ -8043,7 +8036,7 @@ Level Up:
 1 - Silberblick
 4 - Jauler
 7 - Schnüffler
-10 - Ruckzubhieb
+10 - Ruckzuckhieb
 13 - Funkensprung
 16 - Biss
 19 - Ladestrahl
@@ -8061,18 +8054,18 @@ Level Up:
 ===================
 311 - Plusle
 ===================
-Ability:
-Old     Plus / None
-New     Plus / Lightning Rod
+Fähigkeit:
+Alt     Plus / Keine
+Neu     Plus / Blitzfänger
 
 Base Stats:
-Old     60 HP / 50 Atk / 40 Def / 85 SAtk / 75 SDef / 95 Spd / 405 BST
-New     60 HP / 50 Atk / 50 Def / 95 SAtk / 85 SDef / 110 Spd / 450 BST
+Alt     60 HP / 50 Atk / 40 Def / 85 SAtk / 75 SDef / 95 Spd / 405 BST
+Neu     60 HP / 50 Atk / 50 Def / 95 SAtk / 85 SDef / 110 Spd / 450 BST
 
 Level Up:
 1 - Heuler
 1 - Donnerwelle
-1 - Ruckzubhieb
+1 - Ruckzuckhieb
 4 - Rechte Hand
 7 - Funkensprung
 10 - Zugabe
@@ -8093,18 +8086,18 @@ Level Up:
 ===================
 312 - Minun
 ===================
-Ability:
-Old:    Minus / None
-New     Minus / Volt Absorber
+Fähigkeit:
+Alt:    Minus / Keine
+Neu     Minus / Voltabsorber
 
 Base Stats:
-Old     60 HP / 40 Atk / 50 Def / 75 SAtk / 85 SDef / 95 Spd / 405 BST
-New     60 HP / 50 Atk / 50 Def / 85 SAtk / 95 SDef / 110 Spd / 450 BST
+Alt     60 HP / 40 Atk / 50 Def / 75 SAtk / 85 SDef / 95 Spd / 405 BST
+Neu     60 HP / 50 Atk / 50 Def / 85 SAtk / 95 SDef / 110 Spd / 450 BST
 
 Level Up:
 1 - Heuler
 1 - Donnerwelle
-1 - Ruckzubhieb
+1 - Ruckzuckhieb
 4 - Rechte Hand
 7 - Funkensprung
 10 - Zugabe
@@ -8125,23 +8118,23 @@ Level Up:
 ===================
 313 - Volbeat
 ===================
-Ability:
-Old     Illuminate / Swarm
-New     Swarm / Illuminate
+Fähigkeit:
+Alt     Erleuchtung / Hexaplaga
+Neu     Hexaplaga / Erleuchtung
 
 Base Stats:
-Old     65 HP / 73 Atk / 75 Def / 47 SAtk / 85 SDef / 85 Spd / 430 BST
-Old     65 HP / 33 Atk / 75 Def / 107 SAtk / 85 SDef / 100 Spd / 465 BST
+Alt     65 HP / 73 Atk / 75 Def / 47 SAtk / 85 SDef / 85 Spd / 430 BST
+Alt     65 HP / 33 Atk / 75 Def / 107 SAtk / 85 SDef / 100 Spd / 465 BST
 
-Moves:
-Now compatible with TM62, Käfergebrumm.
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm.
 
 Level Up:
 1 - Blitz
 1 - Tackle
 6 - Doppelteam
 9 - Konfusstrahl
-12 - Ruckzubhieb
+12 - Ruckzuckhieb
 15 - Käfergebiss
 18 - Mondschein
 21 - Strugglebug
@@ -8160,23 +8153,23 @@ Level Up:
 ===================
 314 - Illumise
 ===================
-Ability:
-Old     Oblivious / Tinted Lens
-New     Tinted Lens / Oblivious
+Fähigkeit:
+Alt     Dösigkeit / Aufwertung
+Neu     Aufwertung / Dösigkeit
 
 Base Stats:
-Old     65 HP / 47 Atk / 75 Def / 73 SAtk / 85 SDef / 85 Spd / 430 BST
-Old     65 HP / 33 Atk / 85 Def / 97 SAtk / 85 SDef / 100 Spd / 450 BST
+Alt     65 HP / 47 Atk / 75 Def / 73 SAtk / 85 SDef / 85 Spd / 430 BST
+Alt     65 HP / 33 Atk / 85 Def / 97 SAtk / 85 SDef / 100 Spd / 450 BST
 
-Moves:
-Now compatible with TM62, Käfergebrumm.
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm.
 
 Level Up:
 1 - Trickbetrug
 1 - Tackle
 6 - Lockduft
 9 - Charme
-12 - Ruckzubhieb
+12 - Ruckzuckhieb
 15 - Silberhauch
 18 - Diebeskuss (!!)
 21 - Mondschein
@@ -8195,9 +8188,9 @@ Level Up:
 ===================
 315 - Roselia
 ===================
-Ability:
-Old     Natural Cure / Poison Point
-New     Poison Point / Natural Cure
+Fähigkeit:
+Alt     Innere Kraft / Giftdorn
+Neu     Giftdorn / Innere Kraft
 
 Level Up:
 1 - Absorber
@@ -8272,9 +8265,9 @@ Level Up:
 ===================
 318 - Carvanha
 ===================
-Ability:
-Old     Rough Skin / None
-New     Speed Boost / Rough Skin
+Fähigkeit:
+Alt     Rough Skin / Keine
+Neu     Temposchub / Rough Skin
 
 Level Up:
 1 - Silberblick
@@ -8298,9 +8291,9 @@ Level Up:
 ===================
 319 - Sharpedo
 ===================
-Ability:
-Old     Rough Skin / None
-New     Speed Boost / Rough Skin
+Fähigkeit:
+Alt     Rough Skin / Keine
+Neu     Temposchub / Rough Skin
 
 Level Up:
 1 - Offenlegung
@@ -8378,9 +8371,9 @@ Level Up:
 ===================
 322 - Numel
 ===================
-Ability:
-Old     Oblivious / Simple
-New     Simple / Oblivious
+Fähigkeit:
+Alt     Dösigkeit / Simple
+Neu     Simple / Dösigkeit
 
 Level Up:
 1 - Heuler
@@ -8402,9 +8395,9 @@ Level Up:
 ===================
 323 - Camerupt
 ===================
-Ability:
-Old     Magma Armor / Solid Rock
-New     Solid Rock / Magma Armor
+Fähigkeit:
+Alt     Magma Armor / Felskern
+Neu     Felskern / Magma Armor
 
 Level Up:
 1 - Heuler
@@ -8429,9 +8422,9 @@ Level Up:
 ===================
 324 - Torkoal
 ===================
-Ability
-Old     White Smoke / Drought
-New     Drought / White Smoke
+Fähigkeit
+Alt     White Smoke / Dürre
+Neu     Dürre / White Smoke
 
 Level Up:
 1 - Glut
@@ -8506,8 +8499,8 @@ Level Up:
 327 - Spinda
 ===================
 Base Stats:
-Old     60 HP / 60 Atk / 60 Def / 60 SAtk / 60 SDef / 60 Spd / 360 BST
-New     75 HP / 75 Atk / 75 Def / 75 SAtk / 75 SDef / 75 Spd / 450 BST
+Alt     60 HP / 60 Atk / 60 Def / 60 SAtk / 60 SDef / 60 Spd / 360 BST
+Neu     75 HP / 75 Atk / 75 Def / 75 SAtk / 75 SDef / 75 Spd / 450 BST
 
 Level Up:
 1 - Psyschub (!!)
@@ -8516,7 +8509,7 @@ Level Up:
 1 - Imitator
 4 - Aussetzer
 7 - Finte
-10 - Hynose
+10 - Hypnose
 13 - Psystrahl
 16 - Irrschlag
 19 - Tiefschlag
@@ -8536,8 +8529,8 @@ Level Up:
 328 - Trapinch
 ===================
 Base Stats:
-Old     45 HP / 100 Atk / 45 Def / 45 SAtk / 45 SDef / 10 Spd / 290 BST
-New     55 HP / 100 Atk / 45 Def / 45 SAtk / 45 SDef / 10 Spd / 300 BST
+Alt     45 HP / 100 Atk / 45 Def / 45 SAtk / 45 SDef / 10 Spd / 290 BST
+Neu     55 HP / 100 Atk / 45 Def / 45 SAtk / 45 SDef / 10 Spd / 300 BST
 
 Level Up:
 1 - Biss
@@ -8562,17 +8555,17 @@ Level Up:
 ===================
 329 - Vibrava
 ===================
-Ability:
-Old     Levitate / Levitate
-New     Compound Eyes / Levitate
+Fähigkeit:
+Alt     Levitate / Levitate
+Neu     Facettenauge / Levitate
 
 Base Stats:
-Old     50 HP / 70 Atk / 50 Def / 50 SAtk / 50 SDef / 70 Spd / 340 BST
-New     60 HP / 80 Atk / 55 Def / 90 SAtk / 55 SDef / 70 Spd / 410 BST
+Alt     50 HP / 70 Atk / 50 Def / 50 SAtk / 50 SDef / 70 Spd / 340 BST
+Neu     60 HP / 80 Atk / 55 Def / 90 SAtk / 55 SDef / 70 Spd / 410 BST
 
-Moves:
-Now compatible with TM62, Käfergebrumm.
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm.
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Sandwirbel
@@ -8597,17 +8590,17 @@ Level Up:
 ===================
 330 - Flygon
 ===================
-Ability:
-Old     Levitate / Levitate
-New     Compound Eyes / Levitate
+Fähigkeit:
+Alt     Levitate / Levitate
+Neu     Facettenauge / Levitate
 
 Base Stats:
-Old     80 HP / 100 Atk / 80 Def / 80 SAtk / 80 SDef / 100 Spd / 520 BST
-New     90 HP / 110 Atk / 85 Def / 130 SAtk / 85 SDef / 100 Spd / 600 BST
+Alt     80 HP / 100 Atk / 80 Def / 80 SAtk / 80 SDef / 100 Spd / 520 BST
+Neu     90 HP / 110 Atk / 85 Def / 130 SAtk / 85 SDef / 100 Spd / 600 BST
 
-Moves:
-Now compatible with TM62, Käfergebrumm.
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm.
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Drachentanz
@@ -8635,9 +8628,9 @@ Level Up:
 ===================
 331 - Cacnea
 ===================
-Ability:
-Old     Sand Veil / None
-New     Water Absorber / Sand Veil
+Fähigkeit:
+Alt     Sandschleier / Keine
+Neu     H2O-Absorber / Sandschleier
 
 Level Up:
 1 - Giftstachel
@@ -8664,9 +8657,9 @@ Level Up:
 ===================
 332 - Cacturne
 ===================
-Ability:
-Old     Sand Veil / None
-New     Water Absorber / Sand Veil
+Fähigkeit:
+Alt     Sandschleier / Keine
+Neu     H2O-Absorber / Sandschleier
 
 Level Up:
 1 - Giftstachel
@@ -8694,16 +8687,16 @@ Level Up:
 ===================
 333 - Swablu
 ===================
-Ability:
-Old     Natural Cure / None
-New     Cloud Nine / Natural Cure
+Fähigkeit:
+Alt     Innere Kraft / Keine
+Neu     Cloud Nine / Innere Kraft
 
 Base Stats:
-Old     45 HP / 40 Atk / 60 Def / 40 SAtk / 75 SDef / 50 Spd / 310 BST
-New     45 HP / 60 Atk / 60 Def / 60 SAtk / 75 SDef / 50 Spd / 350 BST
+Alt     45 HP / 40 Atk / 60 Def / 40 SAtk / 75 SDef / 50 Spd / 310 BST
+Neu     45 HP / 60 Atk / 60 Def / 60 SAtk / 75 SDef / 50 Spd / 350 BST
 
-Moves:
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Pikser
@@ -8728,16 +8721,16 @@ Level Up:
 ===================
 334 - Altaria
 ===================
-Ability:
-Old     Natural Cure / None
-New     Cloud Nine / Natural Cure
+Fähigkeit:
+Alt     Innere Kraft / Keine
+Neu     Cloud Nine / Innere Kraft
 
 Base Stats:
-Old     75 HP / 70 Atk / 90 Def / 70 SAtk / 105 SDef / 80 Spd / 490 BST
-New     75 HP / 90 Atk / 90 Def / 90 SAtk / 105 SDef / 80 Spd / 530 BST
+Alt     75 HP / 70 Atk / 90 Def / 70 SAtk / 105 SDef / 80 Spd / 490 BST
+Neu     75 HP / 90 Atk / 90 Def / 90 SAtk / 105 SDef / 80 Spd / 530 BST
 
-Moves:
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Knuddler
@@ -8766,13 +8759,13 @@ Level Up:
 335 - Zangoose
 ===================
 Base Stats:
-Old     73 HP / 115 Atk / 60 Def / 60 SAtk / 60 SDef / 90 Spd / 458 BST
-New     75 HP / 115 Atk / 60 Def / 60 SAtk / 60 SDef / 95 Spd / 465 BST
+Alt     73 HP / 115 Atk / 60 Def / 60 SAtk / 60 SDef / 90 Spd / 458 BST
+Neu     75 HP / 115 Atk / 60 Def / 60 SAtk / 60 SDef / 95 Spd / 465 BST
 
 Level Up:
 1 - Kratzer
 1 - Silberblick
-4 - Ruckzubhieb
+4 - Ruckzuckhieb
 7 - Zornklinge
 10 - Verfolgung
 13 - Trugschlag
@@ -8794,8 +8787,8 @@ Level Up:
 336 - Seviper
 ===================
 Base Stats:
-Old     73 HP / 100 Atk / 60 Def / 100 SAtk / 60 SDef / 65 Spd / 458 BST
-New     75 HP / 115 Atk / 60 Def / 80 SAtk / 60 SDef / 75 Spd / 465 BST
+Alt     73 HP / 100 Atk / 60 Def / 100 SAtk / 60 SDef / 65 Spd / 458 BST
+Neu     75 HP / 115 Atk / 60 Def / 80 SAtk / 60 SDef / 75 Spd / 465 BST
 
 Level Up:
 1 - Wickel
@@ -8821,8 +8814,8 @@ Level Up:
 337 - Lunatone
 ===================
 Base Stats:
-Old     90 HP / 55 Atk / 65 Def / 95 SAtk / 85 SDef / 70 Spd / 460 BST
-New     90 HP / 55 Atk / 65 Def / 100 SAtk / 85 SDef / 70 Spd / 465 BST
+Alt     90 HP / 55 Atk / 65 Def / 95 SAtk / 85 SDef / 70 Spd / 460 BST
+Neu     90 HP / 55 Atk / 65 Def / 100 SAtk / 85 SDef / 70 Spd / 465 BST
 
 Level Up:
 1 - Mondgewalt
@@ -8830,7 +8823,7 @@ Level Up:
 1 - Härtner
 1 - Konfusion
 1 - Steinwurf
-5 - Hynose
+5 - Hypnose
 9 - Steinpolitur
 13 - Psywelle
 17 - Steinhagel
@@ -8848,8 +8841,8 @@ Level Up:
 338 - Solrock
 ===================
 Base Stats:
-Old     90 HP / 95 Atk / 85 Def / 55 SAtk / 65 SDef / 70 Spd / 460 BST
-New     90 HP / 100 Atk / 85 Def / 55 SAtk / 65 SDef / 70 Spd / 465 BST
+Alt     90 HP / 95 Atk / 85 Def / 55 SAtk / 65 SDef / 70 Spd / 460 BST
+Neu     90 HP / 100 Atk / 85 Def / 55 SAtk / 65 SDef / 70 Spd / 465 BST
 
 Level Up:
 1 - Tackle
@@ -8922,9 +8915,9 @@ Level Up:
 ===================
 341 - Corphish
 ===================
-Ability:
-Old     Hyper Cutter / Shell Armor
-New     Adaptability / Hyper Cutter
+Fähigkeit:
+Alt     Scherenmacht / Panzerhaut
+Neu     Anpassung / Scherenmacht
 
 Level Up:
 1 - Blubber
@@ -8950,9 +8943,9 @@ Level Up:
 ===================
 342 - Crawdaunt
 ===================
-Ability:
-Old     Hyper Cutter / Shell Armor
-New     Adaptability / Hyper Cutter
+Fähigkeit:
+Alt     Scherenmacht / Panzerhaut
+Neu     Anpassung / Scherenmacht
 
 Level Up:
 1 - Blubber
@@ -9002,8 +8995,8 @@ Level Up:
 ===================
 344 - Claydol
 ===================
-Moves:
-Now compatible with HM02, Fliegen. (!!)
+Attacken:
+Jetzt kompatibel mit HM02, Fliegen. (!!)
 
 Level Up:
 1 - Teleport
@@ -9031,9 +9024,9 @@ Level Up:
 ===================
 345 - Lileep
 ===================
-Ability:
-Old     Suction Cups / None
-New     Suction Cups / Storm Drain
+Fähigkeit:
+Alt     Suction Cups / Keine
+Neu     Suction Cups / Storm Drain
 
 Level Up:
 1 - Erstauner
@@ -9058,9 +9051,9 @@ Level Up:
 ===================
 346 - Cradily
 ===================
-Ability:
-Old     Suction Cups / None
-New     Suction Cups / Storm Drain
+Fähigkeit:
+Alt     Suction Cups / Keine
+Neu     Suction Cups / Storm Drain
 
 Level Up:
 1 - Blattgeißel (!!)
@@ -9086,12 +9079,12 @@ Level Up:
 ===================
 347 - Anorith
 ===================
-Ability:
-Old     Battle Armor / None
-New     Battle Armor / Sternschauer Swim
+Fähigkeit:
+Alt     Battle Armor / Keine
+Neu     Battle Armor / Wassertempo
 
-Moves:
-Now compatible with TM62, Käfergebrumm. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm. (!!)
 
 Level Up:
 1 - Kratzer
@@ -9115,12 +9108,12 @@ Level Up:
 ===================
 348 - Armaldo
 ===================
-Ability:
-Old     Battle Armor / None
-New     Battle Armor / Sternschauer Swim
+Fähigkeit:
+Alt     Battle Armor / Keine
+Neu     Battle Armor / Wassertempo
 
-Moves:
-Now compatible with TM62, Käfergebrumm. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm. (!!)
 
 Level Up:
 1 - Giftstreich
@@ -9146,12 +9139,12 @@ Level Up:
 ===================
 349 - Feebas
 ===================
-Ability:
-Old     Sternschauer Swim / None
-New     Sternschauer Swim / Oblivious
+Fähigkeit:
+Alt     Wassertempo / Keine
+Neu     Wassertempo / Dösigkeit
 
 Evolution:
-Now able to evolve into Milotic by using a Prism Scale.
+Entwickelt sich jetzt zu Milotic durch Verwenden eines Prism Scale.
 
 Level Up:
 1 - Platscher
@@ -9162,12 +9155,12 @@ Level Up:
 ===================
 350 - Milotic
 ===================
-Ability:
-Old     Marvel Scale / None
-New     Marvel Scale / Competitive
+Fähigkeit:
+Alt     Notschutz / Keine
+Neu     Notschutz / Unbeugsamkeit
 
-Moves:
-Now compatible with TM85, Zauberschein. (!!)
+Attacken:
+Jetzt kompatibel mit TM85, Zauberschein. (!!)
 
 Level Up:
 1 - Wickel
@@ -9183,7 +9176,7 @@ Level Up:
 21 - Feuerodem
 24 - Nassschweif
 27 - Genesung
-30 - Hynose
+30 - Hypnose
 33 - Anziehung
 36 - Mondgewalt (!!)
 39 - Drachenpuls
@@ -9196,11 +9189,11 @@ Level Up:
 351 - Castform
 ===================
 Base Stats:
-Old     70 HP / 70 Atk / 70 Def / 70 SAtk / 70 SDef / 70 Spd / 420 BST
-New     60 HP / 60 Atk / 60 Def / 105 SAtk / 70 SDef / 95 Spd / 450 BST
+Alt     70 HP / 70 Atk / 70 Def / 70 SAtk / 70 SDef / 70 Spd / 420 BST
+Neu     60 HP / 60 Atk / 60 Def / 105 SAtk / 70 SDef / 95 Spd / 450 BST
 
-Moves:
-Now compatible with TM88, Hurricane.
+Attacken:
+Jetzt kompatibel mit TM88, Orkan.
 
 Level Up:
 1 - Tackle
@@ -9215,14 +9208,14 @@ Level Up:
 35 - Hydropumpe
 35 - Feuersturm
 35 - Blizzard
-45 - Hurricane
+45 - Orkan
 
 ===================
 352 - Kecleon
 ===================
 Base Stats:
-Old     60 HP / 90 Atk / 70 Def / 60 SAtk / 120 SDef / 40 Spd / 440 BST
-New     60 HP / 100 Atk / 70 Def / 60 SAtk / 120 SDef / 40 Spd / 450 BST
+Alt     60 HP / 90 Atk / 70 Def / 60 SAtk / 120 SDef / 40 Spd / 440 BST
+Neu     60 HP / 100 Atk / 70 Def / 60 SAtk / 120 SDef / 40 Spd / 450 BST
 
 Level Up:
 1 - Raub
@@ -9274,8 +9267,8 @@ Level Up:
 354 - Banette
 ===================
 Base Stats:
-Old     64 HP / 115 Atk / 65 Def / 83 SAtk / 63 SDef / 65 Spd / 455 BST
-New     64 HP / 125 Atk / 65 Def / 93 SAtk / 63 SDef / 65 Spd / 475 BST
+Alt     64 HP / 115 Atk / 65 Def / 83 SAtk / 63 SDef / 65 Spd / 455 BST
+Neu     64 HP / 125 Atk / 65 Def / 93 SAtk / 63 SDef / 65 Spd / 475 BST
 
 Level Up:
 1 - Abschlag
@@ -9301,9 +9294,9 @@ Level Up:
 ===================
 355 - Duskull
 ===================
-Ability:
-Old     Levitate / None
-New     Levitate / Frisk
+Fähigkeit:
+Alt     Levitate / Keine
+Neu     Levitate / Frisk
 
 Level Up:
 1 - Silberblick
@@ -9325,12 +9318,12 @@ Level Up:
 ===================
 356 - Dusclops
 ===================
-Ability:
-Old     Pressure / None
-New     Pressure / Frisk
+Fähigkeit:
+Alt     Erzwinger / Keine
+Neu     Erzwinger / Frisk
 
 Evolution:
-Now able to evolve into Dusknoir by using a Reaper Cloth.
+Entwickelt sich jetzt zu Dusknoir durch Verwenden eines Reaper Cloth.
 
 Level Up:
 1 - Feuerschlag
@@ -9359,12 +9352,12 @@ Level Up:
 357 - Tropius
 ===================
 Base Stats:
-Old     99 HP / 68 Atk / 83 Def / 72 SAtk / 87 SDef / 51 Spd / 460 BST
-New     110 HP / 95 Atk / 95 Def / 95 SAtk / 95 SDef / 45 Spd / 535 BST
+Alt     99 HP / 68 Atk / 83 Def / 72 SAtk / 87 SDef / 51 Spd / 460 BST
+Neu     110 HP / 95 Atk / 95 Def / 95 SAtk / 95 SDef / 45 Spd / 535 BST
 
-Moves:
-Now compatible with TM59, Drachenpuls.
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM59, Drachenpuls.
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Silberblick
@@ -9385,7 +9378,7 @@ Level Up:
 38 - Drachenpuls
 42 - Drachentanz
 45 - Wutanfall
-48 - Hurricane (!!)
+48 - Orkan (!!)
 51 - Solarstrahl
 54 - Blättersturm
 
@@ -9393,8 +9386,8 @@ Level Up:
 358 - Chimecho
 ===================
 Base Stats:
-Old     75 HP / 50 Atk / 80 Def / 95 SAtk / 90 SDef / 65 Spd / 455 BST
-New     75 HP / 40 Atk / 80 Def / 110 SAtk / 100 SDef / 65 Spd / 470 BST
+Alt     75 HP / 50 Atk / 80 Def / 95 SAtk / 90 SDef / 65 Spd / 455 BST
+Neu     75 HP / 40 Atk / 80 Def / 110 SAtk / 100 SDef / 65 Spd / 470 BST
 
 Level Up:
 1 - Heilopfer
@@ -9411,7 +9404,7 @@ Level Up:
 28 - Vitalglocke
 31 - Bodyguard
 34 - Psychokinese
-37 - Hynose
+37 - Hypnose
 40 - Risikotackle
 43 - Genesung
 46 - Schwallwelle
@@ -9420,20 +9413,20 @@ Level Up:
 ===================
 359 - Absol
 ===================
-Ability:
-Old     Pressure / Super Luck
-New     Super Luck / Pressure
+Fähigkeit:
+Alt     Erzwinger / Glückspilz
+Neu     Glückspilz / Erzwinger
 
 Base Stats:
-Old     65 HP / 130 Atk / 60 Def / 75 SAtk / 60 SDef / 75 Spd / 465 BST
-New     65 HP / 130 Atk / 60 Def / 85 SAtk / 60 SDef / 85 Spd / 485 BST
+Alt     65 HP / 130 Atk / 60 Def / 75 SAtk / 60 SDef / 75 Spd / 465 BST
+Neu     65 HP / 130 Atk / 60 Def / 85 SAtk / 60 SDef / 85 Spd / 485 BST
 
 Level Up:
 1 - Abschlag
 1 - Kratzer
 1 - Offenlegung
 4 - Silberblick
-7 - Ruckzubhieb
+7 - Ruckzuckhieb
 10 - Verfolgung
 13 - Verhöhner
 16 - Biss
@@ -9487,17 +9480,17 @@ Level Up:
 ===================
 362 - Glalie
 ===================
-Ability:
-Old     Inner Focus / Ice Body
-New     Levitate / Ice Body
+Fähigkeit:
+Alt     Konzentrator / Ice Body
+Neu     Levitate / Ice Body
 
 Base Stats:
-Old     80 HP / 80 Atk / 80 Def / 80 SAtk / 80 SDef / 80 Spd / 480 BST
-New     80 HP / 110 Atk / 110 Def / 60 SAtk / 60 SDef / 80 Spd / 500 BST
+Alt     80 HP / 80 Atk / 80 Def / 80 SAtk / 80 SDef / 80 Spd / 480 BST
+Neu     80 HP / 110 Atk / 110 Def / 60 SAtk / 60 SDef / 80 Spd / 500 BST
 
-Moves:
-Now compatible with TM71, Steinkante. (!!)
-Now compatible with TM80, Steinhagel. (!!)
+Attacken:
+Jetzt kompatibel mit TM71, Steinkante. (!!)
+Jetzt kompatibel mit TM80, Steinhagel. (!!)
 
 Level Up:
 1 - Explosion
@@ -9598,13 +9591,13 @@ Level Up:
 ===================
 366 - Clamperl
 ===================
-Ability:
-Old     Shell Armor / None
-New     Shell Armor / Battle Armor
+Fähigkeit:
+Alt     Panzerhaut / Keine
+Neu     Panzerhaut / Battle Armor
 
 Evolution:
-Now able to evolve into Huntail by using a Deep Sea Tooth.
-Now able to evolve into Gorebyss by using a Deep Sea Scale.
+Entwickelt sich jetzt zu Huntail durch Verwenden eines Deep Sea Tooth.
+Entwickelt sich jetzt zu Gorebyss durch Verwenden eines Deep Sea Scale.
 
 Level Up:
 1 - Schnapper
@@ -9617,9 +9610,9 @@ Level Up:
 ===================
 367 - Huntail
 ===================
-Ability:
-Old     Sternschauer Swim / None
-New     Sternschauer Swim / Water Veil
+Fähigkeit:
+Alt     Wassertempo / Keine
+Neu     Wassertempo / Water Veil
 
 Level Up:
 1 - Whirlpool
@@ -9642,9 +9635,9 @@ Level Up:
 ===================
 368 - Gorebyss
 ===================
-Ability:
-Old     Sternschauer Swim / None
-New     Sternschauer Swim / Hydration
+Fähigkeit:
+Alt     Wassertempo / Keine
+Neu     Wassertempo / Hydration
 
 Level Up:
 1 - Whirlpool
@@ -9667,9 +9660,9 @@ Level Up:
 ===================
 369 - Relicanth
 ===================
-Ability:
-Old     Sternschauer Swim / Rock Head
-New     Rock Head / Sternschauer Swim
+Fähigkeit:
+Alt     Wassertempo / Steinhaupt
+Neu     Steinhaupt / Wassertempo
 
 Level Up:
 1 - Tackle
@@ -9697,16 +9690,16 @@ Level Up:
 ===================
 370 - Luvdisc
 ===================
-Ability:
-Old     Sternschauer Swim / None
-New     Sternschauer Swim / Hydration
+Fähigkeit:
+Alt     Wassertempo / Keine
+Neu     Wassertempo / Hydration
 
 Base Stats:
-Old     43 HP / 30 Atk / 55 Def / 40 SAtk / 65 SDef / 97 Spd / 330 BST
-New     50 HP / 30 Atk / 75 Def / 95 SAtk / 75 SDef / 125 Spd / 450 BST
+Alt     43 HP / 30 Atk / 55 Def / 40 SAtk / 65 SDef / 97 Spd / 330 BST
+Neu     50 HP / 30 Atk / 75 Def / 95 SAtk / 75 SDef / 125 Spd / 450 BST
 
-Moves:
-Now compatible with TM85, Zauberschein. (!!)
+Attacken:
+Jetzt kompatibel mit TM85, Zauberschein. (!!)
 
 Level Up:
 1 - Tackle
@@ -9777,8 +9770,8 @@ Level Up:
 ===================
 373 - Salamence
 ===================
-Moves:
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Feuerzahn
@@ -9806,13 +9799,13 @@ Level Up:
 ===================
 374 - Beldum
 ===================
-Ability:
-Old     Clear Body / None
-New     Rock Head / Clear Body
+Fähigkeit:
+Alt     Clear Body / Keine
+Neu     Steinhaupt / Clear Body
 
 Catch Rate
-Old     3
-New     45
+Alt     3
+Neu     45
 
 Level Up:
 1 - Bodycheck
@@ -9823,16 +9816,16 @@ Level Up:
 ===================
 375 - Metang
 ===================
-Ability:
-Old     Clear Body / None
-New     Iron Fist / Clear Body
+Fähigkeit:
+Alt     Clear Body / Keine
+Neu     Eisenfaust / Clear Body
 
 Catch Rate
-Old     3
-New     45
+Alt     3
+Neu     45
 
-Moves:
-Now compatible with HM02, Fliegen. (!!)
+Attacken:
+Jetzt kompatibel mit HM02, Fliegen. (!!)
 
 Level Up:
 1 - Magnetflug
@@ -9845,7 +9838,7 @@ Level Up:
 23 - Verfolgung
 26 - Patronenhieb
 29 - Wunderauge
-32 - Blitz Cannon
+32 - Lichtkanone
 35 - Grimasse
 38 - Psychokinese
 41 - Agilität
@@ -9856,16 +9849,16 @@ Level Up:
 ===================
 376 - Metagross
 ===================
-Ability:
-Old     Clear Body / None
-New     Iron Fist / Clear Body
+Fähigkeit:
+Alt     Clear Body / Keine
+Neu     Eisenfaust / Clear Body
 
 Catch Rate
-Old     3
-New     45
+Alt     3
+Neu     45
 
-Moves:
-Now compatible with HM02, Fliegen. (!!)
+Attacken:
+Jetzt kompatibel mit HM02, Fliegen. (!!)
 
 Level Up:
 1 - Magnetflug
@@ -9880,7 +9873,7 @@ Level Up:
 23 - Verfolgung
 26 - Patronenhieb
 29 - Wunderauge
-32 - Blitz Cannon
+32 - Lichtkanone
 35 - Grimasse
 38 - Psychokinese
 41 - Agilität
@@ -9950,7 +9943,7 @@ Level Up:
 34 - Blitzkanone
 38 - Erdanziehung
 42 - Eisenschädel
-42 - Blitz Cannon
+42 - Lichtkanone
 46 - Kraftkoloss
 50 - Hyperstrahl
 
@@ -10147,9 +10140,9 @@ Level Up (Speed Forme):
 ===================
 387 - Turtwig
 ===================
-Ability:
-Old     Overgrow / None
-New     Shell Armor / Overgrow
+Fähigkeit:
+Alt     Notdünger / Keine
+Neu     Panzerhaut / Notdünger
 
 Level Up:
 1 - Tackle
@@ -10171,9 +10164,9 @@ Level Up:
 ===================
 388 - Grotle
 ===================
-Ability:
-Old     Overgrow / None
-New     Shell Armor / Overgrow
+Fähigkeit:
+Alt     Notdünger / Keine
+Neu     Panzerhaut / Notdünger
 
 Level Up:
 1 - Tackle
@@ -10196,13 +10189,13 @@ Level Up:
 ===================
 389 - Torterra
 ===================
-Ability:
-Old     Overgrow / None
-New     Shell Armor / Overgrow
+Fähigkeit:
+Alt     Notdünger / Keine
+Neu     Panzerhaut / Notdünger
 
 Base Stats:
-Old     95 HP / 109 Atk / 105 Def / 75 SAtk / 85 SDef / 56 Spd / 525 BST
-New     95 HP / 114 Atk / 110 Def / 75 SAtk / 85 SDef / 56 Spd / 535 BST
+Alt     95 HP / 109 Atk / 105 Def / 75 SAtk / 85 SDef / 56 Spd / 525 BST
+Neu     95 HP / 114 Atk / 110 Def / 75 SAtk / 85 SDef / 56 Spd / 535 BST
 
 Level Up:
 1 - Holzhammer
@@ -10229,9 +10222,9 @@ Level Up:
 ===================
 390 - Chimchar
 ===================
-Ability:
-Old     Blaze / None
-New     Iron Fist / Blaze
+Fähigkeit:
+Alt     Großbrand / Keine
+Neu     Eisenfaust / Großbrand
 
 Level Up:
 1 - Kratzer
@@ -10253,12 +10246,12 @@ Level Up:
 ===================
 391 - Monferno
 ===================
-Ability:
-Old     Blaze / None
-New     Iron Fist / Blaze
+Fähigkeit:
+Alt     Großbrand / Keine
+Neu     Eisenfaust / Großbrand
 
-Moves:
-Now compatible with TM60, Ableithieb. (!!)
+Attacken:
+Jetzt kompatibel mit TM60, Ableithieb. (!!)
 
 Level Up:
 1 - Kratzer
@@ -10281,16 +10274,16 @@ Level Up:
 ===================
 392 - Infernape
 ===================
-Ability:
-Old     Blaze / None
-New     Iron Fist / Blaze
+Fähigkeit:
+Alt     Großbrand / Keine
+Neu     Eisenfaust / Großbrand
 
-Base Stats (Complete):
-Old     76 HP / 104 Atk / 71 Def / 104 SAtk / 71 SDef / 108 Spd / 534 BST
-New     76 HP / 104 Atk / 71 Def / 104 SAtk / 71 SDef / 109 Spd / 535 BST
+Base Stats:
+Alt     76 HP / 104 Atk / 71 Def / 104 SAtk / 71 SDef / 108 Spd / 534 BST
+Neu     76 HP / 104 Atk / 71 Def / 104 SAtk / 71 SDef / 109 Spd / 535 BST
 
-Moves:
-Now compatible with TM60, Ableithieb. (!!)
+Attacken:
+Jetzt kompatibel mit TM60, Ableithieb. (!!)
 
 Level Up:
 1 - Feuerschlag
@@ -10316,9 +10309,9 @@ Level Up:
 ===================
 393 - Piplup
 ===================
-Ability:
-Old     Torrent / None
-New     Defiant / Torrent
+Fähigkeit:
+Alt     Sturzbach / Keine
+Neu     Defiant / Sturzbach
 
 Level Up:
 1 - Klaps
@@ -10340,9 +10333,9 @@ Level Up:
 ===================
 394 - Prinplup
 ===================
-Ability:
-Old     Torrent / None
-New     Defiant / Torrent
+Fähigkeit:
+Alt     Sturzbach / Keine
+Neu     Defiant / Sturzbach
 
 Level Up:
 1 - Tackle
@@ -10365,13 +10358,13 @@ Level Up:
 ===================
 395 - Empoleon
 ===================
-Ability:
-Old     Torrent / None
-New     Defiant / Torrent
+Fähigkeit:
+Alt     Sturzbach / Keine
+Neu     Defiant / Sturzbach
 
 Base Stats:
-Old     84 HP / 86 Atk / 88 Def / 111 SAtk / 101 SDef / 60 Spd / 530 BST
-New     84 HP / 86 Atk / 88 Def / 116 SAtk / 101 SDef / 60 Spd / 535 BST
+Alt     84 HP / 86 Atk / 88 Def / 111 SAtk / 101 SDef / 60 Spd / 530 BST
+Neu     84 HP / 86 Atk / 88 Def / 116 SAtk / 101 SDef / 60 Spd / 535 BST
 
 Level Up:
 1 - Daunenreigen
@@ -10389,7 +10382,7 @@ Level Up:
 26 - Siedewasser
 30 - Furienschlag
 34 - Weißnebel
-36 - Blitz Cannon
+36 - Lichtkanone
 39 - Whirlpool
 44 - Gähner
 49 - Bohrschnabel
@@ -10398,17 +10391,17 @@ Level Up:
 ===================
 396 - Starly
 ===================
-Ability:
-Old     Keen Eye / None
-New     Reckless / Keen Eye
+Fähigkeit:
+Alt     Adlerauge / Keine
+Neu     Achtlos / Adlerauge
 
-Moves:
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Tackle
 1 - Heuler
-5 - Ruckzubhieb
+5 - Ruckzuckhieb
 8 - Flügelschlag
 11 - Doppelteam
 14 - Gesichte
@@ -10425,17 +10418,17 @@ Level Up:
 ===================
 397 - Staravia
 ===================
-Ability:
-Old     Intimdate / None
-New     Reckless / Intimidate
+Fähigkeit:
+Alt     Intimdate / Keine
+Neu     Achtlos / Bedroher
 
-Moves:
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Tackle
 1 - Heuler
-5 - Ruckzubhieb
+5 - Ruckzuckhieb
 8 - Flügelschlag
 11 - Doppelteam
 14 - Gesichte
@@ -10452,19 +10445,19 @@ Level Up:
 ===================
 398 - Staraptor
 ===================
-Ability:
-Old     Intimdate / None
-New     Reckless / Intimidate
+Fähigkeit:
+Alt     Intimdate / Keine
+Neu     Achtlos / Bedroher
 
-Moves:
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Risikotackle
 1 - Sturzflug
 1 - Tackle
 1 - Heuler
-5 - Ruckzubhieb
+5 - Ruckzuckhieb
 8 - Flügelschlag
 11 - Doppelteam
 14 - Gesichte
@@ -10482,8 +10475,8 @@ Level Up:
 ===================
 399 - Bidoof
 ===================
-Moves:
-Now compatible with TM75, Schwerttanz.
+Attacken:
+Jetzt kompatibel mit TM75, Schwerttanz.
 
 Level Up:
 1 - Tackle
@@ -10507,11 +10500,11 @@ Level Up:
 400 - Bibarel
 ===================
 Base Stats:
-Old     79 HP / 85 Atk / 60 Def / 55 SAtk / 60 SDef / 71 Spd / 410 BST
-New     94 HP / 100 Atk / 65 Def / 55 SAtk / 65 SDef / 71 Spd / 450 BST
+Alt     79 HP / 85 Atk / 60 Def / 55 SAtk / 60 SDef / 71 Spd / 410 BST
+Neu     94 HP / 100 Atk / 65 Def / 55 SAtk / 65 SDef / 71 Spd / 450 BST
 
-Moves:
-Now compatible with TM75, Schwerttanz.
+Attacken:
+Jetzt kompatibel mit TM75, Schwerttanz.
 
 Level Up:
 1 - Aquaknarre
@@ -10536,13 +10529,13 @@ Level Up:
 ===================
 401 - Kricketot
 ===================
-Ability:
-Old     Shed Skin / None
-New     Run Away / Shed Skin
+Fähigkeit:
+Alt     Expidermis / Keine
+Neu     Angsthase / Expidermis
 
 Base Stats:
-Old     37 HP / 25 Atk / 41 Def / 25 SAtk / 41 SDef / 25 Spd / 194 BST
-New     37 HP / 35 Atk / 41 Def / 35 SAtk / 41 SDef / 25 Spd / 214 BST
+Alt     37 HP / 25 Atk / 41 Def / 25 SAtk / 41 SDef / 25 Spd / 194 BST
+Neu     37 HP / 35 Atk / 41 Def / 35 SAtk / 41 SDef / 25 Spd / 214 BST
 
 Level Up:
 1 - Heuler
@@ -10553,16 +10546,16 @@ Level Up:
 ===================
 402 - Kricketune
 ===================
-Ability:
-Old     Swarm / None
-New     Technician / Swarm
+Fähigkeit:
+Alt     Hexaplaga / Keine
+Neu     Techniker / Hexaplaga
 
 Base Stats:
-Old     77 HP / 85 Atk / 51 Def / 55 SAtk / 51 SDef / 65 Spd / 384 BST
-New     80 HP / 115 Atk / 70 Def / 50 SAtk / 70 SDef / 65 Spd / 450 BST
+Alt     77 HP / 85 Atk / 51 Def / 55 SAtk / 51 SDef / 65 Spd / 384 BST
+Neu     80 HP / 115 Atk / 70 Def / 50 SAtk / 70 SDef / 65 Spd / 450 BST
 
-Moves:
-Now compatible with TM62, Käfergebrumm.
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm.
 
 Level Up:
 1 - Abgesang
@@ -10590,15 +10583,15 @@ Level Up:
 ===================
 403 - Shinx
 ===================
-Ability:
-Old     Rivalry / Intimidate
-New     Intimidate / Guts
+Fähigkeit:
+Alt     Rivalität / Bedroher
+Neu     Bedroher / Adrenalin
 
 Level Up:
 1 - Tackle
 1 - Silberblick
 1 - Jauler
-6 - Ruckzubhieb
+6 - Ruckzuckhieb
 9 - Funkensprung
 12 - Biss
 15 - Ladevorgang
@@ -10617,15 +10610,15 @@ Level Up:
 ===================
 404 - Luxio
 ===================
-Ability:
-Old     Rivalry / Intimidate
-New     Intimidate / Guts
+Fähigkeit:
+Alt     Rivalität / Bedroher
+Neu     Bedroher / Adrenalin
 
 Level Up:
 1 - Tackle
 1 - Silberblick
 1 - Jauler
-6 - Ruckzubhieb
+6 - Ruckzuckhieb
 9 - Funkensprung
 12 - Biss
 16 - Ladevorgang
@@ -10644,19 +10637,19 @@ Level Up:
 ===================
 405 - Luxray
 ===================
-Ability:
-Old     Rivalry / Intimidate
-New     Intimidate / Guts
+Fähigkeit:
+Alt     Rivalität / Bedroher
+Neu     Bedroher / Adrenalin
 
-Moves:
-Now compatible with TM79, Finsteraura. (!!)
+Attacken:
+Jetzt kompatibel mit TM79, Finsteraura. (!!)
 
 Level Up:
 1 - Kraftkoloss
 1 - Tackle
 1 - Silberblick
 1 - Jauler
-6 - Ruckzubhieb
+6 - Ruckzuckhieb
 9 - Funkensprung
 12 - Biss
 16 - Ladevorgang
@@ -10675,16 +10668,16 @@ Level Up:
 ===================
 406 - Budew
 ===================
-Ability:
-Old     Natural Cure / Poison Point
-New     Poison Point / Natural Cure
+Fähigkeit:
+Alt     Innere Kraft / Giftdorn
+Neu     Giftdorn / Innere Kraft
 
 Base Happiness:
-Old     70
-New     180
+Alt     70
+Neu     180
 
 Evolution:
-Now evolves into Roselia when happy regardless of the time.
+Entwickelt sich zu Roselia when happy regardless of the time.
 
 Level Up:
 1 - Absorber
@@ -10699,9 +10692,9 @@ Level Up:
 ===================
 407 - Roserade
 ===================
-Ability:
-Old     Natural Cure / Poison Point
-New     Technician / Natural Cure
+Fähigkeit:
+Alt     Innere Kraft / Giftdorn
+Neu     Techniker / Innere Kraft
 
 Level Up:
 1 - Meteorologe
@@ -10714,9 +10707,9 @@ Level Up:
 ===================
 408 - Cranidos
 ===================
-Ability:
-Old     Mold Breaker / None
-New     Rock Head / Mold Breaker
+Fähigkeit:
+Alt     MAlt Breaker / Keine
+Neu     Steinhaupt / MAlt Breaker
 
 Level Up:
 1 - Kopfnuss
@@ -10740,9 +10733,9 @@ Level Up:
 ===================
 409 - Rampardos
 ===================
-Ability:
-Old     Mold Breaker / None
-New     Rock Head / Mold Breaker
+Fähigkeit:
+Alt     MAlt Breaker / Keine
+Neu     Steinhaupt / MAlt Breaker
 
 Level Up:
 1 - Kraftkoloss
@@ -10768,13 +10761,13 @@ Level Up:
 ===================
 410 - Shieldon
 ===================
-Ability:
-Old     Sturdy / None
-New     Soundproof / Sturdy
+Fähigkeit:
+Alt     Robustheit / Keine
+Neu     Lärmschutz / Robustheit
 
 Base Stats:
-Old     30 HP / 42 Atk / 118 Def / 42 SAtk / 88 SDef / 30 Spd / 350 BST
-New     30 HP / 62 Atk / 118 Def / 22 SAtk / 88 SDef / 30 Spd / 350 BST
+Alt     30 HP / 42 Atk / 118 Def / 42 SAtk / 88 SDef / 30 Spd / 350 BST
+Neu     30 HP / 62 Atk / 118 Def / 22 SAtk / 88 SDef / 30 Spd / 350 BST
 
 Level Up:
 1 - Tackle
@@ -10798,13 +10791,13 @@ Level Up:
 ===================
 411 - Bastiodon
 ===================
-Ability:
-Old     Sturdy / None
-New     Soundproof / Sturdy
+Fähigkeit:
+Alt     Robustheit / Keine
+Neu     Lärmschutz / Robustheit
 
 Base Stats:
-Old     60 HP / 52 Atk / 168 Def / 47 SAtk / 138 SDef / 30 Spd / 495 BST
-New     60 HP / 72 Atk / 168 Def / 27 SAtk / 138 SDef / 30 Spd / 495 BST
+Alt     60 HP / 52 Atk / 168 Def / 47 SAtk / 138 SDef / 30 Spd / 495 BST
+Neu     60 HP / 72 Atk / 168 Def / 27 SAtk / 138 SDef / 30 Spd / 495 BST
 
 Level Up:
 1 - Geofissur
@@ -10830,13 +10823,13 @@ Level Up:
 ===================
 412 - Burmy
 ===================
-Ability:
-Old     Shed Skin / None
-New     Battle Armor / Shed Skin
+Fähigkeit:
+Alt     Expidermis / Keine
+Neu     Battle Armor / Expidermis
 
 Base Stats:
-Old     40 HP / 29 Atk / 45 Def / 29 SAtk / 45 SDef / 36 Spd / 224 BST
-New     40 HP / 20 Atk / 45 Def / 45 SAtk / 45 SDef / 30 Spd / 225 BST
+Alt     40 HP / 29 Atk / 45 Def / 29 SAtk / 45 SDef / 36 Spd / 224 BST
+Neu     40 HP / 20 Atk / 45 Def / 45 SAtk / 45 SDef / 30 Spd / 225 BST
 
 Level Up:
 1 - Schutzschild
@@ -10847,24 +10840,24 @@ Level Up:
 ===================
 413 - Wormadam
 ===================
-Ability:
-Old     Anticipation / None
-New     Battle Armor / Anticipation
+Fähigkeit:
+Alt     Anticipation / Keine
+Neu     Battle Armor / Anticipation
 
 Base Stats (Plant Cloak):
-Old     60 HP / 59 Atk / 85 Def / 79 SAtk / 105 SDef / 36 Spd / 424 BST
-New     60 HP / 50 Atk / 90 Def / 110 SAtk / 110 SDef / 30 Spd / 450 BST
+Alt     60 HP / 59 Atk / 85 Def / 79 SAtk / 105 SDef / 36 Spd / 424 BST
+Neu     60 HP / 50 Atk / 90 Def / 110 SAtk / 110 SDef / 30 Spd / 450 BST
 
 Base Stats (Sandy Cloak):
-Old     60 HP / 79 Atk / 105 Def / 59 SAtk / 85 SDef / 36 Spd / 424 BST
-New     60 HP / 50 Atk / 110 Def / 110 SAtk / 90 SDef / 30 Spd / 450 BST
+Alt     60 HP / 79 Atk / 105 Def / 59 SAtk / 85 SDef / 36 Spd / 424 BST
+Neu     60 HP / 50 Atk / 110 Def / 110 SAtk / 90 SDef / 30 Spd / 450 BST
 
 Base Stats (Trash Cloak):
-Old     60 HP / 69 Atk / 95 Def / 69 SAtk / 95 SDef / 36 Spd / 424 BST
-New     60 HP / 50 Atk / 100 Def / 110 SAtk / 100 SDef / 30 Spd / 450 BST
+Alt     60 HP / 69 Atk / 95 Def / 69 SAtk / 95 SDef / 36 Spd / 424 BST
+Neu     60 HP / 50 Atk / 100 Def / 110 SAtk / 100 SDef / 30 Spd / 450 BST
 
-Moves:
-Now compatible with TM62, Käfergebrumm.
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm.
 
 Level Up (Plant Cloak):
 1 - Blättersturm
@@ -10916,7 +10909,7 @@ Level Up (Trash Cloak):
 23 - Konfusion
 26 - Käfergebrumm
 29 - Metallsound
-32 - Blitz Cannon
+32 - Lichtkanone
 35 - Psystrahl
 38 - Anziehung
 41 - Psychokinese
@@ -10927,20 +10920,20 @@ Level Up (Trash Cloak):
 ===================
 414 - Mothim
 ===================
-Ability:
-Old     Swarm / None
-New     Tinted Lens / Swarm
+Fähigkeit:
+Alt     Hexaplaga / Keine
+Neu     Aufwertung / Hexaplaga
 
 Base Stats:
-Old     70 HP / 94 Atk / 50 Def / 94 SAtk / 50 SDef / 66 Spd / 424 BST
-New     70 HP / 70 Atk / 50 Def / 110 SAtk / 50 SDef / 100 Spd / 450 BST
+Alt     70 HP / 94 Atk / 50 Def / 94 SAtk / 50 SDef / 66 Spd / 424 BST
+Neu     70 HP / 70 Atk / 50 Def / 110 SAtk / 50 SDef / 100 Spd / 450 BST
 
-Moves:
-Now compatible with TM62, Käfergebrumm.
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm.
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
-1 - Hurricane (!!)
+1 - Orkan (!!)
 1 - Schutzschild
 1 - Tackle
 1 - Käfergebiss
@@ -10955,17 +10948,17 @@ Level Up:
 41 - Psychokinese
 44 - Dreschflegel
 47 - Tarnung
-50 - Hurricane (!!)
+50 - Orkan (!!)
 
 ===================
 415 - Combee
 ===================
-Ability:
-Old     Honey Gather / None
-New     Hustle / Honey Gather
+Fähigkeit:
+Alt     Honey Gather / Keine
+Neu     Übereifer / Honey Gather
 
-Moves:
-Now compatible with TM62, Käfergebrumm.
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm.
 
 Level Up:
 1 - Lockduft
@@ -10976,14 +10969,14 @@ Level Up:
 ===================
 416 - Vespiquen
 ===================
-Ability:
-Old     Pressure / None
-New     Intimidate / Pressure
+Fähigkeit:
+Alt     Erzwinger / Keine
+Neu     Bedroher / Erzwinger
 
-Moves:
-Now compatible with TM62, Käfergebrumm.
-Now compatible with TM88, Hurricane. (!!)
-Now compatible with HM02, Fliegen. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm.
+Jetzt kompatibel mit TM88, Orkan. (!!)
+Jetzt kompatibel mit HM02, Fliegen. (!!)
 
 Level Up:
 1 - Lockduft
@@ -11010,18 +11003,18 @@ Level Up:
 ===================
 417 - Pachirisu
 ===================
-Ability:
-Old     Run Away / Pickup
-New     Volt Absorber / Pickup
+Fähigkeit:
+Alt     Angsthase / Mitnahme
+Neu     Voltabsorber / Mitnahme
 
 Base Stats:
-Old     60 HP / 45 Atk / 70 Def / 45 SAtk / 90 SDef / 95 Spd / 405 BST
-New     60 HP / 45 Atk / 80 Def / 80 SAtk / 90 SDef / 95 Spd / 450 BST
+Alt     60 HP / 45 Atk / 70 Def / 45 SAtk / 90 SDef / 95 Spd / 405 BST
+Neu     60 HP / 45 Atk / 80 Def / 80 SAtk / 90 SDef / 95 Spd / 450 BST
 
 Level Up:
 1 - Heuler
 1 - Geduld
-5 - Ruckzubhieb
+5 - Ruckzuckhieb
 9 - Charme
 13 - Funkensprung
 15 - Ausdauer
@@ -11042,15 +11035,15 @@ Level Up:
 ===================
 418 - Buizel
 ===================
-Ability:
-Old     Sternschauer Swim / None
-New     Sternschauer Swim / Water Veil
+Fähigkeit:
+Alt     Wassertempo / Keine
+Neu     Wassertempo / Water Veil
 
 Level Up:
 1 - Ultraschall
 4 - Heuler
 7 - Aquaknarre
-10 - Ruckzubhieb
+10 - Ruckzuckhieb
 13 - Nassmacher
 16 - Wasserdüse
 19 - Verfolgung
@@ -11066,15 +11059,15 @@ Level Up:
 ===================
 419 - Floatzel
 ===================
-Ability:
-Old     Sternschauer Swim / None
-New     Sternschauer Swim / Water Veil
+Fähigkeit:
+Alt     Wassertempo / Keine
+Neu     Wassertempo / Water Veil
 
 Level Up:
 1 - Ultraschall
 4 - Heuler
 7 - Aquaknarre
-10 - Ruckzubhieb
+10 - Ruckzuckhieb
 13 - Nassmacher
 16 - Wasserdüse
 19 - Verfolgung
@@ -11112,8 +11105,8 @@ Level Up:
 421 - Cherrim
 ===================
 Base Stats:
-Old     70 HP / 60 Atk / 70 Def / 87 SAtk / 78 SDef / 85 Spd / 450 BST
-New     70 HP / 45 Atk / 70 Def / 107 SAtk / 83 SDef / 90 Spd / 465 BST
+Alt     70 HP / 60 Atk / 70 Def / 87 SAtk / 78 SDef / 85 Spd / 450 BST
+Neu     70 HP / 45 Atk / 70 Def / 107 SAtk / 83 SDef / 90 Spd / 465 BST
 
 Level Up:
 1 - Morgengrauen
@@ -11206,12 +11199,12 @@ Level Up:
 ===================
 425 - Drifloon
 ===================
-Ability:
-Old     Aftermath / Unburden
-New     Unburden / Aftermath
+Fähigkeit:
+Alt     Aftermath / Entlastung
+Neu     Entlastung / Aftermath
 
-Moves:
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Erstauner
@@ -11227,22 +11220,22 @@ Level Up:
 25 - Spukball
 28 - Amnesie
 31 - Luftschnitt (!!)
-34 - Hynose
+34 - Hypnose
 37 - Stafette
 40 - Meteorologe
-43 - Hurricane (!!)
+43 - Orkan (!!)
 46 - Explosion
 
 ===================
 426 - Drifblim
 ===================
-Ability:
-Old     Aftermath / Unburden
-New     Unburden / Aftermath
+Fähigkeit:
+Alt     Aftermath / Entlastung
+Neu     Entlastung / Aftermath
 
-Moves:
-Now compatible with TM35, Flammenwurf. (!!)
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM35, Flammenwurf. (!!)
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Abgangsbund
@@ -11259,18 +11252,18 @@ Level Up:
 25 - Spukball
 29 - Amnesie
 33 - Luftschnitt (!!)
-37 - Hynose
+37 - Hypnose
 41 - Stafette
 45 - Meteorologe
-49 - Hurricane (!!)
+49 - Orkan (!!)
 53 - Explosion
 
 ===================
 427 - Buneary
 ===================
-Ability:
-Old     Run Away / Klutz
-New     Limber / Run Away
+Fähigkeit:
+Alt     Angsthase / Klutz
+Neu     Flexibilität / Angsthase
 
 Level Up:
 1 - Platscher
@@ -11278,7 +11271,7 @@ Level Up:
 1 - Einigler
 1 - Gesichte
 7 - Ausdauer
-10 - Ruckzubhieb
+10 - Ruckzuckhieb
 13 - Frustration
 16 - Sprungkick
 19 - Mogelhieb
@@ -11295,13 +11288,13 @@ Level Up:
 ===================
 428 - Lopunny
 ===================
-Ability:
-Old     Cute Charme / Klutz
-New     Scrappy / Cute Charme
+Fähigkeit:
+Alt     Charmebolzen / Klutz
+Neu     Rauflust / Charmebolzen
 
 Base Stats:
-Old     65 HP / 76 Atk / 84 Def / 54 SAtk / 96 SDef / 105 Spd / 480 BST
-New     65 HP / 106 Atk / 84 Def / 44 SAtk / 96 SDef / 105 Spd / 500 BST
+Alt     65 HP / 76 Atk / 84 Def / 54 SAtk / 96 SDef / 105 Spd / 480 BST
+Neu     65 HP / 106 Atk / 84 Def / 44 SAtk / 96 SDef / 105 Spd / 500 BST
 
 Level Up:
 1 - Megakick (!!)
@@ -11311,7 +11304,7 @@ Level Up:
 1 - Einigler
 1 - Gesichte
 7 - Ausdauer
-10 - Ruckzubhieb
+10 - Ruckzuckhieb
 13 - Rückkehr
 16 - Sprungkick
 19 - Mogelhieb
@@ -11344,12 +11337,12 @@ Level Up:
 ===================
 430 - Honchkrow
 ===================
-Ability:
-Old     Insomnia / Super Luck
-New     Super Luck / Insomnia
+Fähigkeit:
+Alt     Insomnia / Glückspilz
+Neu     Glückspilz / Insomnia
 
-Moves:
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Tiefschlag
@@ -11367,16 +11360,16 @@ Level Up:
 431 - Glameow
 ===================
 Base Stats:
-Old     49 HP / 55 Atk / 42 Def / 42 SAtk / 37 SDef / 85 Spd / 310 BST
-New     50 HP / 65 Atk / 45 Def / 45 SAtk / 40 SDef / 90 Spd / 335 BST
+Alt     49 HP / 55 Atk / 42 Def / 42 SAtk / 37 SDef / 85 Spd / 310 BST
+Neu     50 HP / 65 Atk / 45 Def / 45 SAtk / 40 SDef / 90 Spd / 335 BST
 
 Level Up:
 1 - Mogelhieb
 1 - Kratzer
 1 - Heuler
-1 - Ruckzubhieb
+1 - Ruckzuckhieb
 7 - Kratzfurie
-10 - Hynose
+10 - Hypnose
 13 - Bezirzer
 16 - Finte
 19 - Charme
@@ -11395,16 +11388,16 @@ Level Up:
 432 - Purugly
 ===================
 Base Stats:
-Old     71 HP / 82 Atk / 64 Def / 64 SAtk / 59 SDef / 112 Spd / 452 BST
-New     90 HP / 95 Atk / 70 Def / 65 SAtk / 60 SDef / 115 Spd / 495 BST
+Alt     71 HP / 82 Atk / 64 Def / 64 SAtk / 59 SDef / 112 Spd / 452 BST
+Neu     90 HP / 95 Atk / 70 Def / 65 SAtk / 60 SDef / 115 Spd / 495 BST
 
 Level Up:
 1 - Mogelhieb
 1 - Kratzer
 1 - Heuler
-1 - Ruckzubhieb
+1 - Ruckzuckhieb
 7 - Kratzfurie
-10 - Hynose
+10 - Hypnose
 13 - Bezirzer
 16 - Finte
 19 - Charme
@@ -11424,8 +11417,8 @@ Level Up:
 433 - Chingling
 ===================
 Base Stats:
-Old     45 HP / 30 Atk / 50 Def / 65 SAtk / 50 SDef / 45 Spd / 285 BST
-New     45 HP / 30 Atk / 50 Def / 80 SAtk / 60 SDef / 45 Spd / 310 BST
+Alt     45 HP / 30 Atk / 50 Def / 65 SAtk / 50 SDef / 45 Spd / 285 BST
+Neu     45 HP / 30 Atk / 50 Def / 80 SAtk / 60 SDef / 45 Spd / 310 BST
 
 Level Up:
 1 - Konfusion
@@ -11441,13 +11434,13 @@ Level Up:
 ===================
 434 - Stunky
 ===================
-Ability:
-Old     Stench / Aftermath
-New     Aftermath / Stench
+Fähigkeit:
+Alt     Duftnote / Aftermath
+Neu     Aftermath / Duftnote
 
 Base Stats:
-Old     63 HP / 63 Atk / 47 Def / 41 SAtk / 41 SDef / 74 Spd / 329 BST
-New     65 HP / 65 Atk / 50 Def / 40 SAtk / 40 SDef / 75 Spd / 335 BST
+Alt     63 HP / 63 Atk / 47 Def / 41 SAtk / 41 SDef / 74 Spd / 329 BST
+Neu     65 HP / 65 Atk / 50 Def / 40 SAtk / 40 SDef / 75 Spd / 335 BST
 
 Level Up:
 1 - Kratzer
@@ -11474,13 +11467,13 @@ Level Up:
 ===================
 435 - Skuntank
 ===================
-Ability:
-Old     Stench / Aftermath
-New     Aftermath / Stench
+Fähigkeit:
+Alt     Duftnote / Aftermath
+Neu     Aftermath / Duftnote
 
-Base Stats (Complete):
-Old     103 HP / 93 Atk / 67 Def / 71 SAtk / 61 SDef / 84 Spd / 479 BST
-New     115 HP / 95 Atk / 70 Def / 70 SAtk / 60 SDef / 85 Spd / 495 BST
+Base Stats:
+Alt     103 HP / 93 Atk / 67 Def / 71 SAtk / 61 SDef / 84 Spd / 479 BST
+Neu     115 HP / 95 Atk / 70 Def / 70 SAtk / 60 SDef / 85 Spd / 495 BST
 
 Level Up:
 1 - Kratzer
@@ -11514,14 +11507,14 @@ Level Up:
 5 - Begrenzer
 9 - Konfusstrahl
 13 - Psywelle
-15 - Hynose
+15 - Hypnose
 17 - Sondersensor
 19 - Finte
 23 - Gyroball
 25 - Eisenabwehr
 27 - Zen-Kopfstoß
 30 - Bodyguard
-33 - Blitz Cannon
+33 - Lichtkanone
 36 - Seher
 39 - Metallsound
 42 - Gegenstoß
@@ -11530,8 +11523,8 @@ Level Up:
 ===================
 437 - Bronzong
 ===================
-Moves:
-Now compatible with HM02, Fliegen. (!!)
+Attacken:
+Jetzt kompatibel mit HM02, Fliegen. (!!)
 
 Level Up:
 1 - Sonnentag
@@ -11541,7 +11534,7 @@ Level Up:
 5 - Begrenzer
 9 - Konfusstrahl
 13 - Psywelle
-15 - Hynose
+15 - Hypnose
 17 - Sondersensor
 19 - Finte
 23 - Gyroball
@@ -11549,7 +11542,7 @@ Level Up:
 27 - Zen-Kopfstoß
 30 - Bodyguard
 33 - Rückentzug
-34 - Blitz Cannon
+34 - Lichtkanone
 38 - Seher
 42 - Metallsound
 46 - Gegenstoß
@@ -11558,13 +11551,13 @@ Level Up:
 ===================
 438 - Bonsly
 ===================
-Ability:
-Old     Sturdy / Rock Head
-New     Rock Head / Sturdy
+Fähigkeit:
+Alt     Robustheit / Steinhaupt
+Neu     Steinhaupt / Robustheit
 
 Base Stats:
-Old     50 HP / 80 Atk / 95 Def / 10 SAtk / 45 SDef / 10 Spd / 290 BST
-New     60 HP / 85 Atk / 95 Def / 10 SAtk / 55 SDef / 10 Spd / 315 BST
+Alt     50 HP / 80 Atk / 95 Def / 10 SAtk / 45 SDef / 10 Spd / 290 BST
+Neu     60 HP / 85 Atk / 95 Def / 10 SAtk / 55 SDef / 10 Spd / 315 BST
 
 Level Up:
 1 - Trugträne
@@ -11587,13 +11580,13 @@ Level Up:
 ===================
 439 - Mime Jr.
 ===================
-Ability:
-Old     Soundproof / Filter
-New     Filter / Technician
+Fähigkeit:
+Alt     Lärmschutz / Filter
+Neu     Filter / Techniker
 
 Base Stats:
-Old     20 HP / 25 Atk / 45 Def / 70 SAtk / 90 SDef / 60 Spd / 310 BST
-New     20 HP / 15 Atk / 45 Def / 80 SAtk / 90 SDef / 65 Spd / 315 BST
+Alt     20 HP / 25 Atk / 45 Def / 70 SAtk / 90 SDef / 60 Spd / 310 BST
+Neu     20 HP / 15 Atk / 45 Def / 80 SAtk / 90 SDef / 65 Spd / 315 BST
 
 Level Up:
 1 - Spaßkanone
@@ -11620,9 +11613,9 @@ Level Up:
 ===================
 440 - Happiny
 ===================
-Ability:
-Old     Natural Cure / Serene Grace
-New     Serene Grace / Natural Cure
+Fähigkeit:
+Alt     Innere Kraft / Edelmut
+Neu     Edelmut / Innere Kraft
 
 Level Up:
 1 - Klaps
@@ -11635,16 +11628,16 @@ Level Up:
 ===================
 441 - Chatot
 ===================
-Ability:
-Old     Keen Eye / Tangled Feet
-New     Soundproof / Tangled Feet
+Fähigkeit:
+Alt     Adlerauge / Taumelschritt
+Neu     Lärmschutz / Taumelschritt
 
 Base Stats:
-Old     76 HP / 65 Atk / 45 Def / 92 SAtk / 42 SDef / 91 Spd / 411 BST
-New     75 HP / 45 Atk / 55 Def / 110 SAtk / 55 SDef / 110 Spd / 450 BST
+Alt     76 HP / 65 Atk / 45 Def / 92 SAtk / 42 SDef / 91 Spd / 411 BST
+Neu     75 HP / 45 Atk / 55 Def / 110 SAtk / 55 SDef / 110 Spd / 450 BST
 
-Moves:
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Verhöhner
@@ -11664,7 +11657,7 @@ Level Up:
 39 - Schwallwelle
 42 - Daunenreigen
 45 - Ränkeschmied
-48 - Hurricane (!!)
+48 - Orkan (!!)
 
 ===================
 442 - Spiritomb
@@ -11675,7 +11668,7 @@ Level Up:
 1 - Groll
 1 - Schattenstoß
 7 - Finte
-10 - Hynose
+10 - Hypnose
 13 - Traumfresser
 16 - Irrlicht
 19 - Unheilböen
@@ -11692,9 +11685,9 @@ Level Up:
 ===================
 443 - Gible
 ===================
-Ability:
-Old     Sand Veil / None
-New     Rough Skin / Sand Veil
+Fähigkeit:
+Alt     Sandschleier / Keine
+Neu     Rough Skin / Sandschleier
 
 Level Up:
 1 - Feuerodem
@@ -11719,9 +11712,9 @@ Level Up:
 ===================
 444 - Gabite
 ===================
-Ability:
-Old     Sand Veil / None
-New     Rough Skin / Sand Veil
+Fähigkeit:
+Alt     Sandschleier / Keine
+Neu     Rough Skin / Sandschleier
 
 Level Up:
 1 - Tackle
@@ -11745,12 +11738,12 @@ Level Up:
 ===================
 445 - Garchomp
 ===================
-Ability:
-Old     Sand Veil / None
-New     Rough Skin / Sand Veil
+Fähigkeit:
+Alt     Sandschleier / Keine
+Neu     Rough Skin / Sandschleier
 
-Moves:
-Now compatible with HM02, Fliegen. (!!)
+Attacken:
+Jetzt kompatibel mit HM02, Fliegen. (!!)
 
 Level Up:
 1 - Feuerzahn
@@ -11777,9 +11770,9 @@ Level Up:
 ===================
 446 - Munchlax
 ===================
-Ability:
-Old     Pickup / Thick Fat
-New     Thick Fat / Pickup
+Fähigkeit:
+Alt     Mitnahme / Speckschicht
+Neu     Speckschicht / Mitnahme
 
 Level Up:
 1 - Metronom
@@ -11806,16 +11799,16 @@ Level Up:
 447 - Riolu
 ===================
 Evolution:
-Now evolves into Lucario regardless of time.
+Entwickelt sich zu Lucario regardless of time.
 
 Level Up:
-1 - Ruckzubhieb
+1 - Ruckzuckhieb
 1 - Gesichte
 1 - Ausdauer
 1 - Fußkick
 4 - Biss
 7 - Konter
-10 - kraftwelle
+10 - Kraftwelle
 13 - Offenlegung
 16 - Imitator
 19 - Kreideschrei
@@ -11827,18 +11820,18 @@ Level Up:
 ===================
 448 - Lucario
 ===================
-Ability:
-Old     Steadfast / Inner Focus
-New     Adaptability / Inner Focus
+Fähigkeit:
+Alt     Felsenfest / Konzentrator
+Neu     Anpassung / Konzentrator
 
 Level Up:
 1 - Patronenhieb
-1 - Ruckzubhieb
+1 - Ruckzuckhieb
 1 - Gesichte
 1 - Scanner
 4 - Metallklaue
 7 - Konter
-10 - kraftwelle
+10 - Kraftwelle
 13 - Offenlegung
 16 - Schwerttanz
 19 - Metallsound
@@ -11902,9 +11895,9 @@ Level Up:
 ===================
 451 - Skorupi
 ===================
-Ability:
-Old     Battle Armor / Sniper
-New     Sniper / Battle Armor
+Fähigkeit:
+Alt     Battle Armor / Sniper
+Neu     Sniper / Battle Armor
 
 Level Up:
 1 - Biss
@@ -11928,9 +11921,9 @@ Level Up:
 ===================
 452 - Drapion
 ===================
-Ability:
-Old     Battle Armor / Sniper
-New     Sniper / Battle Armor
+Fähigkeit:
+Alt     Battle Armor / Sniper
+Neu     Sniper / Battle Armor
 
 Level Up:
 1 - Donnerzahn
@@ -11957,12 +11950,12 @@ Level Up:
 ===================
 453 - Croagunk
 ===================
-Ability:
-Old     Anticipation / Dry Skin
-New     Dry Skin / Anticipation
+Fähigkeit:
+Alt     Anticipation / Trockenheit
+Neu     Trockenheit / Anticipation
 
-Moves:
-Now compatible with TM60, Ableithieb.
+Attacken:
+Jetzt kompatibel mit TM60, Ableithieb.
 
 Level Up:
 1 - Erstauner
@@ -11988,12 +11981,12 @@ Level Up:
 ===================
 454 - Toxicroak
 ===================
-Ability:
-Old     Anticipation / Dry Skin
-New     Dry Skin / Anticipation
+Fähigkeit:
+Alt     Anticipation / Trockenheit
+Neu     Trockenheit / Anticipation
 
-Moves:
-Now compatible with TM60, Ableithieb.
+Attacken:
+Jetzt kompatibel mit TM60, Ableithieb.
 
 Level Up:
 1 - Vakuumwelle
@@ -12021,11 +12014,11 @@ Level Up:
 455 - Carnivine
 ===================
 Base Stats:
-Old     74 HP / 100 Atk / 72 Def / 90 SAtk / 72 SDef / 46 Spd / 454 BST
-New     74 HP / 110 Atk / 72 Def / 100 SAtk / 72 SDef / 36 Spd / 464 BST
+Alt     74 HP / 100 Atk / 72 Def / 90 SAtk / 72 SDef / 46 Spd / 454 BST
+Neu     74 HP / 110 Atk / 72 Def / 100 SAtk / 72 SDef / 36 Spd / 464 BST
 
-Moves:
-Now compatible with TM79, Finsteraura. (!!)
+Attacken:
+Jetzt kompatibel mit TM79, Finsteraura. (!!)
 
 Level Up:
 1 - Klammergriff
@@ -12053,11 +12046,11 @@ Level Up:
 456 - Finneon
 ===================
 Base Stats:
-Old     49 HP / 49 Atk / 56 Def / 49 SAtk / 61 SDef / 66 Spd / 330 BST
-New     50 HP / 30 Atk / 60 Def / 60 SAtk / 60 SDef / 70 Spd / 330 BST
+Alt     49 HP / 49 Atk / 56 Def / 49 SAtk / 61 SDef / 66 Spd / 330 BST
+Neu     50 HP / 30 Atk / 60 Def / 60 SAtk / 60 SDef / 70 Spd / 330 BST
 
-Moves:
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Klaps
@@ -12082,11 +12075,11 @@ Level Up:
 457 - Lumineon
 ===================
 Base Stats:
-Old     69 HP / 69 Atk / 76 Def / 69 SAtk / 86 SDef / 91 Spd / 460 BST
-New     70 HP / 40 Atk / 75 Def / 105 SAtk / 90 SDef / 105 Spd / 485 BST
+Alt     69 HP / 69 Atk / 76 Def / 69 SAtk / 86 SDef / 91 Spd / 460 BST
+Neu     70 HP / 40 Atk / 75 Def / 105 SAtk / 90 SDef / 105 Spd / 485 BST
 
-Moves:
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Hydropumpe (!!)
@@ -12136,9 +12129,9 @@ Level Up:
 ===================
 459 - Snover
 ===================
-Ability:
-Old     Snow Warning / None
-New     Snow Warning / Soundproof
+Fähigkeit:
+Alt     Snow Warning / Keine
+Neu     Snow Warning / Lärmschutz
 
 Level Up:
 1 - Pulverschnee
@@ -12162,9 +12155,9 @@ Level Up:
 ===================
 460 - Abomasnow
 ===================
-Ability:
-Old     Snow Warning / None
-New     Snow Warning / Soundproof
+Fähigkeit:
+Alt     Snow Warning / Keine
+Neu     Snow Warning / Lärmschutz
 
 Level Up:
 1 - Eisschlag
@@ -12189,9 +12182,9 @@ Level Up:
 ===================
 461 - Weavile
 ===================
-Ability:
-Old     Pressure / None
-New     Technician / Pressure
+Fähigkeit:
+Alt     Erzwinger / Keine
+Neu     Techniker / Erzwinger
 
 Level Up:
 1 - Gewissheit
@@ -12201,7 +12194,7 @@ Level Up:
 1 - Kratzer
 1 - Silberblick
 1 - Verhöhner
-7 - Ruckzubhieb
+7 - Ruckzuckhieb
 10 - Eissturm
 13 - Finte
 16 - Kratzfurie
@@ -12219,8 +12212,8 @@ Level Up:
 ===================
 462 - Magnezone
 ===================
-Moves:
-Now compatible with TM62, Käfergebrumm. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm. (!!)
 
 Level Up:
 1 - Spiegelcape
@@ -12237,7 +12230,7 @@ Level Up:
 22 - Spiegelsalve
 25 - Metallsound
 28 - Ladungsstoß
-33 - Blitz Cannon
+33 - Lichtkanone
 37 - Kreideschrei
 41 - Donnerblitz
 45 - Zielschuss
@@ -12274,13 +12267,13 @@ Level Up:
 ===================
 464 - Rhyperior
 ===================
-Ability:
-Old     Lightning Rod / Rock Head
-New     Solid Rock / Reckless
+Fähigkeit:
+Alt     Blitzfänger / Steinhaupt
+Neu     Felskern / Achtlos
 
 Level Up:
 1 - Donnerzahn
-1 - Hornattack
+1 - Hornattacke
 1 - Rutenschlag
 4 - Furienschlag
 7 - Grimasse
@@ -12329,14 +12322,14 @@ Level Up:
 ===================
 466 - Electivire
 ===================
-Moves:
-Now compatible with TM60, Ableithieb. (!!)
+Attacken:
+Jetzt kompatibel mit TM60, Ableithieb. (!!)
 
 Level Up:
 1 - Hammerarm
 1 - Feuerschlag
 1 - Eisschlag
-1 - Ruckzubhieb
+1 - Ruckzuckhieb
 1 - Silberblick
 1 - Donnerschock
 7 - Fußkick
@@ -12383,12 +12376,12 @@ Level Up:
 ===================
 468 - Togekiss
 ===================
-Ability:
-Old     Hustle / Serene Grace
-New     Serene Grace / Super Luck
+Fähigkeit:
+Alt     Übereifer / Edelmut
+Neu     Edelmut / Glückspilz
 
-Moves:
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Hitzewelle
@@ -12401,17 +12394,17 @@ Level Up:
 ===================
 469 - Yanmega
 ===================
-Moves:
-Now compatible with TM62, Käfergebrumm.
-Now compatible with TM88, Hurricane. (!!)
-Now compatible with HM02, Fliegen. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm.
+Jetzt kompatibel mit TM88, Orkan. (!!)
+Jetzt kompatibel mit HM02, Fliegen. (!!)
 
 Level Up:
 1 - Nachthieb
 1 - Käfergebiss
 1 - Tackle
 1 - Gesichte
-1 - Ruckzubhieb
+1 - Ruckzuckhieb
 6 - Doppelteam
 9 - Ultraschall
 13 - Schlitzer
@@ -12432,8 +12425,8 @@ Level Up:
 ===================
 470 - Leafeon
 ===================
-Moves:
-Now compatible with HM01, Zerschneider. (!!)
+Attacken:
+Jetzt kompatibel mit HM01, Zerschneider. (!!)
 
 Level Up:
 1 - Sonnentag
@@ -12444,7 +12437,7 @@ Level Up:
 1 - Biss
 1 - Rankenhieb (!!)
 7 - Sandwirbel
-10 - Ruckzubhieb
+10 - Ruckzuckhieb
 13 - Synthese
 16 - Rasierblatt
 19 - Zauberblatt
@@ -12460,13 +12453,13 @@ Level Up:
 ===================
 471 - Glaceon
 ===================
-Base Stats (Complete):
-Old     65 HP / 60 Atk / 110 Def / 130 SAtk / 95 SDef / 65 Spd / 525 BST
-New     65 HP / 60 Atk / 110 Def / 130 SAtk / 65 SDef / 95 Spd / 525 BST
+Base Stats:
+Alt     65 HP / 60 Atk / 110 Def / 130 SAtk / 95 SDef / 65 Spd / 525 BST
+Neu     65 HP / 60 Atk / 110 Def / 130 SAtk / 65 SDef / 95 Spd / 525 BST
 
-Moves:
-Now compatible with TM85, Zauberschein. (!!)
-Now compatible with TM86, Strauchler. (!!)
+Attacken:
+Jetzt kompatibel mit TM85, Zauberschein. (!!)
+Jetzt kompatibel mit TM86, Strauchler. (!!)
 
 Level Up:
 1 - Hagelsturm
@@ -12477,7 +12470,7 @@ Level Up:
 1 - Biss
 1 - Pulverschnee (!!)
 7 - Sandwirbel
-10 - Ruckzubhieb
+10 - Ruckzuckhieb
 13 - Spiegelcape
 16 - Eissturm
 19 - Eissplitter
@@ -12494,12 +12487,12 @@ Level Up:
 471 - Glaceon
 ===================
 Base Stats:
-Old     65 HP / 60 Atk / 110 Def / 130 SAtk / 95 SDef / 65 Spd / 525 BST
-New     65 HP / 60 Atk / 110 Def / 130 SAtk / 65 SDef / 95 Spd / 525 BST
+Alt     65 HP / 60 Atk / 110 Def / 130 SAtk / 95 SDef / 65 Spd / 525 BST
+Neu     65 HP / 60 Atk / 110 Def / 130 SAtk / 65 SDef / 95 Spd / 525 BST
 
-Moves:
-Now compatible with TM85, Zauberschein. (!!)
-Now compatible with TM86, Strauchler. (!!)
+Attacken:
+Jetzt kompatibel mit TM85, Zauberschein. (!!)
+Jetzt kompatibel mit TM86, Strauchler. (!!)
 
 Level Up:
 1 - Hagelsturm
@@ -12510,7 +12503,7 @@ Level Up:
 1 - Biss
 1 - Pulverschnee (!!)
 7 - Sandwirbel
-10 - Ruckzubhieb
+10 - Ruckzuckhieb
 13 - Spiegelcape
 16 - Eissturm
 19 - Eissplitter
@@ -12526,13 +12519,13 @@ Level Up:
 ===================
 472 - Gliscor
 ===================
-Ability:
-Old     Hyper Cutter / Sand Veil
-New     Poison Heal / Hyper Cutter
+Fähigkeit:
+Alt     Scherenmacht / Sandschleier
+Neu     Giftheilung / Scherenmacht
 
-Moves:
-Now compatible with TM62, Käfergebrumm. (!!)
-Now compatible with HM02, Fliegen. (!!)
+Attacken:
+Jetzt kompatibel mit TM62, Käfergebrumm. (!!)
+Jetzt kompatibel mit HM02, Fliegen. (!!)
 
 Level Up:
 1 - Donnerzahn
@@ -12541,7 +12534,7 @@ Level Up:
 1 - Gifthieb
 1 - Sandwirbel
 1 - Härtner
-4 - Ruckzubhieb
+4 - Ruckzuckhieb
 7 - Zornklinge
 10 - Abschlag
 13 - Flügelschlag
@@ -12560,9 +12553,9 @@ Level Up:
 ===================
 473 - Mamoswine
 ===================
-Ability:
-Old     Oblivious / Snow Cloak
-New     Thick Fat / Snow Cloak
+Fähigkeit:
+Alt     Dösigkeit / Schneemantel
+Neu     Speckschicht / Schneemantel
 
 Level Up:
 1 - Furienschlag
@@ -12641,8 +12634,8 @@ Level Up:
 476 - Probopass
 ===================
 Base Stats:
-Old     60 HP / 55 Atk / 145 Def / 75 SAtk / 150 SDef / 40 Spd / 525 BST
-New     60 HP / 45 Atk / 145 Def / 85 SAtk / 150 SDef / 40 Spd / 525 BST
+Alt     60 HP / 55 Atk / 145 Def / 75 SAtk / 150 SDef / 40 Spd / 525 BST
+Neu     60 HP / 45 Atk / 145 Def / 85 SAtk / 150 SDef / 40 Spd / 525 BST
 
 Level Up:
 1 - Triplette
@@ -12670,12 +12663,12 @@ Level Up:
 ===================
 477 - Dusknoir
 ===================
-Ability:
-Old     Pressure / None
-New     Iron Fist / Pressure
+Fähigkeit:
+Alt     Erzwinger / Keine
+Neu     Eisenfaust / Erzwinger
 
-Moves:
-Now compatible with TM60, Ableithieb. (!!)
+Attacken:
+Jetzt kompatibel mit TM60, Ableithieb. (!!)
 
 Level Up:
 1 - Feuerschlag
@@ -12703,13 +12696,13 @@ Level Up:
 ===================
 478 - Froslass
 ===================
-Ability:
-Old     Snow Cloak / None
-New     Levitate / Snow Cloak
+Fähigkeit:
+Alt     Schneemantel / Keine
+Neu     Levitate / Schneemantel
 
 Base Stats:
-Old     70 HP / 80 Atk / 70 Def / 80 SAtk / 70 SDef / 110 Spd / 480 BST
-New     70 HP / 70 Atk / 70 Def / 110 SAtk / 70 SDef / 110 Spd / 500 BST
+Alt     70 HP / 80 Atk / 70 Def / 80 SAtk / 70 SDef / 110 Spd / 480 BST
+Neu     70 HP / 70 Atk / 70 Def / 110 SAtk / 70 SDef / 110 Spd / 500 BST
 
 Level Up:
 1 - Meteorologe
@@ -12736,13 +12729,13 @@ Level Up:
 ===================
 479 - Rotom
 ===================
-Ability (Fan Rotom):
-Old     Levitate / None
-New     Motor Drive / None
+Fähigkeit (Fan Rotom):
+Alt     Levitate / Keine
+Neu     Motor Drive / Keine
 
 Base Stats (Regular Form):
-Old     50 HP / 50 Atk / 77 Def / 95 SAtk / 77 SDef / 91 Spd / 440 BST
-New     50 HP / 50 Atk / 77 Def / 95 SAtk / 77 SDef / 101 Spd / 450 BST
+Alt     50 HP / 50 Atk / 77 Def / 95 SAtk / 77 SDef / 91 Spd / 440 BST
+Neu     50 HP / 50 Atk / 77 Def / 95 SAtk / 77 SDef / 101 Spd / 450 BST
 
 Level Up:
 1 - Trickbetrug
@@ -12842,7 +12835,7 @@ Level Up:
 34 - Eisenschweif
 38 - Aurasphäre
 42 - Erdkräfte
-46 - Blitz Cannon
+46 - Lichtkanone
 50 - Zeitenlärm
 
 ===================
@@ -12867,9 +12860,9 @@ Level Up:
 ===================
 485 - Heatran
 ===================
-Ability:
-Old     Blitz Fire / None
-New     Blitz Fire / Flame Body
+Fähigkeit:
+Alt     Feuerfänger / Keine
+Neu     Feuerfänger / Flammkörper
 
 Level Up:
 1 - Eruption
@@ -12996,8 +12989,8 @@ Level Up:
 1 - Unheilböen
 1 - Aussetzer
 1 - Abschlag
-6 - Ruckzubhieb
-10 - Hynose
+6 - Ruckzuckhieb
+10 - Hypnose
 14 - Finte
 18 - Nachtmahr
 22 - Doppelteam
@@ -13033,7 +13026,7 @@ Level Up (Sky Forme):
 1 - Wachstum
 6 - Zauberblatt
 10 - Egelsamen
-14 - Ruckzubhieb
+14 - Ruckzuckhieb
 18 - Lockduft
 22 - Beerenkräfte
 26 - Sorgensamen
@@ -13047,8 +13040,8 @@ Level Up (Sky Forme):
 ===================
 493 - Arceus
 ===================
-Moves:
-Now compatible with TM88, Hurricane. (!!)
+Attacken:
+Jetzt kompatibel mit TM88, Orkan. (!!)
 
 Level Up:
 1 - Zeitenlärm
@@ -13076,7 +13069,7 @@ Level Up:
 700 - Sylveon
 ===================
 
-Now compatible with TM? Psychokinese
+Jetzt kompatibel mit TM? Psychokinese
 
 Level Up:
 On Level Up - Säuselstimme
@@ -13087,7 +13080,7 @@ On Level Up - Säuselstimme
 1 - Tackle
 1 - Heuler
 7 - Sandwirbel
-10 - Ruckzubhieb
+10 - Ruckzuckhieb
 15 - Kulleraugen
 20 - Lichtschild
 20 - Reflektor
