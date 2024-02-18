@@ -499,14 +499,14 @@ Level Up:
 51 - Zuflucht
 
 ===================
-021 - Spearow
+021 - Habitat
 ===================
 Ability:
-Old     Keen Eye / None
-New     Keen Eye / Sniper
+Old     Adlerauge / None
+New     Adlerauge / Superschütze
 
 Moves:
-Now compatible with TM88, Hurricane. (!!)
+Now compatible with TM88, Orkan. (!!)
 
 Level Up:
 1 - Pikser
@@ -528,18 +528,18 @@ Level Up:
 46 - Sturzflug (!!)
 
 ===================
-022 - Fearow
+022 - Ibitak
 ===================
 Ability:
-Old     Keen Eye / None
-New     Keen Eye / Sniper
+Old     Adlerauge / None
+New     Adlerauge / Superschütze
 
 Base Stats:
 Old     65 HP / 90 Atk / 65 Def / 61 SAtk / 61 SDef / 100 Spd / 442 BST
 New     65 HP / 110 Atk / 65 Def / 61 SAtk / 61 SDef / 100 Spd / 462 BST
 
 Moves:
-Now compatible with TM88, Hurricane. (!!)
+Now compatible with TM88, Orkan. (!!)
 
 Level Up:
 1 - Sturzflug (!!)
@@ -564,7 +564,7 @@ Level Up:
 55 - Sturzflug (!!)
 
 ===================
-023 - Ekans
+023 - Rettan
 ===================
 Level Up:
 1 - Wickel
@@ -619,8 +619,8 @@ Level Up:
 025 - Pikachu
 ===================
 Ability:
-Old     Static / None
-New     Static / Lightning Rod
+Old     Statik / None
+New     Statik / Blitzfänger
 
 Level Up:
 1 - Donnerschock
@@ -645,8 +645,8 @@ Level Up:
 026 - Raichu
 ===================
 Ability:
-Old     Static / None
-New     Static / Lightning Rod
+Old     Statik / None
+New     Statik / Blitzfänger
 
 Base Stats:
 Old     60 HP / 90 Atk / 55 Def / 90 SAtk / 80 SDef / 110 Spd / 485 BST
@@ -666,7 +666,7 @@ Level Up:
 1 - Donnerblitz
 
 ===================
-027 - Sandshrew
+027 - Sandan
 ===================
 Level Up:
 1 - Kratzer
@@ -691,7 +691,7 @@ Level Up:
 45 - Geofissur
 
 ===================
-028 - Sandslash
+028 - Sandamer
 ===================
 Level Up:
 1 - Kratzer
@@ -721,8 +721,8 @@ Level Up:
 ===================
 
 Ability:
-Old	Poison Point / Rivalry
-New	Poison Point / Sheer Force
+Old	Giftdorn / Rivalität
+New	Giftdorn / Rohe Gewalt
 
 Level Up:
 1 - Heuler
@@ -747,8 +747,8 @@ Level Up:
 ===================
 
 Ability:
-Old	Poison Point / Rivalry
-New	Poison Point / Sheer Force
+Old	Giftdorn / Rivalität
+New	Giftdorn / Rohe Gewalt
 
 Level Up:
 1 - Heuler
@@ -774,8 +774,8 @@ Level Up:
 ===================
 
 Ability:
-Old	Poison Point / Rivalry
-New	Poison Point / Sheer Force
+Old	Giftdorn / Rivalität
+New	Giftdorn / Rohe Gewalt
 
 Level Up:
 1 - Kraftkoloss
@@ -795,8 +795,8 @@ Level Up:
 ===================
 
 Ability:
-Old	Poison Point / Rivalry
-New 	Poison Point / Hustle
+Old	Giftdorn / Rivalität
+New 	Giftdorn / Übereifer
 
 Level Up:
 1 - Silberblick
@@ -821,8 +821,8 @@ Level Up:
 ===================
 
 Ability:
-Old	Poison Point / Rivalry
-New 	Poison Point / Hustle
+Old	Giftdorn / Rivalität
+New 	Giftdorn / Übereifer
 
 Level Up:
 1 - Silberblick
@@ -848,8 +848,8 @@ Level Up:
 ===================
 
 Ability:
-Old	Poison Point / Rivalry
-New 	Poison Point / Hustle
+Old	Giftdorn / Rivalität
+New 	Giftdorn / Übereifer
 
 Level Up:
 1 - Vielender
@@ -864,7 +864,7 @@ Level Up:
 55 - Vielender
 
 ===================
-035 - Clefairy
+035 - Piepi
 ===================
 Level Up:
 1 - Klaps
@@ -890,7 +890,7 @@ Level Up:
 39 - Heilopfer
 
 ===================
-036 - Clefable
+036 - Pixi
 ===================
 Level Up:
 1 - Weichei
@@ -905,8 +905,8 @@ Level Up:
 037 - Vulpix
 ===================
 Ability:
-Old     Blitz Fire / None
-New     Drought / Blitz Fire
+Old     Feuerfänger / None
+New     Dürre / Feuerfänger
 
 Moves:
 Now compatible with TM53, Energieball.
