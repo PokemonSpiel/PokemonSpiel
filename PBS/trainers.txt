@@ -165,6 +165,7 @@ Pokemon = VOLTORB,10
 LoseText = Ich muss zugeben, du bist stärker als ich erwartet habe! Nicht schlecht…
 Pokemon = ARON,1
     Moves = ENDEAVOR
+    AbilityIndex = 1
 #-------------------------------
 [COOLTRAINER_F,Isabelle]
 LoseText = schade.
@@ -228,3 +229,272 @@ Pokemon = MUNCHLAX,14
 [FIRSTTIME_CHATTER_M,Chatter,1]
 LoseText = Du wirst schon noch sehen.
 Pokemon = PIDGEY,9
+#-------------------------------
+[HIKER,Erik]
+LoseText = Schade.
+Pokemon = ANORITH,14
+Pokemon = MACHOP,14
+#-------------------------------
+[POKEMANIAC,Johann]
+LoseText = Schade.
+Pokemon = LICKITUNG,15
+Pokemon = ARON,15
+#-------------------------------
+[SCIENTIST,Timo]
+LoseText = Schade.
+Pokemon = WYNAUT,15
+Pokemon = SABLEEYE,16
+#-------------------------------
+[HIKER,Günter]
+LoseText = Schade.
+Pokemon = SHIELDON,16
+Pokemon = PHANPY,16
+Pokemon = MEDITIE,16
+#-------------------------------
+[PICNICKER,Luisa]
+LoseText = Schade.
+Pokemon = NIDORINA,16
+Pokemon = NUZLEAF,17
+#-------------------------------
+[CAMPER,Fabian]
+LoseText = Schade.
+Pokemon = NIDORINO,16
+Pokemon = LOMBRE,17
+#-------------------------------
+[PICNICKER,Gisela]
+LoseText = Schade.
+Pokemon = ODDISH,17
+Pokemon = PIKACHU,17
+Pokemon = TAILLOW,18
+#-------------------------------
+[HIKER,Detlef]
+LoseText = Schade.
+Pokemon = SANDSHREW,18
+Pokemon = BALTOY,18
+#-------------------------------
+[BURGLAR,Hannes]
+LoseText = Schade.
+Pokemon = GROWLITHE,18
+Pokemon = GULPIN,18
+#-------------------------------
+[COOLTRAINER_F,KIM]
+LoseText = Schade.
+Pokemon = AZUMARILL,18
+Pokemon = CLEFAIRY,19
+Pokemon = ROSELIA,19
+Pokemon = KRICKETUNE,20
+#-------------------------------
+[AROMALADY,Nelly]
+LoseText = Schade.
+Pokemon = SHROOMISH,19
+Pokemon = SKIPLOOM,19
+#-------------------------------
+[PAINTER,NAdine]
+LoseText = Schade.
+Pokemon = SMEARGLE,20
+Pokemon = SMEARGLE,20
+Pokemon = SMEARGLE,20
+#-------------------------------
+[YOUNGSTER,Frederik]
+LoseText = Schade.
+Pokemon = MEOWTH,20
+Pokemon = EKANS,20
+#-------------------------------
+[FISHERMAN,Alfred]
+LoseText = Schade.
+Pokemon = MAGIKARP,20
+Pokemon = MAGIKARP,21
+Pokemon = MAGIKARP,22
+Pokemon = MAGIKARP,23
+Pokemon = MAGIKARP,24
+Pokemon = GYARADOS,25
+#-------------------------------
+[SWIMMER_F,Tom]
+LoseText = Schade.
+Pokemon = CARVANHA,26
+Pokemon = STARMIE,26
+#-------------------------------
+[TUBER_M,Tim]
+LoseText = Schade.
+Pokemon = CHINCHOU,26
+Pokemon = WAILMER,27
+#-------------------------------
+[BUGCATCHER,Julius]
+LoseText = Schade.
+Pokemon = BEEDRILL,21
+Pokemon = DUSTOX,21
+Pokemon = BUTTERFREE,21
+Pokemon = CRICKETUNE,21
+#-------------------------------
+[BUGCATCHER,Björn]
+LoseText = Schade.
+Pokemon = VENONAT,21
+Pokemon = ARIADOS,22
+#-------------------------------
+[FIRSTTIME_CHATTER_M,Chatter]
+LoseText = Schade.
+Pokemon = HOUNDOUR,22
+Pokemon = GLIGAR,22
+Pokemon = GOLBAT,22
+#-------------------------------
+[BUGCATCHER,Jasper]
+LoseText = Schade.
+Pokemon = BUTTERFREE,23
+Pokemon = SCYTHER,23
+#-------------------------------
+[BUGCATCHER,Philipp]
+LoseText = Schade.
+Pokemon = PINECO,23
+Pokemon = ILLUMISE,23
+Pokemon = PARASECT,24
+#-------------------------------
+[BUGCATCHER,Clemens]
+LoseText = Schade.
+Pokemon = VOLBEAT,23
+Pokemon = VESPIQUEN,24
+#-------------------------------
+[LASS,Paula]
+LoseText = Schade.
+Pokemon = BUNEARY,24
+Pokemon = GRANBULL,24
+#-------------------------------
+[YOUNGSTER,Jan]
+LoseText = Schade.
+Pokemon = STUNKY,24
+Pokemon = FURRET,24
+Pokemon = VIGOROTH,25
+#-------------------------------
+[CAMPER,Anto]
+LoseText = Schade.
+Pokemon = SANDSLASH,25
+Pokemon = BALTOY,25
+#-------------------------------
+[PICNICKER,Mandy]
+LoseText = Schade.
+Pokemon = HOUNDOOM,25
+Pokemon = ARCANINE,26
+#-------------------------------
+[COOLTRAINER_F,Pia]
+LoseText = Schade.
+Pokemon = DUNSPARCE,25
+Pokemon = FARFETCHD,26
+Pokemon = TANGELA,26
+Pokemon = GIRAFARIG,27
+#-------------------------------
+[AROMALADY,Verena]
+LoseText = Schade.
+Pokemon = FLAAFFY,26
+Pokemon = BELLSPROUT,26
+#-------------------------------
+[CAMPER,Philipp]
+LoseText = Schade.
+Pokemon = GLOOM, 26
+Pokemon = ROSELIA,26
+Pokemon = DONPHAN,27
+#-------------------------------
+[FISHERMAN,Antonio]
+LoseText = Schade.
+Pokemon = MANTINE,26
+Pokemon = LUVDISC,26
+#-------------------------------
+[FISHERMAN,Arne]
+LoseText = Schade.
+Pokemon = OCTILLERY,27
+#-------------------------------
+[JUGGLER,Steven]
+LoseText = Schade.
+Pokemon = PSYDUCK,27
+Pokemon = XATU,27
+Pokemon = HYPNO,27
+#-------------------------------
+[JUGGLER,Michael]
+LoseText = Schade.
+Pokemon = SLOWPOKE,27
+Pokemon = KADABRA,27
+#-------------------------------
+[YOUNGSTER,Kai]
+LoseText = Schade.
+Pokemon = RATICATE,27
+Pokemon = GOLBAT,28
+#-------------------------------
+[BIRDKEEPER,Leonard]
+LoseText = Schade.
+Pokemon = SWABLU,28
+Pokemon = DODUO,28
+Pokemon = HONCHKROW,28
+#-------------------------------
+[TUBER_M,Robin]
+LoseText = Schade.
+Pokemon = AZUMARILL,28
+Pokemon = POLITOED,28
+Pokemon = OCTILLERY,28
+#-------------------------------
+[BUGCATCHER,Jasper]
+LoseText = Schade.
+Pokemon = WORMADAM,29
+    Form = 2
+Pokemon = MOTHIM,29
+#-------------------------------
+[TUBER_M,Moritz]
+LoseText = Schade.
+Pokemon = FINNEON,29
+Pokemon = GYARADOS,30
+#-------------------------------
+[FISHERMAN,Ronald]
+LoseText = Schade.
+Pokemon = WHISCASH,30
+Pokemon = CRAWDAUNT,30
+#-------------------------------
+[TUBER_M,Max]
+LoseText = Schade.
+Pokemon = QUAGSIRE,30
+Pokemon = TENTACRUEL,30
+Pokemon = STARMIE,30
+#-------------------------------
+[LASS,Mia]
+LoseText = Schade.
+Pokemon = SUNFLORA,29
+Pokemon = AMPHAROS,30
+#-------------------------------
+[POKEMONBREEDER,Klaudia]
+LoseText = Schade.
+Pokemon = IGGLYBUFF,30
+Pokemon = CLEFFA,30
+Pokemon = MUNCHLAX,30
+Pokemon = BONSLY,30
+Pokemon = RIOLU,30
+Pokemon = SMOOCHUM,30
+#-------------------------------
+[YOUNGSTER,Alex]
+LoseText = Schade.
+Pokemon = SPINDA,30
+Pokemon = ARBOK,30
+Pokemon = LINOONE,30
+#-------------------------------
+[GAMBLER,Dietmar]
+LoseText = Schade.
+Pokemon = MANECTRIC,31
+Pokemon = ELECTRODE,31
+#-------------------------------
+[CAMPER,Niklas]
+LoseText = Schade.
+Pokemon = DIGLETT,31
+Pokemon = NUMEL,31
+#-------------------------------
+[LASS,ZOE]
+LoseText = Schade.
+Pokemon = MINUN,31
+Pokemon = PLUSLE,31
+#-------------------------------
+[TUBER_M,Marlon]
+LoseText = Schade.
+Pokemon = GOLDEEN,30
+Pokemon = WAILMER,30
+Pokemon = HORSEA,30
+#-------------------------------
+[COOLTRAINER_F,Benjamin]
+LoseText = Schade.
+Pokemon = TRAPINCH,31
+Pokemon = AIPOM,31
+Pokemon = CHANSEY,31
+Pokemon = GLISCOR,31
