@@ -287,38 +287,244 @@ Land,10
 [089] # Route 2
 Land,10
     15,BUDEW,3,5
-    15,NUMEL,3,5
+    15,LOTAD,4,6
     15,SANDSHREW,3,5
     15,SLUGMA,3,5
     15,SPEAROW,3,5
     10,BONSLY,3,5
-    10,TYROGUE,3,5
-    5,MEDITITE,4,6
+    10,SURSKIT,3,5
+    5,TYROGUE,4,6
 #-------------------------------
 [090] # Berg Anfang
 Cave,5
-    25,GEODUDE,4,6
-    5,ONIX,4,7
-    20,ZUBAT,4,6
-    15,MACHOP,4,6
-    15,DIGLETT,4,6
-    10,CUBONE,4,6
-    10,ARON,4,6
+    15,DIGLETT,5,7
+    15,GEODUDE,5,7
+    15,MACHOP,5,7
+    15,ZUBAT,5,7
+    10,ARON,5,7
+    10,CUBONE,5,7
+    10,ONIX,5,7
+    10,WOOPER,5,7
 #-------------------------------
 [091] # Berg oben
 Cave,5
-    20,GEODUDE,4,7
-    15,MEDITITE,5,7
-    15,ZUBAT,4,7
-    20,GASTLY,4,7
-    15,BRONZOR,4,7
-    15,MAKUHITA,4,7
+    15,DIGLETT,5,7
+    15,GEODUDE,5,7
+    15,MACHOP,5,7
+    15,ZUBAT,5,7
+    10,ARON,5,7
+    10,CUBONE,5,7
+    10,ONIX,5,7
+    10,WOOPER,5,7
 #-------------------------------
 [093] # Berg Unten vor stadt
 Cave,5
-    20,GEODUDE,4,7
-    15,MEDITITE,5,7
-    15,ZUBAT,4,7
-    20,GASTLY,4,7
-    15,BRONZOR,4,7
-    15,MAKUHITA,4,7
+    15,DIGLETT,5,7
+    15,GEODUDE,5,7
+    15,MACHOP,5,7
+    15,ZUBAT,5,7
+    10,ARON,5,7
+    10,CUBONE,5,7
+    10,ONIX,5,7
+    10,WOOPER,5,7
+#-------------------------------
+[094] # Route 3
+Land,20
+    20,MAREEP,10,12
+    20,WINGULL,10,12
+    15,EKANS,10,12
+    15,MEOWTH,10,12
+    15,NATU,10,12
+    15,SNUBBULL,10,12
+Water,2
+    60,CHINCHOU,25
+    40,WAILMER,25
+OldRod
+    100,MAGIKARP,5
+SuperRod
+    70,STARYU,25
+    30,CARVANHA,25
+GoodRod
+    50,GYARADOS,35
+    30,LANTURN,35
+    20,WAILORD,35
+#-------------------------------
+[095] # Wald
+Land,20
+    15,SEEDOT,10,13
+    10,CATERPIE,10,13
+    10,KRICKETOT,10,13
+    10,LEDYBA,10,13
+    10,NINCADA,10,13
+    10,SHROOMISH,10,13
+    10,WEEDLE,10,13
+    10,WURMPLE,10,13
+    5,KAKUNA,11,13
+    5,METAPOD,11,13
+    5,SCYTHER,11,13
+#-------------------------------
+[096] # Route 4 zu Stadt 3
+Land,20
+    30,HOPPIP,11,13
+    30,MARILL,11,13
+    15,NIDORANmA,11,13
+    15,SWABLU,11,13
+    10,ABRA,11,13
+Water,2
+    60,TENTACOOL,25
+    40,WAILMER,25
+OldRod
+    100,MAGIKARP,5
+SuperRod
+    70,HORSEA,25
+    30,CLAMPERL,25
+GoodRod
+    50,GYARADOS,35
+    30,HUNTAIL,35
+    20,SEADRA,35
+#-------------------------------
+[097] # Stadt 3
+Water,2
+    60,TENTACOOL,25
+    40,WAILMER,25
+OldRod
+    100,MAGIKARP,5
+SuperRod
+    70,HORSEA,25
+    30,CLAMPERL,25
+GoodRod
+    50,GYARADOS,35
+    30,GOREBYSS,35
+    20,SEADRA,35
+#-------------------------------
+[098] # Route 6 rechts neben Stadt 3
+Land,20
+    25,SUNKERN,12,14
+    25,SHINX,12,14
+    20,BUNEARY,12,14
+    10,FARFETCHD,13,14
+    20,HOOTHOOT,12,14
+Water,2
+    60,FINNEON,25
+    40,CARVANHA,25
+OldRod
+    100,MAGIKARP,5
+SuperRod
+    70,MANTYKE,25
+    30,LUVDISC,25
+GoodRod
+    50,GYARADOS,35
+    30,MANTINE,35
+    20,LUVDISC,35
+#-------------------------------
+[100] # Route 7 rechts neben Stadt 4
+Land,20
+    20,PHANPY,15,17
+    15,ELECTRIKE,15,17
+    15,CACNEA,15,17
+    20,SPEAROW,15,17
+    15,CHERUBI,15,17
+    15,ODDISH,15,17
+Water,2
+    60,HORSEA,25
+    40,CARVANHA,25
+OldRod
+    100,MAGIKARP,5
+SuperRod
+    70,BARBOACH,25
+    30,CORPHISH,25
+GoodRod
+    50,GYARADOS,35
+    30,WHISCASH,35
+    20,CRAWDAUNT,35
+#-------------------------------
+[101] # Route 8 links neben Stadt 4
+Land,20
+    10,GIRAFARIG,15,18
+    10,MACHOP,15,18
+    10,WYNAUT,15,18
+    15,PARAS,15,18
+    10,AIPOM,15,18
+    10,SPINDA,15,18
+    10,GLAMEOW,15,18
+    15,PIDGEY,15,18
+    10,NOCTOWL,15,18
+Water,2
+    60,SHELLOS,25
+    40,MARILL,25
+OldRod
+    100,MAGIKARP,5
+SuperRod
+    70,WAILMER,25
+    30,SHELLDER,25
+GoodRod
+    50,GYARADOS,35
+    30,WAILORD,35
+    20,CLOYSTER,35
+#-------------------------------
+[138] # Berg nach Stadt 1
+Cave,5
+    15,BULBASAUR,9,11
+    15,GASTLY,9,11
+    15,MAGNEMITE,9,11
+    15,MAKUHITA,9,11
+    15,NOSEPASS,9,11
+    10,BRONZOR,10,11
+    10,MEDITITE,9,11
+    5,BELDUM,10,12
+Water,2
+    60,TENTACOOL,25
+    40,REMORAID,25
+OldRod
+    100,MAGIKARP,5
+SuperRod
+    80,HORSEA,25
+    20,FEEBAS,25
+GoodRod
+    50,GYARADOS,35
+    30,TENTACRUEL,35
+    20,OCTILLERY,35
+#-------------------------------
+[139] # berg nach stadt 2 teil 2
+Cave,5
+    15,BULBASAUR,9,11
+    15,GASTLY,9,11
+    15,MAGNEMITE,9,11
+    15,MAKUHITA,9,11
+    15,NOSEPASS,9,11
+    10,BRONZOR,10,11
+    10,MEDITITE,9,11
+    5,BELDUM,10,12
+Water,2
+    60,TENTACOOL,25
+    40,REMORAID,25
+OldRod
+    100,MAGIKARP,5
+SuperRod
+    80,HORSEA,25
+    20,FEEBAS,25
+GoodRod
+    50,GYARADOS,35
+    30,TENTACRUEL,35
+    20,OCTILLERY,35
+#-------------------------------
+[142] # Route 5 zu Stadt 4
+Land,20
+    20,MAREEP,13,16
+    15,VOLBEAT,13,16
+    15,ILLUMISE,13,16
+    15,NIDORANmA,13,16
+    20,BUNEARY,13,16
+    15,TEDDIURSA,13,16
+Water,2
+    60,BARBOACH,25
+    40,CHINCHOU,25
+OldRod
+    100,MAGIKARP,5
+SuperRod
+    70,SHELLOS,25
+    30,SHELLDER,25
+GoodRod
+    50,GYARADOS,35
+    30,GASTRODON,35
+    20,CLOYSTER,35

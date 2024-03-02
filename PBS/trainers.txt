@@ -162,7 +162,7 @@ Pokemon = SLOWPOKE,9
 Pokemon = VOLTORB,10
 #-------------------------------
 [BLACKBELT,David]
-LoseText = schade.
+LoseText = Ich muss zugeben, du bist stärker als ich erwartet habe! Nicht schlecht…
 Pokemon = ARON,1
     Moves = ENDEAVOR
 #-------------------------------
@@ -194,12 +194,12 @@ Pokemon = SMOOCHUM,11
 Pokemon = EEVEE,11
 #-------------------------------
 [YOUNGSTER,Tobi]
-LoseText = Lol
+LoseText = Mist…ich habe sowieso noch Probleme mit OBS…
 Pokemon = BONSLY,12
 Pokemon = CHINGLING,12
 #-------------------------------
 [LASS,Marla]
-LoseText = Lol
+LoseText = Du hast irgendwelche Tricks benutzt! d-das kann nicht sein!
 Pokemon = PICHU,12
 Pokemon = MIMEJR,12
 #-------------------------------
