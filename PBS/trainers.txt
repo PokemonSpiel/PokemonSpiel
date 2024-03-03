@@ -499,6 +499,21 @@ Pokemon = AIPOM,31
 Pokemon = CHANSEY,31
 Pokemon = GLISCOR,31
 #-------------------------------
+[YOUNGSTER,Leon]
+LoseText = Schade.
+Pokemon = LICKITUNG,31
+Pokemon = MILTANK,31
+#-------------------------------
+[LASS,Denise]
+LoseText = Schade.
+Pokemon = WIGGLYTUFF,31
+Pokemon = CHANSEY,31
+#-------------------------------
+[YOUNGSTER,Ole]
+LoseText = Schade.
+Pokemon = STARAVIA,31
+Pokemon = KANGASKHAN,31
+#-------------------------------
 [LEADER_Faister,Faister]
 LoseText = Schade.
 Pokemon = PERSIAN,31
