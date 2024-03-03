@@ -243,13 +243,13 @@ Pokemon = ARON,15
 [SCIENTIST,Timo]
 LoseText = Schade.
 Pokemon = WYNAUT,15
-Pokemon = SABLEEYE,16
+Pokemon = SABLEYE,16
 #-------------------------------
 [HIKER,Günter]
 LoseText = Schade.
 Pokemon = SHIELDON,16
 Pokemon = PHANPY,16
-Pokemon = MEDITIE,16
+Pokemon = MEDITITE,16
 #-------------------------------
 [PICNICKER,Luisa]
 LoseText = Schade.
@@ -309,7 +309,7 @@ Pokemon = MAGIKARP,23
 Pokemon = MAGIKARP,24
 Pokemon = GYARADOS,25
 #-------------------------------
-[SWIMMER_F,Tom]
+[SWIMMER_M,Tom]
 LoseText = Schade.
 Pokemon = CARVANHA,26
 Pokemon = STARMIE,26
@@ -324,14 +324,14 @@ LoseText = Schade.
 Pokemon = BEEDRILL,21
 Pokemon = DUSTOX,21
 Pokemon = BUTTERFREE,21
-Pokemon = CRICKETUNE,21
+Pokemon = KRICKETUNE,21
 #-------------------------------
 [BUGCATCHER,Björn]
 LoseText = Schade.
 Pokemon = VENONAT,21
 Pokemon = ARIADOS,22
 #-------------------------------
-[FIRSTTIME_CHATTER_M,Chatter]
+[FIRSTTIME_CHATTER_M,Chatter,2]
 LoseText = Schade.
 Pokemon = HOUNDOUR,22
 Pokemon = GLIGAR,22
@@ -478,8 +478,8 @@ Pokemon = ELECTRODE,31
 #-------------------------------
 [CAMPER,Niklas]
 LoseText = Schade.
-Pokemon = DIGLETT,31
 Pokemon = NUMEL,31
+Pokemon = DUGTRIO,31
 #-------------------------------
 [LASS,ZOE]
 LoseText = Schade.
