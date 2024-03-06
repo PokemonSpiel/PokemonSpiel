@@ -330,12 +330,12 @@ Cave,5
 #-------------------------------
 [094] # Route 3
 Land,20
-    20,MAREEP,10,12
-    20,WINGULL,10,12
-    15,EKANS,10,12
-    15,MEOWTH,10,12
-    15,NATU,10,12
-    15,SNUBBULL,10,12
+    20,MAREEP,14,17
+    20,WINGULL,14,17
+    15,EKANS,14,17
+    15,MEOWTH,14,17
+    15,NATU,14,17
+    15,SNUBBULL,14,17
 Water,2
     60,CHINCHOU,25
     40,WAILMER,25
@@ -351,25 +351,25 @@ GoodRod
 #-------------------------------
 [095] # Wald
 Land,20
-    15,SEEDOT,10,13
-    10,CATERPIE,10,13
-    10,KRICKETOT,10,13
-    10,LEDYBA,10,13
-    10,NINCADA,10,13
-    10,SHROOMISH,10,13
-    10,WEEDLE,10,13
-    10,WURMPLE,10,13
-    5,KAKUNA,11,13
-    5,METAPOD,11,13
-    5,SCYTHER,11,13
+    15,SEEDOT,17,21
+    5,BUTTERFREE,17,21
+    10,KRICKETOT,17,21
+    10,LEDYBA,17,21
+    10,NINCADA,17,21
+    10,SHROOMISH,17,21
+    5,BEEDRILL,17,21
+    10,WURMPLE,17,21
+    10,KAKUNA,17,21
+    10,METAPOD,17,21
+    5,SCYTHER,17,21
 #-------------------------------
 [096] # Route 4 zu Stadt 3
 Land,20
-    30,HOPPIP,11,13
-    30,MARILL,11,13
-    15,NIDORANmA,11,13
-    15,SWABLU,11,13
-    10,ABRA,11,13
+    30,SKIPLOOM,21,24
+    30,AZUMARILL,21,24
+    15,NIDORINO,21,24
+    15,SWABLU,21,24
+    10,KADABRA,21,24
 Water,2
     60,TENTACOOL,25
     40,WAILMER,25
@@ -399,11 +399,11 @@ GoodRod
 #-------------------------------
 [098] # Route 6 rechts neben Stadt 3
 Land,20
-    25,SUNKERN,12,14
-    25,SHINX,12,14
-    20,BUNEARY,12,14
-    10,FARFETCHD,13,14
-    20,HOOTHOOT,12,14
+    25,SUNKERN,24,26
+    25,LUXIO,24,26
+    20,BUNEARY,24,26
+    10,FARFETCHD,24,26
+    20,NOCTOWL,24,26
 Water,2
     60,FINNEON,25
     40,CARVANHA,25
@@ -419,12 +419,15 @@ GoodRod
 #-------------------------------
 [100] # Route 7 rechts neben Stadt 4
 Land,20
-    20,PHANPY,15,17
-    15,ELECTRIKE,15,17
-    15,CACNEA,15,17
-    20,SPEAROW,15,17
-    15,CHERUBI,15,17
-    15,ODDISH,15,17
+    15,PHANPY,24,27
+    5,DONPHAN,25,27
+    10,ELECTRIKE,24,27
+    5,MANECTRIC,26,27
+    15,CACNEA,24,27
+    20,FEAROW,24,27
+    10,CHERUBI,24,27
+    5,CHERRIM,24,27
+    15,GLOOM,24,27
 Water,2
     60,HORSEA,25
     40,CARVANHA,25
@@ -440,15 +443,16 @@ GoodRod
 #-------------------------------
 [101] # Route 8 links neben Stadt 4
 Land,20
-    10,GIRAFARIG,15,18
-    10,MACHOP,15,18
-    10,WYNAUT,15,18
-    15,PARAS,15,18
-    10,AIPOM,15,18
-    10,SPINDA,15,18
-    10,GLAMEOW,15,18
-    15,PIDGEY,15,18
-    10,NOCTOWL,15,18
+    10,GIRAFARIG,27,30
+    10,MACHOP,27,30
+    5,MACHOKE,28,30
+    10,WYNAUT,27,30
+    15,PARASECT,27,30
+    10,AIPOM,27,30
+    10,SPINDA,27,30
+    10,GLAMEOW,27,30
+    10,PIDGEOTTO,27,30
+    10,NOCTOWL,27,30
 Water,2
     60,SHELLOS,25
     40,MARILL,25
@@ -464,7 +468,7 @@ GoodRod
 #-------------------------------
 [138] # Berg nach Stadt 1
 Cave,5
-    15,BULBASAUR,9,11
+    15,CHIMECHO,9,11
     15,GASTLY,9,11
     15,MAGNEMITE,9,11
     15,MAKUHITA,9,11
@@ -487,14 +491,14 @@ GoodRod
 #-------------------------------
 [139] # berg nach stadt 2 teil 2
 Cave,5
-    15,BULBASAUR,10,12
-    15,GASTLY,10,12
-    15,MAGNEMITE,10,12
-    15,MAKUHITA,10,12
-    15,NOSEPASS,10,12
-    10,BRONZOR,10,12
-    10,MEDITITE,10,12
-    5,BELDUM,11,13
+    15,CHIMECHO,10,14
+    15,GASTLY,10,14
+    15,MAGNEMITE,10,14
+    15,MAKUHITA,10,14
+    15,NOSEPASS,10,14
+    10,BRONZOR,10,14
+    10,MEDITITE,10,14
+    5,BELDUM,11,14
 Water,2
     60,TENTACOOL,25
     40,REMORAID,25
@@ -510,12 +514,12 @@ GoodRod
 #-------------------------------
 [142] # Route 5 zu Stadt 4
 Land,20
-    20,MAREEP,13,16
-    15,VOLBEAT,13,16
-    15,ILLUMISE,13,16
-    15,NIDORANmA,13,16
-    20,BUNEARY,13,16
-    15,TEDDIURSA,13,16
+    20,FLAAFFY,24,27
+    15,VOLBEAT,24,27
+    15,ILLUMISE,24,27
+    15,NIDORINA,24,27
+    20,BUNEARY,24,27
+    15,TEDDIURSA,24,27
 Water,2
     60,BARBOACH,25
     40,CHINCHOU,25
