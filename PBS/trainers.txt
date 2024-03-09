@@ -165,14 +165,21 @@ Pokemon = VOLTORB,10
 LoseText = Ich muss zugeben, du bist stärker als ich erwartet habe! Nicht schlecht…
 Pokemon = ARON,1
     Moves = ENDEAVOR
-    AbilityIndex = 1
+    Ability = STURDY
 #-------------------------------
 [COOLTRAINER_F,Isabelle]
 LoseText = schade.
 Pokemon = PIKACHU,10
+    Moves = THUNDERSHOCK,QUICKATTACK,THUNDERWAVE,DOUBLEKICK
+    Ability = STATIC
 Pokemon = BUTTERFREE,11
+    Moves = CONFUSION, GUST,SLEEPPOWDER,BUGBITE
 Pokemon = MANKEY,10 
+    Moves = COVET,KARATECHOP,FURYSWIPES,LOWKICK
+    Ability = ANGERPOINT
 Pokemon = CARVANHA,11
+    Moves = AQUAJET,BITE,RAGE,FOCUSENERGY
+    Ability = ROUGHSKIN
 #-------------------------------
 [TWINS,Aline & Alina]
 LoseText = Our teamwork failed!
@@ -280,9 +287,17 @@ Pokemon = GULPIN,18
 [COOLTRAINER_F,KIM]
 LoseText = Schade.
 Pokemon = AZUMARILL,18
+    Moves = ROLLOUT,AQUAJET,BUBBLEBEAM,BODYSLAM
+    Ability = HUGEPOWER
 Pokemon = CLEFAIRY,19
+    Moves = BODYSLAM,WAKEUPSLAP,DRAININGKISS,SING
+    Ability = MAGICGUARD
 Pokemon = ROSELIA,19
+    Moves = MAGICALLEAF,LEECHSEED,GRASSWHISTLE,MEGADRAIN
+    Ability = POISONPOINT
 Pokemon = KRICKETUNE,20
+    Moves = BUGBITE,LEECHLIFE,PERISHSONG,FRUSTRATION
+    Ability = TECHNICIAN
 #-------------------------------
 [AROMALADY,Nelly]
 LoseText = Schade.
@@ -334,8 +349,13 @@ Pokemon = ARIADOS,22
 [FIRSTTIME_CHATTER_M,Chatter,2]
 LoseText = Schade.
 Pokemon = HOUNDOUR,22
+    Moves = BITE,FIREFANG,THUNDERFANG,ROAR
+    Ability = INTIMIDATE
 Pokemon = GLIGAR,22
+    Moves = BULLDOZE,WINGATTACK,FEINTATTACK,SLASH
+    Ability = HYPERCUTTER
 Pokemon = GOLBAT,22
+    Moves = CRUNCH,AIRCUTTER,CONFUSERAY,WINGATTACK
 #-------------------------------
 [BUGCATCHER,Jasper]
 LoseText = Schade.
@@ -377,9 +397,18 @@ Pokemon = ARCANINE,26
 [COOLTRAINER_F,Pia]
 LoseText = Schade.
 Pokemon = DUNSPARCE,25
+    Moves = SCREECH,BODYSLAM,DRILLRUN,ANCIENTPOWER
+    Ability = SERENEGRACE
 Pokemon = FARFETCHD,26
+    Moves = AIRCUTTER,SLASH,NIGHTSLASH,SWORDSDANCE
+    Ability = SUPERLUCK
 Pokemon = TANGELA,26
+    Moves = GIGADRAIN,KNOCKOFF,MEGADRAIN,NATURALGIFT
+    Ability = CHLOROPHYLL
+    Item = COBABERRY
 Pokemon = GIRAFARIG,27
+    Moves = PSYBEAM,DOUBLEHIT,ZENHEADBUTT,STOMP
+    Ability = INNERFOCUS
 #-------------------------------
 [AROMALADY,Verena]
 LoseText = Schade.
@@ -495,9 +524,17 @@ Pokemon = HORSEA,30
 [COOLTRAINER_F,Benjamin]
 LoseText = Schade.
 Pokemon = TRAPINCH,31
+    Moves = BULLDOZE,CRUNCH,SIGNALBEAM,EARTHPOWER
+    Ability = ARENATRAP
 Pokemon = AIPOM,31
+    Moves = SCREECH,COVET,FURYSWIPES,AERIALACE
+    Ability = SKILLLINK
 Pokemon = CHANSEY,31
+    Moves = COUNTER,SEISMICTOSS,SING,MINIMIZE
+    Ability = SERENEGRACE
 Pokemon = GLISCOR,31
+    Moves = NIGHTSLASH,CROSSPOISON,UTURN,WINGATTACK
+    Ability = HYPERCUTTER
 #-------------------------------
 [YOUNGSTER,Leon]
 LoseText = Schade.
