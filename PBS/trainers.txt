@@ -546,7 +546,7 @@ LoseText = Schade.
 Pokemon = WIGGLYTUFF,31
 Pokemon = CHANSEY,31
 #-------------------------------
-[YOUNGSTER,Ole]
+[YOUNGSTER,Simon]
 LoseText = Schade.
 Pokemon = STARAVIA,31
 Pokemon = KANGASKHAN,31
