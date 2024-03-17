@@ -58,20 +58,8 @@
 105,South,10,104,North,0
 # Route 11 über stadt 6 (106) - Stadt 6 (105)
 106,South,0,105,North,8
-# Route 15 (113) - Route 16 (114)
-113,South,29,114,North,0
-# Stadt 9 (117) - Route 16 (114)
-117,North,1,114,South,0
-# Route 6 rechts neben Stadt 3 (98) - Route 15 (113)
-98,East,0,113,West,7
-# Stadt 3 (97) - Route 6 rechts neben Stadt 3 (98)
-97,East,10,98,West,0
-# Route 3 (94) - Stadt 3 (97)
-94,East,0,97,West,78
-# Route 4 zu Stadt 3 (96) - Stadt 3 (97)
-96,East,1,97,West,0
-# wasser (161) - Stadt 3 (97)
-161,North,0,97,South,0
+# Stadt 3 (97) - Route 3 (94)
+97,West,78,94,East,0
 # Route 4 zu Stadt 3 (96) - Route 3 (94)
 96,South,1,94,North,0
 # wasser (161) - Route 3 (94)
@@ -80,7 +68,19 @@
 162,North,0,94,South,0
 # Route 5 zu Stadt 4 (142) - Route 3 (94)
 142,East,0,94,West,27
+# Route 4 zu Stadt 3 (96) - Stadt 3 (97)
+96,East,1,97,West,0
+# wasser (161) - Stadt 3 (97)
+161,North,0,97,South,0
+# Route 6 rechts neben Stadt 3 (98) - Stadt 3 (97)
+98,West,0,97,East,10
 # wasser (161) - Route 4 zu Stadt 3 (96)
 161,West,0,96,East,57
 # Route 5 zu Stadt 4 (142) - wasser2 (162)
 142,East,35,162,West,0
+# Route 15 (113) - Route 6 rechts neben Stadt 3 (98)
+113,West,7,98,East,0
+# Route 16 (114) - Route 15 (113)
+114,North,0,113,South,29
+# Stadt 9 (117) - Route 16 (114)
+117,North,0,114,South,0
