@@ -148,7 +148,7 @@ Pokemon = LILEEP,8
 [CAMPER,Cedric]
 LoseText = Ich bleib wohl doch beim Campen…
 Pokemon = SHROOMISH,7
-Pokemon = MAGBY,8	 	
+Pokemon = MAGBY,8
 #-------------------------------
 [HIKER,Markus]
 LoseText = Ich habe dich unterschätzt!
@@ -173,8 +173,8 @@ Pokemon = PIKACHU,10
     Moves = THUNDERSHOCK,QUICKATTACK,THUNDERWAVE,DOUBLEKICK
     Ability = STATIC
 Pokemon = BUTTERFREE,11
-    Moves = CONFUSION, GUST,SLEEPPOWDER,BUGBITE
-Pokemon = MANKEY,10 
+    Moves = CONFUSION,GUST,SLEEPPOWDER,BUGBITE
+Pokemon = MANKEY,10
     Moves = COVET,KARATECHOP,FURYSWIPES,LOWKICK
     Ability = ANGERPOINT
 Pokemon = CARVANHA,11
@@ -359,8 +359,9 @@ Pokemon = GOLBAT,22
 #-------------------------------
 [BUGCATCHER,Jasper]
 LoseText = Schade.
-Pokemon = BUTTERFREE,23
-Pokemon = SCYTHER,23
+Pokemon = WORMADAM,29
+    Form = 2
+Pokemon = MOTHIM,29
 #-------------------------------
 [BUGCATCHER,Philipp]
 LoseText = Schade.
@@ -417,7 +418,7 @@ Pokemon = BELLSPROUT,26
 #-------------------------------
 [CAMPER,Philipp]
 LoseText = Schade.
-Pokemon = GLOOM, 26
+Pokemon = GLOOM,26
 Pokemon = ROSELIA,26
 Pokemon = DONPHAN,27
 #-------------------------------
@@ -457,12 +458,6 @@ LoseText = Schade.
 Pokemon = AZUMARILL,28
 Pokemon = POLITOED,28
 Pokemon = OCTILLERY,28
-#-------------------------------
-[BUGCATCHER,Jasper]
-LoseText = Schade.
-Pokemon = WORMADAM,29
-    Form = 2
-Pokemon = MOTHIM,29
 #-------------------------------
 [TUBER_M,Moritz]
 LoseText = Schade.
@@ -554,19 +549,49 @@ Pokemon = KANGASKHAN,31
 [LEADER_Faister,Faister]
 LoseText = Schade.
 Pokemon = PERSIAN,31
-	Moves = FAKEOUT,THUNDERWAVE,ASSURANCE,FURYSWIPES
-	Ability = TECHNICIAN
+    Moves = FAKEOUT,THUNDERWAVE,ASSURANCE,FURYSWIPES
+    Ability = TECHNICIAN
 Pokemon = LOPUNNY,31
-	Moves = WORKUP,RETURN,BLAZEKICK,CLOSECOMBAT
-	Ability = SCRAPPY
+    Moves = WORKUP,RETURN,BLAZEKICK,CLOSECOMBAT
+    Ability = SCRAPPY
 Pokemon = PORYGON2,31
-	Moves = TRIATTACK,ICEBEAM,THUNDERBOLT,SIGNALBEAM
-	Ability = TRACE
+    Moves = TRIATTACK,ICEBEAM,THUNDERBOLT,SIGNALBEAM
+    Ability = TRACE
 Pokemon = SNORLAX,31
-	Moves = CURSE,REST,BODYPRESS,HIGHHORSEPOWER
-	Ability = THICKFAT
-	Item = CHESTOBERRY
+    Moves = CURSE,REST,BODYPRESS,HIGHHORSEPOWER
+    Ability = THICKFAT
+    Item = CHESTOBERRY
 Pokemon = BIBAREL,31
-	Moves = CRUNCH,AQUATAIL,TAKEDOWN,AQUAJET
-	Ability = UNAWARE
-	Item = ASSAULTVEST
+    Moves = CRUNCH,AQUATAIL,TAKEDOWN,AQUAJET
+    Ability = UNAWARE
+    Item = ASSAULTVEST
+#-------------------------------
+[COOLTRAINER_F,Kim]
+LoseText = Schade.
+Pokemon = AZUMARILL,18
+    Moves = ROLLOUT,AQUAJET,BUBBLEBEAM,BODYSLAM
+    Ability = HUGEPOWER
+Pokemon = CLEFAIRY,19
+    Moves = BODYSLAM,WAKEUPSLAP,DRAININGKISS,SING
+    Ability = MAGICGUARD
+Pokemon = ROSELIA,19
+    Moves = MAGICALLEAF,LEECHSEED,GRASSWHISTLE,MEGADRAIN
+    Ability = POISONPOINT
+Pokemon = KRICKETUNE,20
+    Moves = BUGBITE,LEECHLIFE,PERISHSONG,FRUSTRATION
+    Ability = TECHNICIAN
+#-------------------------------
+[COOLTRAINER_M,Benjamin]
+LoseText = Schade.
+Pokemon = TRAPINCH,31
+    Moves = BULLDOZE,CRUNCH,SIGNALBEAM,EARTHPOWER
+    Ability = ARENATRAP
+Pokemon = AIPOM,31
+    Moves = SCREECH,COVET,FURYSWIPES,AERIALACE
+    Ability = SKILLLINK
+Pokemon = CHANSEY,31
+    Moves = COUNTER,SEISMICTOSS,SING,MINIMIZE
+    Ability = SERENEGRACE
+Pokemon = GLISCOR,31
+    Moves = NIGHTSLASH,CROSSPOISON,UTURN,WINGATTACK
+    Ability = HYPERCUTTER
