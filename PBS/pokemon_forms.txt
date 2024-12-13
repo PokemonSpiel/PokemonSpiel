@@ -129,7 +129,7 @@ Color = White
 Pokedex = The skin on its back is as hard as steel. Predators go after its soft belly, so it clings to the ground desperately.
 Generation = 7
 Flags = InheritFormWithEverStone
-Evolutions = SANDSLASH,Item,ICESTONE
+Evolutions = SANDSLASH,Level,99
 #-------------------------------
 [SANDSLASH,1]
 FormName = Alolan
@@ -159,7 +159,7 @@ Pokedex = In hot weather, this Pokémon makes ice shards with its six tails and 
 Generation = 7
 Flags = InheritFormWithEverStone
 WildItemUncommon = SNOWBALL
-Evolutions = NINETALES,Item,ICESTONE
+Evolutions = NINETALES,Level,99
 #-------------------------------
 [NINETALES,1]
 FormName = Alolan
@@ -214,7 +214,7 @@ Color = Blue
 Pokedex = It's impulsive, selfish, and fickle. It's very popular with some Trainers who like giving it the attention it needs.
 Generation = 7
 Flags = InheritFormWithEverStone
-Evolutions = PERSIAN,Happiness,
+Evolutions = PERSIAN,Level,99
 #-------------------------------
 [MEOWTH,2]
 FormName = Galarian
@@ -230,7 +230,7 @@ Shape = BipedalTail
 Pokedex = Living with a savage, seafaring people has toughened this Pokémon's body so much that parts of it have turned to iron.
 Generation = 8
 Flags = InheritFormWithEverStone
-Evolutions = PERRSERKER,Level,28
+Evolutions = PERRSERKER,Level,99
 #-------------------------------
 [PERSIAN,1]
 FormName = Alolan
@@ -292,7 +292,7 @@ FormName = Alolan
 Types = ROCK,ELECTRIC
 Abilities = MAGNETPULL,STURDY
 HiddenAbilities = GALVANIZE
-Moves = 1,HEAVYSLAM,1,TACKLE,1,DEFENSECURL,1,CHARGE,1,ROCKPOLISH,4,CHARGE,6,ROCKPOLISH,10,STEAMROLLER,12,SPARK,16,ROCKTHROW,18,SMACKDOWN,22,THUNDERPUNCH,24,SELFDESTRUCT,30,STEALTHROCK,34,ROCKBLAST,40,DISCHARGE,44,EXPLOSION,50,DOUBLEEDGE,54,STONEEDGE,60,HEAVYSLAM
+Moves =1,HEAVYSLAM,1,TACKLE,1,DEFENSECURL,1,CHARGE,1,ROCKPOLISH,4,CHARGE,6,ROCKPOLISH,10,STEAMROLLER,12,SPARK,16,ROCKTHROW,18,SMACKDOWN,22,THUNDERPUNCH,24,SELFDESTRUCT,30,STEALTHROCK,34,ROCKBLAST,40,DISCHARGE,44,EXPLOSION,50,DOUBLEEDGE,54,STONEEDGE,60,HEAVYSLAM
 TutorMoves = ALLYSWITCH,ATTRACT,BLOCK,BRICKBREAK,BRUTALSWING,BULLDOZE,CHARGEBEAM,CONFIDE,DOUBLETEAM,EARTHPOWER,EARTHQUAKE,ECHOEDVOICE,ELECTROWEB,EXPLOSION,FACADE,FIREBLAST,FIREPUNCH,FLAMETHROWER,FLING,FOCUSBLAST,FOCUSPUNCH,FRUSTRATION,GIGAIMPACT,GYROBALL,HIDDENPOWER,HYPERBEAM,IRONDEFENSE,IRONHEAD,MAGNETRISE,NATUREPOWER,PROTECT,REST,RETURN,ROAR,ROCKPOLISH,ROCKSLIDE,ROCKTOMB,ROUND,SANDSTORM,SHOCKWAVE,SLEEPTALK,SMACKDOWN,SNORE,STEALTHROCK,STOMPINGTANTRUM,STONEEDGE,SUBSTITUTE,SUNNYDAY,SUPERPOWER,SWAGGER,THUNDER,THUNDERBOLT,THUNDERPUNCH,TOXIC,VOLTSWITCH,WILDCHARGE
 Height = 1.7
 Weight = 316.0
@@ -437,7 +437,7 @@ Generation = 7
 #-------------------------------
 [CUBONE,1]
 Generation = 7
-Evolutions = MAROWAK,LevelNight,28
+Evolutions = MAROWAK,LevelNight,99
 #-------------------------------
 [MAROWAK,1]
 FormName = Alolan
@@ -491,7 +491,7 @@ Category = Dancing
 Pokedex = Its talent is tap-dancing. It can also manipulate temperatures to create a floor of ice, which this Pokémon can kick up to use as a barrier.
 Generation = 8
 Flags = InheritFormWithEverStone
-Evolutions = MRRIME,Level,42
+Evolutions = MRRIME,Level,99
 #-------------------------------
 [PINSIR,1]
 FormName = Mega Pinsir
@@ -761,7 +761,7 @@ Color = White
 Pokedex = Sudden climate change wiped out this ancient kind of Corsola. This Pokémon absorbs others' life-force through its branches.
 Generation = 8
 Flags = InheritFormWithEverStone
-Evolutions = CURSOLA,Level,38
+Evolutions = CURSOLA,Level,99
 #-------------------------------
 [HOUNDOOM,1]
 FormName = Mega Houndoom
@@ -836,7 +836,7 @@ TutorMoves = ASSURANCE,ATTRACT,BLIZZARD,BODYPRESS,BODYSLAM,DIG,ENDURE,FACADE,FAK
 Pokedex = It uses its long tongue to taunt opponents. Once the opposition is enraged, this Pokémon hurls itself at the opponent, tackling them forcefully.
 Generation = 8
 Flags = InheritFormWithEverStone
-Evolutions = OBSTAGOON,LevelNight,35
+Evolutions = OBSTAGOON,LevelNight,99
 #-------------------------------
 [GARDEVOIR,1]
 FormName = Mega Gardevoir
@@ -936,22 +936,22 @@ Height = 1.5
 Generation = 6
 #-------------------------------
 [CASTFORM,1]
-FormName = Sunny Form
+FormName = Sonnenform
 Types = FIRE
 Color = Red
-Pokedex = This is the form Castform takes on the brightest of days. Its skin is unexpectedly hot to the touch, so approach with care.
+Pokedex = Diese Gestalt nimmt Formeo an sonnigen Tagen an. Versuche, diesen Wandel künstlich mit einem Heizstrahler herbeizuführen, schlugen fehl.
 #-------------------------------
 [CASTFORM,2]
-FormName = Rainy Form
+FormName = Regenform
 Types = WATER
 Color = Blue
-Pokedex = This is the form Castform takes when soaked with rain. When its body is compressed, water will seep out as if from a sponge.
+Pokedex = Diese Gestalt nimmt Formeo an, wenn Regen auf es niederprasselt. Sein Körper ist dann weich und hat etwas Wasser aufgesogen.
 #-------------------------------
 [CASTFORM,3]
-FormName = Snowy Form
+FormName = Schneeform
 Types = ICE
 Color = White
-Pokedex = This is the form Castform takes when covered in snow. Its body becomes an ice-like material, with a temperature near -5 degrees Celsius.
+Pokedex = Diese Gestalt nimmt Formeo an, wenn es hagelt. Versuche, diesen Wandel künstlich mithilfe einer Gefriertruhe herbeizuführen, schlugen fehl.
 #-------------------------------
 [BANETTE,1]
 FormName = Mega Banette
@@ -1085,15 +1085,15 @@ Moves = 1,LEER,1,WRAP,6,NIGHTSHADE,10,DOUBLETEAM,14,KNOCKOFF,18,PURSUIT,22,PSYCH
 TutorMoves = AERIALACE,ALLYSWITCH,AVALANCHE,BIND,BRICKBREAK,BRUTALSWING,CALMMIND,CHARGEBEAM,CONFIDE,CUT,DARKPULSE,DOUBLETEAM,DRAINPUNCH,DREAMEATER,ENDURE,ENERGYBALL,FACADE,FIREPUNCH,FLASH,FLASHCANNON,FLING,FOCUSBLAST,FOCUSPUNCH,FRUSTRATION,GIGAIMPACT,GRASSKNOT,GRAVITY,HIDDENPOWER,HYPERBEAM,ICEBEAM,ICEPUNCH,KNOCKOFF,LASERFOCUS,LIGHTSCREEN,LOWKICK,LOWSWEEP,MAGICCOAT,NASTYPLOT,POISONJAB,POWERUPPUNCH,PROTECT,PSYCHIC,PSYCHUP,PSYSHOCK,RAINDANCE,RECYCLE,REFLECT,REST,RETURN,ROCKSLIDE,ROCKSMASH,ROCKTOMB,ROLEPLAY,ROUND,SAFEGUARD,SHADOWBALL,SHOCKWAVE,SIGNALBEAM,SKILLSWAP,SLEEPTALK,SNATCH,SNORE,SOLARBEAM,STEALTHROCK,STOMPINGTANTRUM,STRENGTH,SUBSTITUTE,SUNNYDAY,SWAGGER,TAUNT,TELEKINESIS,THROATCHOP,THUNDER,THUNDERBOLT,THUNDERPUNCH,THUNDERWAVE,TORMENT,TRICK,TRICKROOM,WATERPULSE,WONDERROOM,ZENHEADBUTT
 #-------------------------------
 [BURMY,1]
-FormName = Sandy Cloak
+FormName = Sandumhang
 Color = Brown
 #-------------------------------
 [BURMY,2]
-FormName = Trash Cloak
+FormName = Lumpenumhang
 Color = Red
 #-------------------------------
 [WORMADAM,1]
-FormName = Sandy Cloak
+FormName = Sandumhang
 Types = BUG,GROUND
 BaseStats = 60,50,110,30,110,90
 EVs = DEFENSE,2
@@ -1102,7 +1102,7 @@ TutorMoves = ALLYSWITCH,ATTRACT,BUGBITE,BUGBUZZ,BULLDOZE,CONFIDE,DIG,DOUBLETEAM,
 Color = Brown
 #-------------------------------
 [WORMADAM,2]
-FormName = Trash Cloak
+FormName = Lumpenumhang
 Types = BUG,STEEL
 BaseStats = 60,50,100,30,110,100
 EVs = DEFENSE,1,SPECIAL_DEFENSE,1
@@ -1111,19 +1111,19 @@ TutorMoves = ALLYSWITCH,ATTRACT,BUGBITE,BUGBUZZ,CONFIDE,DIG,DOUBLETEAM,DREAMEATE
 Color = Red
 #-------------------------------
 [CHERRIM,1]
-FormName = Sunshine Form
+FormName = Sonnenform
 Color = Pink
-Pokedex = After absorbing plenty of sunlight, Cherrim takes this form. It's full of energy while it's like this, and its liveliness will go on until sundown.
+Pokedex = Diese Form nimmt Kinoso an, wenn es viel Sonne getankt und dadurch seine Energie aufgefüllt hat. Es bleibt bis zum Sonnenuntergang aktiv.
 #-------------------------------
 [SHELLOS,1]
-FormName = East Sea
+FormName = Östliches Meer
 Color = Blue
-Pokedex = Its appearance changes depending on the environment. One theory suggests that living in cold seas causes Shellos to take on this form.
+Pokedex = Es ernährt sich von Plankton. Je sauberer das Meer ist, das es bewohnt, desto kräftiger strahlen die Farben seines Körpers.
 #-------------------------------
 [GASTRODON,1]
-FormName = East Sea
+FormName = Östliches Meer
 Color = Blue
-Pokedex = Its body is covered in a sticky slime. It's very susceptible to dehydration, so it can't spend too much time on land.
+Pokedex = Verschiedene Forscherteams suchen die Meere der Welt ab, um bisher unbekannte Farbvarianten von Gastrodon zu entdecken.
 #-------------------------------
 [LOPUNNY,1]
 FormName = Mega Lopunny
@@ -1181,43 +1181,43 @@ Weight = 56.4
 Generation = 6
 #-------------------------------
 [ROTOM,1]
-FormName = Heat Rotom
+FormName = Hitze-Rotom
 Types = ELECTRIC,FIRE
 BaseStats = 50,65,107,86,105,107
 BaseExp = 182
-Pokedex = This Rotom has possessed a convection microwave oven that uses a special motor. It also has a flair for manipulating flames.
+Pokedex = Es ist in einen Mikrowellenherd eingedrungen, der von einem besonderen Motor betrieben wird. Im Umgang mit Feuer ist es sehr geschickt.
 #-------------------------------
 [ROTOM,2]
-FormName = Wash Rotom
+FormName = Wasch-Rotom
 Types = ELECTRIC,WATER
 BaseStats = 50,65,107,86,105,107
 BaseExp = 182
-Pokedex = This form of Rotom enjoys coming up with water-based pranks. Be careful with it if you don't want your room flooded.
+Pokedex = Diese Form von Rotom liebt es, mit Wasser für Chaos zu sorgen. Es ist dafür bekannt, ganze Räume zu fluten.
 #-------------------------------
 [ROTOM,3]
-FormName = Frost Rotom
+FormName = Frost-Rotom
 Types = ELECTRIC,ICE
 BaseStats = 50,65,107,86,105,107
 BaseExp = 182
-Pokedex = Rotom assumes this form when it takes over a refrigerator powered by a special motor. It battles by spewing cold air.
+Pokedex = Es ist in einen Kühlschrank eingedrungen, der von einem besonderen Motor betrieben wird. Im Kampf setzt es sich mit eiskalter Luft zur Wehr.
 #-------------------------------
 [ROTOM,4]
-FormName = Fan Rotom
+FormName = Wirbel-Rotom
 Types = ELECTRIC,FLYING
 BaseStats = 50,65,107,86,105,107
 BaseExp = 182
 Abilities = MOTORDRIVE
-Pokedex = In this form, Rotom applies its new power over wind to its love of pranks. It will happily blow away any important documents it can find.
+Pokedex = Diese Form von Rotom liebt es, mit Wind für Chaos zu sorgen. Mit Windstößen bringt es wichtige Dokumente durcheinander.
 #-------------------------------
 [ROTOM,5]
-FormName = Mow Rotom
+FormName = Schneid-Rotom
 Types = ELECTRIC,GRASS
 BaseStats = 50,65,107,86,105,107
 BaseExp = 182
-Pokedex = This is Rotom after it's seized control of a lawn mower that has a special motor. As it mows down grass, it scatters the clippings everywhere.
+Pokedex = Es ist in einen Rasenmäher eingedrungen, der von einem besonderen Motor betrieben wird. Das von ihm gemähte Gras verstreut es wahllos.
 #-------------------------------
 [GIRATINA,1]
-FormName = Origin Forme
+FormName = Urform
 BaseStats = 150,120,100,90,120,100
 Abilities = LEVITATE
 HiddenAbilities = LEVITATE
@@ -1227,7 +1227,7 @@ Weight = 650.0
 Shape = Serpentine
 #-------------------------------
 [SHAYMIN,1]
-FormName = Sky Forme
+FormName = Zenitform
 Types = GRASS,FLYING
 BaseStats = 100,103,75,127,120,75
 EVs = SPEED,3

@@ -90,17 +90,17 @@ LoseText = Washed out!
 Pokemon = STARYU,15
 Pokemon = GOLDEEN,11
 #-------------------------------
-[RIVAL1,Trymacs]
+[RIVAL1,Maximilian Alexander Curt]
 LoseText = Schade.
 Pokemon = PSYDUCK,7
     Moves = SCRATCH,WATERGUN,CONFUSION
 #-------------------------------
-[RIVAL1,Trymacs,1]
+[RIVAL1,Maximilian Alexander Curt,1]
 LoseText = Schade.
 Pokemon = CACNEA,7
     Moves = POISONSTING,ABSORB,GROWTH
 #-------------------------------
-[RIVAL1,Trymacs,2]
+[RIVAL1,Maximilian Alexander Curt,2]
 LoseText = Schade.
 Pokemon = VULPIX,7
     Moves = EMBER,DISABLE
@@ -130,31 +130,31 @@ Pokemon = RALTS,6
 #-------------------------------
 [YOUNGSTER,Tristan]
 LoseText = Ich meld’ dich bei Fortnite!
-Pokemon = CUBONE,6
-Pokemon = SPEAROW,6
-Pokemon = TYROGUE,7
+Pokemon = CUBONE,5
+Pokemon = SPEAROW,5
+Pokemon = TYROGUE,6
 #-------------------------------
 [POKEMANIAC,Torben]
 LoseText = A-a-aber meine Berechnungen?
-Pokemon = MAGNEMITE,7
-Pokemon = PORYGON,8
+Pokemon = MAGNEMITE,6
+Pokemon = PORYGON,7
     Moves = CONFUSION,THUNDERWAVE,TACKLE
 #-------------------------------
 [RUINMANIAC,Dirk]
 LoseText = Du bist härter als gedacht, das muss ich dir lassen.
-Pokemon = CRANIDOS,7
-Pokemon = LILEEP,8
+Pokemon = CRANIDOS,6
+Pokemon = LILEEP,7
 #-------------------------------
 [CAMPER,Cedric]
 LoseText = Ich bleib wohl doch beim Campen…
-Pokemon = SHROOMISH,7
-Pokemon = MAGBY,8
+Pokemon = SHROOMISH,6
+Pokemon = MAGBY,7
 #-------------------------------
 [HIKER,Markus]
 LoseText = Ich habe dich unterschätzt!
-Pokemon = GEODUDE,8
-Pokemon = BONSLY,8
-Pokemon = ONIX,9
+Pokemon = GEODUDE,7
+Pokemon = BONSLY,7
+Pokemon = ONIX,8
 #-------------------------------
 [POKEMANIAC,Henry]
 LoseText = Ich will ‘ne Revanche!
@@ -169,64 +169,59 @@ Pokemon = ARON,1
 #-------------------------------
 [COOLTRAINER_F,Isabelle]
 LoseText = schade.
-Pokemon = PIKACHU,10
+Pokemon = PIKACHU,8
     Moves = THUNDERSHOCK,QUICKATTACK,THUNDERWAVE,DOUBLEKICK
     Ability = STATIC
-Pokemon = BUTTERFREE,11
-    Moves = CONFUSION,GUST,SLEEPPOWDER,BUGBITE
-Pokemon = MANKEY,10
+Pokemon = MANKEY,9
     Moves = COVET,KARATECHOP,FURYSWIPES,LOWKICK
     Ability = ANGERPOINT
-Pokemon = CARVANHA,11
+Pokemon = CARVANHA,10
     Moves = AQUAJET,BITE,RAGE,FOCUSENERGY
     Ability = ROUGHSKIN
 #-------------------------------
 [TWINS,Aline & Alina]
 LoseText = Our teamwork failed!
-Pokemon = MACHOP,11
-Pokemon = TYROGUE,11
+Pokemon = MACHOP,10
+Pokemon = TYROGUE,10
 #-------------------------------
 [YOUNGSTER,Paul]
 LoseText = Lol
-Pokemon = HAPPINY,11
+Pokemon = HAPPINY,10
 Pokemon = TOGEPI,11
 #-------------------------------
 [YOUNGSTER,Mike]
 LoseText = Lol
 Pokemon = AZURILL,11
-Pokemon = MANTYKE,11
+Pokemon = MANTYKE,10
 #-------------------------------
 [LASS,Natalie]
 LoseText = Lol
 Pokemon = SMOOCHUM,11
-Pokemon = EEVEE,11
+Pokemon = EEVEE,10
 #-------------------------------
 [YOUNGSTER,Tobi]
 LoseText = Mist…ich habe sowieso noch Probleme mit OBS…
-Pokemon = BONSLY,12
-Pokemon = CHINGLING,12
+Pokemon = BONSLY,11
+Pokemon = CHINGLING,11
 #-------------------------------
 [LASS,Marla]
 LoseText = Du hast irgendwelche Tricks benutzt! d-das kann nicht sein!
-Pokemon = PICHU,12
+Pokemon = PICHU,11
 Pokemon = MIMEJR,12
 #-------------------------------
-[LEADER_Brock,Wichtiger]
+[LEADER_Brock,Markus]
 Items = POTION,POTION
 LoseText = Very good.
-Pokemon = RIOLU,12
+Pokemon = RIOLU,11
     Moves = QUICKATTACK,ENDURE,METALCLAW,FORCEPALM
     Ability = STEADFAST
-Pokemon = WYNAUT,12
-    Moves = COUNTER,MIRRORCOAT,DESTINYBOND,ENCORE
-    Ability = SHADOWTAG
-Pokemon = ELEKID,13
+Pokemon = ELEKID,12
     Moves = LOWKICK,SHOCKWAVE,QUICKATTACK,SWIFT
     Ability = STATIC
-Pokemon = MAGBY,13
+Pokemon = MAGBY,12
     Moves = FLAMEWHEEL,SMOKESCREEN,LOWKICK,THIEF
     Ability = FLAMEBODY
-Pokemon = MUNCHLAX,14
+Pokemon = MUNCHLAX,13
     Moves = RECYCLE,LICK,RETURN,SUBSTITUTE
     Ability = GLUTTONY
     Item = SITRUSBERRY
@@ -239,359 +234,1553 @@ Pokemon = PIDGEY,9
 #-------------------------------
 [HIKER,Erik]
 LoseText = Schade.
-Pokemon = ANORITH,14
-Pokemon = MACHOP,14
+Pokemon = ANORITH,12
+Pokemon = MACHOP,12
 #-------------------------------
 [POKEMANIAC,Johann]
 LoseText = Schade.
-Pokemon = LICKITUNG,15
-Pokemon = ARON,15
+Pokemon = LICKITUNG,12
+Pokemon = ARON,12
 #-------------------------------
 [SCIENTIST,Timo]
 LoseText = Schade.
-Pokemon = WYNAUT,15
-Pokemon = SABLEYE,16
+Pokemon = WYNAUT,12
+Pokemon = SABLEYE,13
 #-------------------------------
 [HIKER,Günter]
 LoseText = Schade.
-Pokemon = SHIELDON,16
-Pokemon = PHANPY,16
-Pokemon = MEDITITE,16
+Pokemon = SHIELDON,12
+Pokemon = PHANPY,12
+Pokemon = MEDITITE,13
 #-------------------------------
 [PICNICKER,Luisa]
 LoseText = Schade.
-Pokemon = NIDORINA,16
-Pokemon = NUZLEAF,17
+Pokemon = NIDORANfE,12
+Pokemon = NUZLEAF,14
 #-------------------------------
 [CAMPER,Fabian]
 LoseText = Schade.
-Pokemon = NIDORINO,16
-Pokemon = LOMBRE,17
+Pokemon = NIDORANmA,12
+Pokemon = LOMBRE,14
 #-------------------------------
 [PICNICKER,Gisela]
 LoseText = Schade.
-Pokemon = ODDISH,17
-Pokemon = PIKACHU,17
-Pokemon = TAILLOW,18
+Pokemon = ODDISH,13
+Pokemon = PIKACHU,13
+Pokemon = TAILLOW,13
 #-------------------------------
 [HIKER,Detlef]
 LoseText = Schade.
-Pokemon = SANDSHREW,18
-Pokemon = BALTOY,18
+Pokemon = SANDSHREW,13
+Pokemon = BALTOY,14
 #-------------------------------
 [BURGLAR,Hannes]
 LoseText = Schade.
-Pokemon = GROWLITHE,18
-Pokemon = GULPIN,18
+Pokemon = GROWLITHE,13
+Pokemon = GULPIN,14
 #-------------------------------
 [COOLTRAINER_F,KIM]
 LoseText = Schade.
-Pokemon = AZUMARILL,18
+Pokemon = MARILL,13
     Moves = ROLLOUT,AQUAJET,BUBBLEBEAM,BODYSLAM
     Ability = HUGEPOWER
-Pokemon = CLEFAIRY,19
+Pokemon = CLEFAIRY,13
     Moves = BODYSLAM,WAKEUPSLAP,DRAININGKISS,SING
     Ability = MAGICGUARD
-Pokemon = ROSELIA,19
+Pokemon = ROSELIA,13
     Moves = MAGICALLEAF,LEECHSEED,GRASSWHISTLE,MEGADRAIN
     Ability = POISONPOINT
-Pokemon = KRICKETUNE,20
+Pokemon = KRICKETUNE,15
     Moves = BUGBITE,LEECHLIFE,PERISHSONG,FRUSTRATION
     Ability = TECHNICIAN
 #-------------------------------
 [AROMALADY,Nelly]
 LoseText = Schade.
-Pokemon = SHROOMISH,19
-Pokemon = SKIPLOOM,19
+Pokemon = HOPPIP,14
+Pokemon = SHROOMISH,14	
 #-------------------------------
-[PAINTER,NAdine]
+[PAINTER,Nadine]
 LoseText = Schade.
-Pokemon = SMEARGLE,20
-Pokemon = SMEARGLE,20
-Pokemon = SMEARGLE,20
+Pokemon = SMEARGLE,15
+Pokemon = SMEARGLE,15
+Pokemon = SMEARGLE,15
 #-------------------------------
 [YOUNGSTER,Frederik]
 LoseText = Schade.
-Pokemon = MEOWTH,20
-Pokemon = EKANS,20
+Pokemon = MEOWTH,14
+Pokemon = EKANS,15
 #-------------------------------
 [FISHERMAN,Alfred]
 LoseText = Schade.
-Pokemon = MAGIKARP,20
-Pokemon = MAGIKARP,21
-Pokemon = MAGIKARP,22
-Pokemon = MAGIKARP,23
-Pokemon = MAGIKARP,24
-Pokemon = GYARADOS,25
+Pokemon = MAGIKARP,14
+Pokemon = MAGIKARP,15
+Pokemon = MAGIKARP,16
+Pokemon = MAGIKARP,17
+Pokemon = MAGIKARP,18
+Pokemon = MAGIKARP,19
 #-------------------------------
 [SWIMMER_M,Tom]
 LoseText = Schade.
-Pokemon = CARVANHA,26
-Pokemon = STARMIE,26
+Pokemon = CARVANHA,18
+Pokemon = STARYU,18
 #-------------------------------
 [TUBER_M,Tim]
 LoseText = Schade.
-Pokemon = CHINCHOU,26
-Pokemon = WAILMER,27
+Pokemon = CHINCHOU,18
+Pokemon = WAILMER,18
 #-------------------------------
 [BUGCATCHER,Julius]
 LoseText = Schade.
-Pokemon = BEEDRILL,21
-Pokemon = DUSTOX,21
-Pokemon = BUTTERFREE,21
-Pokemon = KRICKETUNE,21
+Pokemon = BEEDRILL,13
+Pokemon = DUSTOX,13
+Pokemon = BUTTERFREE,14
+Pokemon = KRICKETUNE,14
 #-------------------------------
 [BUGCATCHER,Björn]
 LoseText = Schade.
-Pokemon = VENONAT,21
-Pokemon = ARIADOS,22
+Pokemon = VENONAT,14
+Pokemon = ARIADOS,15
 #-------------------------------
-[FIRSTTIME_CHATTER_M,Chatter,2]
+[TEAMROCKET_M,Rüpel,1]
 LoseText = Schade.
-Pokemon = HOUNDOUR,22
+Pokemon = HOUNDOUR,14
     Moves = BITE,FIREFANG,THUNDERFANG,ROAR
     Ability = INTIMIDATE
-Pokemon = GLIGAR,22
-    Moves = BULLDOZE,WINGATTACK,FEINTATTACK,SLASH
+Pokemon = ZUBAT,15
+    Moves = BITE,AIRCUTTER,CONFUSERAY,WINGATTACK
+Pokemon = GLIGAR,16
+    Moves = DIG,WINGATTACK,BITE,SLASH
     Ability = HYPERCUTTER
-Pokemon = GOLBAT,22
-    Moves = CRUNCH,AIRCUTTER,CONFUSERAY,WINGATTACK
 #-------------------------------
 [BUGCATCHER,Jasper]
 LoseText = Schade.
-Pokemon = WORMADAM,29
-    Form = 2
-Pokemon = MOTHIM,29
+Pokemon = BURMY,15
+Pokemon = BURMY,15
 #-------------------------------
 [BUGCATCHER,Philipp]
 LoseText = Schade.
-Pokemon = PINECO,23
-Pokemon = ILLUMISE,23
-Pokemon = PARASECT,24
+Pokemon = PINECO,15
+Pokemon = PARAS,15
+Pokemon = ILLUMISE,16
 #-------------------------------
 [BUGCATCHER,Clemens]
 LoseText = Schade.
-Pokemon = VOLBEAT,23
-Pokemon = VESPIQUEN,24
+Pokemon = COMBEE,16
+Pokemon = VOLBEAT,16
 #-------------------------------
 [LASS,Paula]
 LoseText = Schade.
-Pokemon = BUNEARY,24
-Pokemon = GRANBULL,24
+Pokemon = BUNEARY,17
+Pokemon = SNUBBULL,17
 #-------------------------------
 [YOUNGSTER,Jan]
 LoseText = Schade.
-Pokemon = STUNKY,24
-Pokemon = FURRET,24
-Pokemon = VIGOROTH,25
+Pokemon = STUNKY,16
+Pokemon = SLAKOTH,16
+Pokemon = FURRET,15
 #-------------------------------
 [CAMPER,Anto]
 LoseText = Schade.
-Pokemon = SANDSLASH,25
-Pokemon = BALTOY,25
+Pokemon = HOUNDOUR,17
+Pokemon = GROWLITHE,17
 #-------------------------------
 [PICNICKER,Mandy]
 LoseText = Schade.
-Pokemon = HOUNDOOM,25
-Pokemon = ARCANINE,26
+Pokemon = SUNKERN,17
+Pokemon = VULPIX,17
 #-------------------------------
 [COOLTRAINER_F,Pia]
 LoseText = Schade.
-Pokemon = DUNSPARCE,25
+Pokemon = DUNSPARCE,15
     Moves = SCREECH,BODYSLAM,DRILLRUN,ANCIENTPOWER
     Ability = SERENEGRACE
-Pokemon = FARFETCHD,26
+Pokemon = FARFETCHD,16
     Moves = AIRCUTTER,SLASH,NIGHTSLASH,SWORDSDANCE
     Ability = SUPERLUCK
-Pokemon = TANGELA,26
+Pokemon = TANGELA,15
     Moves = GIGADRAIN,KNOCKOFF,MEGADRAIN,NATURALGIFT
     Ability = CHLOROPHYLL
     Item = COBABERRY
-Pokemon = GIRAFARIG,27
+Pokemon = GIRAFARIG,17
     Moves = PSYBEAM,DOUBLEHIT,ZENHEADBUTT,STOMP
     Ability = INNERFOCUS
 #-------------------------------
 [AROMALADY,Verena]
 LoseText = Schade.
-Pokemon = FLAAFFY,26
-Pokemon = BELLSPROUT,26
+Pokemon = BELLSPROUT,17
+Pokemon = FLAAFFY,18
 #-------------------------------
 [CAMPER,Philipp]
 LoseText = Schade.
-Pokemon = GLOOM,26
-Pokemon = ROSELIA,26
-Pokemon = DONPHAN,27
+Pokemon = NUMEL,17
+Pokemon = WINGULL,17
 #-------------------------------
 [FISHERMAN,Antonio]
 LoseText = Schade.
-Pokemon = MANTINE,26
-Pokemon = LUVDISC,26
+Pokemon = MANTINE,18
+Pokemon = LUVDISC,18
 #-------------------------------
 [FISHERMAN,Arne]
 LoseText = Schade.
-Pokemon = OCTILLERY,27
+Pokemon = REMORAID,18
+Pokemon = WAILMER,18
 #-------------------------------
 [JUGGLER,Steven]
 LoseText = Schade.
-Pokemon = PSYDUCK,27
-Pokemon = XATU,27
-Pokemon = HYPNO,27
+Pokemon = PSYDUCK,17
+Pokemon = NATU,18
+Pokemon = DROWZEE,18
 #-------------------------------
 [JUGGLER,Michael]
 LoseText = Schade.
-Pokemon = SLOWPOKE,27
-Pokemon = KADABRA,27
+Pokemon = SLOWPOKE,19
+Pokemon = KADABRA,19
 #-------------------------------
 [YOUNGSTER,Kai]
 LoseText = Schade.
-Pokemon = RATICATE,27
-Pokemon = GOLBAT,28
+Pokemon = ZUBAT,18
+Pokemon = GLAMEOW,19
 #-------------------------------
 [BIRDKEEPER,Leonard]
 LoseText = Schade.
-Pokemon = SWABLU,28
-Pokemon = DODUO,28
-Pokemon = HONCHKROW,28
+Pokemon = SWABLU,18
+Pokemon = DODUO,18
+Pokemon = MURKROW,19
 #-------------------------------
 [TUBER_M,Robin]
 LoseText = Schade.
-Pokemon = AZUMARILL,28
-Pokemon = POLITOED,28
-Pokemon = OCTILLERY,28
+Pokemon = POLIWAG,19
+Pokemon = AZUMARILL,19
 #-------------------------------
 [TUBER_M,Moritz]
 LoseText = Schade.
-Pokemon = FINNEON,29
-Pokemon = GYARADOS,30
+Pokemon = FINNEON,19
+Pokemon = GYARADOS,20
 #-------------------------------
 [FISHERMAN,Ronald]
 LoseText = Schade.
-Pokemon = WHISCASH,30
-Pokemon = CRAWDAUNT,30
+Pokemon = BARBOACH,20
+Pokemon = CORPHISH,20
 #-------------------------------
 [TUBER_M,Max]
 LoseText = Schade.
-Pokemon = QUAGSIRE,30
-Pokemon = TENTACRUEL,30
-Pokemon = STARMIE,30
+Pokemon = WOOPER,19
+Pokemon = GOLDEEN,19
+Pokemon = QUAGSIRE,20
 #-------------------------------
 [LASS,Mia]
 LoseText = Schade.
-Pokemon = SUNFLORA,29
-Pokemon = AMPHAROS,30
+Pokemon = SUNFLORA,20
+Pokemon = FLAAFFY,20
 #-------------------------------
 [POKEMONBREEDER,Klaudia]
 LoseText = Schade.
-Pokemon = IGGLYBUFF,30
-Pokemon = CLEFFA,30
-Pokemon = MUNCHLAX,30
-Pokemon = BONSLY,30
-Pokemon = RIOLU,30
-Pokemon = SMOOCHUM,30
+Pokemon = IGGLYBUFF,18
+Pokemon = CLEFFA,18
+Pokemon = MUNCHLAX,18
+Pokemon = BONSLY,18
+Pokemon = RIOLU,18
+Pokemon = SMOOCHUM,18
 #-------------------------------
 [YOUNGSTER,Alex]
 LoseText = Schade.
-Pokemon = SPINDA,30
-Pokemon = ARBOK,30
-Pokemon = LINOONE,30
+Pokemon = ZIGZAGOON,20
+Pokemon = SPINDA,20	
+Pokemon = RATICATE,20
 #-------------------------------
 [GAMBLER,Dietmar]
 LoseText = Schade.
-Pokemon = MANECTRIC,31
-Pokemon = ELECTRODE,31
+Pokemon = ELECTRIKE,20
+Pokemon = VOLTORB,21
 #-------------------------------
 [CAMPER,Niklas]
 LoseText = Schade.
-Pokemon = NUMEL,31
-Pokemon = DUGTRIO,31
+Pokemon = NUMEL,21
+Pokemon = DIGLETT,21
 #-------------------------------
 [LASS,ZOE]
 LoseText = Schade.
-Pokemon = MINUN,31
-Pokemon = PLUSLE,31
+Pokemon = MINUN,21
+Pokemon = PLUSLE,21
 #-------------------------------
 [TUBER_M,Marlon]
 LoseText = Schade.
-Pokemon = GOLDEEN,30
-Pokemon = WAILMER,30
-Pokemon = HORSEA,30
+Pokemon = SPHEAL,20
+Pokemon = HORSEA,21
 #-------------------------------
 [COOLTRAINER_F,Benjamin]
 LoseText = Schade.
-Pokemon = TRAPINCH,31
-    Moves = BULLDOZE,CRUNCH,SIGNALBEAM,EARTHPOWER
+Pokemon = TRAPINCH,19
+    Moves = BULLDOZE,BITE,BUGBITE,DIG
     Ability = ARENATRAP
-Pokemon = AIPOM,31
+Pokemon = AIPOM,20
     Moves = SCREECH,COVET,FURYSWIPES,AERIALACE
     Ability = SKILLLINK
-Pokemon = CHANSEY,31
+Pokemon = CHANSEY,20
     Moves = COUNTER,SEISMICTOSS,SING,MINIMIZE
     Ability = SERENEGRACE
-Pokemon = GLISCOR,31
-    Moves = NIGHTSLASH,CROSSPOISON,UTURN,WINGATTACK
+Pokemon = GLIGAR,21
+    Moves = NIGHTSLASH,POISONFANG,UTURN,WINGATTACK
     Ability = HYPERCUTTER
 #-------------------------------
 [YOUNGSTER,Leon]
 LoseText = Schade.
-Pokemon = LICKITUNG,31
-Pokemon = MILTANK,31
+Pokemon = LICKITUNG,19
+Pokemon = MILTANK,20
 #-------------------------------
 [LASS,Denise]
 LoseText = Schade.
-Pokemon = WIGGLYTUFF,31
-Pokemon = CHANSEY,31
+Pokemon = LINOONE,20
+Pokemon = CHANSEY,20
 #-------------------------------
 [YOUNGSTER,Simon]
 LoseText = Schade.
-Pokemon = STARAVIA,31
-Pokemon = KANGASKHAN,31
+Pokemon = MEOWTH,20
+Pokemon = STARAVIA,20
 #-------------------------------
-[LEADER_Faister,Faister]
-LoseText = Schade.
-Pokemon = PERSIAN,31
-    Moves = FAKEOUT,THUNDERWAVE,ASSURANCE,FURYSWIPES
-    Ability = TECHNICIAN
-Pokemon = LOPUNNY,31
-    Moves = WORKUP,RETURN,BLAZEKICK,CLOSECOMBAT
-    Ability = SCRAPPY
-Pokemon = PORYGON2,31
-    Moves = TRIATTACK,ICEBEAM,THUNDERBOLT,SIGNALBEAM
-    Ability = TRACE
-Pokemon = SNORLAX,31
-    Moves = CURSE,REST,BODYPRESS,HIGHHORSEPOWER
-    Ability = THICKFAT
-    Item = CHESTOBERRY
-Pokemon = BIBAREL,31
-    Moves = CRUNCH,AQUATAIL,TAKEDOWN,AQUAJET
+[LEADER_Sabrina,Nora]
+LoseText = Du hast mich besiegt? Wirklich beeindruckend... ich muss zugeben, du hast einen starken Willen und ein gutes Auge für Strategie.
+Pokemon = BIBAREL,20
+    Moves = AQUAJET,REST,ROLLOUT,YAWN
     Ability = UNAWARE
-    Item = ASSAULTVEST
+    Item = CHESTOBERRY
+Pokemon = VIGOROTH,21
+    Moves = REST,FURYSWIPES,REVERSAL,BITE
+    Ability = VITALSPIRIT 
+Pokemon = WIGGLYTUFF,20
+    Moves = SING,SWEETKISS,GYROBALL,FACADE
+    Ability = CUTECHARM
+    Item = CHESTOBERRY
+Pokemon = KANGASKHAN,22
+    Moves = FAKEOUT,BITE,COMETPUNCH,FACADE
+    Ability = SCRAPPY
+    Item = ORANBERRY
 #-------------------------------
 [COOLTRAINER_F,Kim]
 LoseText = Schade.
-Pokemon = AZUMARILL,18
+Pokemon = MARILL,13
     Moves = ROLLOUT,AQUAJET,BUBBLEBEAM,BODYSLAM
     Ability = HUGEPOWER
-Pokemon = CLEFAIRY,19
+Pokemon = CLEFAIRY,13
     Moves = BODYSLAM,WAKEUPSLAP,DRAININGKISS,SING
     Ability = MAGICGUARD
-Pokemon = ROSELIA,19
+Pokemon = ROSELIA,13
     Moves = MAGICALLEAF,LEECHSEED,GRASSWHISTLE,MEGADRAIN
     Ability = POISONPOINT
-Pokemon = KRICKETUNE,20
+Pokemon = KRICKETUNE,15
     Moves = BUGBITE,LEECHLIFE,PERISHSONG,FRUSTRATION
     Ability = TECHNICIAN
 #-------------------------------
 [COOLTRAINER_M,Benjamin]
 LoseText = Schade.
-Pokemon = TRAPINCH,31
-    Moves = BULLDOZE,CRUNCH,SIGNALBEAM,EARTHPOWER
+Pokemon = TRAPINCH,19
+    Moves = BULLDOZE,BITE,BUGBITE,DIG
     Ability = ARENATRAP
-Pokemon = AIPOM,31
+Pokemon = AIPOM,20
     Moves = SCREECH,COVET,FURYSWIPES,AERIALACE
     Ability = SKILLLINK
-Pokemon = CHANSEY,31
+Pokemon = CHANSEY,20
     Moves = COUNTER,SEISMICTOSS,SING,MINIMIZE
     Ability = SERENEGRACE
-Pokemon = GLISCOR,31
-    Moves = NIGHTSLASH,CROSSPOISON,UTURN,WINGATTACK
+Pokemon = GLIGAR,21
+    Moves = NIGHTSLASH,POISONFANG,UTURN,WINGATTACK
     Ability = HYPERCUTTER
+#-------------------------------
+[CAMPER,Rupert]
+LoseText = lol
+Pokemon = PSYDUCK,20
+Pokemon = NUMEL,20
+#-------------------------------
+[BUGCATCHER,Anton]
+LoseText = lol
+Pokemon = SURSKIT,18
+Pokemon = SURSKIT,19
+Pokemon = BEAUTIFLY,19
+#-------------------------------
+[YOUNGSTER,Niko]
+LoseText = lol
+Pokemon = RATTATA,19
+Pokemon = ZIGZAGOON,19
+Pokemon = AIPOM,19
+#-------------------------------
+[PICNICKER,Ida]
+LoseText = lol
+Pokemon = CHERUBI,20	
+Pokemon = SNUBBULL,20
+#-------------------------------
+[YOUNGSTER,Edi]
+LoseText = lol
+Pokemon = MIGHTYENA,21
+#-------------------------------
+[BIRDKEEPER,Wido]
+LoseText = lol
+Pokemon = SPEAROW,19
+Pokemon = STARAVIA,19
+Pokemon = FEAROW,20
+#-------------------------------
+[CAMPER,Rasmus]
+LoseText = lol
+Pokemon = YANMA,20
+Pokemon = CACNEA,21
+#-------------------------------
+[BIRDKEEPER,Berno]
+LoseText = lol
+Pokemon = HOOTHOOT,19
+Pokemon = PIDGEOTTO,19
+Pokemon = NOCTOWL,20
+#-------------------------------
+[PSYCHIC_M,Farin]
+LoseText = lol
+Pokemon = MISDREAVUS,20
+Pokemon = WOBBUFFET,20
+#-------------------------------
+[PICNICKER,Mareike]
+LoseText = lol
+Pokemon = SHELLOS,20
+Pokemon = TEDDIURSA,21
+#-------------------------------
+[BLACKBELT,EDUARD]
+LoseText = lol
+Pokemon = MAKUHITA,20
+Pokemon = RIOLU,20
+#-------------------------------
+[BUGCATCHER,Frido]
+LoseText = lol
+Pokemon = SCYTHER,23
+#-------------------------------
+[BUGCATCHER,Tilo]
+LoseText = lol
+Pokemon = NINCADA,19
+Pokemon = NINJASK,20
+Pokemon = SHEDINJA,21
+#-------------------------------
+[GAMBLER,Dittmar]
+LoseText = lol
+Pokemon = MEOWTH,21
+Pokemon = CASTFORM,21
+#-------------------------------
+[BURGLAR,Maurus]
+LoseText = lol
+Pokemon = VULPIX,20
+Pokemon = MAGMAR,21
+Pokemon = GULPIN,20
+#-------------------------------
+[PSYCHIC_M,Bryan]
+LoseText = lol
+Pokemon = DROWZEE,21
+Pokemon = KADABRA,22
+#-------------------------------
+[PSYCHIC_F,Katarina]
+LoseText = lol
+Pokemon = BRONZOR,21
+Pokemon = KIRLIA,22
+#-------------------------------
+[CAMPER,Bert]
+LoseText = lol
+Pokemon = PONYTA,23
+#-------------------------------
+[PICNICKER,Bele]
+LoseText = lol
+Pokemon = SHUCKLE,23
+#-------------------------------
+[COOLTRAINER_F,Adalia]
+LoseText = lol
+Pokemon = TENTACOOL,22
+    Moves = WATERPULSE,ACID,SUPERSONIC,WRAP
+Pokemon = WEEPINBELL,21
+    Moves = VINEWHIP, SLEEPPOWDER,ACID,WRAP
+Pokemon = LOUDRED,23
+    Moves = BITE,STOMP,REST,SLEEPTALK
+Pokemon = SLUGMA,22
+    Moves = INCINERATE,SMOG,ROCKTHROW,HARDEN
+#-------------------------------
+[CHANELLER,Ester]
+LoseText = lol
+Pokemon = DUSKULL,22
+Pokemon = GASTLY,22
+Pokemon = DRIFLOON,22
+#-------------------------------
+[CHANELLER,Magda]
+LoseText = lol
+Pokemon = SHUPPET,23
+Pokemon = SHEDINJA,23
+#-------------------------------
+[CHANELLER,Hilke]
+LoseText = lol
+Pokemon = MISDREAVUS,24
+#-------------------------------
+[CHANELLER,Lumina]
+LoseText = lol
+Pokemon = DUSKULL,23
+Pokemon = SHEDINJA,23
+#-------------------------------
+[CHANELLER,Odina]
+LoseText = lol
+Pokemon = DRIFLOON,23
+Pokemon = SHUPPET, 23
+#-------------------------------
+[CHANELLER,Carin]
+LoseText = lol
+Pokemon = SABLEYE,24
+#-------------------------------
+[CHANELLER,Miria]
+LoseText = lol
+Pokemon = FROSLASS,24
+#-------------------------------
+[CHANELLER,Gerta]
+LoseText = lol
+Pokemon = MISMAGIUS,24
+#-------------------------------
+[CHANELLER,Frieda]
+LoseText = lol
+Pokemon = GASTLY,23
+Pokemon = HAUNTER,25
+#-------------------------------
+[CHANELLER,Lorelei]
+LoseText = Unglaublich… deine Stärke ist echt und unerschütterlich.
+Pokemon = SPIRITOMB,24
+Pokemon = ROTOM,24
+#-------------------------------
+[BIKER,Yan]
+LoseText = lol
+Pokemon = KOFFING,24	
+Pokemon = GRIMER,24
+#-------------------------------
+[BIKER,Raimon]
+LoseText = lol
+Pokemon = GULPIN,24
+Pokemon = SPOINK,24
+#-------------------------------
+[BIKER,Anno]
+LoseText = lol
+Pokemon = SKORUPI,24
+Pokemon = STUNKY,24
+#-------------------------------
+[BIKER,Ruwen]
+LoseText = lol
+Pokemon = CROAGUNK,25
+#-------------------------------
+[POKEMONRANGER_F,Ina]
+LoseText = lol
+Pokemon = KECLEON,23
+Pokemon = STANTLER,23
+Pokemon = VIGOROTH,23
+#-------------------------------
+[POKEMONRANGER_M,Adam]
+LoseText = lol
+Pokemon = EXEGGCUTE,24
+Pokemon = LINOONE,24
+#-------------------------------
+[TAMER,Viktor]
+LoseText = lol
+Pokemon = TRAPINCH,24
+Pokemon = RHYHORN,24
+#-------------------------------
+[TEAMROCKET_M,Rüpel,2]
+LoseText = Wie konnte ich nur verlieren? Du hast Glück gehabt!
+Pokemon = VULPIX,22
+Pokemon = DRIFLOON,22
+#-------------------------------
+[TEAMROCKET_F,Rüpel,1]
+LoseText = Nein! Wie konntest du so stark sein?
+Pokemon = MAGMAR,24
+#-------------------------------
+[TEAMROCKET_M,Rüpel,3]
+LoseText = Unmöglich! Du bist stärker, als ich dachte.
+Pokemon = SLUGMA,22
+Pokemon = MURKROW,22
+#-------------------------------
+[TEAMROCKET_F,Rüpel,2]
+LoseText = Das kann nicht wahr sein! Ich wurde besiegt... von dir?
+Pokemon = MISDREAVUS,23
+Pokemon = LUXIO,23
+Pokemon = MIGHTYENA,25
+#-------------------------------
+[BUGCATCHER,Lenian]
+LoseText = lol
+Pokemon = LEDIAN,24
+Pokemon = ARIADOS,24
+#-------------------------------
+[BUGCATCHER,Benno]
+LoseText = lol
+Pokemon = VENONAT,24
+Pokemon = PARASECT,24
+#-------------------------------
+[BUGCATCHER,Marius]
+LoseText = lol
+Pokemon = SCIZOR,25
+#-------------------------------
+[BUGCATCHER,Conner]
+LoseText = lol
+Pokemon = WORMADAM,22
+    Form = 0
+Pokemon = WORMADAM,22
+    Form = 1
+Pokemon = WORMADAM,22
+    Form = 2
+Pokemon = MOTHIM,22
+#-------------------------------
+[BUGCATCHER,Hektor]
+LoseText = lol
+Pokemon = SKORUPI,23
+Pokemon = BRELOOM,23
+#-------------------------------
+[JUGGLER,Heino]
+LoseText = lol
+Pokemon = SOLROCK,24
+Pokemon = LUNATONE,24
+#-------------------------------
+[LASS,Britta]
+LoseText = lol
+Pokemon = DELCATTY,24
+Pokemon = WIGGLYTUFF,24
+#-------------------------------
+[YOUNGSTER,Aaron]
+LoseText = lol
+Pokemon = GRANBULL,26
+#-------------------------------
+[BEAUTY,Anne]
+LoseText = lol
+Pokemon = AZUMARILL,27
+#-------------------------------
+[AROMALADY,Maike]
+LoseText = lol
+Pokemon = KIRLIA,27
+#-------------------------------
+[LADY,Karla]
+LoseText = lol
+Pokemon = GOLDEEN,25
+Pokemon = VULPIX,25
+Pokemon = IVYSAUR,25
+#-------------------------------
+[LASS,Liana]
+LoseText = lol
+Pokemon = STARYU,26
+Pokemon = SWABLU,26
+#-------------------------------
+[LEADER_Erika,Leonie]
+Items = SUPERPOTION
+LoseText = Oh nein! Du hast wirklich gewonnen? Na gut, du warst fantastisch!
+Pokemon = DELCATTY,26
+    Moves = MAGICALLEAF,ATTRACT,RETURN,CHARM
+    Ability = NORMALIZE
+Pokemon = ROSELIA,26
+    Moves = GIGADRAIN,STUNSPORE,AROMATHERAPY,DAZZLINGGLEAM
+    Ability = POISONPOINT
+Pokemon = BLISSEY,27
+    Moves = ICEPUNCH,LIGHTSCREEN,RETURN,SOFTBOILED
+    Ability = NATURALCURE
+Pokemon = LOPUNNY,28
+    Moves = FAKEOUT,DOUBLEKICK,CHARM,ICYWIND
+    Item = SILKSCARF
+    Ability = LIMBER
+#-------------------------------
+[ENGINEER,Norman]
+LoseText = lol
+Pokemon = ELECTABUZZ,28
+#-------------------------------
+[CRUSHGIRL,Thea]
+LoseText = lol
+Pokemon = PINSIR,27
+Pokemon = HITMONCHAN,27
+#-------------------------------
+[BLACKBELT,Bruno]
+LoseText = lol
+Pokemon = HERACROSS,27
+Pokemon = HITMONLEE,27
+#-------------------------------
+[HIKER,Frank]
+LoseText = lol
+Pokemon = GOLEM,28
+#-------------------------------
+[HIKER,Karl]
+LoseText = lol
+Pokemon = HIPPOPOTAS,26
+Pokemon = NIDOQUEEN,27
+#-------------------------------
+[BIRDKEEPER,Hendrik]
+LoseText = lol
+Pokemon = GOLBAT,27
+Pokemon = CROBAT,28
+#-------------------------------
+[GAMBLER,Alois]
+LoseText = lol
+Pokemon = GROWLITHE,26
+Pokemon = POLIWHIRL,27
+Pokemon = VICTREEBEL,28
+#-------------------------------
+[ROCKER,Egon]
+LoseText = lol
+Pokemon = ELEKID,27
+Pokemon = MAGNEMITE,27
+Pokemon = VOLTORB,27
+#-------------------------------
+[BIRDKEEPER,Leo]
+LoseText = lol
+Pokemon = STARAVIA,28
+Pokemon = MASQUERAIN,28
+#-------------------------------
+[POKEMONRANGER_M,Till]
+LoseText = lol
+Pokemon = MILTANK,28
+#-------------------------------
+[BIRDKEEPER,Ole]
+LoseText = lol
+Pokemon = JUMPLUFF,29
+#-------------------------------
+[POKEMONRANGER_F,Ela]
+LoseText = lol
+Pokemon = TAUROS,28
+#-------------------------------
+[PAINTER,Eva]
+LoseText = lol
+Pokemon = SMEARGLE,28
+Pokemon = SMEARGLE,28
+#-------------------------------
+[ROCKER,Udo]
+LoseText = lol
+Pokemon = FLAAFFY,28
+Pokemon = MANECTRIC,29
+#-------------------------------
+[COOLCOUPLE,Evelyn & Jeremy]
+LoseText = lol
+Pokemon = SOLROCK,30
+Pokemon = LUNATONE,30
+#-------------------------------
+[YOUNGCOUPLE,Marlene & Ruben]
+LoseText = lol
+Pokemon = DELCATTY,28
+Pokemon = ABSOL,28
+#-------------------------------
+[CRUSHKIN,Helena & Marinus]
+LoseText = lol
+Pokemon = HITMONTOP,28
+Pokemon = HARIYAMA,28
+#-------------------------------
+[YOUNGCOUPLE,Sebastian & Annede]
+LoseText = lol
+Pokemon = ZANGOOSE,29
+Pokemon = SEVIPER,29
+#-------------------------------
+[CRUSHKIN,Luis & Charlotte]
+LoseText = lol
+Pokemon = HITMONCHAN,29
+Pokemon = HITMONLEE,29
+#-------------------------------
+[SUPERNERD,Marcel]
+LoseText = lol
+Pokemon = GRIMER,30
+Pokemon = PORYGON2,30
+Pokemon = KOFFING,30
+#-------------------------------
+[CAMPER,Peter]
+LoseText = lol
+Pokemon = PACHIRISU,31
+Pokemon = URSARING,31
+#-------------------------------
+[PICNICKER,Saskia]
+LoseText = lol
+Pokemon = SWINUB,31
+Pokemon = NUMEL,31
+#-------------------------------
+[CAMPER,Hans]
+LoseText = lol
+Pokemon = CACTURNE,31
+#-------------------------------
+[PICNICKER,Janne]
+LoseText = lol
+Pokemon = SLUGMA,31
+Pokemon = CLAMPERL,31
+#-------------------------------
+[POKEMONBREEDER,Elke]
+LoseText = lol
+Pokemon = HAPPINY,28
+Pokemon = FEEBAS,28
+Pokemon = BUDEW,28
+Pokemon = ABRA,28
+Pokemon = AZURILL,28
+#-------------------------------
+[POKEMONRANGER_M,Stefan]
+LoseText = lol
+Pokemon = GROTLE,30
+Pokemon = MONFERNO,30
+Pokemon = PRINPLUP,30
+#-------------------------------
+[POKEMONRANGER_F,Xenia]
+LoseText = lol
+Pokemon = MARSHTOMP,30
+Pokemon = GROVYLE,30
+Pokemon = COMBUSKEN,30
+#-------------------------------
+[SUPERNERD,Micha]
+LoseText = Typen sind sehr wichtig!
+Pokemon = EXEGGCUTE,32
+Pokemon = JUMPLUFF,32
+#-------------------------------
+[SUPERNERD,Timon]
+LoseText = Rayquaza ist grün, aber kein Pflanzen Pokémon.
+Pokemon = CHANSEY,31
+Pokemon = VOLTORB,31
+Pokemon = KOFFING,31
+#-------------------------------
+[SUPERNERD,Lutz]
+LoseText = Du bist trotzdem totarsch Kevin.
+Pokemon = QWILFISH,33
+#-------------------------------
+[LEADER_Blaine,Jacoby]
+LoseText = Unglaublich, du hast es geschafft! Dein Wissen und deine Kampfkraft sind genau im Gleichgewicht. Ein echter Trainer mit Köpfchen und Herz!
+Pokemon = FORRETRESS,32
+    Moves = GYROBALL,PROTECT,STEALTHROCK,SELFDESTRUCT
+Pokemon = GOLEM,32
+    Moves = MAGNITUDE,ROCKSLIDE,ROCKPOLISH,SELFDESTRUCT
+    Ability = STURDY
+Pokemon = ELECTRODE,33
+    Moves = SPARK,LIGHTSCREEN,SHOCKWAVE,SELFDESTRUCT
+    Ability = STATIC
+Pokemon = SNORLAX,34
+    Moves = BODYSLAM,REST,SNORE,BITE
+    Item = LEFTOVERS
+    Ability = IMMUNITY
+#-------------------------------
+[BIRDKEEPER,Ralf]
+LoseText = lol
+Pokemon = SWELLOW,31
+Pokemon = NOCTOWL,31
+Pokemon = DODRIO,31
+#-------------------------------
+[YOUNGSTER,Matthias]
+LoseText = lol
+Pokemon = BIBAREL,33
+Pokemon = LINOONE,33
+#-------------------------------
+[ROCKER,Thorsten]
+LoseText = lol
+Pokemon = AMPHAROS,32
+Pokemon = LUXRAY,32
+#-------------------------------
+[LASS,Ulrike]
+LoseText = lol
+Pokemon = GLOOM,31
+Pokemon = WEEPINBELL,31
+Pokemon = LOMBRE,31
+#-------------------------------
+[BIRDKEEPER,Jakob]
+LoseText = lol
+Pokemon = PIDGEOTTO,32
+Pokemon = STARAVIA,32
+#-------------------------------
+[YOUNGSTER,Dennis]
+LoseText = lol
+Pokemon = RATICATE,33
+#-------------------------------
+[BIKER,Mario]
+LoseText = lol
+Pokemon = LOUDRED,33
+Pokemon = SWALOT,33
+#-------------------------------
+[BIKER,Jürgen]
+LoseText = lol
+Pokemon = MAGMAR,33
+Pokemon = FLAREON,33
+#-------------------------------
+[BIKER,Chris]
+LoseText = lol
+Pokemon = SKUNTANK,34
+#-------------------------------
+[BIKER,Jason]
+LoseText = lol
+Pokemon = GRUMPIG,33
+Pokemon = HYPNO,33
+#-------------------------------
+[BUGCATCHER,Lennart]
+LoseText = lol
+Pokemon = VESPIQUEN,34
+#-------------------------------
+[CAMPER,Gabriel]
+LoseText = lol
+Pokemon = KINGLER,33
+Pokemon = TROPIUS,33
+#-------------------------------
+[PICNICKER,Katrin]
+LoseText = lol
+Pokemon = NINETALES,33
+Pokemon = SHARPEDO,34
+#-------------------------------
+[PSYCHIC_M,Martin]
+LoseText = lol
+Pokemon = JYNX,33
+Pokemon = BRONZONG,33
+#-------------------------------
+[GENTLEMAN,Lothar]
+LoseText = lol
+Pokemon = ARCANINE,35
+#-------------------------------
+[POKEMONRANGER_F,Maria]
+LoseText = lol
+Pokemon = TANGELA,34
+Pokemon = VENOMOTH,34
+Pokemon = CARNIVINE,35
+#-------------------------------
+[POKEMONRANGER_F,Joana]
+LoseText = lol
+Pokemon = GIRAFARIG,34
+Pokemon = DODRIO,34
+Pokemon = STANTLER,35
+#-------------------------------
+[POKEMONRANGER_M,Fritz]
+LoseText = lol
+Pokemon = HIPPOPOTAS,33
+Pokemon = RHYHORN,34
+Pokemon = KANGASKHAN,34
+Pokemon = QUAGSIRE,34
+#-------------------------------
+[POKEMONRANGER_M,Joe]
+LoseText = lol
+Pokemon = SEAKING,35
+Pokemon = NIDOKING,36
+#-------------------------------
+[LEADER_Koga,Faunus]
+LoseText = lol
+Pokemon = SHUCKLE,36
+Pokemon = SCIZOR,37
+Pokemon = SKARMORY,37
+Pokemon = LAPRAS,38
+#-------------------------------
+[TAMER,Dustin]
+LoseText = lol
+Pokemon = DONPHAN,36
+Pokemon = DRAGONAIR,36
+#-------------------------------
+[PAINTER,Elvira]
+LoseText = lol
+Pokemon = SMEARGLE,35
+Pokemon = SMEARGLE,35
+Pokemon = SMEARGLE,35
+#-------------------------------
+[YOUNGSTER,Yannick]
+LoseText = lol
+Pokemon = NIDORINO,36
+Pokemon = PERSIAN,36
+#-------------------------------
+[JUGGLER,Werner]
+LoseText = lol
+Pokemon = HYPNO,37
+#-------------------------------
+[SWIMMER2_F,Chantal]
+LoseText = lol
+Pokemon = GOLDUCK,36
+Pokemon = CRAWDAUNT,36
+#-------------------------------
+[TUBER2_M,Korbinian]
+LoseText = lol
+Pokemon = OCTILLERY,37
+#-------------------------------
+[SWIMMER2_M,Andreas]
+LoseText = lol
+Pokemon = GASTRODON,35
+Pokemon = WHISCASH,35
+Pokemon = STARMIE,35
+#-------------------------------
+[SWIMMER2_F,Kimberly]
+LoseText = lol
+Pokemon = KINGDRA,37
+#-------------------------------
+[TUBER2_F,Sonja]
+LoseText = lol
+Pokemon = WAILMER,36
+Pokemon = MANTINE,37
+#-------------------------------
+[TUBER2_M,Lars]
+LoseText = lol
+Pokemon = OMANYTE,36
+Pokemon = KABUTO,36
+#-------------------------------
+[SWIMMER2_F,Inge]
+LoseText = lol
+Pokemon = TENTACRUEL,36
+Pokemon = SHARPEDO,37
+#-------------------------------
+[TUBER2_F,Maja]
+LoseText = lol
+Pokemon = LUMINEON,37
+#-------------------------------
+[SWIMMER2_M,Marvin]
+LoseText = lol
+Pokemon = GYARADOS,37
+Pokemon = FLOATZEL,37
+#-------------------------------
+[SWIMMER2_F,Angela]
+LoseText = lol
+Pokemon = GOREBYSS,37
+#-------------------------------
+[SWIMMER2_M,Norbert]
+LoseText = lol
+Pokemon = HUNTAIL,37
+#-------------------------------
+[SWIMMER2_F,Caro]
+LoseText = lol
+Pokemon = PELIPPER,37
+Pokemon = KINGLER,37
+#-------------------------------
+[TUBER2_F,Dora]
+LoseText = lol
+Pokemon = LUDICOLO,38
+#-------------------------------
+[SWIMMER2_F,Heike]
+LoseText = lol
+Pokemon = BLASTOISE,38
+#-------------------------------
+[TUBER2_F,Laura]
+LoseText = lol
+Pokemon = CORSOLA,37
+Pokemon = QWILFISH,37
+Pokemon = SEADRA,37
+#-------------------------------
+[TUBER2_M,Finn]
+LoseText = lol
+Pokemon = DEWGONG,38
+#-------------------------------
+[SWIMMER2_M,Mats]
+LoseText = lol
+Pokemon = SWAMPERT,38
+#-------------------------------
+[TUBER2_M,Nils]
+LoseText = lol
+Pokemon = CLOYSTER,38
+#-------------------------------
+[SWIMMER2_M,Harald]
+LoseText = lol
+Pokemon = POLIWRATH,37
+Pokemon = POLITOED,37
+#-------------------------------
+[SWIMMER2_F,Chiara]
+LoseText = lol
+Pokemon = SLOWBRO,37
+Pokemon = SLOWKING,37
+#-------------------------------
+[SWIMMER2_M,Tobias]
+LoseText = lol
+Pokemon = FERALIGATR,38
+#-------------------------------
+[SISANDBRO,Anna & Laura]
+LoseText = lol
+Pokemon = LANTURN,37
+Pokemon = VAPOREON,37
+#-------------------------------
+[SWIMMER2_M,Malte]
+LoseText = lol
+Pokemon = EMPOLEON,38
+#-------------------------------
+[TUBER2_M,Rene]
+LoseText = lol
+Pokemon = WAILMER,37
+Pokemon = SEALEO,37
+#-------------------------------
+[TUBER2_F,Silke]
+LoseText = lol
+Pokemon = FLOATZEL,37
+Pokemon = GASTRODON,37
+#-------------------------------
+[YOUNGSTER,Noah]
+LoseText = lol
+Pokemon = AMBIPOM,37
+Pokemon = MAWILE,37
+#-------------------------------
+[POKEMANIAC,Ludwig]
+LoseText = lol
+Pokemon = MAROWAK,37
+Pokemon = GABITE,37
+Pokemon = RAMPARDOS,37
+#-------------------------------
+[ENGINEER,Nicolas]
+LoseText = lol
+Pokemon = MAGNEZONE,39
+#-------------------------------
+[AROMALADY,Monika]
+LoseText = lol
+Pokemon = VILEPLUME,38
+Pokemon = BELLOSSOM,38
+#-------------------------------
+[SWIMMER2_F,Lia]
+LoseText = lol
+Pokemon = AZUMARILL,37
+Pokemon = MILOTIC,38
+#-------------------------------
+[TUBER2_F,Sophie]
+LoseText = lol
+Pokemon = SEAKING,37
+Pokemon = STARMIE,37
+Pokemon = QUAGSIRE,37
+#-------------------------------
+[BEAUTY,Emilia]
+LoseText = lol
+Pokemon = CORSOLA,37
+Pokemon = VICTREEBEL,37
+#-------------------------------
+[GAMBLER,Matteo]
+LoseText = lol
+Pokemon = SUDOWOODO,37
+Pokemon = NINETALES,37
+#-------------------------------
+[PICNICKER,Nina]
+LoseText = lol
+Pokemon = NIDOQUEEN,39
+#-------------------------------
+[CAMPER,Emil]
+LoseText = lol
+Pokemon = TOGETIC,37
+Pokemon = XATU,38
+#-------------------------------
+[CAMPER,Elias]
+LoseText = lol
+Pokemon = DUSTOX,37 
+Pokemon = BUTTERFREE,37
+Pokemon = PURUGLY,37
+#-------------------------------
+[SWIMMER2_F,Janna]
+LoseText = lol
+Pokemon = GOLDUCK,37
+Pokemon = WHISCASH,38
+#-------------------------------
+[SWIMMER2_M,Henrik]
+LoseText = lol
+Pokemon = TENTACRUEL,37
+Pokemon = CLOYSTER,38
+#-------------------------------
+[TUBER2_F,Marie]
+LoseText = lol
+Pokemon = SHARPEDO,37
+Pokemon = GLACEON,38
+#-------------------------------
+[BIKER,Lasse]
+LoseText = lol
+Pokemon = WEEZING,39
+Pokemon = MUK,39
+#-------------------------------
+[CUEBALL,Kevin]
+LoseText = lol
+Pokemon = MAGMORTAR,40
+#-------------------------------
+[BIKER,Bernd]
+LoseText = lol
+Pokemon = NINETALES,39
+Pokemon = ARCANINE,39
+#-------------------------------
+[BIKER,Dieter]
+LoseText = lol
+Pokemon = NIDOKING,39
+Pokemon = NIDOQUEEN,39
+#-------------------------------
+[BIKER,Arnold]
+LoseText = lol
+Pokemon = ELECTRODE,38
+Pokemon = TENTACRUEL,38
+Pokemon = GENGAR,38
+#-------------------------------
+[CUEBALL,Herbert]
+LoseText = lol
+Pokemon = MAGNEZONE,40
+#-------------------------------
+[BIKER,Heiko]
+LoseText = lol
+Pokemon = CROBAT,39
+Pokemon = STEELIX,39
+#-------------------------------
+[BIKER,Heiko]
+LoseText = lol
+Pokemon = ARBOK,38
+Pokemon = TORKOAL,38
+Pokemon = SWALOT,38
+#-------------------------------
+[CUEBALL,Jonas]
+LoseText = lol
+Pokemon = TOXICROAK,40
+#-------------------------------
+[BIKER,Patrick]
+LoseText = lol
+Pokemon = DRIFBLIM,39
+Pokemon = PURUGLY,39
+#-------------------------------
+[BIKER,Daniel]
+LoseText = lol
+Pokemon = DONPHAN,38
+Pokemon = LAIRON,38
+Pokemon = DRAPION,38
+#-------------------------------
+[CUEBALL,Hubert]
+LoseText = lol
+Pokemon = SKUNTANK,40
+#-------------------------------
+[BIKER,Florian]
+LoseText = lol
+Pokemon = EXPLOUD,39
+Pokemon = HOUNDOOM,39
+#-------------------------------
+[TUBER_F,Sarah]
+LoseText = lol
+Pokemon = LUMINEON,40
+Pokemon = CACTURNE,40
+#-------------------------------
+[SWIMMER_F,Vanessa]
+LoseText = lol
+Pokemon = STARMIE,41
+#-------------------------------
+[SWIMMER_M,Maximilian]
+LoseText = lol
+Pokemon = BRELOOM,40
+Pokemon = SEAKING,40
+#-------------------------------
+[LADY,Sabrina]
+LoseText = lol
+Pokemon = VILEPLUME,38
+Pokemon = TANGROWTH,38
+Pokemon = BELLOSSOM,38
+Pokemon = ROSERADE,38
+#-------------------------------
+[LADY,Melina]
+LoseText = lol
+Pokemon = VICTREEBEL,40
+Pokemon = YANMEGA,40
+#-------------------------------
+[LASS,Nicole]
+LoseText = lol
+Pokemon = SUNFLORA,40
+Pokemon = MEGANIUM,40
+#-------------------------------
+[LEADER_Misty,Palma]
+LoseText = lol
+Pokemon = CORSOLA,41
+Pokemon = TROPIUS,41
+Pokemon = LUDICOLO,42
+Pokemon = VENUSAUR,43
+#-------------------------------
+[SUPERNERD,Thies]
+LoseText = lol
+Pokemon = SEALEO,41
+Pokemon = LAPRAS,41
+#-------------------------------
+[SUPERNERD,Arthur]
+LoseText = lol
+Pokemon = CLOYSTER,41
+Pokemon = ABOMASNOW,41
+#-------------------------------
+[POKEMANIAC,Josef]
+LoseText = lol
+Pokemon = GLALIE,42
+#-------------------------------
+[COOLTRAINER_M,]
+LoseText = lol
+Pokemon = FROSLASS,40
+Pokemon = MAMOSWINE,40
+Pokemon = GLACEON,40
+#-------------------------------
+[POKEMANIAC,Julian]
+LoseText = lol
+Pokemon = CHIMECHO,42
+Pokemon = BRONZONG,42
+#-------------------------------
+[HIKER,Mark]
+LoseText = lol
+Pokemon = RHYDON,41
+Pokemon = ARMALDO,41
+Pokemon = BASTIODON,41
+#-------------------------------
+[HIKER,Obin]
+LoseText = lol
+Pokemon = CRADILY,42
+Pokemon = RELICANTH,42
+#-------------------------------
+[COOLTRAINER_F,Tine]
+LoseText = lol
+Pokemon = SNORLAX,44
+#-------------------------------
+[COOLTRAINER_M,Fabio]
+LoseText = lol
+Pokemon = PURUGLY,43
+Pokemon = PILOSWINE,43
+#-------------------------------
+[SAILOR,Valentin]
+LoseText = lol
+Pokemon = AZUMARILL,42
+Pokemon = LAPRAS,42
+Pokemon = HARIYAMA,42
+#-------------------------------
+[LEADER_Surge,Thalor]
+LoseText = lol
+Pokemon = GRUMPIG,44
+Pokemon = MILTANK,45
+Pokemon = DEWGONG,45
+Pokemon = WALREIN,46
+#-------------------------------
+[BUGCATCHER,Knut]
+LoseText = lol
+Pokemon = KRICKETUNE,44
+Pokemon = VESPIQUEN,44
+Pokemon = CHERRIM,44
+#-------------------------------
+[CAMPER,Jakob]
+LoseText = lol
+Pokemon = TYPHLOSION,45
+Pokemon = WAILORD,45
+#-------------------------------
+[PSYCHIC_M,Ragnar]
+LoseText = lol
+Pokemon = MRMIME,45
+Pokemon = BANETTE,45
+#-------------------------------
+[PICNICKER,Angi]
+LoseText = lol
+Pokemon = SHIFTRY,45
+Pokemon = CAMERUPT,45
+#-------------------------------
+[YOUNGSTER,Liam]
+LoseText = lol
+Pokemon = DITTO,44
+Pokemon = CHATOT,44
+Pokemon = FURRET,44
+#-------------------------------
+[SCIENTIST,Jörg]
+LoseText = lol
+Pokemon = ELECTIVIRE,46
+#-------------------------------
+[CAMPER,Klaus]
+LoseText = lol
+Pokemon = TORTERRA,45
+Pokemon = SANDSLASH,45
+#-------------------------------
+[ENGINEER,Olaf]
+LoseText = lol
+Pokemon = JOLTEON,46
+#-------------------------------
+[POKEMONRANGER_F,Tanja]
+LoseText = lol
+Pokemon = FLYGON,47
+#-------------------------------
+[BIRDKEEPER,Sascha]
+LoseText = lol
+Pokemon = HONCHKROW,46
+Pokemon = CHARIZARD,46
+#-------------------------------
+[POKEMONRANGER_M,Karsten]
+LoseText = lol
+Pokemon = PUPITAR,45
+Pokemon = GLISCOR,45
+Pokemon = HIPPOWDON,45
+#-------------------------------
+[LADY,Marion]
+LoseText = lol
+Pokemon = GARDEVOIR,46
+Pokemon = TOGEKISS,46
+#-------------------------------
+[LEADER_Sabrina,Gloria]
+LoseText = lol
+Pokemon = WEAVILE,46
+Pokemon = ESPEON,47
+Pokemon = UMBREON,47
+Pokemon = BRONZONG,48
+Pokemon = GARCHOMP,50
+#-------------------------------
+[BLACKBELT,Steffen]
+LoseText = lol
+Pokemon = PRIMEAPE,51
+Pokemon = MACHAMP,51
+#-------------------------------
+[CAMPER,Marko]
+LoseText = lol
+Pokemon = RAPIDASH,51
+Pokemon = CLEFABLE,51
+#-------------------------------
+[PICNICKER,Lara]
+LoseText = lol
+Pokemon = JUMPLUFF,50
+Pokemon = LEAFEON,50
+Pokemon = EXEGGUTOR,50
+#-------------------------------
+[CRUSHGIRL,Corinna]
+LoseText = lol
+Pokemon = MEDICHAM,51
+Pokemon = INFERNAPE,51
+#-------------------------------
+[PSYCHIC_M,Mirko]
+LoseText = lol
+Pokemon = CHIMECHO,51
+Pokemon = GENGAR,51
+#-------------------------------
+[JUGGLER,Joshua]
+LoseText = lol
+Pokemon = GRUMPIG,51
+Pokemon = ALAKAZAM,51
+#-------------------------------
+[PSYCHIC_F,VICTORIA]
+LoseText = lol
+Pokemon = WOBBUFFET,50
+Pokemon = XATU,50
+Pokemon = METAGROSS,50
+#-------------------------------
+[ROCKER,Johannes]
+LoseText = lol
+Pokemon = MANECTRIC,51
+Pokemon = RAICHU,51
+#-------------------------------
+[HIKER,Heinrich]
+LoseText = lol
+Pokemon = RHYPERIOR,52
+#-------------------------------
+[SUPERNERD,Franz]
+LoseText = lol
+Pokemon = MAGCARGO,51
+Pokemon = LICKILICKY,51
+#-------------------------------
+[POKEMANIAC,Jochen]
+LoseText = lol
+Pokemon = UNOWN,51
+Pokemon = DUGTRIO,51
+#-------------------------------
+[TAMER,Rüdiger]
+LoseText = lol
+Pokemon = TAUROS,51
+Pokemon = MILTANK,51
+#-------------------------------
+[POKEMONRANGER_M,Erhard]
+LoseText = lol
+Pokemon = ABSOL,51
+Pokemon = MISMAGIUS,51
+#-------------------------------
+[POKEMONRANGER_F,Tabea]
+LoseText = lol
+Pokemon = KECLEON,50
+Pokemon = ROSERADE,50
+Pokemon = DRAGONITE,50
+#-------------------------------
+[COOLTRAINER_F,Rebecca]
+LoseText = lol
+Pokemon = LUXRAY,50
+Pokemon = HOUNDOOM,50
+Pokemon = KANGASKHAN,50
+Pokemon = SCEPTILE,50
+#-------------------------------
+[COOLTRAINER_M,Georg]
+LoseText = lol
+Pokemon = SPIRITOMB,50
+Pokemon = BLAZIKEN,50
+Pokemon = SLAKING,51
+#-------------------------------
+[ELITEFOUR_Lorelei,Seraphina]
+LoseText = lol
+Pokemon = ALTARIA,52
+Pokemon = BLISSEY,53
+Pokemon = LANTURN,53
+Pokemon = GARDEVOIR,54
+Pokemon = MILOTIC,55
+#-------------------------------
+[ELITEFOUR_Bruno,Hagel Holger]
+Items = POTION,POTION
+LoseText = Ich war der Hagel Holger!
+Pokemon = NINETALES,52
+    Moves = AURORAVEIL,MOONBLAST,FREEZEDRY,NASTYPLOT
+    Item = ICYROCK
+    Ability = SNOWWARNING
+    Form = 1
+Pokemon = FROSLASS,53
+    Moves = DESTINYBOND,DRAININGKISS,CONFUSERAY,BLIZZARD
+    Ability = SNOWCLOAK
+Pokemon = LAPRAS,53
+    Moves = MIST,HYDROPUMP,PERISHSONG,ICYWIND
+    Ability = SHELLARMOR
+Pokemon = GLACEON,54
+    Moves = BLIZZARD,SANDATTACK,HAIL,WATERPULSE
+    Ability = SNOWCLOAK
+    Item = BRIGHTPOWDER
+Pokemon = MAMOSWINE,55
+    Moves = STOMPINGTANTRUM,ICICLECRASH,STONEEDGE,SUPERPOWER
+    Ability = SNOWCLOAK
+#-------------------------------
+[ELITEFOUR_Agatha,Tempora]
+LoseText = lol
+Pokemon = CLAYDOL,52
+Pokemon = CRADILY,53
+Pokemon = BASTIODON,53
+Pokemon = AERODACTYL,54
+Pokemon = RAMPARDOS,55
+#-------------------------------
+[ELITEFOUR_Lance,Falk]
+LoseText = lol
+Pokemon = PORYGONZ,52
+Pokemon = STARAPTOR,53
+Pokemon = SKARMORY,53
+Pokemon = GLISCOR,54
+Pokemon = SALAMENCE,55
+#-------------------------------
+[CHAMPION,Orion]
+LoseText = lol
+Pokemon = ELECTIVIRE,54
+Pokemon = GYARADOS,54
+Pokemon = DUSKNOIR,55
+Pokemon = GALLADE,55
+Pokemon = TYRANITAR,56
+Pokemon = LUCARIO,57
+#-------------------------------
+[TEAMROCKET_M,Rüpel,4]
+LoseText = Pah... denk bloß nicht, dass du damit was erreichst. Wir sind hier noch lange nicht fertig!
+Pokemon = GLAMEOW,28
+Pokemon = ARIADOS,28
+#-------------------------------
+[TEAMROCKET_F,Rüpel,3]
+LoseText = Tch... das wird dir nichts nützen. Je mehr du dich einmischst, desto schlimmer wird's für dich!
+Pokemon = KIRLIA,28
+Pokemon = MAWILE,28
+#-------------------------------
+[TEAMROCKET_M,Rüpel,5]
+LoseText = Argh... du magst mich besiegt haben, aber du wirst das Schiff trotzdem nicht heil verlassen!
+Pokemon = HYPNO,29
+#-------------------------------
+[TEAMROCKET_F,Rüpel,4]
+LoseText = Du hast vielleicht gewonnen, aber das ändert nichts! Viel Spaß da unten, wenn du dich traust...
+Pokemon = RATICATE,27
+Pokemon = GOLBAT,27
+Pokemon = SABLEYE,27
+#-------------------------------
+[TEAMROCKET_M,Rüpel,6]
+LoseText = Das kann doch nicht wahr sein... Team Rocket lässt sich nicht so einfach besiegen!
+Pokemon = GRIMER,27
+Pokemon = KOFFING,27
+Pokemon = STUNKY,28
+#-------------------------------
+[TEAMROCKET_M,Rüpel,7]
+LoseText = Verflucht... das war nur Glück! Team Rocket wird dich bald das Fürchten lehren!
+Pokemon = RHYHORN,28
+Pokemon = GRAVELER,29
+#-------------------------------
+[TEAMROCKET_M,Rüpel,8]
+LoseText = Unterschätz uns bloß nicht... du hast keine Ahnung, mit wem du dich anlegst!
+Pokemon = XATU,30
+#-------------------------------
+[TEAMROCKET_M,Rüpel,9]
+LoseText = Du hast vielleicht hier gewonnen... aber Team Rocket gibt so schnell nicht auf!
+Pokemon = SWALOT,28
+Pokemon = DONPHAN,28
+#-------------------------------
+[TEAMROCKET_F,Rüpel,5]
+LoseText = Das ist nur ein Rückschlag... Du hast keine Ahnung, wie mächtig Team Rocket wirklich ist!
+Pokemon = DRIFLOON,28
+Pokemon = TAUROS,28
+Pokemon = MRMIME,30
+#-------------------------------
+[RIVAL1,Maximilian Alexander Curt,3]
+LoseText = Wow! Das war gut!
+Pokemon = STARAVIA,27
+Pokemon = TORKOAL,28
+Pokemon = WARTORTLE,29
+#-------------------------------
+[RIVAL1,Maximilian Alexander Curt,4]
+LoseText = Pflanze
+Pokemon = STARAVIA,27
+Pokemon = QUAGSIRE,28
+Pokemon = IVYSAUR,29
+#-------------------------------
+[RIVAL1,Maximilian Alexander Curt,5]
+LoseText = Feuer
+Pokemon = STARAVIA,27
+Pokemon = TANGELA,28
+Pokemon = CHARMELEON,29
+

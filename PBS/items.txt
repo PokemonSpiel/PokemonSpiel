@@ -2863,68 +2863,68 @@ Flags = Fling_30
 Description = Dieses Eis ist eine Spezialität aus Stratos City. Es behebt alle Statusprobleme eines Pokémon.
 #-------------------------------
 [LUMIOSEGALETTE]
-Name = Lumiose Galette
-NamePlural = Lumiose Galettes
+Name = Illumina-Galette
+NamePlural = Illumina-Galette
 Pocket = 2
 Price = 350
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
-Description = A popular treat in Lumiose City. It can be used once to heal all the status conditions of a Pokémon.
+Description = Eine beliebte Süßigkeit in Illumina City, die alle Statusprobleme eines Pokémon behebt.
 #-------------------------------
 [SHALOURSABLE]
-Name = Shalour Sable
-NamePlural = Shalour Sables
+Name = Yantara-Sablé
+NamePlural = Yantara-Sablé
 Pocket = 2
 Price = 350
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
-Description = Shalour City's famous shortbread. It can be used once to heal all the status conditions of a Pokémon.
+Description = Dieser Butterkeks ist eine Spezialität aus Yantara City. Er behebt alle Statusprobleme eines Pokémon.
 #-------------------------------
 [BIGMALASADA]
-Name = Big Malasada
-NamePlural = Big Malasadas
+Name = Maxi-Malasada
+NamePlural = Maxi-Malasada
 Pocket = 2
 Price = 350
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
-Description = The Alola region's specialty--fried bread. It can be used once to heal all the status conditions of a Pokémon.
+Description = Eine Spezialität aus Alola, die alle Statusprobleme eines Pokémon heilt.
 #-------------------------------
 [REVIVE]
-Name = Revive
-NamePlural = Revives
+Name = Beleber
+NamePlural = Beleber
 Pocket = 2
 Price = 2000
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30,Medicine
-Description = A medicine that revives a fainted Pokémon. It restores half the Pokémon's maximum HP.
+Description = Diese Medizin erfrischt besiegte Pokémon und regeneriert die Hälfte ihrer KP.
 #-------------------------------
 [MAXREVIVE]
-Name = Max Revive
-NamePlural = Max Revives
+Name = Top-Beleber
+NamePlural = Top-Beleber
 Pocket = 2
 Price = 4000
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30,Medicine
-Description = A medicine that revives a fainted Pokémon. It fully restores the Pokémon's HP.
+Description = Diese Medizin erfrischt besiegte Pokémon und regeneriert ihre KP vollständig.
 #-------------------------------
 [BERRYJUICE]
-Name = Berry Juice
-NamePlural = Berry Juices
+Name = Beerensaft
+NamePlural = Beerensäfte
 Pocket = 2
 Price = 100
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
-Description = A 100% pure juice made of Berries. It restores the HP of one Pokémon by just 20 points.
+Description = Hundertprozentiger Fruchtsaft, aus Beeren gekeltert. Füllt die KP eines Pokémon um 20 KP auf.
 #-------------------------------
 [SWEETHEART]
-Name = Sweet Heart
-NamePlural = Sweet Hearts
+Name = Herzkonfekt
+NamePlural = Herzkonfekt
 Pocket = 2
 Price = 3000
 FieldUse = OnPokemon
@@ -2933,85 +2933,85 @@ Flags = Fling_30
 Description = Very sweet chocolate. It restores the HP of one Pokémon by only 20 points.
 #-------------------------------
 [FRESHWATER]
-Name = Fresh Water
-NamePlural = Fresh Waters
+Name = Gerolsteiner
+NamePlural = Gerolsteiner
 Pocket = 2
 Price = 200
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
-Description = Water with high mineral content. It can be used to restore 30 HP to a single Pokémon.
+Description = Ein schlechtes Wasser mit hohem Mineralienanteil, das die KP eines Pokémon um 0 Punkte auffüllt.
 #-------------------------------
 [SODAPOP]
-Name = Soda Pop
-NamePlural = Soda Pops
+Name = Sprudel
+NamePlural = Sprudel
 Pocket = 2
 Price = 300
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
-Description = A highly carbonated soda drink. It can be used to restore 50 HP to a single Pokémon.
+Description = Ein sprudelndes Mineralwasser, das die KP eines Pokémon um 60 Punkte auffüllt.
 #-------------------------------
 [LEMONADE]
-Name = Lemonade
-NamePlural = Lemonades
+Name = Limonade
+NamePlural = Limonade
 Pocket = 2
 Price = 350
 SellPrice = 200
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
-Description = A very sweet and refreshing drink. It can be used to restore 70 HP to a single Pokémon.
+Description = Ein süßes Getränk, das die KP eines Pokémon um 80 Punkte auffüllt.
 #-------------------------------
 [MOOMOOMILK]
-Name = Moomoo Milk
-NamePlural = Moomoo Milks
+Name = Kuhmuh-Milch
+NamePlural = Kuhmuh-Milch
 Pocket = 2
 Price = 600
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
-Description = Milk with a very high nutrition content. It restores the HP of one Pokémon by 100 points.
+Description = Eine äußerst nährstoffreiche Milch, die die KP eines Pokémon um 100 Punkte wieder auffüllt.
 #-------------------------------
 [ENERGYPOWDER]
-Name = Energy Powder
-NamePlural = Energy Powders
+Name = Energiestaub
+NamePlural = Energiestäube
 Pocket = 2
 Price = 500
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30,Remedy
-Description = A very bitter medicinal powder. It can be used to restore 60 HP to a single Pokémon.
+Description = Ein bitteres, medizinisches Pulver, das die KP eines Pokémon um 50 Punkte auffüllt.
 #-------------------------------
 [ENERGYROOT]
-Name = Energy Root
-NamePlural = Energy Roots
+Name = Kraftwurzel
+NamePlural = Kraftwurzeln
 Pocket = 2
 Price = 1200
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30,Remedy
-Description = An extremely bitter medicinal root. It can be used to restore 120 HP to a single Pokémon.
+Description = Eine bittere Wurzel. Sie füllt die KP eines Pokémon um 200 Punkte auf.
 #-------------------------------
 [HEALPOWDER]
-Name = Heal Powder
-NamePlural = Heal Powders
+Name = Heilpuder
+NamePlural = Heilpuder
 Pocket = 2
 Price = 300
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30,Remedy
-Description = A very bitter medicine powder. It heals all the status problems of a single Pokémon.
+Description = Ein bitteres, medizinisches Pulver, das alle Statusprobleme eines Pokémon aufhebt.
 #-------------------------------
 [REVIVALHERB]
-Name = Revival Herb
-NamePlural = Revival Herbs
+Name = Vitalkraut
+NamePlural = Vitalkräuter
 Pocket = 2
 Price = 2800
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30,Remedy
-Description = A very bitter medicinal herb. It revives a fainted Pokémon, fully restoring its HP.
+Description = Ein bitteres, medizinisches Kraut, das kampfunfähige Pokémon belebt und die KP vollständig auffüllt.
 #-------------------------------
 [MAXHONEY]
 Name = Max Honey
@@ -3024,170 +3024,170 @@ Flags = Fling_30
 Description = Honey that Dynamax Vespiquen produces. It has the same effect as a Max Revive.
 #-------------------------------
 [ETHER]
-Name = Ether
-NamePlural = Ethers
+Name = Äther
+NamePlural = Äther
 Pocket = 2
 Price = 1200
 FieldUse = OnPokemon
 BattleUse = OnMove
 Flags = Fling_30,Medicine
-Description = It restores the PP of a Pokémon's selected move by a maximum of 10 points.
+Description = Füllt die AP einer ausgewählten Attacke eines Pokémon um 10 Punkte auf.
 #-------------------------------
 [MAXETHER]
-Name = Max Ether
-NamePlural = Max Ethers
+Name = Top-Äther
+NamePlural = Top-Äther
 Pocket = 2
 Price = 2000
 FieldUse = OnPokemon
 BattleUse = OnMove
 Flags = Fling_30,Medicine
-Description = It fully restores the PP of a single selected move that has been learned by the target Pokémon.
+Description = Füllt die AP einer ausgewählten Attacke eines Pokémon vollständig auf.
 #-------------------------------
 [ELIXIR]
-Name = Elixir
-NamePlural = Elixirs
+Name = Elixier
+NamePlural = Elixiere
 Pocket = 2
 Price = 3000
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30,Medicine
-Description = It restores the PP of all the moves learned by the targeted Pokémon by 10 points each.
+Description = Füllt die AP aller Attacken eines Pokémon um 10 Punkte auf.
 #-------------------------------
 [MAXELIXIR]
-Name = Max Elixir
-NamePlural = Max Elixirs
+Name = Top-Elixier
+NamePlural = Top-Elixiere
 Pocket = 2
 Price = 4500
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30,Medicine
-Description = It fully restores the PP of all the moves learned by the targeted Pokémon.
+Description = Füllt alle AP aller Attacken eines Pokémon vollständig auf.
 #-------------------------------
 [PPUP]
-Name = PP Up
-NamePlural = PP Ups
+Name = AP-Plus
+NamePlural = AP-Plus
 Pocket = 2
 Price = 10000
 FieldUse = OnPokemon
 Flags = Fling_30,Vitamin
-Description = It slightly raises the maximum PP of a selected move that has been learned by the target Pokémon.
+Description = Hebt die maximale Anzahl der AP einer Attacke eines Pokémon.
 #-------------------------------
 [PPMAX]
-Name = PP Max
-NamePlural = PP Maxes
+Name = AP-Top
+NamePlural = AP-Top
 Pocket = 2
 Price = 10000
 FieldUse = OnPokemon
 Flags = Fling_30,Vitamin
-Description = It maximally raises the top PP of a selected move that has been learned by the target Pokémon.
+Description = Maximiert die Anzahl der AP einer Attacke eines Pokémon.
 #-------------------------------
 [HPUP]
-Name = HP Up
-NamePlural = HP Ups
+Name = KP-Plus
+NamePlural = KP-Plus
 Pocket = 2
 Price = 10000
 FieldUse = OnPokemon
 Flags = Fling_30,Vitamin
-Description = A nutritious drink for Pokémon. It raises the base HP of a single Pokémon.
+Description = Ein gehaltvolles Getränk, das die KP-Anzahl eines Pokémon dauerhaft erhöht.
 #-------------------------------
 [PROTEIN]
 Name = Protein
-NamePlural = Proteins
+NamePlural = Proteine
 Pocket = 2
 Price = 10000
 FieldUse = OnPokemon
 Flags = Fling_30,Vitamin
-Description = A nutritious drink for Pokémon. It raises the base Attack stat of a single Pokémon.
+Description = Ein gehaltvolles Getränk, das den Angriffs-Wert eines Pokémon dauerhaft hebt.
 #-------------------------------
 [IRON]
-Name = Iron
-NamePlural = Irons
+Name = Eisen
+NamePlural = Eisen
 Pocket = 2
 Price = 10000
 FieldUse = OnPokemon
 Flags = Fling_30,Vitamin
-Description = A nutritious drink for Pokémon. It raises the base Defense stat of a single Pokémon.
+Description = Ein gehaltvolles Getränk, das den Verteidigungs-Wert eines Pokémon dauerhaft hebt.
 #-------------------------------
 [CALCIUM]
-Name = Calcium
-NamePlural = Calciums
+Name = Kalzium
+NamePlural = Kalzium
 Pocket = 2
 Price = 10000
 FieldUse = OnPokemon
 Flags = Fling_30,Vitamin
-Description = A nutritious drink for Pokémon. It raises the base Sp. Atk (Special Attack) stat of a single Pokémon.
+Description = Ein gehaltvolles Getränk, das den Spezial-Angriff eines Pokémon dauerhaft hebt.
 #-------------------------------
 [ZINC]
-Name = Zinc
-NamePlural = Zincs
+Name = Zink
+NamePlural = Zink
 Pocket = 2
 Price = 10000
 FieldUse = OnPokemon
 Flags = Fling_30,Vitamin
-Description = A nutritious drink for Pokémon. It raises the base Sp. Def (Special Defense) stat of a single Pokémon.
+Description = Ein gehaltvolles Getränk, das die Spezial-Verteidigung eines Pokémon dauerhaft hebt.
 #-------------------------------
 [CARBOS]
-Name = Carbos
-NamePlural = Carbos
+Name = Carbon
+NamePlural = Carbon
 Pocket = 2
 Price = 10000
 FieldUse = OnPokemon
 Flags = Fling_30,Vitamin
-Description = A nutritious drink for Pokémon. It raises the base Speed stat of a single Pokémon.
+Description = Ein gehaltvolles Getränk, das den Initiative-Wert eines Pokémon dauerhaft hebt.
 #-------------------------------
 [HEALTHFEATHER]
-Name = Health Feather
-NamePlural = Health Feathers
+Name = Heilfeder
+NamePlural = Heilfedern
 Pocket = 2
 Price = 300
 FieldUse = OnPokemon
 Flags = Fling_20,Feather
-Description = An item for use on a Pokémon. It slightly increases the base HP of a single Pokémon.
+Description = Schenkt man einem Pokémon dieses Item, wird dessen Kraftpunkte dauerhaft erhöht.
 #-------------------------------
 [MUSCLEFEATHER]
-Name = Muscle Feather
-NamePlural = Muscle Feathers
+Name = Kraftfeder
+NamePlural = Kraftfedern
 Pocket = 2
 Price = 300
 FieldUse = OnPokemon
 Flags = Fling_20,Feather
-Description = An item for use on a Pokémon. It slightly increases the base Attack stat of a single Pokémon.
+Description = Schenkt man einem Pokémon dieses Item, wird dessen Angriffs-Wert dauerhaft erhöht.
 #-------------------------------
 [RESISTFEATHER]
-Name = Resist Feather
-NamePlural = Resist Feathers
+Name = Abwehrfeder
+NamePlural = Abwehrfedern
 Pocket = 2
 Price = 300
 FieldUse = OnPokemon
 Flags = Fling_20,Feather
-Description = An item for use on a Pokémon. It slightly increases the base Defense stat of a single Pokémon.
+Description = Schenkt man einem Pokémon dieses Item, wird dessen Verteidigungs-Wert dauerhaft erhöht.
 #-------------------------------
 [GENIUSFEATHER]
-Name = Genius Feather
-NamePlural = Genius Feathers
+Name = Geniefeder
+NamePlural = Geniefedernn
 Pocket = 2
 Price = 300
 FieldUse = OnPokemon
 Flags = Fling_20,Feather
-Description = An item for use on a Pokémon. It slightly increases the base Sp. Atk stat of a single Pokémon.
+Description = Schenkt man einem Pokémon dieses Item, wird dessen Spezial-Angriff dauerhaft erhöht.
 #-------------------------------
 [CLEVERFEATHER]
-Name = Clever Feather
-NamePlural = Clever Feathers
+Name = Espritfeder
+NamePlural = Espritfedern
 Pocket = 2
 Price = 300
 FieldUse = OnPokemon
 Flags = Fling_20,Feather
-Description = An item for use on a Pokémon. It slightly increases the base Sp. Def stat of a single Pokémon.
+Description = Schenkt man einem Pokémon dieses Item, wird dessen Spezial-Verteidigung dauerhaft erhöht.
 #-------------------------------
 [SWIFTFEATHER]
-Name = Swift Feather
-NamePlural = Swift Feathers
+Name = Flinkfeder
+NamePlural = Flinkfedern
 Pocket = 2
 Price = 300
 FieldUse = OnPokemon
 Flags = Fling_20,Feather
-Description = An item for use on a Pokémon. It slightly increases the base Speed stat of a single Pokémon.
+Description = Schenkt man einem Pokémon dieses Item, wird dessen Initiative-Wert dauerhaft erhöht.
 #-------------------------------
 [LONELYMINT]
 Name = Lonely Mint
@@ -3379,20 +3379,20 @@ Flags = Fling_10,Mint
 Description = When a Pokémon smells this mint, all of its stats will grow at an equal rate.
 #-------------------------------
 [ABILITYCAPSULE]
-Name = Ability Capsule
-NamePlural = Ability Capsule
+Name = Fähigk.-Kapsel
+NamePlural = Fähigk.-Kapseln
 Pocket = 2
 Price = 10000
 FieldUse = OnPokemon
-Description = A capsule that allows a Pokémon with two Abilities to switch between these Abilities when it is used.
+Description = Kann das Pokémon zwei Fähigkeiten haben, wird die jetzige Fähigkeit getauscht.
 #-------------------------------
 [ABILITYPATCH]
-Name = Ability Patch
-NamePlural = Ability Patches
+Name = Fähigk.-Pflaster
+NamePlural = Fähigk.-Pflaster
 Pocket = 2
 Price = 10000
 FieldUse = OnPokemon
-Description = A patch that allows a Pokémon with a regular Ability to have a rare Ability.
+Description = Ein Pflaster, das es ermöglicht, die reguläre Fähigkeit eines Pokémon zu einer seltenen Fähigkeit zu ändern.
 #-------------------------------
 [EXPCANDYXS]
 Name = Exp. Candy XS
@@ -3440,8 +3440,8 @@ Flags = Fling_30,ExpCandy
 Description = A candy packed with energy. When consumed, it will grant a Pokémon a very large amount of Exp. Points.
 #-------------------------------
 [RARECANDY]
-Name = Rare Candy
-NamePlural = Rare Candies
+Name = Sonderbonbon
+NamePlural = Sonderbonbons
 Pocket = 2
 Price = 10000
 FieldUse = OnPokemon
@@ -3449,239 +3449,239 @@ Flags = Fling_30
 Description = A candy that is packed with energy. It raises the level of a single Pokémon by one.
 #-------------------------------
 [MASTERBALL]
-Name = Master Ball
-NamePlural = Master Balls
+Name = Meisterball
+NamePlural = Meisterbälle
 Pocket = 3
 Price = 0
 BattleUse = OnFoe
 Flags = PokeBall
-Description = The best Ball with the ultimate level of performance. It will catch any wild Pokémon without fail.
+Description = Der beste Ball! Damit fängst du garantiert jedes wilde Pokémon.
 #-------------------------------
 [ULTRABALL]
-Name = Ultra Ball
-NamePlural = Ultra Balls
+Name = Hyperball
+NamePlural = Hyperbälle
 Pocket = 3
 Price = 800
 BattleUse = OnFoe
 Flags = PokeBall
-Description = An ultra-performance Ball that provides a higher Pokémon catch rate than a Great Ball.
+Description = Ein Ball mit hoher Erfolgsquote. Dem Superball in allen Punkten überlegen.
 #-------------------------------
 [GREATBALL]
-Name = Great Ball
-NamePlural = Great Balls
+Name = Superball
+NamePlural = Superbälle
 Pocket = 3
 Price = 600
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A good, high-performance Ball that provides a higher Pokémon catch rate than a standard Poké Ball.
+Description = Ein Ball mit guter Erfolgsquote. Dem Pokéball in allen Punkten überlegen.
 #-------------------------------
 [POKEBALL]
-Name = Poké Ball
-NamePlural = Poké Balls
+Name = Pokéball
+NamePlural = Pokébälle
 Pocket = 3
 Price = 200
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A device for catching wild Pokémon. It is thrown like a ball at the target. It is designed as a capsule system.
+Description = Damit fängst du wilde Pokémon. Du wirfst ihn wie einen normalen Ball. Das Design ähnelt dem einer Kapsel.
 #-------------------------------
 [SAFARIBALL]
-Name = Safari Ball
-NamePlural = Safari Balls
+Name = Safariball
+NamePlural = Safaribälle
 Pocket = 3
 Price = 0
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A special Poké Ball that is used only in the Safari Zone. It is decorated in a camouflage pattern.
+Description = Ein Ball, der nur in der Safarizone eingesetzt wird. Er besticht durch sein Tarnfarbenmuster.
 #-------------------------------
 [SPORTBALL]
-Name = Sport Ball
-NamePlural = Sport Balls
+Name = Turnierball
+NamePlural = Turnierbälle
 Pocket = 3
 Price = 300
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A special Poké Ball for the Bug-Catching Contest.
+Description = Ein spezieller Pokéball für das Käferturnier.
 #-------------------------------
 [NETBALL]
-Name = Net Ball
-NamePlural = Net Balls
+Name = Netzball
+NamePlural = Netzbälle
 Pocket = 3
 Price = 1000
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A somewhat different Poké Ball that works especially well on Water- and Bug-type Pokémon.
+Description = Ein Ball, der sich besonders gut eignet, um Wasser- und Käfer-Pokémon zu fangen.
 #-------------------------------
 [DIVEBALL]
-Name = Dive Ball
-NamePlural = Dive Balls
+Name = Tauchball
+NamePlural = Tauchbälle
 Pocket = 3
 Price = 1000
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A somewhat different Poké Ball that works especially well on Pokémon that live underwater.
+Description = Ein Ball, mit dem sich Pokémon, die auf dem Meeresgrund leben, besser fangen lassen.
 #-------------------------------
 [NESTBALL]
-Name = Nest Ball
-NamePlural = Nest Balls
+Name = Nestball
+NamePlural = Nestbälle
 Pocket = 3
 Price = 1000
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A somewhat different Poké Ball that works especially well on weaker Pokémon in the wild.
+Description = Ein Ball, dessen Erfolgsquote besonders bei schwächeren Pokémon sehr hoch ist.
 #-------------------------------
 [REPEATBALL]
-Name = Repeat Ball
-NamePlural = Repeat Balls
+Name = Wiederball
+NamePlural = Wiederbälle
 Pocket = 3
 Price = 1000
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A somewhat different Poké Ball that works especially well on Pokémon species that were previously caught.
+Description = Ein Ball, der besonders dann sehr gut ist, wenn man ein Pokémon fängt, dessen Art bereits gefangen wurde.
 #-------------------------------
 [TIMERBALL]
-Name = Timer Ball
-NamePlural = Timer Balls
+Name = Timerball
+NamePlural = Timerbälle
 Pocket = 3
 Price = 1000
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A somewhat different Ball that becomes progressively better the more turns there are in a battle.
+Description = Ein Ball, der mit zunehmender Kampfdauer effektiver wird.
 #-------------------------------
 [LUXURYBALL]
-Name = Luxury Ball
-NamePlural = Luxury Balls
+Name = Luxusball
+NamePlural = Luxusbälle
 Pocket = 3
 Price = 3000
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A comfortable Poké Ball that makes a caught wild Pokémon quickly grow friendly.
+Description = Ein behaglicher Ball, der Pokémon veranlasst, nach dem Fang schneller freundlicher zu werden.
 #-------------------------------
 [PREMIERBALL]
-Name = Premier Ball
-NamePlural = Premier Balls
+Name = Premierball
+NamePlural = Premierbälle
 Pocket = 3
 Price = 200
 SellPrice = 10
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A somewhat rare Poké Ball that has been specially made to commemorate an event of some sort.
+Description = Ein eher seltener Ball, der als Reminiszenz an irgendein Ereignis hergestellt wurde.
 #-------------------------------
 [DUSKBALL]
-Name = Dusk Ball
-NamePlural = Dusk Balls
+Name = Finsterball
+NamePlural = Finsterbälle
 Pocket = 3
 Price = 1000
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A somewhat different Poké Ball that makes it easier to catch wild Pokémon at night or in dark places like caves.
+Description = Ein mysteriöser Ball, geeignet für Einsätze in der Nacht oder an dunklen Orten.
 #-------------------------------
 [HEALBALL]
-Name = Heal Ball
-NamePlural = Heal Balls
+Name = Heilball
+NamePlural = Heilbälle
 Pocket = 3
 Price = 300
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A remedial Poké Ball that restores the caught Pokémon's HP and eliminates any status problem.
+Description = Ein wohltuender Ball. Er füllt alle KP des gefangenen Pokémon auf und hebt alle Statusveränderungen auf.
 #-------------------------------
 [QUICKBALL]
-Name = Quick Ball
-NamePlural = Quick Balls
+Name = Flottball
+NamePlural = Flottbälle
 Pocket = 3
 Price = 1000
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A somewhat different Poké Ball that provides a better catch rate if used at the start of a wild encounter.
+Description = Ein ungewöhnlicher Ball, der zu Beginn eines Kampfes am wirkungsvollsten ist.
 #-------------------------------
 [CHERISHBALL]
-Name = Cherish Ball
-NamePlural = Cherish Balls
+Name = Jubelball
+NamePlural = Jubelbälle
 Pocket = 3
 Price = 0
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A quite rare Poké Ball that has been specially crafted to commemorate an occasion of some sort.
+Description = Ein seltener Ball, der als Reminiszenz an irgendein Ereignis hergestellt wurde.
 #-------------------------------
 [FASTBALL]
-Name = Fast Ball
-NamePlural = Fast Balls
+Name = Turboball
+NamePlural = Turbobälle
 Pocket = 3
 Price = 300
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A Poké Ball that makes it easier to catch fast Pokémon.
+Description = Ein Ball, der sich besonders gut eignet, um Pokémon mit hohem Initiative-Wert zu fangen.
 #-------------------------------
 [LEVELBALL]
-Name = Level Ball
-NamePlural = Level Balls
+Name = Levelball
+NamePlural = Levelbälle
 Pocket = 3
 Price = 300
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A Poké Ball for catching Pokémon that are a lower level than your own.
+Description = Ein Ball, der schwächere Pokémon im Vergleich zu deinem besser fängt.
 #-------------------------------
 [LUREBALL]
-Name = Lure Ball
-NamePlural = Lure Balls
+Name = Köderball
+NamePlural = Köderbälle
 Pocket = 3
 Price = 300
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A Poké Ball for catching Pokémon hooked by a Rod when fishing.
+Description = Ein Ball, der sich besonders gut eignet, um Pokémon zu fangen, die an deiner Angel hängen.
 #-------------------------------
 [HEAVYBALL]
-Name = Heavy Ball
-NamePlural = Heavy Balls
+Name = Schwerball
+NamePlural = Schwerbälle
 Pocket = 3
 Price = 300
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A Poké Ball for catching very heavy Pokémon.
+Description = Ein Ball, der sich besonders gut für Pokémon mit hohem Gewicht eignet.
 #-------------------------------
 [LOVEBALL]
-Name = Love Ball
-NamePlural = Love Balls
+Name = Sympaball
+NamePlural = Sympabälle
 Pocket = 3
 Price = 300
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A Poké Ball for catching Pokémon that are the opposite gender of your Pokémon.
+Description = Ein Ball, mit dem es leichter ist, Pokémon des anderen Geschlechtes besser zu fangen.
 #-------------------------------
 [FRIENDBALL]
-Name = Friend Ball
-NamePlural = Friend Balls
+Name = Freundesball
+NamePlural = Freundesbälle
 Pocket = 3
 Price = 300
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A Poké Ball that makes caught Pokémon more friendly.
+Description = Wurde ein Pokémon damit gefangen, dann wächst die Freundschaft zu diesem besonders schnell.
 #-------------------------------
 [MOONBALL]
-Name = Moon Ball
-NamePlural = Moon Balls
+Name = Mondball
+NamePlural = Mondbälle
 Pocket = 3
 Price = 300
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A Poké Ball for catching Pokémon that evolve using the Moon Stone.
+Description = Ein Ball, der sich dazu eignet, Pokémon zu fangen, die sich durch Benutzung des Mondstein entwickeln.
 #-------------------------------
 [DREAMBALL]
-Name = Dream Ball
-NamePlural = Dream Balls
+Name = Traumball
+NamePlural = Traumbälle
 Pocket = 3
 Price = 300
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A somewhat different Poké Ball that makes it easier to catch wild Pokémon while they're asleep.
+Description = Ein Ball, mit dem sich schlafende Pokémon leichter fangen lassen.
 #-------------------------------
 [BEASTBALL]
-Name = Beast Ball
-NamePlural = Beast Balls
+Name = Ultraball
+NamePlural = Ultrabälle
 Pocket = 3
 Price = 1000
 BattleUse = OnFoe
 Flags = PokeBall
-Description = A special Poké Ball designed to catch Ultra Beasts. It has a low success rate for catching others.
+Description = Ein besonderer Ball zum Fangen von Ultrabestien. Andere Lebewesen lassen sich damit nur schwer fangen.
 #-------------------------------
 [TM01]
 Name = TM01
@@ -4460,8 +4460,8 @@ Pocket = 4
 Price = 3000
 FieldUse = TR
 Flags = Fling_55
-Move = SNARL
-Description = The user yells as if it's ranting about something, which lowers the Sp. Atk stats of opposing Pokémon.
+Move = CHARM
+Description = The user gazes at the target rather charmingly, making it less wary. This harshly lowers its Attack stat.
 #-------------------------------
 [TM79]
 Name = TM79
@@ -4738,670 +4738,670 @@ Move = DIVE
 Description = Diving on the first turn, the user floats up and attacks on the second. It can be used to dive underwater.
 #-------------------------------
 [CHERIBERRY]
-Name = Cheri Berry
-NamePlural = Cheri Berries
+Name = Amrenabeere
+NamePlural = Amrenabeeren
 Pocket = 5
 Price = 20
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_FIRE_80,StatusBerry
-Description = It may be used or held by a Pokémon to recover from paralysis.
+Description = Gibst du die Beere einem Pokémon zum Tragen, heilt diese es von Paralyse.
 #-------------------------------
 [CHESTOBERRY]
-Name = Chesto Berry
-NamePlural = Chesto Berries
+Name = Maronbeere
+NamePlural = Maronbeeren
 Pocket = 5
 Price = 20
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_WATER_80,StatusBerry
-Description = It may be used or held by a Pokémon to recover from sleep.
+Description = 	Gibst du die Beere einem Pokémon zum Tragen, erwacht es dadurch aus dem Schlaf.
 #-------------------------------
 [PECHABERRY]
-Name = Pecha Berry
-NamePlural = Pecha Berries
+Name = Pirsifbeere
+NamePlural = Pirsifbeeren
 Pocket = 5
 Price = 20
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_ELECTRIC_80,StatusBerry
-Description = It may be used or held by a Pokémon to recover from poison.
+Description = Gibst du die Beere einem Pokémon zum Tragen, heilt diese es von Vergiftung.
 #-------------------------------
 [RAWSTBERRY]
-Name = Rawst Berry
-NamePlural = Rawst Berries
+Name = Fragiabeere
+NamePlural = Fragiabeeren
 Pocket = 5
 Price = 20
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_GRASS_80,StatusBerry
-Description = It may be used or held by a Pokémon to recover from a burn.
+Description = Gibst du die Beere einem Pokémon zum Tragen, heilt diese es von Verbrennung.
 #-------------------------------
 [ASPEARBERRY]
-Name = Aspear Berry
-NamePlural = Aspear Berries
+Name = Wilbirbeere
+NamePlural = Wilbirbeere
 Pocket = 5
 Price = 20
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_ICE_80,StatusBerry
-Description = It may be used or held by a Pokémon to defrost it.
+Description = Gibst du die Beere einem Pokémon zum Tragen, heilt diese es von Frost.
 #-------------------------------
 [LEPPABERRY]
-Name = Leppa Berry
-NamePlural = Leppa Berries
+Name = Jonagobeere
+NamePlural = Jonagobeeren
 Pocket = 5
 Price = 20
 FieldUse = OnPokemon
 BattleUse = OnMove
 Flags = Berry,Fling_10,NaturalGift_FIGHTING_80
-Description = It may be used or held by a Pokémon to restore a move's PP by 10.
+Description = Gibst du die Beere einem Pokémon zum Tragen, füllt sie die AP einer Attacke um 10 Punkte auf.
 #-------------------------------
 [ORANBERRY]
-Name = Oran Berry
-NamePlural = Oran Berries
+Name = Sinelbeere
+NamePlural = Sinelbeeren
 Pocket = 5
 Price = 20
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_POISON_80,HealBerry
-Description = It may be used or held by a Pokémon to heal the user by just 10 HP.
+Description = Gibst du die Beere einem Pokémon zum Tragen, füllt sie seine KP um 10 Punkte auf.
 #-------------------------------
 [PERSIMBERRY]
-Name = Persim Berry
+Name = Persimbeere
 NamePlural = Persim Berries
 Pocket = 5
 Price = 20
 BattleUse = OnBattler
 Flags = Berry,Fling_10,NaturalGift_GROUND_80,StatusBerry
-Description = It may be used or held by a Pokémon to recover from confusion.
+Description = Gibst du die Beere einem Pokémon zum Tragen, heilt diese es von Verwirrung.
 #-------------------------------
 [LUMBERRY]
-Name = Lum Berry
-NamePlural = Lum Berries
+Name = Prunusbeere
+NamePlural = Prunusbeeren
 Pocket = 5
 Price = 20
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_FLYING_80,StatusBerry
-Description = It may be used or held by a Pokémon to recover from any status problem.
+Description = Gibst du die Beere einem Pokémon zum Tragen, hebt sie alle seine Statusprobleme auf.
 #-------------------------------
 [SITRUSBERRY]
-Name = Sitrus Berry
-NamePlural = Sitrus Berries
+Name = Tsitrubeere
+NamePlural = Tsitrubeeren
 Pocket = 5
 Price = 20
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_PSYCHIC_80,HealBerry
-Description = It may be used or held by a Pokémon to heal the user's HP a little.
+Description = Gibst du die Beere einem Pokémon zum Tragen, füllt diese seine KP ein wenig auf.
 #-------------------------------
 [FIGYBERRY]
-Name = Figy Berry
-NamePlural = Figy Berries
+Name = Giefebeere
+NamePlural = Giefebeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_BUG_80,HealBerry,FlavorBerry
-Description = If held by a Pokémon, it restores the user's HP in a pinch, but will cause confusion if it hates the taste.
+Description = Als getragenes Item füllt die Beere die KP eines Pokémon auf, doch ihr Aroma verwirrt jene, die es nicht mögen.
 #-------------------------------
 [WIKIBERRY]
-Name = Wiki Berry
-NamePlural = Wiki Berries
+Name = Wikibeere
+NamePlural = Wikibeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_ROCK_80,HealBerry,FlavorBerry
-Description = If held by a Pokémon, it restores the user's HP in a pinch, but will cause confusion if it hates the taste.
+Description = Als getragenes Item füllt die Beere die KP eines Pokémon auf, doch ihr Aroma verwirrt jene, die es nicht mögen.
 #-------------------------------
 [MAGOBERRY]
-Name = Mago Berry
-NamePlural = Mago Berries
+Name = Magobeere
+NamePlural = Magobeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_GHOST_80,HealBerry,FlavorBerry
-Description = If held by a Pokémon, it restores the user's HP in a pinch, but will cause confusion if it hates the taste.
+Description = Als getragenes Item füllt die Beere die KP eines Pokémon auf, doch ihr Aroma verwirrt jene, die es nicht mögen.
 #-------------------------------
 [AGUAVBERRY]
-Name = Aguav Berry
-NamePlural = Aguav Berries
+Name = Gauvebeere
+NamePlural = Gauvebeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_DRAGON_80,HealBerry,FlavorBerry
-Description = If held by a Pokémon, it restores the user's HP in a pinch, but will cause confusion if it hates the taste.
+Description = Als getragenes Item füllt die Beere die KP eines Pokémon auf, doch ihr Aroma verwirrt jene, die es nicht mögen.
 #-------------------------------
 [IAPAPABERRY]
-Name = Iapapa Berry
-NamePlural = Iapapa Berries
+Name = Yapabeere
+NamePlural = Yapabeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_DARK_80,HealBerry,FlavorBerry
-Description = If held by a Pokémon, it restores the user's HP in a pinch, but will cause confusion if it hates the taste.
+Description = = Als getragenes Item füllt die Beere die KP eines Pokémon auf, doch ihr Aroma verwirrt jene, die es nicht mögen.
 #-------------------------------
 [RAZZBERRY]
-Name = Razz Berry
-NamePlural = Razz Berries
+Name = Himmihbeere
+NamePlural = Himmihbeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_STEEL_80
-Description = In the Sinnoh region, they like to make sweets known as Poffins with this Berry.
+Description = In der Sinnoh-Region sind diese Beeren als Zutat für Snacks bekannt, die man Knursp nennt.
 #-------------------------------
 [BLUKBERRY]
-Name = Bluk Berry
-NamePlural = Bluk Berries
+Name = Morbbeere
+NamePlural = Morbbeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_FIRE_90
-Description = In the Sinnoh region, they like to make sweets known as Poffins with this Berry.
+Description = In der Sinnoh-Region sind diese Beeren als Zutat für Snacks bekannt, die man Knursp nennt.
 #-------------------------------
 [NANABBERRY]
-Name = Nanab Berry
-NamePlural = Nanab Berries
+Name = Nanabbeere
+NamePlural = Nanabbeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_WATER_90
-Description = In the Sinnoh region, they like to make sweets known as Poffins with this Berry.
+Description = In der Sinnoh-Region sind diese Beeren als Zutat für Snacks bekannt, die man Knursp nennt.
 #-------------------------------
 [WEPEARBERRY]
-Name = Wepear Berry
-NamePlural = Wepear Berries
+Name = Nirbebeere
+NamePlural = Nirbebeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_ELECTRIC_90
-Description = In the Sinnoh region, they like to make sweets known as Poffins with this Berry.
+Description = In der Sinnoh-Region sind diese Beeren als Zutat für Snacks bekannt, die man Knursp nennt.
 #-------------------------------
 [PINAPBERRY]
-Name = Pinap Berry
-NamePlural = Pinap Berries
+Name = Sananabeere
+NamePlural = Sananabeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_GRASS_90
-Description = In the Sinnoh region, they like to make sweets known as Poffins with this Berry.
+Description = In der Sinnoh-Region sind diese Beeren als Zutat für Snacks bekannt, die man Knursp nennt.
 #-------------------------------
 [POMEGBERRY]
-Name = Pomeg Berry
-NamePlural = Pomeg Berries
+Name = Granabeere
+NamePlural = Granabeeren
 Pocket = 5
 Price = 20
 FieldUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_ICE_90,EVReduceBerry
-Description = Using it on a Pokémon makes it more friendly, but it also lowers its base HP.
+Description = Isst ein Pokémon diese Beere, stärkt dies eure Freundschaft, verringert aber auch seine Basis-KP.
 #-------------------------------
 [KELPSYBERRY]
-Name = Kelpsy Berry
-NamePlural = Kelpsy Berries
+Name = Setangbeere
+NamePlural = Setangbeeren
 Pocket = 5
 Price = 20
 FieldUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_FIGHTING_90,EVReduceBerry
-Description = Using it on a Pokémon makes it more friendly, but it also lowers its base Attack stat.
+Description = Isst ein Pokémon diese Beere, stärkt dies eure Freundschaft, verringert aber seinen Angriffs-Wert.
 #-------------------------------
 [QUALOTBERRY]
-Name = Qualot Berry
-NamePlural = Qualot Berries
+Name = Qualotbeere
+NamePlural = Qualotbeeren
 Pocket = 5
 Price = 20
 FieldUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_POISON_90,EVReduceBerry
-Description = Using it on a Pokémon makes it more friendly, but it also lowers its base Defense stat.
+Description = Isst ein Pokémon diese Beere, stärkt dies eure Freundschaft, verringert aber seinen Vert.-Wert.
 #-------------------------------
 [HONDEWBERRY]
-Name = Hondew Berry
-NamePlural = Hondew Berries
+Name = Honmelbeere
+NamePlural = Honmelbeeren
 Pocket = 5
 Price = 20
 FieldUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_GROUND_90,EVReduceBerry
-Description = Using it on a Pokémon makes it more friendly, but it also lowers its base Sp. Atk stat.
+Description = Isst ein Pokémon diese Beere, stärkt dies eure Freundschaft, verringert aber seinen Spez.-Angr.-Wert.
 #-------------------------------
 [GREPABERRY]
-Name = Grepa Berry
-NamePlural = Grepa Berries
+Name = Labrusbeere
+NamePlural = Labrusbeeren
 Pocket = 5
 Price = 20
 FieldUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_FLYING_90,EVReduceBerry
-Description = Using it on a Pokémon makes it more friendly, but it also lowers its base Sp. Def stat.
+Description = Isst ein Pokémon diese Beere, stärkt dies eure Freundschaft, verringert aber seinen Spez.-Vert.-Wert.
 #-------------------------------
 [TAMATOBERRY]
-Name = Tamato Berry
-NamePlural = Tamato Berries
+Name = Tamotbeere
+NamePlural = Tamotbeeren
 Pocket = 5
 Price = 20
 FieldUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_PSYCHIC_90
-Description = Using it on a Pokémon makes it more friendly, but it also lowers its base Speed stat.
+Description = Isst ein Pokémon diese Beere, stärkt dies eure Freundschaft, verringert aber seinen Initiative-Wert.
 #-------------------------------
 [CORNNBERRY]
-Name = Cornn Berry
-NamePlural = Cornn Berries
+Name = Saimbeere
+NamePlural = Saimbeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_BUG_90
-Description = In the Sinnoh region, they like to make sweets known as Poffins with this Berry.
+Description = In der Sinnoh-Region sind diese Beeren als Zutat für Snacks bekannt, die man Knursp nennt.
 #-------------------------------
 [MAGOSTBERRY]
-Name = Magost Berry
-NamePlural = Magost Berries
+Name = Magostbeere
+NamePlural = Magostbeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_ROCK_90
-Description = In the Sinnoh region, they like to make sweets known as Poffins with this Berry.
+Description = In der Sinnoh-Region sind diese Beeren als Zutat für Snacks bekannt, die man Knursp nennt.
 #-------------------------------
 [RABUTABERRY]
-Name = Rabuta Berry
-NamePlural = Rabuta Berries
+Name = Rabutabeere
+NamePlural = Rabutabeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_GHOST_90
-Description = In the Sinnoh region, they like to make sweets known as Poffins with this Berry.
+Description = In der Sinnoh-Region sind diese Beeren als Zutat für Snacks bekannt, die man Knursp nennt.
 #-------------------------------
 [NOMELBERRY]
-Name = Nomel Berry
-NamePlural = Nomel Berries
+Name = Tronzibeere
+NamePlural = Tronzibeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_DRAGON_90
-Description = In the Sinnoh region, they like to make sweets known as Poffins with this Berry.
+Description = In der Sinnoh-Region sind diese Beeren als Zutat für Snacks bekannt, die man Knursp nennt.
 #-------------------------------
 [SPELONBERRY]
-Name = Spelon Berry
-NamePlural = Spelon Berries
+Name = Kiwanbeere
+NamePlural = Kiwanbeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_DARK_90
-Description = In the Sinnoh region, they like to make sweets known as Poffins with this Berry.
+Description = In der Sinnoh-Region sind diese Beeren als Zutat für Snacks bekannt, die man Knursp nennt.
 #-------------------------------
 [PAMTREBERRY]
-Name = Pamtre Berry
-NamePlural = Pamtre Berries
+Name = Pallmbeere
+NamePlural = Pallmbeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_STEEL_90
-Description = In the Sinnoh region, they like to make sweets known as Poffins with this Berry.
+Description = In der Sinnoh-Region sind diese Beeren als Zutat für Snacks bekannt, die man Knursp nennt.
 #-------------------------------
 [WATMELBERRY]
-Name = Watmel Berry
-NamePlural = Watmel Berries
+Name = Wasmelbeere
+NamePlural = Wasmelbeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_FIRE_100
-Description = In the Sinnoh region, they like to make sweets known as Poffins with this Berry.
+Description = In der Sinnoh-Region sind diese Beeren als Zutat für Snacks bekannt, die man Knursp nennt.
 #-------------------------------
 [DURINBERRY]
-Name = Durin Berry
-NamePlural = Durin Berries
+Name = Durinbeere
+NamePlural = Durinbeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_WATER_100
-Description = In the Sinnoh region, they like to make sweets known as Poffins with this Berry.
+Description = In der Sinnoh-Region sind diese Beeren als Zutat für Snacks bekannt, die man Knursp nennt.
 #-------------------------------
 [BELUEBERRY]
-Name = Belue Berry
-NamePlural = Belue Berries
+Name = Myrtilbeere
+NamePlural = Myrtilbeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_ELECTRIC_100
-Description = In the Sinnoh region, they like to make sweets known as Poffins with this Berry.
+Description = In der Sinnoh-Region sind diese Beeren als Zutat für Snacks bekannt, die man Knursp nennt.
 #-------------------------------
 [OCCABERRY]
-Name = Occa Berry
-NamePlural = Occa Berries
+Name = Koakobeere
+NamePlural = Koakobeere
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_FIRE_80,TypeReduceBerry
-Description = Weakens a supereffective Fire-type attack against the holding Pokémon.
+Description = Als gehaltenes Item schwächt diese Beere besonders effektive gegnerische Attacken vom Typ Feuer.
 #-------------------------------
 [PASSHOBERRY]
-Name = Passho Berry
-NamePlural = Passho Berries
+Name = Foepasbeere
+NamePlural = Foepasbeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_WATER_80,TypeReduceBerry
-Description = Weakens a supereffective Water-type attack against the holding Pokémon.
+Description = Als gehaltenes Item schwächt diese Beere besonders effektive gegnerische Attacken vom Typ Wasser.
 #-------------------------------
 [WACANBERRY]
-Name = Wacan Berry
-NamePlural = Wacan Berries
+Name = Kerzalbeere
+NamePlural = Kerzalbeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_ELECTRIC_80,TypeReduceBerry
-Description = Weakens a supereffective Electric-type attack against the holding Pokémon.
+Description = Als gehaltenes Item schwächt diese Beere besonders effektive gegnerische Attacken vom Typ Elektro.
 #-------------------------------
 [RINDOBERRY]
-Name = Rindo Berry
-NamePlural = Rindo Berries
+Name = Grindobeere
+NamePlural = Grindobeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_GRASS_80,TypeReduceBerry
-Description = Weakens a supereffective Grass-type attack against the holding Pokémon.
+Description = Als gehaltenes Item schwächt diese Beere besonders effektive gegnerische Attacken vom Typ Pflanze.
 #-------------------------------
 [YACHEBERRY]
-Name = Yache Berry
-NamePlural = Yache Berries
+Name = Kiroyabeere
+NamePlural = Kiroyabeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_ICE_80,TypeReduceBerry
-Description = Weakens a supereffective Ice-type attack against the holding Pokémon.
+Description = Als gehaltenes Item schwächt diese Beere besonders effektive gegnerische Attacken vom Typ Eis.
 #-------------------------------
 [CHOPLEBERRY]
-Name = Chople Berry
-NamePlural = Chople Berries
+Name = Rospelbeere
+NamePlural = Rospelbeere
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_FIGHTING_80,TypeReduceBerry
-Description = Weakens a supereffective Fighting-type attack against the holding Pokémon.
+Description = Als gehaltenes Item schwächt diese Beere besonders effektive gegnerische Attacken vom Typ Kampf.
 #-------------------------------
 [KEBIABERRY]
-Name = Kebia Berry
-NamePlural = Kebia Berries
+Name = Grarzbeere
+NamePlural = Grarzbeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_POISON_80,TypeReduceBerry
-Description = Weakens a supereffective Poison-type attack against the holding Pokémon.
+Description = Als gehaltenes Item schwächt diese Beere besonders effektive gegnerische Attacken vom Typ Gift.
 #-------------------------------
 [SHUCABERRY]
-Name = Shuca Berry
-NamePlural = Shuca Berries
+Name = Schukebeere
+NamePlural = Schukebeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_GROUND_80,TypeReduceBerry
-Description = Weakens a supereffective Ground-type attack against the holding Pokémon.
+Description = Als gehaltenes Item schwächt diese Beere besonders effektive gegnerische Attacken vom Typ Boden.
 #-------------------------------
 [COBABERRY]
-Name = Coba Berry
-NamePlural = Coba Berries
+Name = Kobabeere
+NamePlural = Kobabeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_FLYING_80,TypeReduceBerry
-Description = Weakens a supereffective Flying-type attack against the holding Pokémon.
+Description = Als gehaltenes Item schwächt diese Beere besonders effektive gegnerische Attacken vom Typ Flug.
 #-------------------------------
 [PAYAPABERRY]
-Name = Payapa Berry
-NamePlural = Payapa Berries
+Name = Pyapabeere
+NamePlural = Pyapabeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_PSYCHIC_80,TypeReduceBerry
-Description = Weakens a supereffective Psychic-type attack against the holding Pokémon.
+Description = Als gehaltenes Item schwächt diese Beere besonders effektive gegnerische Attacken vom Typ Psycho.
 #-------------------------------
 [TANGABERRY]
-Name = Tanga Berry
-NamePlural = Tanga Berries
+Name = Tanigabeere
+NamePlural = Tanigabeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_BUG_80,TypeReduceBerry
-Description = Weakens a supereffective Bug-type attack against the holding Pokémon.
+Description = Als gehaltenes Item schwächt diese Beere besonders effektive gegnerische Attacken vom Typ Käfer.
 #-------------------------------
 [CHARTIBERRY]
-Name = Charti Berry
-NamePlural = Charti Berries
+Name = Chiaribeere
+NamePlural = Chiaribeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_ROCK_80,TypeReduceBerry
-Description = Weakens a supereffective Rock-type attack against the holding Pokémon.
+Description = Als gehaltenes Item schwächt diese Beere besonders effektive gegnerische Attacken vom Typ Gestein.
 #-------------------------------
 [KASIBBERRY]
-Name = Kasib Berry
-NamePlural = Kasib Berries
+Name = Zitarzbeere
+NamePlural = Zitarzbeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_GHOST_80,TypeReduceBerry
-Description = Weakens a supereffective Ghost-type attack against the holding Pokémon.
+Description = Als gehaltenes Item schwächt diese Beere besonders effektive gegnerische Attacken vom Typ Geist.
 #-------------------------------
 [HABANBERRY]
-Name = Haban Berry
-NamePlural = Haban Berries
+Name = Terirobeere
+NamePlural = Terirobeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_DRAGON_80,TypeReduceBerry
-Description = Weakens a supereffective Dragon-type attack against the holding Pokémon.
+Description = Als gehaltenes Item schwächt diese Beere besonders effektive gegnerische Attacken vom Typ Drache.
 #-------------------------------
 [COLBURBERRY]
-Name = Colbur Berry
-NamePlural = Colbur Berries
+Name = Burleobeere
+NamePlural = Burleobeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_DARK_80,TypeReduceBerry
-Description = Weakens a supereffective Dark-type attack against the holding Pokémon.
+Description = Als gehaltenes Item schwächt diese Beere besonders effektive gegnerische Attacken vom Typ Unlicht.
 #-------------------------------
 [BABIRIBERRY]
-Name = Babiri Berry
-NamePlural = Babiri Berries
+Name = Babiribeere
+NamePlural = Babiribeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_STEEL_80,TypeReduceBerry
-Description = Weakens a supereffective Steel-type attack against the holding Pokémon.
+Description = Als gehaltenes Item schwächt diese Beere besonders effektive gegnerische Attacken vom Typ Stahl.
 #-------------------------------
 [ROSELIBERRY]
-Name = Roseli Berry
-NamePlural = Roseli Berries
+Name = Hibisbeere
+NamePlural = Hibisbeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_FAIRY_80,TypeReduceBerry
-Description = If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Fairy-type attack.
+Description = Als gehaltenes Item schwächt diese Beere besonders effektive gegnerische Attacken vom Typ Fee.
 #-------------------------------
 [CHILANBERRY]
-Name = Chilan Berry
-NamePlural = Chilan Berries
+Name = Chilanbeere
+NamePlural = Chilanbeere
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_NORMAL_80,TypeReduceBerry
-Description = Weakens a Normal-type attack against the Pokémon holding this berry.
+Description = Als gehaltenes Item schwächt diese Beere gegnerische Attacken vom Typ Normal.
 #-------------------------------
 [LIECHIBERRY]
-Name = Liechi Berry
-NamePlural = Liechi Berries
+Name = Lydzibeere
+NamePlural = Lydzibeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_GRASS_100,PinchBerry
-Description = If held by a Pokémon, it raises its Attack stat in a pinch.
+Description = ls gehaltenes Item erhöht diese Beere den Angriffs-Wert eines Pokémon, sobald es in einer Notlage steckt.
 #-------------------------------
 [GANLONBERRY]
-Name = Ganlon Berry
-NamePlural = Ganlon Berries
+Name = Linganbeere
+NamePlural = Linganbeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_ICE_100,PinchBerry
-Description = If held by a Pokémon, it raises its Defense stat in a pinch.
+Description = Als gehaltenes Item erhöht diese Beere den Verteidigungs-Wert eines Pokémon, sobald es in einer Notlage steckt.
 #-------------------------------
 [SALACBERRY]
-Name = Salac Berry
-NamePlural = Salac Berries
+Name = Salkabeere
+NamePlural = Salkabeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_FIGHTING_100,PinchBerry
-Description = If held by a Pokémon, it raises its Speed stat in a pinch.
+Description = Als gehaltenes Item erhöht diese Beere den Initiative-Wert eines Pokémon, sobald es in einer Notlage steckt.
 #-------------------------------
 [PETAYABERRY]
-Name = Petaya Berry
-NamePlural = Petaya Berries
+Name = Tahaybeere
+NamePlural = Tahaybeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_POISON_100,PinchBerry
-Description = If held by a Pokémon, it raises its Sp. Atk stat in a pinch.
+Description = Als gehaltenes Item erhöht diese Beere den Spezial-Angriff eines Pokémon, sobald es in einer Notlage steckt.
 #-------------------------------
 [APICOTBERRY]
-Name = Apicot Berry
-NamePlural = Apicot Berries
+Name = Apikobeere
+NamePlural = Apikobeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_GROUND_100,PinchBerry
-Description = If held by a Pokémon, it raises its Sp. Def stat in a pinch.
+Description = Als gehaltenes Item erhöht diese Beere die Spezial-Verteidigung eines Pokémon, sobald es in einer Notlage steckt.
 #-------------------------------
 [LANSATBERRY]
-Name = Lansat Berry
-NamePlural = Lansat Berries
+Name = Lansatbeere
+NamePlural = Lansatbeere
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_FLYING_100,PinchBerry
-Description = If held by a Pokémon, it raises its critical-hit ratio in a pinch.
+Description = Als gehaltenes Item erhöht diese Beere die Volltrefferquote eines Pokémon, sobald es in einer Notlage steckt.
 #-------------------------------
 [STARFBERRY]
-Name = Starf Berry
-NamePlural = Starf Berries
+Name = Krambobeere
+NamePlural = Krambobeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_PSYCHIC_100,PinchBerry
-Description = If held by a Pokémon, it sharply raises one of its stats in a pinch.
+Description = Als gehaltenes Item erhöht diese Beere einen Statuswert des Pokémon stark, sobald es in einer Notlage steckt.
 #-------------------------------
 [ENIGMABERRY]
-Name = Enigma Berry
-NamePlural = Enigma Berries
+Name = Enigmabeere
+NamePlural = Enigmabeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_BUG_100
-Description = If held by a Pokémon, it restores its HP if it is hit by any supereffective attack.
+Description = Als gehaltenes Item füllt die Beere die KP eines Pokémon auf, wenn es von sehr effektiven Attacken getroffen wird.
 #-------------------------------
 [MICLEBERRY]
-Name = Micle Berry
-NamePlural = Micle Berries
+Name = Wunfrubeere
+NamePlural = Wunfrubeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_ROCK_100,PinchBerry
-Description = If held by a Pokémon, it raises the accuracy of a move just once in a pinch.
+Description = Als gehaltenes Item erhöht die Beere die Genauigkeit eines Pokémon, sobald es in einer Notlage steckt.
 #-------------------------------
 [CUSTAPBERRY]
-Name = Custap Berry
-NamePlural = Custap Berries
+Name = Eipfelbeere
+NamePlural = Eipfelbeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_GHOST_100,PinchBerry
-Description = If held by a Pokémon, it gets to move first just once in a pinch.
+Description = Als gehaltenes Item ermöglicht die Beere dem Träger in einer Notlage den Erstschlag.
 #-------------------------------
 [JABOCABERRY]
-Name = Jaboca Berry
-NamePlural = Jaboca Berries
+Name = Jabocabeere
+NamePlural = Jabocabeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_DRAGON_100
-Description = If held by a Pokémon and a physical attack lands, the attacker also takes damage.
+Description = Als gehaltenes Item bewirkt die Beere beim Gegner Schaden, wenn er den Träger mit einer physischen Attacke trifft.
 #-------------------------------
 [ROWAPBERRY]
-Name = Rowap Berry
-NamePlural = Rowap Berries
+Name = Roselbeere
+NamePlural = Roselbeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_DARK_100
-Description = If held by a Pokémon and a special attack lands, the attacker also takes damage.
+Description = Als gehaltenes Item bewirkt die Beere beim Gegner Schaden, wenn er den Träger mit einer Spezial-Attacke trifft.
 #-------------------------------
 [KEEBERRY]
-Name = Kee Berry
-NamePlural = Kee Berries
+Name = Akibeere
+NamePlural = Akibeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_FAIRY_100
-Description = If held by a Pokémon, this Berry will increase the holder's Defense if it's hit with a physical move.
+Description = Als getragenes Item erhöht diese Beere die Verteidigung des Trägers, wenn dieser von physischen Attacken getroffen wird.
 #-------------------------------
 [MARANGABERRY]
-Name = Maranga Berry
-NamePlural = Maranga Berries
+Name = Tarabeere
+NamePlural = Tarabeeren
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_DARK_100
-Description = If held by a Pokémon, this Berry will increase the holder's Sp. Def if it's hit with a special move.
+Description = Als getragenes Item erhöht diese Beere die Spezial-Verteidigung des Trägers, wenn dieser von Spezial-Attacken getroffen wird.
 #-------------------------------
 [GRASSMAIL]
-Name = Grass Mail
-NamePlural = Grass Mail
+Name = Wiesenbrief
+NamePlural = Wiesenbriefe
 Pocket = 6
 Price = 50
 Flags = IconMail
-Description = Stationery featuring a print of a refreshingly green field. Let a Pokémon hold it for delivery.
+Description = Das Briefpapier hat eine grüne Wiese als Hintergrund. Gib es einem Pokémon mit.
 #-------------------------------
 [FLAMEMAIL]
-Name = Flame Mail
-NamePlural = Flame Mail
+Name = Feuerbrief
+NamePlural = Feuerbriefe
 Pocket = 6
 Price = 50
 Flags = IconMail
-Description = Stationery featuring a print of flames in blazing red. Let a Pokémon hold it for delivery.
+Description = Das Briefpapier hat heiße rote Flammen als Hintergrund. Gib es einem Pokémon mit.
 #-------------------------------
 [BUBBLEMAIL]
-Name = Bubble Mail
-NamePlural = Bubble Mail
+Name = Wasserbrief
+NamePlural = Wasserbriefe
 Pocket = 6
 Price = 50
 Flags = IconMail
-Description = Stationery featuring a print of a blue world underwater. Let a Pokémon hold it for delivery.
+Description = Das Briefpapier hat eine Unterwasserwelt als Hintergrund. Gib es einem Pokémon mit.
 #-------------------------------
 [BLOOMMAIL]
-Name = Bloom Mail
-NamePlural = Bloom Mail
+Name = Blütenbrief
+NamePlural = Blütenbriefe
 Pocket = 6
 Price = 50
 Flags = IconMail
-Description = Stationery featuring a print of pretty floral patterns. Let a Pokémon hold it for delivery.
+Description = Das Briefpapier hat hübsche Blumen als Hintergrund. Gib es einem Pokémon mit.
 #-------------------------------
 [TUNNELMAIL]
-Name = Tunnel Mail
-NamePlural = Tunnel Mail
+Name = Minenbrief
+NamePlural = Minenbriefe
 Pocket = 6
 Price = 50
 Flags = IconMail
-Description = Stationery featuring a print of a dimly lit coal mine. Let a Pokémon hold it for delivery.
+Description = Das Briefpapier hat eine dunkle Kohlemine als Hintergrund. Gib es einem Pokémon mit.
 #-------------------------------
 [STEELMAIL]
-Name = Steel Mail
-NamePlural = Steel Mail
+Name = Stahlbrief
+NamePlural = Stahlbriefe
 Pocket = 6
 Price = 50
 Flags = IconMail
-Description = Stationery featuring a print of cool mechanical designs. Let a Pokémon hold it for delivery.
+Description = Das Briefpapier hat ein Metallmuster als Hintergrund. Gib es einem Pokémon mit.
 #-------------------------------
 [HEARTMAIL]
-Name = Heart Mail
-NamePlural = Heart Mail
+Name = Rosabrief
+NamePlural = Rosabriefe
 Pocket = 6
 Price = 50
 Flags = IconMail
-Description = Stationery featuring a print of giant heart patterns. Let a Pokémon hold it for delivery.
+Description = Das Briefpapier hat riesige Herzen als Hintergrund. Gib es einem Pokémon mit.
 #-------------------------------
 [SNOWMAIL]
-Name = Snow Mail
-NamePlural = Snow Mail
+Name = Schneebrief
+NamePlural = Schneebriefe
 Pocket = 6
 Price = 50
 Flags = IconMail
-Description = Stationery featuring a print of a chilly, snow-covered world. Let a Pokémon hold it for delivery.
+Description = Das Briefpapier hat eine Eislandschaft als Hintergrund. Gib es einem Pokémon mit.
 #-------------------------------
 [SPACEMAIL]
-Name = Space Mail
-NamePlural = Space Mail
+Name = Sternbrief
+NamePlural = Sternbriefe
 Pocket = 6
 Price = 50
 Flags = IconMail
-Description = Stationery featuring a print depicting the huge expanse of space. Let a Pokémon hold it for delivery.
+Description = Das Briefpapier hat den weiten Weltraum als Hintergrund. Gib es einem Pokémon mit.
 #-------------------------------
 [AIRMAIL]
-Name = Air Mail
-NamePlural = Air Mail
+Name = Luftbrief
+NamePlural = Luftbriefe
 Pocket = 6
 Price = 50
 Flags = IconMail
-Description = Stationery featuring a print of colorful letter sets. Let a Pokémon hold it for delivery.
+Description = Das Briefpapier hat bunte Streifen als Hintergrund. Gib es einem Pokémon mit.
 #-------------------------------
 [MOSAICMAIL]
-Name = Mosaic Mail
-NamePlural = Mosaic Mail
+Name = Mosaikbrief
+NamePlural = Mosaikbriefe
 Pocket = 6
 Price = 50
 Flags = IconMail
-Description = Stationery featuring a print of a vivid rainbow pattern. Let a Pokémon hold it for delivery.
+Description = Das Briefpapier erstrahlt in den Farben des Regenbogens. Gib es einem Pokémon mit.
 #-------------------------------
 [BRICKMAIL]
-Name = Brick Mail
-NamePlural = Brick Mail
+Name = Ziegelbrief
+NamePlural = Ziegelbriefe
 Pocket = 6
 Price = 50
 Flags = IconMail
-Description = Stationery featuring a print of a tough-looking brick pattern. Let a Pokémon hold it for delivery.
+Description = Das Briefpapier hat massive Ziegelsteine als Hintergrund. Gib es einem Pokémon mit.
 #-------------------------------
 [XATTACK]
-Name = X Attack
-NamePlural = X Attacks
+Name = X-Angriff
+NamePlural = X-Angriff
 Pocket = 7
 Price = 1000
 BattleUse = OnBattler
 Flags = Fling_30,BattleEnhancer
-Description = An item that sharply boosts the Attack stat of a Pokémon while it remains in battle.
+Description = Hebt den Angriffs-Wert eines Pokémon im Kampf stark an. Die Wirkung wird mit Austausch beendet.
 #-------------------------------
 [XATTACK2]
 Name = X Attack 2
@@ -5431,13 +5431,13 @@ Flags = Fling_30,BattleEnhancer
 Description = It raises the Attack stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.
 #-------------------------------
 [XDEFENSE]
-Name = X Defense
-NamePlural = X Defenses
+Name = X-Verteidigung
+NamePlural = X-Verteidigung
 Pocket = 7
 Price = 2000
 BattleUse = OnBattler
 Flags = Fling_30,BattleEnhancer
-Description = An item that sharply boosts the Defense of a Pokémon while it remains in battle.
+Description = Hebt den Verteidigungs-Wert eines Pokémon im Kampf stark an. Die Wirkung wird mit Austausch beendet.
 #-------------------------------
 [XDEFENSE2]
 Name = X Defense 2
@@ -5467,13 +5467,13 @@ Flags = Fling_30,BattleEnhancer
 Description = It raises the Defense stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.
 #-------------------------------
 [XSPATK]
-Name = X Sp. Atk
-NamePlural = X Sp. Atks
+Name = X-Sp.-Ang
+NamePlural = X-Sp.-Ang
 Pocket = 7
 Price = 1000
 BattleUse = OnBattler
 Flags = Fling_30,BattleEnhancer
-Description = An item that sharply boosts the Sp. Atk stat of a Pokémon while it remains in battle.
+Description = Hebt den Spezial-Angriff eines Pokémon im Kampf stark an. Die Wirkung wird mit Austausch beendet.
 #-------------------------------
 [XSPATK2]
 Name = X Sp. Atk 2
@@ -5503,13 +5503,13 @@ Flags = Fling_30,BattleEnhancer
 Description = It raises the Sp. Atk stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.
 #-------------------------------
 [XSPDEF]
-Name = X Sp. Def
-NamePlural = X Sp. Defs
+Name = X-Sp.-Vert
+NamePlural = X-Sp.-Vert
 Pocket = 7
 Price = 2000
 BattleUse = OnBattler
 Flags = Fling_30,BattleEnhancer
-Description = An item that sharply boosts the Sp. Def stat of a Pokémon while it remains in battle.
+Description = Hebt die Spezial-Verteidigung eines Pokémon im Kampf stark an. Die Wirkung wird mit Austausch beendet.
 #-------------------------------
 [XSPDEF2]
 Name = X Sp. Def 2
@@ -5539,13 +5539,13 @@ Flags = Fling_30,BattleEnhancer
 Description = It raises the Sp. Def stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.
 #-------------------------------
 [XSPEED]
-Name = X Speed
-NamePlural = X Speeds
+Name = X-Initiative
+NamePlural = X-Initiative
 Pocket = 7
 Price = 1000
 BattleUse = OnBattler
 Flags = Fling_30,BattleEnhancer
-Description = An item that sharply boosts the Speed stat of a Pokémon while it remains in battle.
+Description = Hebt den Initiative-Wert eines Pokémon im Kampf stark an. Die Wirkung wird mit Austausch beendet.
 #-------------------------------
 [XSPEED2]
 Name = X Speed 2
@@ -5575,13 +5575,13 @@ Flags = Fling_30,BattleEnhancer
 Description = It raises the Speed stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.
 #-------------------------------
 [XACCURACY]
-Name = X Accuracy
-NamePlural = X Accuracies
+Name = X-Genauigkeit
+NamePlural = X-Genauigkeit
 Pocket = 7
 Price = 1000
 BattleUse = OnBattler
 Flags = Fling_30,BattleEnhancer
-Description = An item that sharply boosts the accuracy of a Pokémon while it remains in battle.
+Description = Hebt die Genauigkeit eines Pokémon im Kampf stark an. Die Wirkung wird mit dem Austausch des Pokémon beendet.
 #-------------------------------
 [XACCURACY2]
 Name = X Accuracy 2
@@ -5620,13 +5620,13 @@ Flags = Fling_30,BattleEnhancer
 Description = Mushrooms that boost all stats of a Pokémon during battle.
 #-------------------------------
 [DIREHIT]
-Name = Dire Hit
-NamePlural = Dire Hits
+Name = Angriffplus
+NamePlural = Angriffpluss
 Pocket = 7
 Price = 1000
 BattleUse = OnBattler
 Flags = Fling_30,BattleEnhancer
-Description = An item that raises the critical-hit ratio greatly. It wears off if the Pokémon is withdrawn.
+Description = Hebt die Volltrefferquote des Pokémon im Kampf stark an. Die Wirkung wird mit Austausch beendet.
 #-------------------------------
 [DIREHIT2]
 Name = Dire Hit 2
@@ -5647,134 +5647,134 @@ Flags = Fling_30,BattleEnhancer
 Description = It greatly raises the critical-hit ratio. It wears off if the Pokémon is withdrawn.
 #-------------------------------
 [GUARDSPEC]
-Name = Guard Spec.
-NamePlural = Guard Specs.
+Name = Megablock
+NamePlural = Megablock
 Pocket = 7
 Price = 1500
 BattleUse = Direct
 Flags = Fling_30,BattleEnhancer
-Description = An item that prevents stat reduction among the Trainer's party Pokémon for five turns after use.
+Description = Eine mögliche Statuswertänderung der Pokémon im Team wird für 5 Runden verhindert.
 #-------------------------------
 [RESETURGE]
-Name = Reset Urge
-NamePlural = Reset Urges
+Name = Umkehrapell
+NamePlural = Umkehrapelle
 Pocket = 7
 Price = 0
 Flags = Fling_30,BattleEnhancer
-Description = When used, it restores any stat changes of an ally Pokémon.
+Description = Hebt die Statusveränderung eines Teamkollegen auf.
 #-------------------------------
 [ABILITYURGE]
-Name = Ability Urge
-NamePlural = Ability Urges
+Name = Fäh.-Appell
+NamePlural = Fäh.-Appelle
 Pocket = 7
 Price = 0
 Flags = Fling_30,BattleEnhancer
-Description = When used, it activates the Ability of an ally Pokémon.
+Description = Aktiviert die Fähigkeit eines Teamkollegen.
 #-------------------------------
 [ITEMURGE]
-Name = Item Urge
-NamePlural = Item Urges
+Name = Itemapell
+NamePlural = Itemapelle
 Pocket = 7
 Price = 0
 Flags = Fling_30,BattleEnhancer
-Description = When used, it causes an ally Pokémon to use its held item.
+Description = Aktiviert die Items der Teamkollegen.
 #-------------------------------
 [ITEMDROP]
-Name = Item Drop
-NamePlural = Item Drops
+Name = Itemabwurf
+NamePlural = Itemabwürfe
 Pocket = 7
 Price = 0
 Flags = Fling_30,BattleEnhancer
-Description = When used, it causes an ally Pokémon to drop a held item.
+Description = Teamkollegen verlieren ihre getragene Items.
 #-------------------------------
 [BLUEFLUTE]
-Name = Blue Flute
-NamePlural = Blue Flutes
+Name = Blaue Flöte
+NamePlural = Blaue Flöten
 Pocket = 7
 Price = 20
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Consumable = false
 Flags = Fling_30,Flute
-Description = A blue flute made from blown glass. Its melody awakens a single Pokémon from sleep.
+Description = Eine blaue, gläserne Flöte, die ein schlafendes Pokémon weckt.
 #-------------------------------
 [YELLOWFLUTE]
-Name = Yellow Flute
-NamePlural = Yellow Flutes
+Name = Gelbe Flöte
+NamePlural = Gelbe Flöten
 Pocket = 7
 Price = 20
 BattleUse = OnBattler
 Consumable = false
 Flags = Fling_30,Flute
-Description = A yellow flute made from blown glass. Its melody snaps a single Pokémon out of confusion.
+Description = Eine gelbe, gläserne Flöte, die ein Pokémon von Verwirrung heilt.
 #-------------------------------
 [REDFLUTE]
-Name = Red Flute
-NamePlural = Red Flutes
+Name = Rote Flöte
+NamePlural = Rote Flöten
 Pocket = 7
 Price = 20
 BattleUse = OnBattler
 Consumable = false
 Flags = Fling_30,Flute
-Description = A red flute made from blown glass. Its melody snaps a single Pokémon out of infatuation.
+Description = Eine rote, gläserne Flöte, die ein Pokémon von Anziehung heilt.
 #-------------------------------
 [POKEDOLL]
-Name = Poké Doll
-NamePlural = Poké Dolls
+Name = Poképuppe
+NamePlural = Poképuppen
 Pocket = 7
 Price = 300
 BattleUse = Direct
 Flags = Fling_30
-Description = A doll that attracts Pokémon. Use it to flee from any battle with a wild Pokémon.
+Description = Eine hübsche Puppe. Sie ermöglicht die Flucht im Kampf gegen wilde Pokémon.
 #-------------------------------
 [FLUFFYTAIL]
-Name = Fluffy Tail
-NamePlural = Fluffy Tails
+Name = Eneco-Rute
+NamePlural = Eneco-Ruten
 Pocket = 7
 Price = 300
 BattleUse = Direct
 Flags = Fling_30
-Description = An item that attracts Pokémon. Use it to flee from any battle with a wild Pokémon.
+Description = Ein tolles Item. Fliehe damit aus jedem Kampf mit einem wilden Pokémon.
 #-------------------------------
 [POKETOY]
-Name = Poké Toy
-NamePlural = Poké Toys
+Name = Pokéwedel
+NamePlural = Pokéwedel
 Pocket = 7
 Price = 300
 BattleUse = Direct
 Flags = Fling_30
-Description = An item that attracts Pokémon. Use it to flee from any battle with a wild Pokémon.
+Description = Ein hübscher Wedel. Er ermöglicht die Flucht im Kampf gegen wilde Pokémon.
 #-------------------------------
 [BICYCLE]
-Name = Bicycle
-NamePlural = Bicycles
+Name = Fahrrad
+NamePlural = Fahrräder
 Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = A folding Bicycle that enables much faster movement than the Running Shoes.
+Description = Ein Klapprad, mit dem man schneller als mit Turbotretern ist.
 #-------------------------------
 [OLDROD]
-Name = Old Rod
-NamePlural = Old Rods
+Name = Angel
+NamePlural = Angeln
 Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = An old and beat-up fishing rod. Use it by any body of water to fish for wild aquatic Pokémon.
+Description = Eine alte, abgenutzte Angel. Damit kannst du in jedem Gewässer nach Pokémon angeln.
 #-------------------------------
 [GOODROD]
-Name = Good Rod
-NamePlural = Good Rods
+Name = Profiangel
+NamePlural = Profiangeln
 Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = A new, good-quality fishing rod. Use it by any body of water to fish for wild aquatic Pokémon.
+Description = Eine recht gute Angel. Damit kannst du in jedem Gewässer nach Pokémon angeln.
 #-------------------------------
 [SUPERROD]
-Name = Super Rod
-NamePlural = Super Rods
+Name = Superangel
+NamePlural = Superangeln
 Pocket = 8
 Price = 0
 FieldUse = Direct
@@ -5782,76 +5782,76 @@ Flags = KeyItem
 Description = An awesome, high-tech fishing rod. Use it by any body of water to fish for wild aquatic Pokémon.
 #-------------------------------
 [ITEMFINDER]
-Name = Itemfinder
-NamePlural = Itemfinders
+Name = Detektor
+NamePlural = Detektoren
 Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = A device used for finding items. If there is a hidden item nearby when it is used, it emits a signal.
+Description = Ein Gerät, das verborgene Items via Schallwellen ortet.
 #-------------------------------
 [DOWSINGMACHINE]
-Name = Dowsing Machine
-NamePlural = Dowsing Machines
+Name = Itemradar
+NamePlural = Itemradare
 Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = It checks for unseen items in the area and makes noise and lights when it finds something.
+Description = Scannt die Umgebung nach unsichtbaren Items. Es blinkt und piept, sobald es etwas findet.
 #-------------------------------
 [POKERADAR]
-Name = Poké Radar
-NamePlural = Poké Radars
+Name = Pokéradar
+NamePlural = Pokéradare
 Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = A tool that can search out Pokémon that are hiding in grass. Its battery is recharged as you walk.
+Description = Findet Pokémon, die sich im Gras verstecken. Die Batterie lädt sich beim Reisen auf.
 #-------------------------------
 [TOWNMAP]
-Name = Town Map
-NamePlural = Town Maps
+Name = Karte
+NamePlural = Karten
 Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = A very convenient map that can be viewed anytime. It even shows your present location.
+Description = Eine praktische Karte, die jederzeit aufgerufen werden kann. Zeigt den aktuellen Standort an.
 #-------------------------------
 [ESCAPEROPE]
-Name = Escape Rope
-NamePlural = Escape Ropes
+Name = Fluchtseil
+NamePlural = Fluchtseile
 Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = A long, durable rope. Use it to escape instantly from a cave or a dungeon.
+Description = Ein langes, festes Seil, das die sofortige Flucht aus Höhlen oder Ähnlichem ermöglicht.
 #-------------------------------
 [COINCASE]
-Name = Coin Case
-NamePlural = Coin Cases
+Name = Münzkorb
+NamePlural = Münzkörbe
 Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = A case for holding coins obtained at the Game Corner. It holds up to 99,999 coins.
+Description = Kann bis zu 99.999 MÜNZEN aufnehmen.
 #-------------------------------
 [POKEFLUTE]
-Name = Poké Flute
-NamePlural = Poké Flutes
+Name = Pokéflöte
+NamePlural = Pokéflöten
 Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 BattleUse = Direct
 Flags = KeyItem
-Description = A flute that is said to instantly awaken any Pokémon. It has a lovely tone.
+Description = Eine Flöte, die schlafende Pokémon weckt.
 #-------------------------------
 [SOOTSACK]
-Name = Soot Sack
-NamePlural = Soot Sacks
+Name = Aschetasche
+NamePlural = Aschetaschen
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = A sack used to gather and hold volcanic ash.
+Description = Beutel zum Sammeln und Aufbewahren von Vulkanasche.
 #-------------------------------
 [SILPHSCOPE]
 Name = Silph Scope
@@ -5859,228 +5859,244 @@ NamePlural = Silph Scopes
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = A scope that makes unseeable Pokémon visible. It is made by Silph Co.
+Description = Eine Linse, die bestimmte Pokémon sichtbar macht. Entwickelt von der Silph Co.
 #-------------------------------
 [DEVONSCOPE]
-Name = Devon Scope
-NamePlural = Devon Scopes
+Name = Devon-Scope
+NamePlural = Devon-Scopes
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = A device by Devon that signals any unseeable Pokémon.
+Description = Gerät von Devon, das unsichtbare Pokémon entlarvt.
 #-------------------------------
 [SQUIRTBOTTLE]
-Name = Squirt Bottle
-NamePlural = Squirt Bottles
+Name = Schiggykanne
+NamePlural = Schiggykannen
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = A watering can shaped like a Squirtle. It helps promote healthy growth of Berries planted in soft soil.
+Description = Eine Gießkanne, durch deren Wasser Beeren umso rascher wachsen.
 #-------------------------------
 [SPRAYDUCK]
-Name = Sprayduck
-NamePlural = Sprayducks
+Name = Entonkanne
+NamePlural = Entonkannen
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = A watering can shaped like a Psyduck. It helps promote healthy growth of Berries planted in soft soil.
+Description = Eine Gießkanne in Form von Enton. Gieße gepflanzte Beeren, damit sie besser wachsen.
 #-------------------------------
 [WAILMERPAIL]
-Name = Wailmer Pail
-NamePlural = Wailmer Pails
+Name = Wailmerkanne
+NamePlural = Wailmerkannen
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = A nifty watering pail. Use it to promote strong growth in Berries planted in soft soil.
+Description = Ein Gegenstand zum Gießen von Pflanzen wie Beeren.
 #-------------------------------
 [SPRINKLOTAD]
-Name = Sprinklotad
-NamePlural = Sprinklotads
+Name = Loturzelkanne
+NamePlural = Loturzelkannen
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = A watering can shaped like a Lotad. It helps promote the healthy growth of any Berries planted in soft soil.
+Description = Eine Gießkanne in Form von Loturzel. Gieße gepflanzte Beeren, damit sie besser wachsen.
 #-------------------------------
 [GRACIDEA]
 Name = Gracidea
-NamePlural = Gracideas
+NamePlural = Gracideae
 Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = A flower sometimes bundled in bouquets to convey gratitude on special occasions like birthdays.
+Description = Mit dieser Blume, manchmal auch als Teil eines Bouquets, kann man seine Dankbarkeit ausdrücken.
 #-------------------------------
 [REVEALGLASS]
-Name = Reveal Glass
-NamePlural = Reveal Glasses
+Name = Wahrspiegel
+NamePlural = Wahrspiegeln
 Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = A glass that reveals the truth. It is a mysterious glass that returns a Pokémon back to its original shape.
+Description = Lässt die Mitglieder des Kami-Trios ihre Form wechseln.
 #-------------------------------
 [PRISONBOTTLE]
-Name = Prison Bottle
-NamePlural = Prison Bottles
+Name = Banngefäß
+NamePlural = Banngefäß
 Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = A bottle believed to have been used to seal away the power of a certain Pokémon long, long ago.
+Description = Ein Gefäß, mit dem vor langer, langer Zeit die Macht eines gewissen Pokémon versiegelt wurde.
 #-------------------------------
 [ROTOMCATALOG]
-Name = Rotom Catalog
-NamePlural = Rotom Catalogs
+Name = Rotom-Katalog
+NamePlural = Rotom-Kataloge
 Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = A catalog of devices that Rotom like. Use the catalog to have Rotom hop in and out of the devices listed within.
+Description = Ein Katalog, der Rotoms Lieblingsgeräte auflistet. Mit diesem Katalog kann Rotom in Geräte schlüpfen und sie wieder verlassen.
 #-------------------------------
 [ZYGARDECUBE]
-Name = Zygarde Cube
-NamePlural = Zygarde Cubes
+Name = Zygarde-Würfel
+NamePlural = Zygarde-Würfel
 Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = An item in which Zygarde Cores and Cells are gathered. You can also use it to change Zygarde's forms.
+Description = Ein Gegenstand zum Sammeln der Kerne und Zellen des Pokémon Zygarde. Mit ihm können Zygarde auch Attacken beigebracht werden.
 #-------------------------------
 [DNASPLICERS]
-Name = DNA Splicers
-NamePlural = DNA Splicers
+Name = DNS-Keil
+NamePlural = DNS-Keile
 Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = A splicer that fuses Kyurem and a certain Pokémon. They are said to have been one in the beginning.
+Description = Fusioniert Kyurem und Zekrom/Reshiram zum Schwarzen/Weißen Kyurem.
 #-------------------------------
 [DNASPLICERSUSED]
-Name = DNA Splicers
-NamePlural = DNA Splicers
+Name = DNS-Keil
+NamePlural = DNS-Keile
 Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = A splicer that separates Kyurem and a certain Pokémon when they have been fused.
+Description = Ein Keil, der Kyurem und ein gewisses anderes Pokémon, die vereinigt wurden, voneinander trennt.
 #-------------------------------
 [NSOLARIZER]
-Name = N-Solarizer
-NamePlural = N-Solarizers
+Name = Necrosol
+NamePlural = Necrosole
 Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = A machine to fuse Necrozma, which needs light, and Solgaleo.
+Description = Necrozma, das Licht benötigt, kann mithilfe dieser Maschine mit Solgaleo fusioniert werden.
 #-------------------------------
 [NSOLARIZERUSED]
-Name = N-Solarizer
-NamePlural = N-Solarizers
+Name = Necrosol
+NamePlural = Necrosole
 Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = A machine to separate Necrozma, which needed light, from Solgaleo.
+Description = Necrozma, das Licht benötigte, kann mithilfe dieser Maschine wieder von Solgaleo getrennt werden.
 #-------------------------------
 [NLUNARIZER]
-Name = N-Lunarizer
-NamePlural = N-Lunarizers
+Name = Necrolun
+NamePlural = Necrolune
 Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = A machine to fuse Necrozma, which needs light, and Lunala.
+Description = Necrozma, das Licht benötigt, kann mithilfe dieser Maschine mit Lunala fusioniert werden.
 #-------------------------------
 [NLUNARIZERUSED]
-Name = N-Lunarizer
-NamePlural = N-Lunarizers
+Name = Necrolun
+NamePlural = Necrolune
 Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = A machine to separate Necrozma, which needed light, from Lunala.
+Description = Necrozma, das Licht benötigte, kann mithilfe dieser Maschine wieder von Lunala getrennt werden.
 #-------------------------------
 [REINSOFUNITY]
-Name = Reins of Unity
-NamePlural = Reins of Unity
+Name = Zügel des Bundes
+NamePlural = Zügel des Bundes
 Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = Reins that people presented to the king. They unite Calyrex with its beloved steed.
+Description = Zügel, die dem König vom Volk dargeboten wurden. Sie verstärken Coronospas Macht über reiche Ernten und ermöglichen das Bündnis mit seinem treuen Ross.
 #-------------------------------
 [REINSOFUNITYUSED]
-Name = Reins of Unity
-NamePlural = Reins of Unity
+Name = Zügel des Bundes
+NamePlural = Zügel des Bundes
 Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = Reins that people presented to the king. They separate Calyrex and its beloved steed.
+Description = Zügel, die dem König vom Volk dargeboten wurden. Sie sorgen für Verständnis zwischen Coronospa und seinem treuen Ross und ermöglichen ihre Trennung.
 #-------------------------------
 [OVALCHARM]
-Name = Oval Charm
-NamePlural = Oval Charms
+Name = Ovalpin
+NamePlural = Ovalpins
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = An oval charm said to increase the chance of Eggs being found at the Day Care.
+Description = Ein ovaler Glücksbringer, der die Chance erhöht, in der Pension Eier zu finden.
 #-------------------------------
 [SHINYCHARM]
-Name = Shiny Charm
-NamePlural = Shiny Charms
+Name = Schillerpin
+NamePlural = Schillerpins
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = A shiny charm said to increase the chance of finding a Shiny Pokémon.
+Description = Ein schillernder Glücksbringer, der die Chance erhöht, Schillernde Pokémon zu finden.
 #-------------------------------
 [CATCHINGCHARM]
-Name = Catching Charm
-NamePlural = Catching Charms
+Name = Superfangpin
+NamePlural = Superfangpins
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = A charm said to increase the chance of getting a critical catch. The charm doesn't shake much.
+Description = Ein mysteriöser Glücksbringer, der nur wenig wackelt und die Wahrscheinlichkeit erhöht, einen Superfang hinzulegen.
 #-------------------------------
 [EXPCHARM]
-Name = Exp. Charm
-NamePlural = Exp. Charms
+Name = EP-Pin
+NamePlural = EP-Pins
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = A charm that increases the Exp. Points that Pokémon can get. A machine-like object is inside it.
+Description = Ein Glücksbringer, der Pokémon mehr Erfahrungspunkte erhalten lässt. Im Inneren scheint eine Art Maschine zu stecken.
 #-------------------------------
 [MEGARING]
-Name = Mega Ring
-NamePlural = Mega Rings
+Name = Mega-Ring
+NamePlural = Mega-Ringe
 Pocket = 8
 Price = 0
 Flags = KeyItem,MegaRing
-Description = This ring contains an untold power that somehow enables Pokémon carrying Mega Stones to Mega Evolve.
+Description = Ein Armband mit geheimnisvollen Kräften. Es ermöglicht Pokémon eine Mega-Entwicklung durchzuführen.
 #-------------------------------
 [POKEMONBOXLINK]
-Name = Pokémon Box Link
-NamePlural = Pokémon Box Links
+Name = Pokémon Box 
+NamePlural = Pokémon Box 
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = A device that allows you to access the Pokémon storage system. There are some places where it won't work.
+Description = Ermöglicht jederzeit Zugriff auf die PC-Boxen im Pokémon-Center, um Pokémon abzulegen oder ins Team aufzunehmen.
 #-------------------------------
 [AURORATICKET]
-Name = Aurora Ticket
-NamePlural = Aurora Tickets
+Name = Auroraticket
+NamePlural = Auroratickets
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = A ticket required to board the ship to Doxy Island. It glows beautifully.
+Description = Ein Ticket, mit dem du zum Deoxy Island fahren kannst. Es glänzt wundervoll.
+#-------------------------------
+[BOOTSTICKET]
+Name = Bootsticket
+NamePlural = Bootstickets
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Mit diesem Ticket erhält man Zutritt zur M.S. Lantern.
+#-------------------------------
+[TUERSCHLUESSEL]
+Name = Türschlüssel
+NamePlural = Türschlüssel
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Dieser Schlüssel öffnet die Tür im Untergeschoss der M.S. Lantern.
 #-------------------------------
 [OLDSEAMAP]
-Name = Old Sea Map
-NamePlural = Old Sea Maps
+Name = Alte Seekarte
+NamePlural = Alte Seekarten
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = A faded sea chart that shows the way to a certain island.
+Description = Eine alte Seekarte, die den Weg zu einer Insel zeigt.
 #-------------------------------
 [BRIEFING]
 Name = Briefing

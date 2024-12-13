@@ -151,8 +151,8 @@ MapPosition = 0,14,6
 BattleBack = field
 MapSize = 2,1101
 #-------------------------------
-[032]   # Anfang
-Name = Anfang
+[032]   # Medina City
+Name = Medina City
 Name = 
 ShowArea = true
 #-------------------------------
@@ -413,7 +413,7 @@ BattleBack =
 Name = Berg 1
 Bicycle = true
 #-------------------------------
-[092]   # Stadt 2
+[092]   # Parea 
 Name = Stadt 3
 DarkMap = false
 #-------------------------------
@@ -421,3 +421,15 @@ DarkMap = false
 Name = Route 9 links neben Stadt 5
 Outdoor = true
 Weather = HeavyRain,100
+#-------------------------------
+[113]   # Route 15
+Name = Route 15
+DiveMap = 327
+#-------------------------------
+[137]   # Liga
+Name = Liga
+DiveMap = 338
+#-------------------------------
+[328]   # Siegesstraße
+Name = Siegesstraße
+DiveMap = 335
