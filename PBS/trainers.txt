@@ -1783,4 +1783,73 @@ LoseText = Feuer
 Pokemon = STARAVIA,27
 Pokemon = TANGELA,28
 Pokemon = CHARMELEON,29
-
+#-------------------------------
+[TEAMROCKET_M,Rüpel,10]
+LoseText = Du hast vielleicht hier gewonnen... aber Team Rocket gibt so schnell nicht auf!
+Pokemon = SWALOT,28
+Pokemon = DONPHAN,28
+#-------------------------------
+[TEAMROCKET_F,Rüpel,6]
+LoseText = Du hast vielleicht hier gewonnen... aber Team Rocket gibt so schnell nicht auf!
+Pokemon = SWALOT,28
+Pokemon = DONPHAN,28
+#-------------------------------
+[TEAMROCKET_M,Rüpel,11]
+LoseText = Du hast vielleicht hier gewonnen... aber Team Rocket gibt so schnell nicht auf!
+Pokemon = SWALOT,28
+Pokemon = DONPHAN,28
+#-------------------------------
+[TEAMROCKET_F,Rüpel,7]
+LoseText = Du hast vielleicht hier gewonnen... aber Team Rocket gibt so schnell nicht auf!
+Pokemon = SWALOT,28
+Pokemon = DONPHAN,28
+#-------------------------------
+[TEAMROCKET_M,Rüpel,12]
+LoseText = Du hast vielleicht hier gewonnen... aber Team Rocket gibt so schnell nicht auf!
+Pokemon = SWALOT,28
+Pokemon = DONPHAN,28
+#-------------------------------
+[TEAMROCKET_M,Rüpel,13]
+LoseText = Du hast vielleicht hier gewonnen... aber Team Rocket gibt so schnell nicht auf!
+Pokemon = SWALOT,28
+Pokemon = DONPHAN,28
+#-------------------------------
+[TEAMROCKET_M,Rüpel,14]
+LoseText = Du hast vielleicht hier gewonnen... aber Team Rocket gibt so schnell nicht auf!
+Pokemon = SWALOT,28
+Pokemon = DONPHAN,28
+#-------------------------------
+[TEAMROCKET_F,Rüpel,8]
+LoseText = Du hast vielleicht hier gewonnen... aber Team Rocket gibt so schnell nicht auf!
+Pokemon = SWALOT,28
+Pokemon = DONPHAN,28
+#-------------------------------
+[TEAMROCKET_M,Rüpel,15]
+LoseText = Du hast vielleicht hier gewonnen... aber Team Rocket gibt so schnell nicht auf!
+Pokemon = SWALOT,28
+Pokemon = DONPHAN,28
+#-------------------------------
+[TEAMROCKET_M,Rüpel,16]
+LoseText = Du hast vielleicht hier gewonnen... aber Team Rocket gibt so schnell nicht auf!
+Pokemon = SWALOT,28
+Pokemon = DONPHAN,28
+#-------------------------------
+[TEAMROCKET_F,Rüpel,9]
+LoseText = Du hast vielleicht hier gewonnen... aber Team Rocket gibt so schnell nicht auf!
+Pokemon = SWALOT,28
+Pokemon = DONPHAN,28
+#-------------------------------
+[TEAMROCKET_M,Rüpel,17]
+LoseText = Du hast vielleicht hier gewonnen... aber Team Rocket gibt so schnell nicht auf!
+Pokemon = SWALOT,28
+Pokemon = DONPHAN,28
+#-------------------------------
+[TEAMROCKET_M,Rüpel,18]
+LoseText = Du hast vielleicht hier gewonnen... aber Team Rocket gibt so schnell nicht auf!
+Pokemon = SWALOT,28
+Pokemon = DONPHAN,28
+#-------------------------------
+[TEAMROCKET_F,Rüpel,10]
+LoseText = Du hast vielleicht hier gewonnen... aber Team Rocket gibt so schnell nicht auf!
+Pokemon = SWALOT,28
+Pokemon = DONPHAN,28
