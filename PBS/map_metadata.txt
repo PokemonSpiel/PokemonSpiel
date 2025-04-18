@@ -7,6 +7,7 @@ Name = Intro
 Name = Lappet Town
 Outdoor = true
 ShowArea = true
+Weather = Blizzard,100
 MapPosition = 0,13,12
 BattleBack = field
 #-------------------------------
@@ -409,7 +410,7 @@ Bicycle = true
 BicycleAlways = false
 BattleBack = 
 #-------------------------------
-[090]   # Berg Anfang
+[090]   # Dinkelberg
 Name = Berg 1
 Bicycle = true
 #-------------------------------
@@ -425,6 +426,10 @@ Weather = HeavyRain,100
 [113]   # Route 15
 Name = Route 15
 DiveMap = 327
+#-------------------------------
+[118]   # Route 18
+Name = Route 18
+Bicycle = true
 #-------------------------------
 [137]   # Liga
 Name = Liga

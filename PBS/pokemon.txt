@@ -1743,7 +1743,7 @@ Habitat = Mountain
 Category = Kraftprotz
 Pokedex = Machollos Muskeln sind etwas Besonderes. Sie schmerzen nie, egal, wie sehr sie beansprucht werden. 
 Generation = 1
-WildItemUncommon = FOCUSBAND
+WildItemUncommon = BLACKBELT
 Evolutions = MACHOKE,Level,28
 #-------------------------------
 [MACHOKE]
@@ -1770,8 +1770,8 @@ Habitat = Mountain
 Category = Kraftprotz
 Pokedex = Maschocks starke Muskeln sind so hart wie Stahl. Dieses Pokémon hat so viel Kraft, dass es mit nur einem Finger einen Sumo-Ringer in der Luft halten kann.
 Generation = 1
-WildItemUncommon = FOCUSBAND
-Evolutions = MACHAMP,Item,FOCUSBAND
+WildItemUncommon = BLACKBELT
+Evolutions = MACHAMP,Item,BLACKBELT
 #-------------------------------
 [MACHAMP]
 Name = Machomei
@@ -1956,7 +1956,7 @@ Habitat = Mountain
 Category = Gesteins
 Pokedex = Je länger ein Kleinstein lebt, desto mehr wird seine raue Oberfläche abgeschliffen, sodass es runder wird.
 Generation = 1
-WildItemUncommon = EVERSTONE
+WildItemUncommon = HARDSTONE
 Evolutions = GRAVELER,Level,25
 #-------------------------------
 [GRAVELER]
@@ -1983,8 +1983,8 @@ Habitat = Mountain
 Category = Gesteins
 Pokedex = Es rollt Bergpfade entlang. Rollt es zu schnell, bremst es ab, indem es gegen gewaltige Felsen rollt.
 Generation = 1
-WildItemUncommon = EVERSTONE
-Evolutions = GOLEM,Item,EVERSTONE
+WildItemUncommon = HARDSTONE
+Evolutions = GOLEM,Item,HARDSTONE
 #-------------------------------
 [GOLEM]
 Name = Geowaz
@@ -2170,7 +2170,7 @@ Category = Magnet
 Pokedex = Versammeln sich viele MAGNETON, entsteht ein starkes Magnetfeld, das Radiowellen zerstört.
 Generation = 1
 WildItemUncommon = METALCOAT
-Evolutions = MAGNEZONE,LocationFlag,Magnetic,MAGNEZONE,Item,THUNDERSTONE
+Evolutions = MAGNEZONE,Item,THUNDERSTONE
 #-------------------------------
 [FARFETCHD]
 Name = Porenta
@@ -2440,6 +2440,7 @@ Habitat = Cave
 Category = Gas
 Pokedex = Es umwickelt seine Feinde mit seinem Gaskörper und schwächt sie, indem es langsam Gift injiziert.
 Generation = 1
+WildItemUncommon = SPELLTAG
 Evolutions = HAUNTER,Level,25
 #-------------------------------
 [HAUNTER]
@@ -2465,7 +2466,8 @@ Habitat = Cave
 Category = Gas
 Pokedex = Es versteckt sich im Dunkeln und wartet nur darauf, dem nächsten Lebewesen sein Leben auszuhauchen.
 Generation = 1
-Evolutions = GENGAR,Level,36
+WildItemUncommon = SPELLTAG
+Evolutions = GENGAR,Item,SPELLTAG
 #-------------------------------
 [GENGAR]
 Name = Gengar
@@ -3314,7 +3316,7 @@ Category = Elektro
 Pokedex = Berühren sich zwei Elektek, tauschen sie über den Fluss der Elektrizität ihre Gefühlsregungen aus.
 Generation = 1
 WildItemUncommon = ELECTIRIZER
-Evolutions = ELECTIVIRE,TradeItem,ELECTIRIZER
+Evolutions = ELECTIVIRE,Item,ELECTIRIZER
 #-------------------------------
 [MAGMAR]
 Name = Magmar
@@ -3341,7 +3343,7 @@ Category = Brenner
 Pokedex = Man trifft es häufiger in warmen Gebieten. Es heilt seine Wunden, indem es sie in Lava taucht.
 Generation = 1
 WildItemUncommon = MAGMARIZER
-Evolutions = MAGMORTAR,TradeItem,MAGMARIZER
+Evolutions = MAGMORTAR,Item,MAGMARIZER
 #-------------------------------
 [PINSIR]
 Name = Pinsir
@@ -3525,7 +3527,7 @@ Habitat = Urban
 Category = Evolutions
 Pokedex = Da es so viele verschiedene Entwicklungsformen hat, kann es sich jeder Umgebung perfekt anpassen.
 Generation = 1
-Evolutions = VAPOREON,Item,WATERSTONE,JOLTEON,Item,THUNDERSTONE,FLAREON,Item,FIRESTONE,LEAFEON,Item,LEAFSTONE,GLACEON,Item,ICESTONE,SYLVEON,HappinessMoveType,FAIRY,ESPEON,Item,SUNSTONE,UMBREON,Item,MOONSTONE
+Evolutions = VAPOREON,Item,WATERSTONE,JOLTEON,Item,THUNDERSTONE,FLAREON,Item,FIRESTONE,LEAFEON,Item,LEAFSTONE,GLACEON,Item,ICESTONE,ESPEON,Item,SUNSTONE,UMBREON,Item,MOONSTONE
 #-------------------------------
 [VAPOREON]
 Name = Aquana
@@ -3626,7 +3628,7 @@ Habitat = Urban
 Category = Virtuell
 Pokedex = Dieses Pokémon ist das Ergebnis vieler Forschungen. Es beherrscht nur, worauf es programmiert wurde.
 Generation = 1
-Evolutions = PORYGON2,TradeItem,UPGRADE
+Evolutions = PORYGON2,Item,UPGRADE
 #-------------------------------
 [OMANYTE]
 Name = Amonitas
@@ -5456,7 +5458,7 @@ Habitat = Mountain
 Category = Flugskorpi
 Pokedex = Erschreckt Gegner, indem es sich an ihre Gesichter klammert und dann mit einem giftigen Stachel angreift.
 Generation = 2
-Evolutions = GLISCOR,NightHoldItem,RAZORFANG
+Evolutions = GLISCOR,Item,RAZORFANG
 #-------------------------------
 [STEELIX]
 Name = Stahlos
@@ -5669,7 +5671,7 @@ Category = Stichklauen
 Pokedex = Es ernährt sich von Eiern, die es aus Nestern stiehlt. Beute greift es mit seinen scharfen Krallen an.
 Generation = 2
 WildItemUncommon = QUICKCLAW
-Evolutions = WEAVILE,NightHoldItem,RAZORCLAW
+Evolutions = WEAVILE,Item,RAZORCLAW
 #-------------------------------
 [TEDDIURSA]
 Name = Teddiursa
@@ -6141,7 +6143,7 @@ Habitat = Urban
 Category = Virtuell
 Pokedex = Wurde zur Erforschung anderer Planeten weiterentwickelt. Diesem Anspruch wurde es nicht gerecht.
 Generation = 2
-Evolutions = PORYGONZ,TradeItem,DUBIOUSDISC
+Evolutions = PORYGONZ,Item,DUBIOUSDISC
 #-------------------------------
 [STANTLER]
 Name = Damhirplex
@@ -7884,7 +7886,7 @@ Category = Kompass
 Pokedex = Es schützt sich mit Objekten aus Eisen, die es mithilfe seiner immer nach Norden zeigenden magnetischen Nase anzieht.
 Generation = 3
 WildItemUncommon = MAGNET
-Evolutions = PROBOPASS,LocationFlag,Magnetic,PROBOPASS,Item,THUNDERSTONE
+Evolutions = PROBOPASS,Item,METALCOAT
 #-------------------------------
 [SKITTY]
 Name = Eneco
@@ -9209,7 +9211,7 @@ Habitat = WatersEdge
 Category = Fisch
 Pokedex = Ein schäbiges, ja sogar hässliches Pokémon. Dafür ist es abgehärtet und überlebt mit wenig Wasser.
 Generation = 3
-Evolutions = MILOTIC,Beauty,170,MILOTIC,Item,PRISMSCALE
+Evolutions = MILOTIC,Item,PRISMSCALE
 #-------------------------------
 [MILOTIC]
 Name = Milotic
@@ -11041,7 +11043,7 @@ WildItemUncommon = MIRACLESEED
 Evolutions = CHERRIM,Level,25
 #-------------------------------
 [CHERRIM]
-Name = Kikugi
+Name = Kinoso
 Types = GRASS
 BaseStats = 70,45,70,90,107,83
 GenderRatio = Female50Percent
@@ -11548,7 +11550,7 @@ Category = Spielhaus
 Pokedex = Hat immer einen kleinen Felsen bei sich. Wandelt zwischen den Füßen anderer, was diese stolpern lässt.
 Generation = 4
 WildItemCommon = OVALSTONE
-Evolutions = CHANSEY,DayHoldItem,OVALSTONE
+Evolutions = CHANSEY,Item,OVALSTONE
 #-------------------------------
 [CHATOT]
 Name = Plaudagei
