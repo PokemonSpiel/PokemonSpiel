@@ -532,7 +532,7 @@ Description = Dieser Knochen erfreut jeden Pokémon-Archäologen. Er ist von hoh
 Name = Alter Heller
 NamePlural = Alte Helle
 Pocket = 1
-Price = 0
+Price = 10000
 Flags = Fling_30
 Description = Eine alte Kupfermünze. Die Währung einer gut 3 000 Jahre alten Kultur.
 #-------------------------------
@@ -540,7 +540,7 @@ Description = Eine alte Kupfermünze. Die Währung einer gut 3 000 Jahre alten
 Name = Alter Taler
 NamePlural = Alte Taler
 Pocket = 1
-Price = 0
+Price = 20000
 Flags = Fling_30
 Description = Eine alte Silbermünze. Die Währung einer gut 3 000 Jahre alten Kultur.
 #-------------------------------
@@ -550,21 +550,21 @@ NamePlural = Alte Dukaten
 Pocket = 1
 Price = 60000
 Flags = Fling_30
-Description = A gold coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price.
+Description = Eine alte Goldmünze. Die Währung einer gut 3 000 Jahre alten Kultur.
 #-------------------------------
 [RELICVASE]
 Name = Alte Vase
 NamePlural = Alte Vasen
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = Fling_30
-Description = Eine Vase, angefertigt von einer gut 3 000 Jahre alten Kultur.
+Description = Eine Vase, angefertigt von einer gut 3 000 Jahre alten Kultur. Sammler geben ihr letztes Hemd dafür.
 #-------------------------------
 [RELICBAND]
 Name = Alter Reif
 NamePlural = Alte Reife
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = Fling_30
 Description = Ein Armreif, angefertigt von einer gut 3 000 Jahre alten Kultur. Sammler geben ihr letztes Hemd dafür.
 #-------------------------------
@@ -572,7 +572,7 @@ Description = Ein Armreif, angefertigt von einer gut 3 000 Jahre alten Kultur.
 Name = Alte Statue
 NamePlural = Alte Statuen
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = Fling_30
 Description = Eine Statue, angefertigt von einer gut 3 000 Jahre alten Kultur. Sammler geben ihr letztes Hemd dafür.
 #-------------------------------
@@ -580,7 +580,7 @@ Description = Eine Statue, angefertigt von einer gut 3 000 Jahre alten Kultur.
 Name = Alte Krone
 NamePlural = Alte Kronen
 Pocket = 1
-Price = 0
+Price = 30000
 Flags = Fling_30
 Description = Die Krone eines Königs, angefertigt von einer gut 3 000 Jahre alten Kultur. Sammler geben ihr letztes Hemd dafür.
 #-------------------------------
