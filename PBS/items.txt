@@ -3683,6 +3683,15 @@ BattleUse = OnFoe
 Flags = PokeBall
 Description = Ein besonderer Ball zum Fangen von Ultrabestien. Andere Lebewesen lassen sich damit nur schwer fangen.
 #-------------------------------
+[GSBALL]
+Name = GS-Ball
+NamePlural = GS-Bälle
+Pocket = 8
+Price = 0
+SellPrice = 0
+Flags = KeyItem
+Description = Ein geheimnisvoller Ball.
+#-------------------------------
 [TM01]
 Name = TM01
 NamePlural = TM01s

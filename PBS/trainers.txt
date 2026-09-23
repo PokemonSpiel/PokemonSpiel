@@ -2003,3 +2003,12 @@ LoseText = Du warst wohl der größere Fang.
 Pokemon = QWILFISH,34
 Pokemon = LUVDISC,34
 Pokemon = STARMIE,34
+#-------------------------------
+[POKEMANIAC,Levi]
+LoseText = Komm gerne wieder.
+Pokemon = BLISSEY,100
+    Moves = MEMENTO
+Pokemon = BLISSEY,100
+    Moves = MEMENTO
+Pokemon = BLISSEY,100
+    Moves = MEMENTO
